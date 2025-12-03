@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AMG Auto Trade — Автомобили премиум-класса</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;600&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --dark-bg: #1A1D21;
+            --light-bg: #F8F8F8;
+            --gold: #C9A961;
+            --gold-hover: #D4AF37;
+            --white: #FFFFFF;
+            --gray: #A8A8A8;
+            --gray-dark: #2C3035;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background: var(--dark-bg);
+            color: var(--white);
+            overflow-x: hidden;
+        }
+
+        /* Header */
+        header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 1000;
+            background: rgba(26, 29, 33, 0.95);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid rgba(201, 169, 97, 0.1);
+        }
+
+        .header-content {
+            max-width: 1440px;
+            margin: 0 auto;
+            padding: 20px 60px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            height: 50px;
+            opacity: 0;
+            animation: fadeIn 0.8s ease-out forwards;
+        }
+
+        /* Временная заглушка для логотипа */
+        .logo-placeholder {
+            height: 50px;
+            width: 180px;
+            display: flex;
+            align-items: center;
+            font-family: 'Oswald', sans-serif;
+            font-size: 24px;
+            letter-spacing: 2px;
+            color: var(--gold);
+            opacity: 0;
+            animation: fadeIn 0.8s ease-out forwards;
+        }
+
+        nav {
+            display: flex;
+            gap: 50px;
+            align-items: center;
+        }
+
+        nav a {
+            color: var(--white);
+            text-decoration: none;
+            font-weight: 300;
+            font-size: 14px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            position: relative;
+            transition: color 0.3s ease;
+            opacity: 0;
+            animation: fadeIn 0.8s ease-out forwards;
+        }
+
+        nav a:nth-child(1) { animation-delay: 0.1s; }
+        nav a:nth-child(2) { animation-delay: 0.2s; }
+        nav a:nth-child(3) { animation-delay: 0.3s; }
+        nav a:nth-child(4) { animation-delay: 0.4s; }
+
+        nav a::after {
+            content: '';
+            position: absolute;
+            bottom: -5px;
+            left: 0;
+            width: 0;
+            height: 1px;
+            background: var(--gold);
+            transition: width 0.3s ease;
+        }
+
+        nav a:hover {
+            color: var(--gold);
+        }
+
+        nav a:hover::after {
+            width: 100%;
+        }
+
+        .cta-button {
+            padding: 12px 30px;
+            background: transparent;
+            border: 1px solid var(--gold);
+            color: var(--gold);
+            text-decoration: none;
+            font-weight: 400;
+            font-size: 13px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            transition: all 0.3s ease;
+            opacity: 0;
+            animation: fadeIn 0.8s ease-out 0.5s forwards;
+        }
+
+        .cta-button:hover {
+            background: var(--gold);
+            color: var(--dark-bg);
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(201, 169, 97, 0.3);
+        }
+
+        /* Hero Section */
+        .hero {
+            position: relative;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            background: var(--dark-bg);
+            overflow: hidden;
+        }
+
+        .hero-bg {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, var(--dark-bg) 0%, rgba(26, 29, 33, 0.7) 50%, transparent 100%);
+            z-index: 1;
+        }
+
+        .hero-container {
+            position: relative;
+            z-index: 10;
+            max-width: 1440px;
+            width: 100%;
+            margin: 0 auto;
+            padding: 0 60px;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 80px;
+            align-items: center;
+        }
+
+        .hero-content {
+            text-align: left;
+            opacity: 0;
+            animation: slideRight 1s ease-out 0.3s forwards;
+        }
+
+        .hero-image-wrapper {
+            position: relative;
+            height: 600px;
+            opacity: 0;
+            animation: slideLeft 1s ease-out 0.5s forwards;
+        }
+
+        .hero-car-image {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            object-position: center right;
+            filter: drop-shadow(0 20px 60px rgba(0, 0, 0, 0.5));
+        }
+
+        /* Временная заглушка для изображения машины */
+        .car-placeholder {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(135deg, rgba(201, 169, 97, 0.1) 0%, rgba(44, 48, 53, 0.3) 100%);
+            border: 2px dashed rgba(201, 169, 97, 0.3);
+            border-radius: 8px;
+            color: var(--gray);
+            font-size: 14px;
+            letter-spacing: 1px;
+            text-align: center;
+            padding: 40px;
+        }
+
+        .divider {
+            width: 80px;
+            height: 1px;
+            background: var(--gold);
+            margin-bottom: 40px;
+        }
+
+        .hero-title {
+            font-family: 'Oswald', sans-serif;
+            font-size: 72px;
+            font-weight: 400;
+            letter-spacing: 2px;
+            margin-bottom: 30px;
+            line-height: 1.1;
+            text-transform: uppercase;
+        }
+
+        .hero-description {
+            font-size: 16px;
+            font-weight: 300;
+            line-height: 1.8;
+            color: var(--gray);
+            margin-bottom: 50px;
+        }
+
+        .hero-cta {
+            display: inline-block;
+            padding: 18px 50px;
+            background: transparent;
+            border: 1px solid var(--gold);
+            color: var(--gold);
+            text-decoration: none;
+            font-weight: 400;
+            font-size: 14px;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            transition: all 0.4s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero-cta::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: var(--gold);
+            transition: left 0.4s ease;
+            z-index: -1;
+        }
+
+        .hero-cta:hover::before {
+            left: 0;
+        }
+
+        .hero-cta:hover {
+            color: var(--dark-bg);
+            transform: translateY(-3px);
+            box-shadow: 0 15px 40px rgba(201, 169, 97, 0.4);
+        }
+
+        /* Scroll Indicator */
+        .scroll-indicator {
+            position: absolute;
+            bottom: 40px;
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+            opacity: 0;
+            animation: fadeIn 1s ease-out 1.5s forwards;
+        }
+
+        .scroll-text {
+            font-size: 11px;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            color: var(--gray);
+        }
+
+        .scroll-line {
+            width: 1px;
+            height: 50px;
+            background: linear-gradient(to bottom, var(--gold), transparent);
+            animation: scrollPulse 2s ease-in-out infinite;
+        }
+
+        /* Animations */
+        @keyframes fadeIn {
+            to {
+                opacity: 1;
+            }
+        }
+
+        @keyframes slideRight {
+            from {
+                opacity: 0;
+                transform: translateX(-50px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        @keyframes slideLeft {
+            from {
+                opacity: 0;
+                transform: translateX(50px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        @keyframes scrollPulse {
+            0%, 100% {
+                opacity: 0.3;
+                transform: translateY(0);
+            }
+            50% {
+                opacity: 1;
+                transform: translateY(10px);
+            }
+        }
+
+        /* Responsive */
+        @media (max-width: 1024px) {
+            .hero-container {
+                grid-template-columns: 1fr;
+                gap: 40px;
+                text-align: center;
+            }
+
+            .hero-content {
+                text-align: center;
+            }
+
+            .hero-image-wrapper {
+                height: 400px;
+            }
+
+            .divider {
+                margin: 0 auto 40px;
+            }
+
+            .hero-title {
+                font-size: 56px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .header-content {
+                padding: 15px 30px;
+            }
+
+            nav {
+                display: none; /* На мобилках нужен hamburger menu */
+            }
+
+            .hero-container {
+                padding: 0 30px;
+            }
+
+            .hero-title {
+                font-size: 42px;
+            }
+
+            .hero-description {
+                font-size: 14px;
+            }
+
+            .hero-image-wrapper {
+                height: 300px;
+            }
+        }
+
+        /* Инструкция для Webflow */
+        .webflow-instruction {
+            position: fixed;
+            top: 100px;
+            right: 20px;
+            background: rgba(44, 48, 53, 0.95);
+            padding: 20px;
+            border-radius: 8px;
+            border: 1px solid var(--gold);
+            max-width: 300px;
+            font-size: 12px;
+            line-height: 1.6;
+            z-index: 2000;
+        }
+
+        .webflow-instruction h3 {
+            color: var(--gold);
+            margin-bottom: 10px;
+            font-size: 14px;
+        }
+
+        .webflow-instruction code {
+            background: var(--dark-bg);
+            padding: 2px 6px;
+            border-radius: 3px;
+            color: var(--gold);
+        }
+
+        .close-instruction {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: none;
+            border: none;
+            color: var(--gold);
+            cursor: pointer;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Инструкция для Webflow (можно удалить) -->
+    <div class="webflow-instruction" id="instruction">
+        <button class="close-instruction" onclick="document.getElementById('instruction').style.display='none'">×</button>
+        <h3>📝 Для Webflow:</h3>
+        <p>
+            1. Загрузи <code>логотип</code> в Assets<br>
+            2. Загрузи <code>фото машины</code> в Assets<br>
+            3. Замени <code>.logo-placeholder</code> на Image element<br>
+            4. Замени <code>.car-placeholder</code> на Image element<br>
+            5. Скопируй CSS в Project Settings → Custom Code
+        </p>
+    </div>
+
+    <!-- Header -->
+    <header>
+        <div class="header-content">
+            <!-- WEBFLOW: Замени этот div на Image element с логотипом -->
+            <div class="logo-placeholder">AMG AUTO TRADE</div>
+            
+            <nav>
+                <a href="#home">Главная</a>
+                <a href="#catalog">Каталог</a>
+                <a href="#services">Услуги</a>
+                <a href="#contacts">Контакты</a>
+                <a href="#contact" class="cta-button">Связаться</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-bg"></div>
+        
+        <div class="hero-container">
+            <div class="hero-content">
+                <div class="divider"></div>
+                <h1 class="hero-title">Автомобили<br>премиум класса</h1>
+                <p class="hero-description">
+                    Более 100 автомобилей в наличии в Москве.<br>
+                    Индивидуальный подбор и доставка с гарантией<br>
+                    из Европы, Южной Кореи и Китая
+                </p>
+                <a href="#catalog" class="hero-cta">Перейти в каталог</a>
+            </div>
+
+            <div class="hero-image-wrapper">
+                <!-- WEBFLOW: Замени этот div на Image element с фото машины -->
+                <div class="car-placeholder">
+                    ЗДЕСЬ БУДЕТ ФОТО МАШИНЫ<br>
+                    (в Webflow загрузи изображение<br>
+                    DSC06652 из твоих файлов)
+                </div>
+            </div>
+        </div>
+
+        <div class="scroll-indicator">
+            <span class="scroll-text">Scroll</span>
+            <div class="scroll-line"></div>
+        </div>
+    </section>
+
+</body>
+</html>
