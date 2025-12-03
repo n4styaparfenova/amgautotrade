@@ -1,0 +1,1637 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AMG Auto Trade — Автомобили премиум класса</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;600&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --dark-bg: #1A1D21;
+            --light-bg: #F8F8F8;
+            --gold: #C9A961;
+            --gold-hover: #D4AF37;
+            --white: #FFFFFF;
+            --gray: #A8A8A8;
+            --gray-dark: #2C3035;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background: var(--dark-bg);
+            color: var(--white);
+            overflow-x: hidden;
+        }
+
+        /* ============================================
+           HEADER / NAVIGATION
+        ============================================ */
+        header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 1000;
+            background: rgba(26, 29, 33, 0.95);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid rgba(201, 169, 97, 0.1);
+        }
+
+        .header-content {
+            max-width: 1440px;
+            margin: 0 auto;
+            padding: 20px 60px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo-placeholder {
+            height: 50px;
+            width: 180px;
+            display: flex;
+            align-items: center;
+            font-family: 'Oswald', sans-serif;
+            font-size: 24px;
+            letter-spacing: 2px;
+            color: var(--gold);
+            opacity: 0;
+            animation: fadeIn 0.8s ease-out forwards;
+        }
+
+        nav {
+            display: flex;
+            gap: 50px;
+            align-items: center;
+        }
+
+        nav a {
+            color: var(--white);
+            text-decoration: none;
+            font-weight: 300;
+            font-size: 14px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            position: relative;
+            transition: color 0.3s ease;
+            opacity: 0;
+            animation: fadeIn 0.8s ease-out forwards;
+        }
+
+        nav a:nth-child(1) { animation-delay: 0.1s; }
+        nav a:nth-child(2) { animation-delay: 0.2s; }
+        nav a:nth-child(3) { animation-delay: 0.3s; }
+        nav a:nth-child(4) { animation-delay: 0.4s; }
+
+        nav a::after {
+            content: '';
+            position: absolute;
+            bottom: -5px;
+            left: 0;
+            width: 0;
+            height: 1px;
+            background: var(--gold);
+            transition: width 0.3s ease;
+        }
+
+        nav a:hover {
+            color: var(--gold);
+        }
+
+        nav a:hover::after {
+            width: 100%;
+        }
+
+        .header-cta {
+            padding: 12px 30px;
+            background: transparent;
+            border: 1px solid var(--gold);
+            color: var(--gold);
+            text-decoration: none;
+            font-weight: 400;
+            font-size: 13px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            transition: all 0.3s ease;
+            opacity: 0;
+            animation: fadeIn 0.8s ease-out 0.5s forwards;
+        }
+
+        .header-cta:hover {
+            background: var(--gold);
+            color: var(--dark-bg);
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(201, 169, 97, 0.3);
+        }
+
+        /* ============================================
+           HERO SECTION
+        ============================================ */
+        .hero {
+            position: relative;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            background: var(--dark-bg);
+            overflow: hidden;
+        }
+
+        .hero-bg {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, var(--dark-bg) 0%, rgba(26, 29, 33, 0.7) 50%, transparent 100%);
+            z-index: 1;
+        }
+
+        .hero-container {
+            position: relative;
+            z-index: 10;
+            max-width: 1440px;
+            width: 100%;
+            margin: 0 auto;
+            padding: 0 60px;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 80px;
+            align-items: center;
+        }
+
+        .hero-content {
+            text-align: left;
+            opacity: 0;
+            animation: slideRight 1s ease-out 0.3s forwards;
+        }
+
+        .divider {
+            width: 80px;
+            height: 1px;
+            background: var(--gold);
+            margin-bottom: 40px;
+        }
+
+        .hero-title {
+            font-family: 'Oswald', sans-serif;
+            font-size: 72px;
+            font-weight: 400;
+            letter-spacing: 2px;
+            margin-bottom: 30px;
+            line-height: 1.1;
+            text-transform: uppercase;
+        }
+
+        .hero-description {
+            font-size: 16px;
+            font-weight: 300;
+            line-height: 1.8;
+            color: var(--gray);
+            margin-bottom: 50px;
+        }
+
+        .hero-cta {
+            display: inline-block;
+            padding: 18px 50px;
+            background: transparent;
+            border: 1px solid var(--gold);
+            color: var(--gold);
+            text-decoration: none;
+            font-weight: 400;
+            font-size: 14px;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            transition: all 0.4s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero-cta::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: var(--gold);
+            transition: left 0.4s ease;
+            z-index: -1;
+        }
+
+        .hero-cta:hover::before {
+            left: 0;
+        }
+
+        .hero-cta:hover {
+            color: var(--dark-bg);
+            transform: translateY(-3px);
+            box-shadow: 0 15px 40px rgba(201, 169, 97, 0.4);
+        }
+
+        .hero-image-wrapper {
+            position: relative;
+            height: 600px;
+            opacity: 0;
+            animation: slideLeft 1s ease-out 0.5s forwards;
+        }
+
+        .car-placeholder {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(135deg, rgba(201, 169, 97, 0.1) 0%, rgba(44, 48, 53, 0.3) 100%);
+            border: 2px dashed rgba(201, 169, 97, 0.3);
+            border-radius: 8px;
+            color: var(--gray);
+            font-size: 14px;
+            letter-spacing: 1px;
+            text-align: center;
+            padding: 40px;
+        }
+
+        .scroll-indicator {
+            position: absolute;
+            bottom: 40px;
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+            opacity: 0;
+            animation: fadeIn 1s ease-out 1.5s forwards;
+            z-index: 10;
+        }
+
+        .scroll-text {
+            font-size: 11px;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            color: var(--gray);
+        }
+
+        .scroll-line {
+            width: 1px;
+            height: 50px;
+            background: linear-gradient(to bottom, var(--gold), transparent);
+            animation: scrollPulse 2s ease-in-out infinite;
+        }
+
+        /* ============================================
+           BRANDS SECTION
+        ============================================ */
+        .brands-section {
+            background: var(--dark-bg);
+            padding: 120px 60px;
+            position: relative;
+        }
+
+        .brands-container {
+            max-width: 1440px;
+            margin: 0 auto;
+        }
+
+        .section-header {
+            text-align: center;
+            margin-bottom: 80px;
+        }
+
+        .section-title {
+            font-family: 'Oswald', sans-serif;
+            font-size: 48px;
+            font-weight: 400;
+            letter-spacing: 2px;
+            color: var(--white);
+            text-transform: uppercase;
+            margin-bottom: 30px;
+        }
+
+        .section-description {
+            font-size: 16px;
+            font-weight: 300;
+            line-height: 1.8;
+            color: var(--gray);
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        .brands-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 60px;
+            margin-bottom: 80px;
+        }
+
+        .brand-item {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 40px 30px;
+            border: 2px dashed rgba(255, 255, 255, 0.1);
+            border-radius: 8px;
+            transition: all 0.4s ease;
+            cursor: pointer;
+            background: transparent;
+        }
+
+        .brand-item:hover {
+            border-color: var(--gold);
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(201, 169, 97, 0.2);
+        }
+
+        .brand-placeholder {
+            font-family: 'Oswald', sans-serif;
+            font-size: 16px;
+            letter-spacing: 2px;
+            color: rgba(255, 255, 255, 0.7);
+            text-transform: uppercase;
+            transition: all 0.4s ease;
+        }
+
+        .brand-item:hover .brand-placeholder {
+            color: var(--gold);
+            transform: scale(1.05);
+        }
+
+        .brands-cta {
+            text-align: center;
+        }
+
+        .cta-text {
+            font-size: 16px;
+            color: var(--gray);
+            margin-bottom: 30px;
+        }
+
+        .cta-button {
+            display: inline-block;
+            padding: 18px 50px;
+            background: transparent;
+            border: 1px solid var(--gold);
+            color: var(--gold);
+            text-decoration: none;
+            font-weight: 400;
+            font-size: 14px;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            transition: all 0.4s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .cta-button::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: var(--gold);
+            transition: left 0.4s ease;
+            z-index: -1;
+        }
+
+        .cta-button:hover::before {
+            left: 0;
+        }
+
+        .cta-button:hover {
+            color: var(--dark-bg);
+            transform: translateY(-3px);
+            box-shadow: 0 15px 40px rgba(201, 169, 97, 0.4);
+        }
+
+        /* ============================================
+           PROCESS SECTION
+        ============================================ */
+        .process-section {
+            background: var(--dark-bg);
+            padding: 120px 60px;
+            position: relative;
+        }
+
+        .process-container {
+            max-width: 1440px;
+            margin: 0 auto;
+        }
+
+        .process-header {
+            text-align: center;
+            margin-bottom: 80px;
+        }
+
+        .process-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 40px;
+            margin-bottom: 60px;
+        }
+
+        .process-card {
+            background: rgba(44, 48, 53, 0.5);
+            padding: 50px 30px;
+            border-radius: 8px;
+            border: 1px solid rgba(201, 169, 97, 0.1);
+            transition: all 0.4s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .process-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 3px;
+            background: var(--gold);
+            transform: scaleX(0);
+            transform-origin: left;
+            transition: transform 0.4s ease;
+        }
+
+        .process-card:hover {
+            transform: translateY(-10px);
+            border-color: var(--gold);
+            box-shadow: 0 20px 40px rgba(201, 169, 97, 0.2);
+        }
+
+        .process-card:hover::before {
+            transform: scaleX(1);
+        }
+
+        .process-number {
+            font-family: 'Oswald', sans-serif;
+            font-size: 72px;
+            font-weight: 300;
+            color: rgba(201, 169, 97, 0.2);
+            line-height: 1;
+            margin-bottom: 20px;
+        }
+
+        .process-title {
+            font-family: 'Oswald', sans-serif;
+            font-size: 24px;
+            font-weight: 400;
+            letter-spacing: 1px;
+            color: var(--white);
+            text-transform: uppercase;
+            margin-bottom: 15px;
+        }
+
+        .process-description {
+            font-size: 14px;
+            font-weight: 300;
+            line-height: 1.6;
+            color: var(--gray);
+        }
+
+        .process-image {
+            margin-top: 60px;
+            height: 400px;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .image-placeholder {
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(135deg, rgba(201, 169, 97, 0.1) 0%, rgba(44, 48, 53, 0.3) 100%);
+            border: 2px dashed rgba(201, 169, 97, 0.3);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--gray);
+            font-size: 14px;
+            text-align: center;
+        }
+
+        /* ============================================
+           ANIMATIONS
+        ============================================ */
+        @keyframes fadeIn {
+            to {
+                opacity: 1;
+            }
+        }
+
+        @keyframes slideRight {
+            from {
+                opacity: 0;
+                transform: translateX(-50px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        @keyframes slideLeft {
+            from {
+                opacity: 0;
+                transform: translateX(50px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        @keyframes scrollPulse {
+            0%, 100% {
+                opacity: 0.3;
+                transform: translateY(0);
+            }
+            50% {
+                opacity: 1;
+                transform: translateY(10px);
+            }
+        }
+
+        /* ============================================
+           SERVICES SECTION
+        ============================================ */
+        .services-section {
+            background: var(--dark-bg);
+            padding: 120px 60px;
+        }
+
+        .services-container {
+            max-width: 1440px;
+            margin: 0 auto;
+        }
+
+        .services-main-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 40px;
+            margin-bottom: 60px;
+        }
+
+        .service-card {
+            background: rgba(44, 48, 53, 0.5);
+            border-radius: 8px;
+            overflow: hidden;
+            border: 1px solid rgba(201, 169, 97, 0.1);
+            transition: all 0.4s ease;
+        }
+
+        .service-card:hover {
+            transform: translateY(-10px);
+            border-color: var(--gold);
+            box-shadow: 0 20px 40px rgba(201, 169, 97, 0.2);
+        }
+
+        .service-image {
+            height: 250px;
+            overflow: hidden;
+        }
+
+        .service-content {
+            padding: 30px;
+        }
+
+        .service-number {
+            font-family: 'Oswald', sans-serif;
+            font-size: 48px;
+            font-weight: 300;
+            color: rgba(201, 169, 97, 0.3);
+            line-height: 1;
+            margin-bottom: 15px;
+        }
+
+        .service-title {
+            font-family: 'Oswald', sans-serif;
+            font-size: 24px;
+            font-weight: 400;
+            letter-spacing: 1px;
+            color: var(--white);
+            text-transform: uppercase;
+            margin-bottom: 15px;
+        }
+
+        .service-description {
+            font-size: 14px;
+            font-weight: 300;
+            line-height: 1.6;
+            color: var(--gray);
+        }
+
+        .services-extra {
+            text-align: center;
+        }
+
+        .services-expand {
+            padding: 18px 50px;
+            background: transparent;
+            border: 1px solid var(--gold);
+            color: var(--gold);
+            font-family: 'Oswald', sans-serif;
+            font-size: 14px;
+            letter-spacing: 2px;
+            cursor: pointer;
+            transition: all 0.4s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .services-expand::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: var(--gold);
+            transition: left 0.4s ease;
+            z-index: -1;
+        }
+
+        .services-expand:hover::before {
+            left: 0;
+        }
+
+        .services-expand:hover {
+            color: var(--dark-bg);
+        }
+
+        .services-extra-grid {
+            display: none;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 30px;
+            margin-top: 40px;
+            opacity: 0;
+            transition: opacity 0.5s ease;
+        }
+
+        .services-extra-grid.active {
+            display: grid;
+            opacity: 1;
+        }
+
+        .service-item-small {
+            background: rgba(44, 48, 53, 0.5);
+            padding: 30px 20px;
+            border-radius: 8px;
+            border: 1px solid rgba(201, 169, 97, 0.1);
+            text-align: center;
+            transition: all 0.3s ease;
+        }
+
+        .service-item-small:hover {
+            border-color: var(--gold);
+            transform: translateY(-5px);
+        }
+
+        .service-icon {
+            font-size: 36px;
+            margin-bottom: 15px;
+        }
+
+        .service-item-small h4 {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 14px;
+            font-weight: 400;
+            color: var(--white);
+        }
+
+        /* ============================================
+           TESTIMONIALS SECTION
+        ============================================ */
+        .testimonials-section {
+            background: var(--dark-bg);
+            padding: 120px 60px;
+        }
+
+        .testimonials-container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .testimonials-slider {
+            position: relative;
+            height: 500px;
+            margin-bottom: 40px;
+        }
+
+        .testimonial-card {
+            position: absolute;
+            top: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 100%;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.5s ease;
+        }
+
+        .testimonial-card.active {
+            opacity: 1;
+            pointer-events: all;
+        }
+
+        .testimonial-video {
+            height: 500px;
+            border-radius: 8px;
+            overflow: hidden;
+            background: rgba(44, 48, 53, 0.5);
+            border: 1px solid rgba(201, 169, 97, 0.1);
+        }
+
+        .video-placeholder {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .video-placeholder:hover {
+            background: rgba(201, 169, 97, 0.05);
+        }
+
+        .play-button {
+            width: 80px;
+            height: 80px;
+            background: var(--gold);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 28px;
+            color: var(--dark-bg);
+            margin-bottom: 20px;
+            transition: all 0.3s ease;
+        }
+
+        .video-placeholder:hover .play-button {
+            transform: scale(1.1);
+            box-shadow: 0 0 30px rgba(201, 169, 97, 0.5);
+        }
+
+        .video-placeholder p {
+            color: var(--gray);
+            text-align: center;
+        }
+
+        .testimonial-content {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .testimonial-name {
+            font-family: 'Oswald', sans-serif;
+            font-size: 32px;
+            font-weight: 400;
+            color: var(--white);
+            margin-bottom: 10px;
+        }
+
+        .testimonial-car {
+            font-size: 16px;
+            color: var(--gold);
+            margin-bottom: 20px;
+        }
+
+        .testimonial-text {
+            font-size: 16px;
+            font-weight: 300;
+            line-height: 1.8;
+            color: var(--gray);
+        }
+
+        .slider-controls {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 30px;
+        }
+
+        .slider-btn {
+            width: 50px;
+            height: 50px;
+            background: transparent;
+            border: 1px solid var(--gold);
+            color: var(--gold);
+            font-size: 20px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border-radius: 50%;
+        }
+
+        .slider-btn:hover {
+            background: var(--gold);
+            color: var(--dark-bg);
+        }
+
+        .slider-dots {
+            display: flex;
+            gap: 15px;
+        }
+
+        .dot {
+            width: 12px;
+            height: 12px;
+            background: rgba(201, 169, 97, 0.3);
+            border-radius: 50%;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .dot.active {
+            background: var(--gold);
+            transform: scale(1.2);
+        }
+
+        /* ============================================
+           FOOTER
+        ============================================ */
+        .footer {
+            background: var(--gray-dark);
+            padding: 80px 60px 40px;
+            border-top: 1px solid rgba(201, 169, 97, 0.1);
+        }
+
+        .footer-container {
+            max-width: 1440px;
+            margin: 0 auto;
+        }
+
+        .footer-grid {
+            display: grid;
+            grid-template-columns: 2fr 1fr 1fr 1.5fr;
+            gap: 60px;
+            margin-bottom: 60px;
+        }
+
+        .footer-logo {
+            font-family: 'Oswald', sans-serif;
+            font-size: 24px;
+            letter-spacing: 2px;
+            color: var(--gold);
+            margin-bottom: 20px;
+        }
+
+        .footer-description {
+            font-size: 14px;
+            color: var(--gray);
+            line-height: 1.6;
+            margin-bottom: 30px;
+        }
+
+        .footer-stats {
+            display: flex;
+            gap: 30px;
+        }
+
+        .stat-item {
+            text-align: center;
+        }
+
+        .stat-number {
+            font-family: 'Oswald', sans-serif;
+            font-size: 32px;
+            color: var(--gold);
+            margin-bottom: 5px;
+        }
+
+        .stat-label {
+            font-size: 12px;
+            color: var(--gray);
+        }
+
+        .footer-title {
+            font-family: 'Oswald', sans-serif;
+            font-size: 18px;
+            color: var(--white);
+            text-transform: uppercase;
+            margin-bottom: 20px;
+            letter-spacing: 1px;
+        }
+
+        .footer-links {
+            list-style: none;
+        }
+
+        .footer-links li {
+            margin-bottom: 12px;
+        }
+
+        .footer-links a {
+            color: var(--gray);
+            text-decoration: none;
+            font-size: 14px;
+            transition: color 0.3s ease;
+        }
+
+        .footer-links a:hover {
+            color: var(--gold);
+        }
+
+        .footer-contacts {
+            list-style: none;
+            margin-bottom: 20px;
+        }
+
+        .footer-contacts li {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 12px;
+            font-size: 14px;
+            color: var(--gray);
+        }
+
+        .footer-contacts a {
+            color: var(--gray);
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .footer-contacts a:hover {
+            color: var(--gold);
+        }
+
+        .contact-icon {
+            font-size: 16px;
+        }
+
+        .footer-socials {
+            display: flex;
+            gap: 15px;
+        }
+
+        .social-link {
+            padding: 10px 20px;
+            background: transparent;
+            border: 1px solid rgba(201, 169, 97, 0.3);
+            color: var(--gray);
+            text-decoration: none;
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            transition: all 0.3s ease;
+            border-radius: 4px;
+        }
+
+        .social-link:hover {
+            border-color: var(--gold);
+            color: var(--gold);
+        }
+
+        .footer-bottom {
+            padding-top: 40px;
+            border-top: 1px solid rgba(201, 169, 97, 0.1);
+        }
+
+        .footer-legal {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 12px;
+            color: var(--gray);
+        }
+
+        .footer-legal-links {
+            display: flex;
+            gap: 30px;
+        }
+
+        .footer-legal-links a {
+            color: var(--gray);
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .footer-legal-links a:hover {
+            color: var(--gold);
+        }
+
+        /* ============================================
+           RESPONSIVE
+        ============================================ */
+        @media (max-width: 1024px) {
+            .hero-container {
+                grid-template-columns: 1fr;
+                gap: 40px;
+                text-align: center;
+            }
+
+            .hero-content {
+                text-align: center;
+            }
+
+            .divider {
+                margin: 0 auto 40px;
+            }
+
+            .hero-title {
+                font-size: 56px;
+            }
+
+            .brands-grid {
+                grid-template-columns: repeat(3, 1fr);
+                gap: 40px;
+            }
+
+            .process-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .services-main-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .services-extra-grid {
+                grid-template-columns: repeat(3, 1fr);
+            }
+
+            .testimonial-card {
+                grid-template-columns: 1fr;
+                height: auto;
+            }
+
+            .testimonial-video {
+                height: 400px;
+            }
+
+            .footer-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        @media (max-width: 768px) {
+            .header-content {
+                padding: 15px 30px;
+            }
+
+            nav {
+                display: none;
+            }
+
+            .hero-container,
+            .brands-section,
+            .process-section,
+            .services-section,
+            .testimonials-section,
+            .footer {
+                padding: 80px 30px;
+            }
+
+            .hero-title {
+                font-size: 42px;
+            }
+
+            .section-title {
+                font-size: 36px;
+            }
+
+            .brands-grid {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 30px;
+            }
+
+            .process-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .services-main-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .services-extra-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .testimonial-video {
+                height: 300px;
+            }
+
+            .footer-grid {
+                grid-template-columns: 1fr;
+                gap: 40px;
+            }
+
+            .footer-legal {
+                flex-direction: column;
+                gap: 20px;
+                text-align: center;
+            }
+
+            .footer-legal-links {
+                flex-direction: column;
+                gap: 10px;
+            }
+        }
+    </style>
+    
+    <script>
+        // Услуги: раскрыть дополнительные
+        document.addEventListener('DOMContentLoaded', function() {
+            const expandBtn = document.getElementById('expandBtn');
+            const extraServices = document.getElementById('extraServices');
+            
+            if (expandBtn && extraServices) {
+                expandBtn.addEventListener('click', function() {
+                    extraServices.classList.toggle('active');
+                    this.querySelector('span').textContent = 
+                        extraServices.classList.contains('active') ? '- СКРЫТЬ' : '+ ЕЩЁ 8 УСЛУГ';
+                });
+            }
+
+            // Слайдер отзывов
+            const testimonialCards = document.querySelectorAll('.testimonial-card');
+            const dots = document.querySelectorAll('.dot');
+            const prevBtn = document.querySelector('.slider-btn.prev');
+            const nextBtn = document.querySelector('.slider-btn.next');
+            let currentSlide = 0;
+
+            function showSlide(index) {
+                testimonialCards.forEach(card => card.classList.remove('active'));
+                dots.forEach(dot => dot.classList.remove('active'));
+                
+                if (index >= testimonialCards.length) {
+                    currentSlide = 0;
+                } else if (index < 0) {
+                    currentSlide = testimonialCards.length - 1;
+                } else {
+                    currentSlide = index;
+                }
+                
+                testimonialCards[currentSlide].classList.add('active');
+                dots[currentSlide].classList.add('active');
+            }
+
+            if (nextBtn) {
+                nextBtn.addEventListener('click', () => showSlide(currentSlide + 1));
+            }
+            
+            if (prevBtn) {
+                prevBtn.addEventListener('click', () => showSlide(currentSlide - 1));
+            }
+
+            dots.forEach((dot, index) => {
+                dot.addEventListener('click', () => showSlide(index));
+            });
+
+            // Автопрокрутка слайдера
+            setInterval(() => {
+                showSlide(currentSlide + 1);
+            }, 5000);
+        });
+    </script>
+</head>
+<body>
+
+    <!-- ============================================
+         HEADER
+    ============================================ -->
+    <header>
+        <div class="header-content">
+            <div class="logo-placeholder">AMG AUTO TRADE</div>
+            <nav>
+                <a href="#home">Главная</a>
+                <a href="#catalog">Каталог</a>
+                <a href="#services">Услуги</a>
+                <a href="#contacts">Контакты</a>
+                <a href="#contact" class="header-cta">Связаться</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- ============================================
+         HERO SECTION
+    ============================================ -->
+    <section class="hero">
+        <div class="hero-bg"></div>
+        
+        <div class="hero-container">
+            <div class="hero-content">
+                <div class="divider"></div>
+                <h1 class="hero-title">Автомобили<br>премиум класса</h1>
+                <p class="hero-description">
+                    Более 100 автомобилей в наличии в Москве.<br>
+                    Индивидуальный подбор и доставка с гарантией<br>
+                    из Европы, Южной Кореи и Китая
+                </p>
+                <a href="#catalog" class="hero-cta">Перейти в каталог</a>
+            </div>
+
+            <div class="hero-image-wrapper">
+                <div class="car-placeholder">
+                    ФОТО МАШИНЫ<br>
+                    (DSC06652 - Mercedes AMG)
+                </div>
+            </div>
+        </div>
+
+        <div class="scroll-indicator">
+            <span class="scroll-text">Scroll</span>
+            <div class="scroll-line"></div>
+        </div>
+    </section>
+
+    <!-- ============================================
+         BRANDS SECTION
+    ============================================ -->
+    <section class="brands-section">
+        <div class="brands-container">
+            <div class="section-header">
+                <h2 class="section-title">Широкий выбор автомобилей</h2>
+                <p class="section-description">
+                    В наличии автомобили ведущих брендов.<br>
+                    Помогаем с подбором и доставкой из Европы, Южной Кореи и Китая
+                </p>
+            </div>
+
+            <div class="brands-grid">
+                <div class="brand-item">
+                    <div class="brand-placeholder">BMW</div>
+                </div>
+                <div class="brand-item">
+                    <div class="brand-placeholder">MERCEDES-BENZ</div>
+                </div>
+                <div class="brand-item">
+                    <div class="brand-placeholder">LAND ROVER</div>
+                </div>
+                <div class="brand-item">
+                    <div class="brand-placeholder">LEXUS</div>
+                </div>
+                <div class="brand-item">
+                    <div class="brand-placeholder">PORSCHE</div>
+                </div>
+                <div class="brand-item">
+                    <div class="brand-placeholder">LAMBORGHINI</div>
+                </div>
+                <div class="brand-item">
+                    <div class="brand-placeholder">AUDI</div>
+                </div>
+                <div class="brand-item">
+                    <div class="brand-placeholder">ASTON MARTIN</div>
+                </div>
+                <div class="brand-item">
+                    <div class="brand-placeholder">MITSUBISHI</div>
+                </div>
+                <div class="brand-item">
+                    <div class="brand-placeholder">KIA</div>
+                </div>
+                <div class="brand-item">
+                    <div class="brand-placeholder">TOYOTA</div>
+                </div>
+                <div class="brand-item">
+                    <div class="brand-placeholder">+ ЕЩЁ</div>
+                </div>
+            </div>
+
+            <div class="brands-cta">
+                <p class="cta-text">Не нашли нужный автомобиль? Привезём под заказ</p>
+                <a href="#order" class="cta-button">Смотреть каталог</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============================================
+         PROCESS SECTION (ЗАКАЗ ПОД КЛЮЧ)
+    ============================================ -->
+    <section class="process-section">
+        <div class="process-container">
+            <div class="process-header">
+                <h2 class="section-title">Автомобили под заказ</h2>
+                <p class="section-description">
+                    Полное сопровождение сделки от подбора до оформления.<br>
+                    Прозрачный процесс с фиксированными сроками
+                </p>
+            </div>
+
+            <div class="process-grid">
+                <div class="process-card">
+                    <div class="process-number">01</div>
+                    <h3 class="process-title">Договор</h3>
+                    <p class="process-description">
+                        Заключаем договор с фиксацией условий. Прозрачная схема оплаты 20/80
+                    </p>
+                </div>
+
+                <div class="process-card">
+                    <div class="process-number">02</div>
+                    <h3 class="process-title">Подбор и проверка</h3>
+                    <p class="process-description">
+                        Находим автомобиль по вашим критериям. Полная проверка технического состояния
+                    </p>
+                </div>
+
+                <div class="process-card">
+                    <div class="process-number">03</div>
+                    <h3 class="process-title">Доставка</h3>
+                    <p class="process-description">
+                        Организуем логистику из Европы, Кореи или Китая. Страхование груза
+                    </p>
+                </div>
+
+                <div class="process-card">
+                    <div class="process-number">04</div>
+                    <h3 class="process-title">Оформление</h3>
+                    <p class="process-description">
+                        Полное таможенное оформление и регистрация. Готовый автомобиль с документами
+                    </p>
+                </div>
+            </div>
+
+            <div class="process-image">
+                <div class="image-placeholder">
+                    ФОТО КАРТЫ МИРА / ЛОГИСТИКИ<br>
+                    или фото процесса доставки
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============================================
+         SERVICES SECTION
+    ============================================ -->
+    <section class="services-section">
+        <div class="services-container">
+            <div class="section-header">
+                <h2 class="section-title">Наши услуги</h2>
+                <p class="section-description">
+                    Полный спектр услуг для покупки и обслуживания<br>
+                    премиальных автомобилей
+                </p>
+            </div>
+
+            <div class="services-main-grid">
+                <!-- Услуга 1 -->
+                <div class="service-card">
+                    <div class="service-image">
+                        <div class="image-placeholder">ФОТО 1</div>
+                    </div>
+                    <div class="service-content">
+                        <div class="service-number">01</div>
+                        <h3 class="service-title">Автомобили под заказ</h3>
+                        <p class="service-description">
+                            Подбор и доставка автомобилей из Европы, Южной Кореи и Китая. Полное сопровождение сделки от договора до регистрации
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Услуга 2 -->
+                <div class="service-card">
+                    <div class="service-image">
+                        <div class="image-placeholder">ФОТО 2</div>
+                    </div>
+                    <div class="service-content">
+                        <div class="service-number">02</div>
+                        <h3 class="service-title">Trade-in</h3>
+                        <p class="service-description">
+                            Выгодный обмен вашего автомобиля с доплатой. Честная оценка, быстрое оформление, минимум документов
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Услуга 3 -->
+                <div class="service-card">
+                    <div class="service-image">
+                        <div class="image-placeholder">ФОТО 3</div>
+                    </div>
+                    <div class="service-content">
+                        <div class="service-number">03</div>
+                        <h3 class="service-title">Комиссионная продажа</h3>
+                        <p class="service-description">
+                            Продадим ваш автомобиль по рыночной цене. Профессиональная подготовка, маркетинг и юридическое сопровождение
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Дополнительные услуги -->
+            <div class="services-extra">
+                <button class="services-expand" id="expandBtn">
+                    <span>+ ЕЩЁ 8 УСЛУГ</span>
+                </button>
+                
+                <div class="services-extra-grid" id="extraServices">
+                    <div class="service-item-small">
+                        <div class="service-icon">🔧</div>
+                        <h4>Кредит и лизинг</h4>
+                    </div>
+                    <div class="service-item-small">
+                        <div class="service-icon">✨</div>
+                        <h4>Детейлинг</h4>
+                    </div>
+                    <div class="service-item-small">
+                        <div class="service-icon">🛡️</div>
+                        <h4>Страхование КАСКО</h4>
+                    </div>
+                    <div class="service-item-small">
+                        <div class="service-icon">🔍</div>
+                        <h4>Проверка перед покупкой</h4>
+                    </div>
+                    <div class="service-item-small">
+                        <div class="service-icon">📋</div>
+                        <h4>Помощь в регистрации</h4>
+                    </div>
+                    <div class="service-item-small">
+                        <div class="service-icon">🚗</div>
+                        <h4>Доставка по России</h4>
+                    </div>
+                    <div class="service-item-small">
+                        <div class="service-icon">🔑</div>
+                        <h4>Дубликаты ключей</h4>
+                    </div>
+                    <div class="service-item-small">
+                        <div class="service-icon">⚙️</div>
+                        <h4>Гарантийный сервис</h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============================================
+         TESTIMONIALS SECTION
+    ============================================ -->
+    <section class="testimonials-section">
+        <div class="testimonials-container">
+            <div class="section-header">
+                <h2 class="section-title">Отзывы клиентов</h2>
+                <p class="section-description">
+                    Более 1000 довольных клиентов с 2020 года
+                </p>
+            </div>
+
+            <div class="testimonials-slider">
+                <!-- Отзыв 1 -->
+                <div class="testimonial-card active">
+                    <div class="testimonial-video">
+                        <div class="video-placeholder">
+                            <div class="play-button">▶</div>
+                            <p>Видео отзыв Карины<br>Mercedes-Benz GLE 53</p>
+                        </div>
+                    </div>
+                    <div class="testimonial-content">
+                        <h4 class="testimonial-name">Карина</h4>
+                        <p class="testimonial-car">Mercedes-Benz GLE 53</p>
+                        <p class="testimonial-text">
+                            "Первый автомобиль — Mercedes-Benz GLE 53. Подобрали быстро, сделка прошла без проблем, осталась очень довольна"
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Отзыв 2 -->
+                <div class="testimonial-card">
+                    <div class="testimonial-video">
+                        <div class="video-placeholder">
+                            <div class="play-button">▶</div>
+                            <p>Видео отзыв Алексея<br>Porsche GTS Coupe</p>
+                        </div>
+                    </div>
+                    <div class="testimonial-content">
+                        <h4 class="testimonial-name">Алексей</h4>
+                        <p class="testimonial-car">Porsche GTS Coupe</p>
+                        <p class="testimonial-text">
+                            "GTS-Coupe в красном цвете. Команда отработала на высоком уровне, автомобиль тщательно проверили. Претензий нет, доволен покупкой"
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Отзыв 3 -->
+                <div class="testimonial-card">
+                    <div class="testimonial-video">
+                        <div class="video-placeholder">
+                            <div class="play-button">▶</div>
+                            <p>Видео отзыв<br>Lamborghini Urus</p>
+                        </div>
+                    </div>
+                    <div class="testimonial-content">
+                        <h4 class="testimonial-name">Клиент AMG Auto Trade</h4>
+                        <p class="testimonial-car">Lamborghini Urus 2021</p>
+                        <p class="testimonial-text">
+                            "Lamborghini Urus, 2021 года, пробег 20 000 км. Сделка прошла успешно, отмечает высокий уровень сервиса"
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="slider-controls">
+                <button class="slider-btn prev">←</button>
+                <div class="slider-dots">
+                    <span class="dot active"></span>
+                    <span class="dot"></span>
+                    <span class="dot"></span>
+                </div>
+                <button class="slider-btn next">→</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============================================
+         FOOTER
+    ============================================ -->
+    <footer class="footer">
+        <div class="footer-container">
+            <div class="footer-grid">
+                <!-- Колонка 1: О компании -->
+                <div class="footer-column">
+                    <div class="footer-logo">AMG AUTO TRADE</div>
+                    <p class="footer-description">
+                        Автомобили премиум-класса с 2020 года.<br>
+                        Более 1000 довольных клиентов
+                    </p>
+                    <div class="footer-stats">
+                        <div class="stat-item">
+                            <div class="stat-number">100+</div>
+                            <div class="stat-label">Автомобилей</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-number">1000+</div>
+                            <div class="stat-label">Клиентов</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-number">2020</div>
+                            <div class="stat-label">Год основания</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Колонка 2: Навигация -->
+                <div class="footer-column">
+                    <h4 class="footer-title">Навигация</h4>
+                    <ul class="footer-links">
+                        <li><a href="#home">Главная</a></li>
+                        <li><a href="#catalog">Каталог</a></li>
+                        <li><a href="#services">Услуги</a></li>
+                        <li><a href="#about">О нас</a></li>
+                        <li><a href="#contacts">Контакты</a></li>
+                    </ul>
+                </div>
+
+                <!-- Колонка 3: Услуги -->
+                <div class="footer-column">
+                    <h4 class="footer-title">Услуги</h4>
+                    <ul class="footer-links">
+                        <li><a href="#order">Автомобили под заказ</a></li>
+                        <li><a href="#tradein">Trade-in</a></li>
+                        <li><a href="#commission">Комиссионная продажа</a></li>
+                        <li><a href="#credit">Кредит и лизинг</a></li>
+                        <li><a href="#detailing">Детейлинг</a></li>
+                    </ul>
+                </div>
+
+                <!-- Колонка 4: Контакты -->
+                <div class="footer-column">
+                    <h4 class="footer-title">Контакты</h4>
+                    <ul class="footer-contacts">
+                        <li>
+                            <span class="contact-icon">📞</span>
+                            <a href="tel:+74951234567">+7 (495) 123-45-67</a>
+                        </li>
+                        <li>
+                            <span class="contact-icon">📧</span>
+                            <a href="mailto:info@amgautotrade.ru">info@amgautotrade.ru</a>
+                        </li>
+                        <li>
+                            <span class="contact-icon">📍</span>
+                            <span>Москва, 53-й км МКАД</span>
+                        </li>
+                    </ul>
+                    <div class="footer-socials">
+                        <a href="#" class="social-link">VK</a>
+                        <a href="#" class="social-link">Instagram</a>
+                        <a href="#" class="social-link">Telegram</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer-bottom">
+                <div class="footer-legal">
+                    <p>© 2024 AMG Auto Trade. Все права защищены</p>
+                    <div class="footer-legal-links">
+                        <a href="#privacy">Политика конфиденциальности</a>
+                        <a href="#terms">Пользовательское соглашение</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
