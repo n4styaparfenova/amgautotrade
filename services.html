@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Услуги — AMG Auto Trade</title>
+    <meta name="description" content="Полный спектр услуг: автомобили под заказ, trade-in, детейлинг, кредит и лизинг. AMG Auto Trade — ваш надёжный партнёр.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;600&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --dark-bg: #1A1D21;
+            --light-bg: #F8F8F8;
+            --gold: #C9A961;
+            --gold-hover: #D4AF37;
+            --white: #FFFFFF;
+            --gray: #A8A8A8;
+            --gray-dark: #2C3035;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background: var(--dark-bg);
+            color: var(--white);
+            overflow-x: hidden;
+        }
+
+        /* HEADER */
+        header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 1000;
+            background: rgba(26, 29, 33, 0.95);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid rgba(201, 169, 97, 0.1);
+        }
+
+        .header-content {
+            max-width: 1440px;
+            margin: 0 auto;
+            padding: 15px 60px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            height: 70px;
+            width: auto;
+            transition: all 0.3s ease;
+        }
+
+        .logo:hover {
+            opacity: 0.8;
+            transform: scale(1.05);
+        }
+
+        nav {
+            display: flex;
+            gap: 50px;
+            align-items: center;
+        }
+
+        nav a {
+            color: var(--white);
+            text-decoration: none;
+            font-weight: 300;
+            font-size: 14px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            position: relative;
+            transition: color 0.3s ease;
+        }
+
+        nav a::after {
+            content: '';
+            position: absolute;
+            bottom: -5px;
+            left: 0;
+            width: 0;
+            height: 1px;
+            background: var(--gold);
+            transition: width 0.3s ease;
+        }
+
+        nav a:hover {
+            color: var(--gold);
+        }
+
+        nav a:hover::after {
+            width: 100%;
+        }
+
+        /* HERO SECTION */
+        .page-hero {
+            padding: 200px 60px 120px;
+            background: linear-gradient(135deg, var(--dark-bg) 0%, var(--gray-dark) 100%);
+            text-align: center;
+        }
+
+        .page-title {
+            font-family: 'Oswald', sans-serif;
+            font-size: 64px;
+            font-weight: 400;
+            letter-spacing: 2px;
+            margin-bottom: 20px;
+            color: var(--gold);
+        }
+
+        .page-subtitle {
+            font-size: 18px;
+            color: var(--gray);
+            max-width: 700px;
+            margin: 0 auto;
+            line-height: 1.6;
+        }
+
+        /* SERVICE SECTION */
+        .service-section {
+            padding: 100px 60px;
+            border-bottom: 1px solid rgba(201, 169, 97, 0.1);
+        }
+
+        .service-section:nth-child(even) {
+            background: rgba(44, 48, 53, 0.3);
+        }
+
+        .service-container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .service-header {
+            margin-bottom: 40px;
+        }
+
+        .service-title {
+            font-family: 'Oswald', sans-serif;
+            font-size: 42px;
+            font-weight: 400;
+            letter-spacing: 1px;
+            color: var(--gold);
+            margin-bottom: 30px;
+        }
+
+        .service-description {
+            font-size: 16px;
+            line-height: 1.8;
+            color: var(--white);
+            margin-bottom: 20px;
+        }
+
+        .service-list {
+            list-style: none;
+            margin-top: 30px;
+        }
+
+        .service-list li {
+            font-size: 15px;
+            line-height: 2;
+            color: var(--gray);
+            padding-left: 30px;
+            position: relative;
+        }
+
+        .service-list li::before {
+            content: '→';
+            position: absolute;
+            left: 0;
+            color: var(--gold);
+            font-weight: 600;
+        }
+
+        .service-highlights {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 30px;
+            margin-top: 40px;
+        }
+
+        .highlight-card {
+            background: rgba(26, 29, 33, 0.5);
+            padding: 30px;
+            border-radius: 8px;
+            border: 1px solid rgba(201, 169, 97, 0.2);
+            transition: all 0.3s ease;
+        }
+
+        .highlight-card:hover {
+            border-color: var(--gold);
+            transform: translateY(-5px);
+        }
+
+        .highlight-title {
+            font-family: 'Oswald', sans-serif;
+            font-size: 20px;
+            color: var(--gold);
+            margin-bottom: 15px;
+        }
+
+        .highlight-text {
+            font-size: 14px;
+            color: var(--gray);
+            line-height: 1.6;
+        }
+
+        /* FOOTER */
+        footer {
+            background: var(--gray-dark);
+            padding: 60px 60px 30px;
+            text-align: center;
+            border-top: 1px solid rgba(201, 169, 97, 0.1);
+        }
+
+        .footer-text {
+            color: var(--gray);
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+
+        .footer-contacts {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+        }
+
+        .footer-contacts a {
+            color: var(--gold);
+            text-decoration: none;
+            font-size: 16px;
+            transition: color 0.3s ease;
+        }
+
+        .footer-contacts a:hover {
+            color: var(--gold-hover);
+        }
+
+        .footer-bottom {
+            padding-top: 30px;
+            border-top: 1px solid rgba(201, 169, 97, 0.1);
+            color: var(--gray);
+            font-size: 12px;
+        }
+
+        @media (max-width: 768px) {
+            .page-title {
+                font-size: 42px;
+            }
+
+            .service-title {
+                font-size: 32px;
+            }
+
+            nav {
+                gap: 20px;
+            }
+
+            .header-content {
+                padding: 15px 30px;
+            }
+
+            .service-section {
+                padding: 60px 30px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- HEADER -->
+    <header>
+        <div class="header-content">
+            <a href="index.html">
+                <img src="images/logo.png" alt="AMG Auto Trade" class="logo">
+            </a>
+            <nav>
+                <a href="index.html">Главная</a>
+                <a href="catalog.html">Каталог</a>
+                <a href="services.html">Услуги</a>
+                <a href="#contacts">Контакты</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- HERO -->
+    <section class="page-hero">
+        <h1 class="page-title">Наши услуги</h1>
+        <p class="page-subtitle">
+            Полный спектр услуг для покупки, продажи и обслуживания премиальных автомобилей.
+            Работаем с 2014 года — профессионально, прозрачно, с гарантией качества.
+        </p>
+    </section>
+
+    <!-- АВТОМОБИЛИ ПОД ЗАКАЗ -->
+    <section class="service-section">
+        <div class="service-container">
+            <div class="service-header">
+                <h2 class="service-title">Автомобили под заказ из Европы и Южной Кореи</h2>
+            </div>
+            <p class="service-description">
+                Мы привозим автомобили напрямую — без посредников и переплат. Доступны премиальные модели Mercedes-Benz, BMW, Porsche, Lamborghini и другие — в топовых комплектациях, с минимальными пробегами и полной проверкой истории. Сроки доставки — от 2 недель. Подбор под ваш бюджет и пожелания.
+            </p>
+            <div class="service-highlights">
+                <div class="highlight-card">
+                    <h3 class="highlight-title">Прямые поставки</h3>
+                    <p class="highlight-text">Без посредников — экономия до 30%</p>
+                </div>
+                <div class="highlight-card">
+                    <h3 class="highlight-title">Премиум бренды</h3>
+                    <p class="highlight-text">Mercedes, BMW, Porsche, Lamborghini</p>
+                </div>
+                <div class="highlight-card">
+                    <h3 class="highlight-title">Быстро</h3>
+                    <p class="highlight-text">Доставка от 2 недель</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- TRADE-IN -->
+    <section class="service-section">
+        <div class="service-container">
+            <div class="service-header">
+                <h2 class="service-title">Trade-in</h2>
+            </div>
+            <p class="service-description">
+                Обменяйте свой автомобиль на новый — с доплатой или без. Оценка за 30 минут, выгодные условия, оформление в день обращения.
+            </p>
+            <div class="service-highlights">
+                <div class="highlight-card">
+                    <h3 class="highlight-title">Быстрая оценка</h3>
+                    <p class="highlight-text">Оценим ваш автомобиль за 30 минут</p>
+                </div>
+                <div class="highlight-card">
+                    <h3 class="highlight-title">Выгодно</h3>
+                    <p class="highlight-text">Честная рыночная цена</p>
+                </div>
+                <div class="highlight-card">
+                    <h3 class="highlight-title">Удобно</h3>
+                    <p class="highlight-text">Оформление в день обращения</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- КОМИССИОННАЯ ПРОДАЖА -->
+    <section class="service-section">
+        <div class="service-container">
+            <div class="service-header">
+                <h2 class="service-title">Комиссионная продажа</h2>
+            </div>
+            <p class="service-description">
+                Хотите продать автомобиль без хлопот? Оставьте его у нас, и мы найдём покупателя, разместим объявления, проведём показы и торги — вы получаете деньги, не теряя времени.
+            </p>
+            <ul class="service-list">
+                <li>Размещение на всех популярных площадках</li>
+                <li>Профессиональная фотосъёмка</li>
+                <li>Проведение показов и торгов</li>
+                <li>Юридическое сопровождение сделки</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- КРЕДИТ И ЛИЗИНГ -->
+    <section class="service-section">
+        <div class="service-container">
+            <div class="service-header">
+                <h2 class="service-title">Кредит и лизинг</h2>
+            </div>
+            <p class="service-description">
+                Сотрудничаем с надёжными банками и лизинговыми компаниями. Одобрение — от 2 часов. Работаем с физлицами и юрлицами. Полное сопровождение сделки, помощь с регистрацией и страховкой.
+            </p>
+            <ul class="service-list">
+                <li>Без первоначального взноса</li>
+                <li>Сотрудничаем с надёжными банками и лизинговыми компаниями</li>
+                <li>Всего по двум документам</li>
+                <li>Дистанционное одобрение для клиентов из регионов</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- ДЕТЕЙЛИНГ -->
+    <section class="service-section">
+        <div class="service-container">
+            <div class="service-header">
+                <h2 class="service-title">Услуги детейлинга</h2>
+            </div>
+            <p class="service-description">
+                Собственный детейлинг-центр на базе автосалона. Выполняем любые виды работ по защите, уходу и обновлению автомобиля — от кузова до салона. Все работы проводим на месте, без очередей, с гарантией качества и использованием проверенных материалов.
+            </p>
+            <ul class="service-list">
+                <li>Оклейка кузова защитной плёнкой</li>
+                <li>Полировка</li>
+                <li>Шумоизоляция</li>
+                <li>Другие комплексные работы по уходу и дооснащению</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- ДОПОЛНИТЕЛЬНЫЕ УСЛУГИ -->
+    <section class="service-section">
+        <div class="service-container">
+            <div class="service-header">
+                <h2 class="service-title">Дополнительные услуги</h2>
+            </div>
+            <div class="service-highlights">
+                <div class="highlight-card">
+                    <h3 class="highlight-title">Документы</h3>
+                    <p class="highlight-text">Оформление всех документов, постановка на учёт</p>
+                </div>
+                <div class="highlight-card">
+                    <h3 class="highlight-title">Страхование</h3>
+                    <p class="highlight-text">КАСКО и ОСАГО на выгодных условиях</p>
+                </div>
+                <div class="highlight-card">
+                    <h3 class="highlight-title">Диагностика</h3>
+                    <p class="highlight-text">Полная диагностика и предпродажная подготовка</p>
+                </div>
+                <div class="highlight-card">
+                    <h3 class="highlight-title">Доставка</h3>
+                    <p class="highlight-text">Транспортировка по РФ и СНГ</p>
+                </div>
+                <div class="highlight-card">
+                    <h3 class="highlight-title">Госномера</h3>
+                    <p class="highlight-text">Продажа красивых и VIP номеров</p>
+                </div>
+                <div class="highlight-card">
+                    <h3 class="highlight-title">Тюнинг</h3>
+                    <p class="highlight-text">Подбор аксессуаров и доп. оборудования</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+        <p class="footer-text">AMG Auto Trade — Премиальные автомобили с 2014 года</p>
+        <div class="footer-contacts">
+            <a href="tel:+79856742650">+7 (985) 674-26-50</a>
+            <a href="https://t.me/AMG_auto_trade" target="_blank">Telegram</a>
+            <a href="mailto:info@amgautotrade.ru">info@amgautotrade.ru</a>
+        </div>
+        <div class="footer-bottom">
+            <p>© 2024 ООО "АМГ АВТО-ТРЕЙД". Все права защищены<br>
+            ИНН: 9731139759 | ОГРН: 1247700576573</p>
+        </div>
+    </footer>
+</body>
+</html>
