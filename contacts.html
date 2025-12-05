@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Контакты — AMG Auto Trade</title>
+    <meta name="description" content="Контакты AMG Auto Trade. Москва, МКАД 53-й км. Телефон: +7 (985) 674-26-50. Мы на YouTube, Telegram, Avito, Drom, Auto.ru">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;600&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --dark-bg: #1A1D21;
+            --light-bg: #F8F8F8;
+            --gold: #C9A961;
+            --gold-hover: #D4AF37;
+            --white: #FFFFFF;
+            --gray: #A8A8A8;
+            --gray-dark: #2C3035;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background: var(--dark-bg);
+            color: var(--white);
+            overflow-x: hidden;
+        }
+
+        /* HEADER */
+        header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 1000;
+            background: rgba(26, 29, 33, 0.95);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid rgba(201, 169, 97, 0.1);
+        }
+
+        .header-content {
+            max-width: 1440px;
+            margin: 0 auto;
+            padding: 15px 60px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            height: 70px;
+            width: auto;
+            transition: all 0.3s ease;
+        }
+
+        .logo:hover {
+            opacity: 0.8;
+            transform: scale(1.05);
+        }
+
+        .logo-link {
+            display: flex;
+            align-items: center;
+        }
+
+        nav {
+            display: flex;
+            gap: 50px;
+            align-items: center;
+        }
+
+        nav a {
+            color: var(--white);
+            text-decoration: none;
+            font-weight: 300;
+            font-size: 14px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            position: relative;
+            transition: color 0.3s ease;
+        }
+
+        nav a::after {
+            content: '';
+            position: absolute;
+            bottom: -5px;
+            left: 0;
+            width: 0;
+            height: 1px;
+            background: var(--gold);
+            transition: width 0.3s ease;
+        }
+
+        nav a:hover {
+            color: var(--gold);
+        }
+
+        nav a:hover::after {
+            width: 100%;
+        }
+
+        .header-cta {
+            padding: 12px 30px;
+            background: transparent;
+            border: 1px solid var(--gold);
+            color: var(--gold);
+            text-decoration: none;
+            font-weight: 400;
+            font-size: 13px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            transition: all 0.3s ease;
+        }
+
+        .header-cta:hover {
+            background: var(--gold);
+            color: var(--dark-bg);
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(201, 169, 97, 0.3);
+        }
+
+        .header-cta::after {
+            display: none;
+        }
+
+        /* HERO */
+        .page-hero {
+            padding: 200px 60px 120px;
+            background: linear-gradient(135deg, var(--dark-bg) 0%, var(--gray-dark) 100%);
+            text-align: center;
+        }
+
+        .page-title {
+            font-family: 'Oswald', sans-serif;
+            font-size: 64px;
+            font-weight: 400;
+            letter-spacing: 2px;
+            margin-bottom: 20px;
+            color: var(--gold);
+        }
+
+        .page-subtitle {
+            font-size: 18px;
+            color: var(--gray);
+            max-width: 700px;
+            margin: 0 auto;
+            line-height: 1.6;
+        }
+
+        /* CONTACTS SECTION */
+        .contacts-section {
+            padding: 100px 60px;
+        }
+
+        .contacts-container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .contacts-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 60px;
+            margin-bottom: 80px;
+        }
+
+        .contact-info {
+            display: flex;
+            flex-direction: column;
+            gap: 40px;
+        }
+
+        .contact-block {
+            padding: 30px;
+            background: rgba(44, 48, 53, 0.5);
+            border-radius: 8px;
+            border: 1px solid rgba(201, 169, 97, 0.2);
+            transition: all 0.3s ease;
+        }
+
+        .contact-block:hover {
+            border-color: var(--gold);
+            transform: translateY(-5px);
+        }
+
+        .contact-block-title {
+            font-family: 'Oswald', sans-serif;
+            font-size: 20px;
+            color: var(--gold);
+            margin-bottom: 15px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .contact-block-text {
+            font-size: 16px;
+            color: var(--white);
+            line-height: 1.8;
+        }
+
+        .contact-block-text a {
+            color: var(--gold);
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .contact-block-text a:hover {
+            color: var(--gold-hover);
+            text-decoration: underline;
+        }
+
+        /* MAP */
+        .map-container {
+            width: 100%;
+            height: 500px;
+            border-radius: 8px;
+            overflow: hidden;
+            border: 2px solid rgba(201, 169, 97, 0.2);
+        }
+
+        .map-container iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+
+        /* SOCIAL LINKS */
+        .social-section {
+            padding: 80px 60px;
+            background: rgba(44, 48, 53, 0.3);
+        }
+
+        .social-container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .social-title {
+            font-family: 'Oswald', sans-serif;
+            font-size: 42px;
+            color: var(--gold);
+            text-align: center;
+            margin-bottom: 60px;
+            letter-spacing: 1px;
+        }
+
+        .social-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+        }
+
+        .social-card {
+            padding: 40px 30px;
+            background: rgba(26, 29, 33, 0.5);
+            border-radius: 8px;
+            border: 1px solid rgba(201, 169, 97, 0.2);
+            text-align: center;
+            transition: all 0.3s ease;
+        }
+
+        .social-card:hover {
+            border-color: var(--gold);
+            transform: translateY(-10px);
+            box-shadow: 0 20px 40px rgba(201, 169, 97, 0.2);
+        }
+
+        .social-icon {
+            font-size: 48px;
+            margin-bottom: 20px;
+        }
+
+        .social-name {
+            font-family: 'Oswald', sans-serif;
+            font-size: 24px;
+            color: var(--gold);
+            margin-bottom: 15px;
+            letter-spacing: 1px;
+        }
+
+        .social-link {
+            display: inline-block;
+            padding: 12px 30px;
+            background: transparent;
+            border: 1px solid var(--gold);
+            color: var(--gold);
+            text-decoration: none;
+            font-size: 14px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            transition: all 0.3s ease;
+            border-radius: 4px;
+        }
+
+        .social-link:hover {
+            background: var(--gold);
+            color: var(--dark-bg);
+        }
+
+        /* FOOTER */
+        footer {
+            background: var(--gray-dark);
+            padding: 60px 60px 30px;
+            text-align: center;
+            border-top: 1px solid rgba(201, 169, 97, 0.1);
+        }
+
+        .footer-text {
+            color: var(--gray);
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+
+        .footer-bottom {
+            padding-top: 30px;
+            border-top: 1px solid rgba(201, 169, 97, 0.1);
+            color: var(--gray);
+            font-size: 12px;
+        }
+
+        @media (max-width: 768px) {
+            .page-title {
+                font-size: 42px;
+            }
+
+            .contacts-grid {
+                grid-template-columns: 1fr;
+            }
+
+            nav {
+                gap: 20px;
+            }
+
+            .header-content {
+                padding: 15px 30px;
+            }
+
+            .contacts-section,
+            .social-section {
+                padding: 60px 30px;
+            }
+
+            .social-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- HEADER -->
+    <header>
+        <div class="header-content">
+            <a href="index.html" class="logo-link">
+                <img src="images/logo.png" alt="AMG Auto Trade - Премиальные автомобили" class="logo">
+            </a>
+            <nav>
+                <a href="index.html">Главная</a>
+                <a href="catalog.html">Каталог</a>
+                <a href="services.html">Услуги</a>
+                <a href="contacts.html">Контакты</a>
+                <a href="#contacts" class="header-cta">Связаться</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- HERO -->
+    <section class="page-hero">
+        <h1 class="page-title">Контакты</h1>
+        <p class="page-subtitle">
+            Приезжайте к нам в автосалон или свяжитесь удобным способом.
+            Мы работаем ежедневно и всегда рады помочь!
+        </p>
+    </section>
+
+    <!-- CONTACTS -->
+    <section class="contacts-section" id="contacts">
+        <div class="contacts-container">
+            <div class="contacts-grid">
+                <!-- Контактная информация -->
+                <div class="contact-info">
+                    <div class="contact-block">
+                        <h3 class="contact-block-title">📍 Адрес</h3>
+                        <p class="contact-block-text">
+                            г. Москва, МКАД 53-й км, д.6<br>
+                            <a href="https://yandex.ru/profile/32430070873?lang=ru" target="_blank">Смотреть на карте</a>
+                        </p>
+                    </div>
+
+                    <div class="contact-block">
+                        <h3 class="contact-block-title">📞 Телефон</h3>
+                        <p class="contact-block-text">
+                            <a href="tel:+79856742650">+7 (985) 674-26-50</a><br>
+                            Ежедневно с 9:00 до 21:00
+                        </p>
+                    </div>
+
+                    <div class="contact-block">
+                        <h3 class="contact-block-title">✉️ Email</h3>
+                        <p class="contact-block-text">
+                            <a href="mailto:amgautotrade.msc@gmail.com">amgautotrade.msc@gmail.com</a>
+                        </p>
+                    </div>
+
+                    <div class="contact-block">
+                        <h3 class="contact-block-title">💬 Telegram</h3>
+                        <p class="contact-block-text">
+                            <a href="https://t.me/AMG_auto_trade" target="_blank">@AMG_auto_trade</a><br>
+                            Быстрая связь в мессенджере
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Карта -->
+                <div class="map-container">
+                    <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A2a5e8c8e8f9d4b5a8c8e8f9d4b5a8c8e&amp;source=constructor" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SOCIAL & MARKETPLACES -->
+    <section class="social-section">
+        <div class="social-container">
+            <h2 class="social-title">Мы в соцсетях и на площадках</h2>
+            <div class="social-grid">
+                <!-- YouTube -->
+                <div class="social-card">
+                    <div class="social-icon">▶️</div>
+                    <h3 class="social-name">YouTube</h3>
+                    <a href="https://www.youtube.com/@amg_auto_trade" target="_blank" class="social-link">Смотреть канал</a>
+                </div>
+
+                <!-- Telegram -->
+                <div class="social-card">
+                    <div class="social-icon">✈️</div>
+                    <h3 class="social-name">Telegram</h3>
+                    <a href="https://t.me/AMG_auto_trade" target="_blank" class="social-link">Написать в Telegram</a>
+                </div>
+
+                <!-- Avito -->
+                <div class="social-card">
+                    <div class="social-icon">🛒</div>
+                    <h3 class="social-name">Avito</h3>
+                    <a href="https://www.avito.ru/brands/06614d20cae91c129050527e2f11036f/items/all/transport" target="_blank" class="social-link">Смотреть объявления</a>
+                </div>
+
+                <!-- Drom -->
+                <div class="social-card">
+                    <div class="social-icon">🚗</div>
+                    <h3 class="social-name">Drom</h3>
+                    <a href="https://auto.drom.ru/dealer331589/bmw/7-series/" target="_blank" class="social-link">Перейти на Drom</a>
+                </div>
+
+                <!-- Auto.ru -->
+                <div class="social-card">
+                    <div class="social-icon">🔑</div>
+                    <h3 class="social-name">Auto.ru</h3>
+                    <a href="https://auto.ru/diler/cars/all/amg_auto_trade_moskva/" target="_blank" class="social-link">Перейти на Auto.ru</a>
+                </div>
+
+                <!-- Yandex -->
+                <div class="social-card">
+                    <div class="social-icon">🗺️</div>
+                    <h3 class="social-name">Яндекс.Профиль</h3>
+                    <a href="https://yandex.ru/profile/32430070873?lang=ru" target="_blank" class="social-link">Смотреть профиль</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+        <p class="footer-text">AMG Auto Trade — Премиальные автомобили с 2014 года</p>
+        <div class="footer-bottom">
+            <p>© 2024 ООО "АМГ АВТО-ТРЕЙД". Все права защищены<br>
+            ИНН: 9731139759 | ОГРН: 1247700576573</p>
+        </div>
+    </footer>
+</body>
+</html>
