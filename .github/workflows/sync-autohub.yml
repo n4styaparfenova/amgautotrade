@@ -1,0 +1,250 @@
+name: Sync AutoHub Cars
+
+on:
+  schedule:
+    # Запуск каждый час
+    - cron: '0 * * * *'
+  workflow_dispatch: # Позволяет запустить вручную
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      
+      - name: Fetch cars from AutoHub API
+        run: |
+          node << 'EOF'
+          const https = require('https');
+          const fs = require('fs');
+
+          // AutoHub API настройки
+          const API_URL = 'api.maxposter.ru';
+          const API_PATH = '/partners-api/vehicles/active';
+          const API_KEY = process.env.AUTOHUB_API_KEY; // Из GitHub Secrets
+
+          // Маппинг значений
+          const mapping = {
+            steering: {
+              'left': 'Левый',
+              'right': 'Правый'
+            },
+            transmission: {
+              'automatic': 'Автоматическая',
+              'variator': 'Вариаторная',
+              'robotized': 'Роботизированная'
+            },
+            engineType: {
+              'petrol': 'Бензин',
+              'diesel': 'Дизель',
+              'hybrid': 'Гибрид',
+              'electric': 'Электро'
+            },
+            driveType: {
+              'front': 'Передний',
+              'rear': 'Задний',
+              'full_4wd': 'Полный'
+            },
+            bodyType: {
+              'sedan': 'Седан',
+              'suv': 'Внедорожник',
+              'coupe': 'Купе',
+              'minivan': 'Минивэн',
+              'cabriolet': 'Кабриолет'
+            },
+            brandMapping: {
+              'Mercedes-Benz': 'Mercedes-Benz',
+              'Mercedes': 'Mercedes-Benz',
+              'BMW': 'BMW',
+              'Audi': 'Audi',
+              'Land Rover': 'Land Rover',
+              'Porsche': 'Porsche',
+              'Lamborghini': 'Lamborghini',
+              'Lexus': 'Lexus',
+              'Toyota': 'Toyota',
+              'Kia': 'Kia',
+              'Hyundai': 'Hyundai'
+            }
+          };
+
+          // Функция форматирования цены
+          function formatPrice(price) {
+            if (!price) return '';
+            return price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
+          }
+
+          // Функция форматирования объёма двигателя
+          function formatEngineVolume(volumeCc) {
+            if (!volumeCc) return null;
+            return (volumeCc / 1000).toFixed(1);
+          }
+
+          // Трансформация данных машины
+          function transformVehicle(vehicle) {
+            // Унифицируем марку
+            const rawBrand = vehicle.brand?.name || '';
+            const unifiedBrand = mapping.brandMapping[rawBrand] || rawBrand;
+            
+            // Определяем количество владельцев
+            const ownersCountRaw = vehicle.ownersCount || 0;
+            const ownersCategory = ownersCountRaw === 1 ? 'Один' : 'Более двух';
+            
+            // Определяем тип по пробегу
+            const mileage = vehicle.mileage || 0;
+            const vehicleTypeMapped = mileage <= 200 ? 'Новые' : 'С пробегом';
+            
+            // Цвет
+            const carColor = vehicle.bodyColor || vehicle.color?.name || '';
+            
+            // Фото
+            const carPhotos = (vehicle.photos || []).map(p => p.url).filter(Boolean);
+            
+            return {
+              vin: vehicle.vin || '',
+              name: `${unifiedBrand} ${vehicle.model?.name || ''}`.trim(),
+              year: vehicle.year || null,
+              price: vehicle.price || 0,
+              priceFormatted: formatPrice(vehicle.price),
+              mileage: vehicle.mileage || 0,
+              brand: unifiedBrand,
+              model: vehicle.model?.name || '',
+              engineType: mapping.engineType[vehicle.engineType] || vehicle.engineType || '',
+              transmission: mapping.transmission[vehicle.gearboxType] || vehicle.gearboxType || '',
+              bodyType: mapping.bodyType[vehicle.bodyType] || vehicle.bodyType || '',
+              drive: mapping.driveType[vehicle.driveType] || vehicle.driveType || '',
+              vehicleType: vehicleTypeMapped,
+              ownersCount: ownersCategory,
+              color: carColor,
+              steering: mapping.steering[vehicle.steeringWheel] || vehicle.steeringWheel || 'Левый',
+              modification: vehicle.modification?.name || '',
+              generation: vehicle.generation?.name || '',
+              power: vehicle.enginePower || null,
+              engineVolume: formatEngineVolume(vehicle.engineVolume),
+              photos: carPhotos
+            };
+          }
+
+          // Получение машин с пагинацией
+          async function fetchAllCars() {
+            const allCars = [];
+            let offset = 0;
+            const limit = 100;
+            
+            while (true) {
+              console.log(`Fetching cars: offset=${offset}, limit=${limit}`);
+              
+              const postData = JSON.stringify({
+                limit: limit,
+                offset: offset,
+                filters: [],
+                orders: ["-id"]
+              });
+              
+              const options = {
+                hostname: API_URL,
+                path: API_PATH,
+                method: 'POST',
+                headers: {
+                  'Authorization': 'Basic ' + API_KEY,
+                  'Content-Type': 'application/json',
+                  'Content-Length': Buffer.byteLength(postData)
+                }
+              };
+              
+              const response = await new Promise((resolve, reject) => {
+                const req = https.request(options, (res) => {
+                  let data = '';
+                  res.on('data', chunk => data += chunk);
+                  res.on('end', () => {
+                    if (res.statusCode === 200) {
+                      resolve(JSON.parse(data));
+                    } else {
+                      reject(new Error(`HTTP ${res.statusCode}: ${data}`));
+                    }
+                  });
+                });
+                req.on('error', reject);
+                req.write(postData);
+                req.end();
+              });
+              
+              if (response.status !== 'success') {
+                throw new Error('API returned error');
+              }
+              
+              const vehicles = response.data.vehicles || [];
+              
+              // Фильтруем только машины в продаже
+              const vehiclesInSale = vehicles.filter(v => v.isInSale === true);
+              
+              console.log(`Received: ${vehicles.length} total, ${vehiclesInSale.length} in sale`);
+              
+              if (vehiclesInSale.length === 0) {
+                break;
+              }
+              
+              allCars.push(...vehiclesInSale.map(transformVehicle));
+              
+              offset += limit;
+              
+              // Защита от бесконечного цикла
+              if (offset > 1000) {
+                console.log('Reached 1000 cars limit');
+                break;
+              }
+            }
+            
+            return allCars;
+          }
+
+          // Главная функция
+          (async () => {
+            try {
+              console.log('Starting AutoHub sync...');
+              
+              const cars = await fetchAllCars();
+              
+              console.log(`Total cars fetched: ${cars.length}`);
+              
+              // Сохраняем в JSON
+              fs.writeFileSync('cars.json', JSON.stringify(cars, null, 2));
+              
+              console.log('✅ cars.json created successfully');
+              
+              // Создаём summary
+              const summary = {
+                updated_at: new Date().toISOString(),
+                total_cars: cars.length,
+                brands: [...new Set(cars.map(c => c.brand))].sort(),
+                price_range: {
+                  min: Math.min(...cars.map(c => c.price)),
+                  max: Math.max(...cars.map(c => c.price))
+                }
+              };
+              
+              fs.writeFileSync('cars-summary.json', JSON.stringify(summary, null, 2));
+              
+              console.log('✅ Sync completed!');
+              
+            } catch (error) {
+              console.error('❌ Error:', error.message);
+              process.exit(1);
+            }
+          })();
+          EOF
+        env:
+          AUTOHUB_API_KEY: ${{ secrets.AUTOHUB_API_KEY }}
+      
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add cars.json cars-summary.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update cars catalog $(date '+%Y-%m-%d %H:%M')" && git push)
