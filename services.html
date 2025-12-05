@@ -64,6 +64,11 @@
             transform: scale(1.05);
         }
 
+        .logo-link {
+            display: flex;
+            align-items: center;
+        }
+
         nav {
             display: flex;
             gap: 50px;
@@ -98,6 +103,30 @@
 
         nav a:hover::after {
             width: 100%;
+        }
+
+        .header-cta {
+            padding: 12px 30px;
+            background: transparent;
+            border: 1px solid var(--gold);
+            color: var(--gold);
+            text-decoration: none;
+            font-weight: 400;
+            font-size: 13px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            transition: all 0.3s ease;
+        }
+
+        .header-cta:hover {
+            background: var(--gold);
+            color: var(--dark-bg);
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(201, 169, 97, 0.3);
+        }
+
+        .header-cta::after {
+            display: none;
         }
 
         /* HERO SECTION */
@@ -280,14 +309,15 @@
     <!-- HEADER -->
     <header>
         <div class="header-content">
-            <a href="index.html">
-                <img src="images/logo.png" alt="AMG Auto Trade" class="logo">
+            <a href="index.html" class="logo-link">
+                <img src="images/logo.png" alt="AMG Auto Trade - Премиальные автомобили" class="logo">
             </a>
             <nav>
                 <a href="index.html">Главная</a>
                 <a href="catalog.html">Каталог</a>
                 <a href="services.html">Услуги</a>
-                <a href="#contacts">Контакты</a>
+                <a href="index.html#contacts">Контакты</a>
+                <a href="index.html#contacts" class="header-cta">Связаться</a>
             </nav>
         </div>
     </header>
@@ -305,7 +335,7 @@
     <section class="service-section">
         <div class="service-container">
             <div class="service-header">
-                <h2 class="service-title">Автомобили под заказ из Европы и Южной Кореи</h2>
+                <h2 class="service-title">Автомобили под заказ из Европы, Южной Кореи и Китая</h2>
             </div>
             <p class="service-description">
                 Мы привозим автомобили напрямую — без посредников и переплат. Доступны премиальные модели Mercedes-Benz, BMW, Porsche, Lamborghini и другие — в топовых комплектациях, с минимальными пробегами и полной проверкой истории. Сроки доставки — от 2 недель. Подбор под ваш бюджет и пожелания.
@@ -448,7 +478,7 @@
         <div class="footer-contacts">
             <a href="tel:+79856742650">+7 (985) 674-26-50</a>
             <a href="https://t.me/AMG_auto_trade" target="_blank">Telegram</a>
-            <a href="mailto:info@amgautotrade.ru">info@amgautotrade.ru</a>
+            <a href="mailto:amgautotrade.msc@gmail.com">amgautotrade.msc@gmail.com</a>
         </div>
         <div class="footer-bottom">
             <p>© 2024 ООО "АМГ АВТО-ТРЕЙД". Все права защищены<br>
