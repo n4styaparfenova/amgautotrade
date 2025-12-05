@@ -1,0 +1,26 @@
+{
+  "updated_at": "2025-12-05T13:01:10.637Z",
+  "total_cars": 72,
+  "brands": [
+    "Alpina",
+    "Audi",
+    "BMW",
+    "Chevrolet",
+    "Hyundai",
+    "Kia",
+    "Land Rover",
+    "Lexus",
+    "Lixiang",
+    "Mercedes-Benz",
+    "Mitsubishi",
+    "Porsche",
+    "Toyota",
+    "Volkswagen",
+    "Volvo",
+    "Zeekr"
+  ],
+  "price_range": {
+    "min": 3990000,
+    "max": 33000000
+  }
+}
