@@ -56,7 +56,7 @@
         }
 
         .logo {
-            height: 45px;
+            height: 160px;
             width: auto;
             opacity: 0;
             animation: fadeIn 0.8s ease-out forwards;
@@ -175,9 +175,7 @@
             width: 100%;
             margin: 0 auto;
             padding: 0 60px;
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 80px;
+            display: flex;
             align-items: center;
         }
 
@@ -251,10 +249,7 @@
         }
 
         .hero-image-wrapper {
-            position: relative;
-            height: 600px;
-            opacity: 0;
-            animation: slideLeft 1s ease-out 0.5s forwards;
+            display: none;
         }
 
         .car-placeholder {
@@ -341,21 +336,18 @@
             align-items: center;
             justify-content: center;
             padding: 40px 30px;
-            border: 2px dashed rgba(255, 255, 255, 0.1);
-            border-radius: 8px;
+            border: none;
             transition: all 0.4s ease;
             cursor: pointer;
             background: transparent;
         }
 
         .brand-item:hover {
-            border-color: var(--gold);
             transform: translateY(-5px);
-            box-shadow: 0 10px 30px rgba(201, 169, 97, 0.2);
         }
 
         .brand-logo {
-            height: 70px;
+            height: 100px;
             width: auto;
             max-width: 100%;
             object-fit: contain;
@@ -420,14 +412,28 @@
            PROCESS SECTION
         ============================================ */
         .process-section {
-            background: var(--dark-bg);
+            background: url('images/order-bg.jpg') center/cover no-repeat;
             padding: 120px 60px;
             position: relative;
+            overflow: hidden;
+        }
+
+        .process-section::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(26, 29, 33, 0.85);
+            z-index: 1;
         }
 
         .process-container {
             max-width: 1440px;
             margin: 0 auto;
+            position: relative;
+            z-index: 10;
         }
 
         .process-header {
@@ -502,10 +508,7 @@
         }
 
         .process-image {
-            margin-top: 60px;
-            height: 400px;
-            border-radius: 8px;
-            overflow: hidden;
+            display: none;
         }
 
         .image-placeholder {
@@ -904,7 +907,11 @@
 
         .footer-stats {
             display: flex;
-            gap: 30px;
+            gap: 80px;
+            justify-content: center;
+            margin-bottom: 80px;
+            padding-bottom: 60px;
+            border-bottom: 1px solid rgba(201, 169, 97, 0.1);
         }
 
         .stat-item {
@@ -913,14 +920,18 @@
 
         .stat-number {
             font-family: 'Oswald', sans-serif;
-            font-size: 32px;
+            font-size: 72px;
+            font-weight: 600;
             color: var(--gold);
-            margin-bottom: 5px;
+            margin-bottom: 10px;
+            line-height: 1;
         }
 
         .stat-label {
-            font-size: 12px;
+            font-size: 14px;
             color: var(--gray);
+            text-transform: uppercase;
+            letter-spacing: 1px;
         }
 
         .footer-title {
@@ -1398,12 +1409,12 @@
                 <!-- Услуга 2 -->
                 <div class="service-card">
                     <div class="service-image">
-                        <img src="images/services/delivery.jpg" alt="Доставка автомобилей" style="width: 100%; height: 100%; object-fit: cover;">
+                        <img src="images/services/detailing.jpg" alt="Детейлинг автомобилей" style="width: 100%; height: 100%; object-fit: cover;">
                     </div>
                     <div class="service-content">
-                        <h3 class="service-title">Trade-in</h3>
+                        <h3 class="service-title">Детейлинг</h3>
                         <p class="service-description">
-                            Выгодный обмен вашего автомобиля с доплатой. Честная оценка, быстрое оформление, минимум документов
+                            Профессиональная химчистка, полировка кузова, керамическое покрытие. Ваш автомобиль будет выглядеть как новый
                         </p>
                     </div>
                 </div>
@@ -1411,12 +1422,12 @@
                 <!-- Услуга 3 -->
                 <div class="service-card">
                     <div class="service-image">
-                        <img src="images/services/customs.jpg" alt="Таможенное оформление" style="width: 100%; height: 100%; object-fit: cover;">
+                        <img src="images/services/tradein.jpg" alt="Trade-in" style="width: 100%; height: 100%; object-fit: cover;">
                     </div>
                     <div class="service-content">
-                        <h3 class="service-title">Комиссионная продажа</h3>
+                        <h3 class="service-title">Trade-in</h3>
                         <p class="service-description">
-                            Продадим ваш автомобиль по рыночной цене. Профессиональная подготовка, маркетинг и юридическое сопровождение
+                            Выгодный обмен вашего автомобиля с доплатой. Честная оценка, быстрое оформление, минимум документов
                         </p>
                     </div>
                 </div>
@@ -1434,12 +1445,12 @@
                         <h4>Кредит и лизинг</h4>
                     </div>
                     <div class="service-item-small">
-                        <div class="service-icon">✨</div>
-                        <h4>Детейлинг</h4>
-                    </div>
-                    <div class="service-item-small">
                         <div class="service-icon">🛡️</div>
                         <h4>Страхование КАСКО</h4>
+                    </div>
+                    <div class="service-item-small">
+                        <div class="service-icon">📄</div>
+                        <h4>Комиссионная продажа</h4>
                     </div>
                     <div class="service-item-small">
                         <div class="service-icon">🔍</div>
@@ -1548,6 +1559,18 @@
     ============================================ -->
     <footer class="footer">
         <div class="footer-container">
+            <!-- Статистика -->
+            <div class="footer-stats">
+                <div class="stat-item">
+                    <div class="stat-number">2014</div>
+                    <div class="stat-label">Год основания</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">3000+</div>
+                    <div class="stat-label">Довольных клиентов</div>
+                </div>
+            </div>
+
             <div class="footer-grid">
                 <!-- Колонка 1: О компании -->
                 <div class="footer-column">
@@ -1596,7 +1619,11 @@
                             <a href="tel:+79856742650">+7 (985) 674-26-50</a>
                         </li>
                         <li>
-                            <span class="contact-icon">✈️</span>
+                            <span class="contact-icon">
+                                <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;">
+                                    <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161l-1.921 9.055c-.145.658-.537.818-1.084.508l-3-2.211-1.447 1.394c-.16.16-.295.295-.605.295l.213-3.053 5.563-5.023c.242-.213-.054-.334-.373-.121l-6.871 4.326-2.962-.924c-.643-.204-.657-.643.136-.953l11.575-4.461c.537-.194 1.006.131.83.953z"/>
+                                </svg>
+                            </span>
                             <a href="https://t.me/AMG_auto_trade" target="_blank">@AMG_auto_trade</a>
                         </li>
                     </ul>
@@ -1620,8 +1647,15 @@
 
             <div class="footer-bottom">
                 <div class="footer-legal">
-                    <p>© 2024 ООО "АМГ АВТО-ТРЕЙД". Все права защищены<br>
-                    <span style="font-size: 11px; color: var(--gray);">ИНН: 9731139759 | ОГРН: 1247700576573</span></p>
+                    <div>
+                        <p style="font-size: 12px; color: var(--gray); margin-bottom: 10px;">
+                            ООО «AMG Автотрейд»<br>
+                            Километр МКАД, 53, дом 6<br>
+                            Москва, Россия
+                        </p>
+                        <p>© 2024 ООО "АМГ АВТО-ТРЕЙД". Все права защищены<br>
+                        <span style="font-size: 11px; color: var(--gray);">ИНН: 9731139759 | ОГРН: 1247700576573</span></p>
+                    </div>
                     <div class="footer-legal-links">
                         <a href="#privacy">Политика конфиденциальности</a>
                         <a href="#terms">Пользовательское с�
