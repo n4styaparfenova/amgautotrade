@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AMG Auto Trade — Автомобили премиум класса</title>
+    <meta name="description" content="Премиальные автомобили с доставкой. Mercedes, BMW, Porsche, Audi. Работаем с 2014 года. ☎ +7 (985) 674-26-50">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;600&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
@@ -54,17 +55,22 @@
             align-items: center;
         }
 
-        .logo-placeholder {
-            height: 50px;
-            width: 180px;
-            display: flex;
-            align-items: center;
-            font-family: 'Oswald', sans-serif;
-            font-size: 24px;
-            letter-spacing: 2px;
-            color: var(--gold);
+        .logo {
+            height: 45px;
+            width: auto;
             opacity: 0;
             animation: fadeIn 0.8s ease-out forwards;
+            transition: all 0.3s ease;
+        }
+
+        .logo:hover {
+            opacity: 0.8;
+            transform: scale(1.05);
+        }
+
+        .logo-link {
+            display: flex;
+            align-items: center;
         }
 
         nav {
@@ -140,18 +146,26 @@
             height: 100vh;
             display: flex;
             align-items: center;
-            background: var(--dark-bg);
+            background: url('images/hero-bg.jpg') center/cover no-repeat;
             overflow: hidden;
         }
 
-        .hero-bg {
+        .hero::before {
+            content: '';
             position: absolute;
             top: 0;
             left: 0;
             width: 100%;
             height: 100%;
-            background: linear-gradient(90deg, var(--dark-bg) 0%, rgba(26, 29, 33, 0.7) 50%, transparent 100%);
+            background: linear-gradient(90deg,
+                rgba(26, 29, 33, 0.95) 0%,
+                rgba(26, 29, 33, 0.7) 50%,
+                rgba(26, 29, 33, 0.3) 100%);
             z-index: 1;
+        }
+
+        .hero-bg {
+            display: none;
         }
 
         .hero-container {
@@ -260,17 +274,7 @@
         }
 
         .scroll-indicator {
-            position: absolute;
-            bottom: 40px;
-            left: 50%;
-            transform: translateX(-50%);
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            gap: 10px;
-            opacity: 0;
-            animation: fadeIn 1s ease-out 1.5s forwards;
-            z-index: 10;
+            display: none;
         }
 
         .scroll-text {
@@ -350,18 +354,18 @@
             box-shadow: 0 10px 30px rgba(201, 169, 97, 0.2);
         }
 
-        .brand-placeholder {
-            font-family: 'Oswald', sans-serif;
-            font-size: 16px;
-            letter-spacing: 2px;
-            color: rgba(255, 255, 255, 0.7);
-            text-transform: uppercase;
+        .brand-logo {
+            height: 70px;
+            width: auto;
+            max-width: 100%;
+            object-fit: contain;
+            filter: grayscale(100%) brightness(1.5);
             transition: all 0.4s ease;
         }
 
-        .brand-item:hover .brand-placeholder {
-            color: var(--gold);
-            transform: scale(1.05);
+        .brand-item:hover .brand-logo {
+            filter: grayscale(0%) brightness(1);
+            transform: scale(1.1);
         }
 
         .brands-cta {
@@ -1207,7 +1211,9 @@
     ============================================ -->
     <header>
         <div class="header-content">
-            <div class="logo-placeholder">AMG AUTO TRADE</div>
+            <a href="/" class="logo-link">
+                <img src="images/logo.png" alt="AMG Auto Trade - Премиальные автомобили" class="logo">
+            </a>
             <nav>
                 <a href="#home">Главная</a>
                 <a href="#catalog">Каталог</a>
@@ -1264,42 +1270,42 @@
             </div>
 
             <div class="brands-grid">
-                <div class="brand-item">
-                    <div class="brand-placeholder">BMW</div>
-                </div>
-                <div class="brand-item">
-                    <div class="brand-placeholder">MERCEDES-BENZ</div>
-                </div>
-                <div class="brand-item">
-                    <div class="brand-placeholder">LAND ROVER</div>
-                </div>
-                <div class="brand-item">
-                    <div class="brand-placeholder">LEXUS</div>
-                </div>
-                <div class="brand-item">
-                    <div class="brand-placeholder">PORSCHE</div>
-                </div>
-                <div class="brand-item">
-                    <div class="brand-placeholder">LAMBORGHINI</div>
-                </div>
-                <div class="brand-item">
-                    <div class="brand-placeholder">AUDI</div>
-                </div>
-                <div class="brand-item">
-                    <div class="brand-placeholder">ASTON MARTIN</div>
-                </div>
-                <div class="brand-item">
-                    <div class="brand-placeholder">MITSUBISHI</div>
-                </div>
-                <div class="brand-item">
-                    <div class="brand-placeholder">KIA</div>
-                </div>
-                <div class="brand-item">
-                    <div class="brand-placeholder">TOYOTA</div>
-                </div>
-                <div class="brand-item">
-                    <div class="brand-placeholder">+ ЕЩЁ</div>
-                </div>
+                <a href="catalog.html?brand=Mercedes-Benz" class="brand-item">
+                    <img src="images/brands/mercedes.png" alt="Mercedes-Benz" class="brand-logo">
+                </a>
+                <a href="catalog.html?brand=BMW" class="brand-item">
+                    <img src="images/brands/bmw.png" alt="BMW" class="brand-logo">
+                </a>
+                <a href="catalog.html?brand=Audi" class="brand-item">
+                    <img src="images/brands/audi.png" alt="Audi" class="brand-logo">
+                </a>
+                <a href="catalog.html?brand=Porsche" class="brand-item">
+                    <img src="images/brands/porsche.png" alt="Porsche" class="brand-logo">
+                </a>
+                <a href="catalog.html?brand=Land Rover" class="brand-item">
+                    <img src="images/brands/landrover.png" alt="Land Rover" class="brand-logo">
+                </a>
+                <a href="catalog.html?brand=Lexus" class="brand-item">
+                    <img src="images/brands/lexus.png" alt="Lexus" class="brand-logo">
+                </a>
+                <a href="catalog.html?brand=Toyota" class="brand-item">
+                    <img src="images/brands/toyota.png" alt="Toyota" class="brand-logo">
+                </a>
+                <a href="catalog.html?brand=Kia" class="brand-item">
+                    <img src="images/brands/kia.png" alt="Kia" class="brand-logo">
+                </a>
+                <a href="catalog.html?brand=Hyundai" class="brand-item">
+                    <img src="images/brands/hyundai.png" alt="Hyundai" class="brand-logo">
+                </a>
+                <a href="catalog.html?brand=Lamborghini" class="brand-item">
+                    <img src="images/brands/lamborghini.png" alt="Lamborghini" class="brand-logo">
+                </a>
+                <a href="catalog.html?brand=Bentley" class="brand-item">
+                    <img src="images/brands/bentley.png" alt="Bentley" class="brand-logo">
+                </a>
+                <a href="catalog.html" class="brand-item">
+                    <div style="font-family: 'Oswald', sans-serif; font-size: 16px; letter-spacing: 2px; color: rgba(255, 255, 255, 0.7); text-transform: uppercase;">+ ЕЩЁ</div>
+                </a>
             </div>
 
             <div class="brands-cta">
@@ -1327,7 +1333,7 @@
                     <div class="process-number">01</div>
                     <h3 class="process-title">Договор</h3>
                     <p class="process-description">
-                        Заключаем договор с фиксацией условий. Прозрачная схема оплаты 20/80
+                        Обсуждаем бюджет, предпочтения и сроки. Прозрачные условия, фиксированная стоимость, никаких скрытых платежей.
                     </p>
                 </div>
 
@@ -1335,7 +1341,7 @@
                     <div class="process-number">02</div>
                     <h3 class="process-title">Подбор и проверка</h3>
                     <p class="process-description">
-                        Находим автомобиль по вашим критериям. Полная проверка технического состояния
+                        Находим лучшие предложения, проводим техническую диагностику, проверяем юридическую чистоту. Отправляем фото и видео.
                     </p>
                 </div>
 
@@ -1343,7 +1349,7 @@
                     <div class="process-number">03</div>
                     <h3 class="process-title">Доставка</h3>
                     <p class="process-description">
-                        Организуем логистику из Европы, Кореи или Китая. Страхование груза
+                        Доставляем, растамаживаем, подготавливаем документы. Вы получаете полностью легализованную машину.
                     </p>
                 </div>
 
@@ -1351,16 +1357,13 @@
                     <div class="process-number">04</div>
                     <h3 class="process-title">Оформление</h3>
                     <p class="process-description">
-                        Полное таможенное оформление и регистрация. Готовый автомобиль с документами
+                        Выпускаем ЭПТС, проводим таможенное оформление в РФ. При необходимости сопровождаем в ГАИ для постановки на учёт. Выгодные условия, КАСКО и ОСАГО.
                     </p>
                 </div>
             </div>
 
             <div class="process-image">
-                <div class="image-placeholder">
-                    ФОТО КАРТЫ МИРА / ЛОГИСТИКИ<br>
-                    или фото процесса доставки
-                </div>
+                <img src="images/order-bg.jpg" alt="Доставка и растаможка автомобилей" style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;">
             </div>
         </div>
     </section>
@@ -1382,10 +1385,9 @@
                 <!-- Услуга 1 -->
                 <div class="service-card">
                     <div class="service-image">
-                        <div class="image-placeholder">ФОТО 1</div>
+                        <img src="images/services/selection.jpg" alt="Подбор автомобилей" style="width: 100%; height: 100%; object-fit: cover;">
                     </div>
                     <div class="service-content">
-                        <div class="service-number">01</div>
                         <h3 class="service-title">Автомобили под заказ</h3>
                         <p class="service-description">
                             Подбор и доставка автомобилей из Европы, Южной Кореи и Китая. Полное сопровождение сделки от договора до регистрации
@@ -1396,10 +1398,9 @@
                 <!-- Услуга 2 -->
                 <div class="service-card">
                     <div class="service-image">
-                        <div class="image-placeholder">ФОТО 2</div>
+                        <img src="images/services/delivery.jpg" alt="Доставка автомобилей" style="width: 100%; height: 100%; object-fit: cover;">
                     </div>
                     <div class="service-content">
-                        <div class="service-number">02</div>
                         <h3 class="service-title">Trade-in</h3>
                         <p class="service-description">
                             Выгодный обмен вашего автомобиля с доплатой. Честная оценка, быстрое оформление, минимум документов
@@ -1410,10 +1411,9 @@
                 <!-- Услуга 3 -->
                 <div class="service-card">
                     <div class="service-image">
-                        <div class="image-placeholder">ФОТО 3</div>
+                        <img src="images/services/customs.jpg" alt="Таможенное оформление" style="width: 100%; height: 100%; object-fit: cover;">
                     </div>
                     <div class="service-content">
-                        <div class="service-number">03</div>
                         <h3 class="service-title">Комиссионная продажа</h3>
                         <p class="service-description">
                             Продадим ваш автомобиль по рыночной цене. Профессиональная подготовка, маркетинг и юридическое сопровождение
@@ -1472,9 +1472,9 @@
     <section class="testimonials-section">
         <div class="testimonials-container">
             <div class="section-header">
-                <h2 class="section-title">Отзывы клиентов</h2>
+                <h2 class="section-title">Отзывы наших клиентов</h2>
                 <p class="section-description">
-                    Более 1000 довольных клиентов с 2020 года
+                    Более 3000 довольных клиентов с 2014 года
                 </p>
             </div>
 
@@ -1553,33 +1553,19 @@
                 <div class="footer-column">
                     <div class="footer-logo">AMG AUTO TRADE</div>
                     <p class="footer-description">
-                        Автомобили премиум-класса с 2020 года.<br>
-                        Более 1000 довольных клиентов
+                        Работаем с 2014 года<br>
+                        Более 3000 довольных клиентов
                     </p>
-                    <div class="footer-stats">
-                        <div class="stat-item">
-                            <div class="stat-number">100+</div>
-                            <div class="stat-label">Автомобилей</div>
-                        </div>
-                        <div class="stat-item">
-                            <div class="stat-number">1000+</div>
-                            <div class="stat-label">Клиентов</div>
-                        </div>
-                        <div class="stat-item">
-                            <div class="stat-number">2020</div>
-                            <div class="stat-label">Год основания</div>
-                        </div>
-                    </div>
                 </div>
 
                 <!-- Колонка 2: Навигация -->
                 <div class="footer-column">
                     <h4 class="footer-title">Навигация</h4>
                     <ul class="footer-links">
-                        <li><a href="#home">Главная</a></li>
-                        <li><a href="#catalog">Каталог</a></li>
+                        <li><a href="/">Главная</a></li>
+                        <li><a href="catalog.html">Каталог</a></li>
                         <li><a href="#services">Услуги</a></li>
-                        <li><a href="#about">О нас</a></li>
+                        <li><a href="#blog">Блог</a></li>
                         <li><a href="#contacts">Контакты</a></li>
                     </ul>
                 </div>
@@ -1599,31 +1585,43 @@
                 <!-- Колонка 4: Контакты -->
                 <div class="footer-column">
                     <h4 class="footer-title">Контакты</h4>
+                    <p style="font-size: 13px; color: var(--gray); margin-bottom: 15px;">
+                        ООО «АМГ АВТО-ТРЕЙД»<br>
+                        км МКАД 53-й, д.6<br>
+                        г. Москва, 121353, Россия
+                    </p>
                     <ul class="footer-contacts">
                         <li>
                             <span class="contact-icon">📞</span>
-                            <a href="tel:+74951234567">+7 (495) 123-45-67</a>
+                            <a href="tel:+79856742650">+7 (985) 674-26-50</a>
                         </li>
                         <li>
-                            <span class="contact-icon">📧</span>
-                            <a href="/cdn-cgi/l/email-protection#6d04030b022d0c000a0c181902191f0c0908431f18"><span class="__cf_email__" data-cfemail="70191e161f30111d171105041f04021114155e0205">[email&#160;protected]</span></a>
-                        </li>
-                        <li>
-                            <span class="contact-icon">📍</span>
-                            <span>Москва, 53-й км МКАД</span>
+                            <span class="contact-icon">✈️</span>
+                            <a href="https://t.me/AMG_auto_trade" target="_blank">@AMG_auto_trade</a>
                         </li>
                     </ul>
-                    <div class="footer-socials">
-                        <a href="#" class="social-link">VK</a>
-                        <a href="#" class="social-link">Instagram</a>
-                        <a href="#" class="social-link">Telegram</a>
+                    <div style="margin-top: 20px;">
+                        <p style="font-size: 12px; color: var(--gray); margin-bottom: 10px;">Социальные сети:</p>
+                        <div class="footer-socials">
+                            <a href="https://youtube.com/@amg_auto_trade?si=fbNE350LAfXgWh0a" target="_blank" class="social-link">YouTube</a>
+                            <a href="https://t.me/AMG_auto_trade" target="_blank" class="social-link">Telegram</a>
+                        </div>
+                    </div>
+                    <div style="margin-top: 15px;">
+                        <p style="font-size: 12px; color: var(--gray); margin-bottom: 10px;">Мы на площадках:</p>
+                        <div class="footer-socials">
+                            <a href="https://www.avito.ru/brands/06614d20cae91c129050527e2f11036f/items/all/transport" target="_blank" class="social-link">Avito</a>
+                            <a href="https://auto.drom.ru/dealer331589/bmw/7-series/" target="_blank" class="social-link">Drom</a>
+                            <a href="https://auto.ru/diler/cars/all/amg_auto_trade_moskva/" target="_blank" class="social-link">Auto.ru</a>
+                        </div>
                     </div>
                 </div>
             </div>
 
             <div class="footer-bottom">
                 <div class="footer-legal">
-                    <p>© 2024 AMG Auto Trade. Все права защищены</p>
+                    <p>© 2024 ООО "АМГ АВТО-ТРЕЙД". Все права защищены<br>
+                    <span style="font-size: 11px; color: var(--gray);">ИНН: 9731139759 | ОГРН: 1247700576573</span></p>
                     <div class="footer-legal-links">
                         <a href="#privacy">Политика конфиденциальности</a>
-                        <a href="#terms">Пользовательское с�
+                        <a href="#terms">Пользовательское с�

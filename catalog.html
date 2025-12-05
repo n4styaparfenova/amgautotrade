@@ -1200,7 +1200,24 @@
         }
 
         // Загружаем данные при загрузке страницы
-        document.addEventListener('DOMContentLoaded', loadCars);
+        document.addEventListener('DOMContentLoaded', () => {
+            loadCars();
+
+            // Проверяем URL параметр ?brand= и автоматически применяем фильтр
+            const urlParams = new URLSearchParams(window.location.search);
+            const brandParam = urlParams.get('brand');
+
+            if (brandParam) {
+                // Ждем загрузки данных
+                setTimeout(() => {
+                    const brandSelect = document.getElementById('brandFilter');
+                    if (brandSelect) {
+                        brandSelect.value = brandParam;
+                        brandSelect.dispatchEvent(new Event('change'));
+                    }
+                }, 500);
+            }
+        });
     </script>
 </body>
 </html>
