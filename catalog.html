@@ -41,7 +41,9 @@
             position: relative;
         }
 
-        /* HEADER */
+        /* ============================================
+           HEADER / NAVIGATION
+        ============================================ */
         header {
             position: fixed;
             top: 0;
@@ -50,7 +52,7 @@
             z-index: 1000;
             background: rgba(26, 29, 33, 0.95);
             backdrop-filter: blur(10px);
-            border-bottom: 1px solid var(--border);
+            border-bottom: 1px solid rgba(201, 169, 97, 0.1);
         }
 
         .header-content {
@@ -65,7 +67,15 @@
         .logo {
             height: 70px;
             width: auto;
+            opacity: 0;
+            animation: fadeInLogo 0.8s ease-out forwards;
             transition: all 0.3s ease;
+        }
+
+        @keyframes fadeInLogo {
+            to {
+                opacity: 1;
+            }
         }
 
         .logo:hover {
@@ -80,19 +90,19 @@
 
         nav {
             display: flex;
-            align-items: center;
             gap: 50px;
+            align-items: center;
         }
 
         nav a {
             color: var(--white);
             text-decoration: none;
-            font-size: 14px;
             font-weight: 300;
-            text-transform: uppercase;
+            font-size: 14px;
             letter-spacing: 1px;
-            transition: color 0.3s;
+            text-transform: uppercase;
             position: relative;
+            transition: color 0.3s ease;
         }
 
         nav a::after {
@@ -119,15 +129,12 @@
             background: transparent;
             border: 1px solid var(--gold);
             color: var(--gold);
-            font-family: 'Montserrat', sans-serif;
-            font-size: 13px;
-            font-weight: 400;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            cursor: pointer;
-            transition: all 0.3s;
             text-decoration: none;
-            display: inline-block;
+            font-weight: 400;
+            font-size: 13px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            transition: all 0.3s ease;
         }
 
         .header-cta:hover {
@@ -135,10 +142,6 @@
             color: var(--dark-bg);
             transform: translateY(-2px);
             box-shadow: 0 10px 30px rgba(201, 169, 97, 0.3);
-        }
-
-        .header-cta::after {
-            display: none;
         }
 
         /* BURGER MENU */
@@ -183,8 +186,7 @@
             z-index: 999;
             transform: translateY(-100%);
             transition: transform 0.3s ease;
-            flex-direction: column;
-            gap: 20px;
+            border-bottom: 1px solid rgba(201, 169, 97, 0.2);
         }
 
         .mobile-nav.active {
@@ -192,12 +194,13 @@
         }
 
         .mobile-nav a {
+            display: block;
             color: var(--white);
             text-decoration: none;
-            font-size: 18px;
             font-weight: 300;
-            text-transform: uppercase;
+            font-size: 18px;
             letter-spacing: 1px;
+            text-transform: uppercase;
             padding: 15px 0;
             border-bottom: 1px solid rgba(201, 169, 97, 0.1);
             transition: color 0.3s ease;
@@ -208,8 +211,18 @@
         }
 
         .mobile-nav .header-cta {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 12px 30px;
+            background: transparent;
+            border: 1px solid var(--gold);
+            color: var(--gold);
             text-align: center;
-            border-bottom: none;
+        }
+
+        .mobile-nav .header-cta:hover {
+            background: var(--gold);
+            color: var(--dark-bg);
         }
 
         @media (max-width: 768px) {
@@ -222,7 +235,7 @@
             }
 
             .mobile-nav {
-                display: flex;
+                display: block;
             }
         }
 
@@ -242,9 +255,54 @@
         /* Остальные стили точно такие же как в catalog-updated.html */
         /* Копирую всё остальное... */
 
+        /* SEARCH BAR */
+        .search-container {
+            max-width: 1440px;
+            margin: 120px auto 0;
+            padding: 0 40px 20px;
+        }
+
+        .search-bar {
+            position: relative;
+            width: 100%;
+            margin-bottom: 20px;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: 15px 20px 15px 50px;
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            color: var(--white);
+            font-family: 'Montserrat', sans-serif;
+            font-size: 15px;
+            transition: all 0.3s ease;
+        }
+
+        .search-input:focus {
+            outline: none;
+            border-color: var(--gold);
+            background: rgba(255, 255, 255, 0.08);
+        }
+
+        .search-input::placeholder {
+            color: var(--gray);
+        }
+
+        .search-icon {
+            position: absolute;
+            left: 18px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--gray);
+            font-size: 18px;
+            pointer-events: none;
+        }
+
         .catalog-container {
             max-width: 1440px;
-            margin: 120px auto 60px;
+            margin: 0 auto 60px;
             padding: 0 40px;
             display: grid;
             grid-template-columns: 280px 1fr;
@@ -444,8 +502,8 @@
 
         .cars-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-            gap: 30px;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
         }
 
         .car-card {
@@ -465,7 +523,7 @@
 
         .car-image {
             width: 100%;
-            height: 240px;
+            height: 180px;
             background: var(--dark-bg);
             display: flex;
             align-items: center;
@@ -501,24 +559,24 @@
         }
 
         .car-info {
-            padding: 25px;
+            padding: 20px;
         }
 
         .car-title {
             font-family: 'Oswald', sans-serif;
-            font-size: 22px;
+            font-size: 18px;
             font-weight: 600;
             color: var(--white);
-            margin-bottom: 15px;
+            margin-bottom: 12px;
             text-transform: uppercase;
             letter-spacing: 1px;
         }
 
         .car-specs {
             display: flex;
-            gap: 15px;
-            margin-bottom: 20px;
-            font-size: 13px;
+            gap: 12px;
+            margin-bottom: 15px;
+            font-size: 12px;
             color: var(--gray);
         }
 
@@ -535,20 +593,20 @@
 
         .car-price {
             font-family: 'Oswald', sans-serif;
-            font-size: 28px;
+            font-size: 24px;
             font-weight: 600;
             color: var(--gold);
-            margin-bottom: 20px;
+            margin-bottom: 15px;
         }
 
         .view-btn {
             width: 100%;
-            padding: 12px;
+            padding: 10px;
             background: transparent;
             border: 1px solid var(--gold);
             color: var(--gold);
             font-family: 'Montserrat', sans-serif;
-            font-size: 13px;
+            font-size: 12px;
             font-weight: 600;
             text-transform: uppercase;
             letter-spacing: 1px;
@@ -778,6 +836,10 @@
                 grid-template-columns: 1fr;
             }
 
+            .cars-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
             .filters {
                 position: static;
             }
@@ -797,10 +859,6 @@
                 max-height: 2000px;
                 padding: 30px;
                 margin-bottom: 30px;
-            }
-
-            .cars-grid {
-                grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
             }
         }
 
@@ -822,66 +880,65 @@
             }
 
             .mobile-nav {
-                display: flex;
+                display: block;
             }
 
-            /* 2 колонки для карточек автомобилей на мобильных */
+            .search-container {
+                margin-top: 100px;
+                padding: 0 20px 15px;
+            }
+
+            .search-input {
+                padding: 12px 15px 12px 45px;
+                font-size: 14px;
+            }
+
+            .catalog-container {
+                padding: 0 20px;
+                margin-top: 0;
+            }
+
+            .catalog-header {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 20px;
+            }
+
+            .catalog-header h1 {
+                font-size: 32px;
+            }
+
             .cars-grid {
-                grid-template-columns: repeat(2, 1fr);
-                gap: 10px;
-                padding: 0 10px;
-            }
-
-            /* Компактные карточки автомобилей */
-            .car-card {
-                padding: 0;
+                grid-template-columns: 1fr;
+                gap: 15px;
             }
 
             .car-image {
-                height: 140px;
-                border-radius: 8px 8px 0 0;
+                height: 200px;
             }
 
             .car-info {
-                padding: 10px;
+                padding: 15px;
             }
 
-            .car-name {
-                font-size: 14px;
-                margin-bottom: 5px;
-                line-height: 1.2;
-            }
-
-            .car-year {
-                font-size: 11px;
-                margin-bottom: 8px;
+            .car-title {
+                font-size: 16px;
             }
 
             .car-specs {
-                gap: 8px;
-                margin-bottom: 10px;
-            }
-
-            .spec-item {
-                font-size: 10px;
-                padding: 3px 6px;
+                font-size: 11px;
+                gap: 10px;
             }
 
             .car-price {
-                font-size: 16px;
-                margin-bottom: 8px;
+                font-size: 20px;
             }
 
-            .car-actions {
-                gap: 5px;
-            }
-
-            .btn-details {
+            .view-btn {
                 font-size: 11px;
-                padding: 8px 12px;
+                padding: 8px;
             }
 
-            /* Компактные фильтры */
             .filters h2 {
                 font-size: 18px;
                 margin-bottom: 15px;
@@ -905,30 +962,6 @@
             .filter-toggle-btn {
                 font-size: 14px;
                 padding: 12px;
-            }
-
-            .contact-btn {
-                padding: 10px 20px;
-                font-size: 11px;
-            }
-
-            .catalog-container {
-                padding: 0 20px;
-                margin-top: 100px;
-            }
-
-            .catalog-header {
-                flex-direction: column;
-                align-items: flex-start;
-                gap: 20px;
-            }
-
-            .catalog-header h1 {
-                font-size: 32px;
-            }
-
-            .cars-grid {
-                grid-template-columns: 1fr;
             }
 
             .modal-gallery {
@@ -1003,6 +1036,14 @@
             <a href="tel:+79856742650" class="header-cta">Связаться</a>
         </div>
     </header>
+
+    <!-- SEARCH BAR -->
+    <div class="search-container">
+        <div class="search-bar">
+            <span class="search-icon">🔍</span>
+            <input type="text" id="searchInput" class="search-input" placeholder="Поиск по марке, модели, году...">
+        </div>
+    </div>
 
     <div class="catalog-container">
         <button class="filter-toggle-btn" id="filterToggle">Показать фильтры</button>
@@ -1234,7 +1275,7 @@
             document.getElementById('brandFilter').addEventListener('change', function() {
                 const brand = this.value;
                 const modelSelect = document.getElementById('modelFilter');
-                
+
                 if (brand) {
                     modelSelect.disabled = false;
                     const models = [...new Set(allCars.filter(c => c.brand === brand).map(c => c.model))].sort();
@@ -1246,7 +1287,7 @@
                     modelSelect.disabled = true;
                     modelSelect.innerHTML = '<option value="">Сначала выберите марку</option>';
                 }
-                
+
                 applyFilters();
             });
 
@@ -1257,14 +1298,31 @@
             document.getElementById('priceTo').addEventListener('input', applyFilters);
             document.getElementById('mileageFrom').addEventListener('input', applyFilters);
             document.getElementById('mileageTo').addEventListener('input', applyFilters);
-            
+
             document.querySelectorAll('.type-checkbox, .body-checkbox, .transmission-checkbox').forEach(cb => {
                 cb.addEventListener('change', applyFilters);
+            });
+
+            // Поиск в реальном времени с debounce
+            const searchInput = document.getElementById('searchInput');
+            let searchTimeout;
+            searchInput.addEventListener('input', function() {
+                clearTimeout(searchTimeout);
+                searchTimeout = setTimeout(() => {
+                    applyFilters();
+                }, 300);
             });
         }
 
         function applyFilters() {
             filteredCars = allCars.filter(car => {
+                // Поиск
+                const searchQuery = document.getElementById('searchInput').value.toLowerCase().trim();
+                if (searchQuery) {
+                    const searchableText = `${car.brand} ${car.model} ${car.year} ${car.name}`.toLowerCase();
+                    if (!searchableText.includes(searchQuery)) return false;
+                }
+
                 const brand = document.getElementById('brandFilter').value;
                 if (brand && car.brand !== brand) return false;
 
@@ -1491,6 +1549,7 @@
         });
 
         function resetFilters() {
+            document.getElementById('searchInput').value = '';
             document.getElementById('brandFilter').value = '';
             document.getElementById('modelFilter').value = '';
             document.getElementById('modelFilter').disabled = true;
@@ -1501,9 +1560,9 @@
             document.getElementById('priceTo').value = '';
             document.getElementById('mileageFrom').value = '';
             document.getElementById('mileageTo').value = '';
-            
+
             document.querySelectorAll('input[type="checkbox"]').forEach(cb => cb.checked = false);
-            
+
             filteredCars = [...allCars];
             renderCars(filteredCars);
         }
