@@ -1157,19 +1157,7 @@
     </style>
     
     <script>
-        // Услуги: раскрыть дополнительные
         document.addEventListener('DOMContentLoaded', function() {
-            const expandBtn = document.getElementById('expandBtn');
-            const extraServices = document.getElementById('extraServices');
-            
-            if (expandBtn && extraServices) {
-                expandBtn.addEventListener('click', function() {
-                    extraServices.classList.toggle('active');
-                    this.querySelector('span').textContent = 
-                        extraServices.classList.contains('active') ? '- СКРЫТЬ' : '+ ЕЩЁ 8 УСЛУГ';
-                });
-            }
-
             // Слайдер отзывов
             const testimonialCards = document.querySelectorAll('.testimonial-card');
             const dots = document.querySelectorAll('.dot');
@@ -1227,7 +1215,7 @@
                 <a href="catalog.html">Каталог</a>
                 <a href="services.html">Услуги</a>
                 <a href="contacts.html">Контакты</a>
-                <a href="contacts.html" class="header-cta">Связаться</a>
+                <a href="tel:+79856742650" class="header-cta">Связаться</a>
             </nav>
         </div>
     </header>
@@ -1247,7 +1235,7 @@
                     Индивидуальный подбор и доставка с гарантией<br>
                     из Европы, Южной Кореи и Китая
                 </p>
-                <a href="#catalog" class="hero-cta">Перейти в каталог</a>
+                <a href="catalog.html" class="hero-cta">Перейти в каталог</a>
             </div>
 
             <div class="hero-image-wrapper">
@@ -1306,7 +1294,7 @@
 
             <div class="brands-cta">
                 <p class="cta-text">Не нашли нужный автомобиль? Привезём под заказ</p>
-                <a href="#order" class="cta-button">Смотреть каталог</a>
+                <a href="catalog.html" class="cta-button">Смотреть каталог</a>
             </div>
         </div>
     </section>
@@ -1419,44 +1407,9 @@
 
             <!-- Дополнительные услуги -->
             <div class="services-extra">
-                <button class="services-expand" id="expandBtn">
-                    <span>+ ЕЩЁ 8 УСЛУГ</span>
-                </button>
-                
-                <div class="services-extra-grid" id="extraServices">
-                    <div class="service-item-small">
-                        <div class="service-icon">🔧</div>
-                        <h4>Кредит и лизинг</h4>
-                    </div>
-                    <div class="service-item-small">
-                        <div class="service-icon">✨</div>
-                        <h4>Детейлинг</h4>
-                    </div>
-                    <div class="service-item-small">
-                        <div class="service-icon">🛡️</div>
-                        <h4>Страхование КАСКО</h4>
-                    </div>
-                    <div class="service-item-small">
-                        <div class="service-icon">🔍</div>
-                        <h4>Проверка перед покупкой</h4>
-                    </div>
-                    <div class="service-item-small">
-                        <div class="service-icon">📋</div>
-                        <h4>Помощь в регистрации</h4>
-                    </div>
-                    <div class="service-item-small">
-                        <div class="service-icon">🚗</div>
-                        <h4>Доставка по России</h4>
-                    </div>
-                    <div class="service-item-small">
-                        <div class="service-icon">🔑</div>
-                        <h4>Дубликаты ключей</h4>
-                    </div>
-                    <div class="service-item-small">
-                        <div class="service-icon">⚙️</div>
-                        <h4>Гарантийный сервис</h4>
-                    </div>
-                </div>
+                <a href="services.html" class="services-expand">
+                    + ЕЩЁ 8 УСЛУГ
+                </a>
             </div>
         </div>
     </section>
