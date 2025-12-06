@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Политика конфиденциальности — AMG Auto Trade</title>
+    <meta name="description" content="Политика конфиденциальности AMG Auto Trade. Условия обработки персональных данных пользователей сайта.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;600&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --dark-bg: #1A1D21;
+            --light-bg: #F8F8F8;
+            --gold: #C9A961;
+            --gold-hover: #D4AF37;
+            --white: #FFFFFF;
+            --gray: #A8A8A8;
+            --gray-dark: #2C3035;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background: var(--dark-bg);
+            color: var(--white);
+            overflow-x: hidden;
+        }
+
+        /* HEADER */
+        header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 1000;
+            background: rgba(26, 29, 33, 0.95);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid rgba(201, 169, 97, 0.1);
+        }
+
+        .header-content {
+            max-width: 1440px;
+            margin: 0 auto;
+            padding: 15px 60px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            height: 70px;
+            width: auto;
+            transition: all 0.3s ease;
+        }
+
+        .logo:hover {
+            opacity: 0.8;
+            transform: scale(1.05);
+        }
+
+        .logo-link {
+            display: flex;
+            align-items: center;
+        }
+
+        nav {
+            display: flex;
+            gap: 50px;
+            align-items: center;
+        }
+
+        nav a {
+            color: var(--white);
+            text-decoration: none;
+            font-weight: 300;
+            font-size: 14px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            position: relative;
+            transition: color 0.3s ease;
+        }
+
+        nav a::after {
+            content: '';
+            position: absolute;
+            bottom: -5px;
+            left: 0;
+            width: 0;
+            height: 1px;
+            background: var(--gold);
+            transition: width 0.3s ease;
+        }
+
+        nav a:hover {
+            color: var(--gold);
+        }
+
+        nav a:hover::after {
+            width: 100%;
+        }
+
+        .header-cta {
+            padding: 12px 30px;
+            background: transparent;
+            border: 1px solid var(--gold);
+            color: var(--gold);
+            text-decoration: none;
+            font-weight: 400;
+            font-size: 13px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            transition: all 0.3s ease;
+        }
+
+        .header-cta:hover {
+            background: var(--gold);
+            color: var(--dark-bg);
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(201, 169, 97, 0.3);
+        }
+
+        .header-cta::after {
+            display: none;
+        }
+
+        /* HERO */
+        .page-hero {
+            padding: 200px 60px 120px;
+            background: linear-gradient(135deg, var(--dark-bg) 0%, var(--gray-dark) 100%);
+            text-align: center;
+        }
+
+        .page-title {
+            font-family: 'Oswald', sans-serif;
+            font-size: 64px;
+            font-weight: 400;
+            letter-spacing: 2px;
+            margin-bottom: 20px;
+            color: var(--gold);
+        }
+
+        .page-subtitle {
+            font-size: 18px;
+            color: var(--gray);
+            max-width: 700px;
+            margin: 0 auto;
+            line-height: 1.6;
+        }
+
+        /* PRIVACY CONTENT */
+        .privacy-section {
+            padding: 100px 60px;
+        }
+
+        .privacy-container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .privacy-content {
+            background: rgba(44, 48, 53, 0.3);
+            padding: 60px;
+            border-radius: 8px;
+            border: 1px solid rgba(201, 169, 97, 0.2);
+        }
+
+        .privacy-content h2 {
+            font-family: 'Oswald', sans-serif;
+            font-size: 32px;
+            color: var(--gold);
+            margin-bottom: 30px;
+            margin-top: 40px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .privacy-content h2:first-child {
+            margin-top: 0;
+        }
+
+        .privacy-content h3 {
+            font-family: 'Oswald', sans-serif;
+            font-size: 22px;
+            color: var(--white);
+            margin-bottom: 15px;
+            margin-top: 30px;
+        }
+
+        .privacy-content p {
+            font-size: 16px;
+            color: var(--gray);
+            line-height: 1.8;
+            margin-bottom: 20px;
+        }
+
+        .privacy-content ul {
+            margin-left: 25px;
+            margin-bottom: 20px;
+        }
+
+        .privacy-content li {
+            font-size: 16px;
+            color: var(--gray);
+            line-height: 1.8;
+            margin-bottom: 10px;
+        }
+
+        .privacy-content a {
+            color: var(--gold);
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .privacy-content a:hover {
+            color: var(--gold-hover);
+            text-decoration: underline;
+        }
+
+        /* FOOTER */
+        footer {
+            background: var(--gray-dark);
+            padding: 60px 60px 30px;
+            text-align: center;
+            border-top: 1px solid rgba(201, 169, 97, 0.1);
+        }
+
+        .footer-text {
+            color: var(--gray);
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+
+        .footer-bottom {
+            padding-top: 30px;
+            border-top: 1px solid rgba(201, 169, 97, 0.1);
+            color: var(--gray);
+            font-size: 12px;
+        }
+
+        .footer-bottom a {
+            color: var(--gold);
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .footer-bottom a:hover {
+            color: var(--gold-hover);
+            text-decoration: underline;
+        }
+
+        @media (max-width: 768px) {
+            .page-title {
+                font-size: 42px;
+            }
+
+            .privacy-content {
+                padding: 30px;
+            }
+
+            .header-content {
+                padding: 15px 30px;
+            }
+
+            .privacy-section {
+                padding: 60px 30px;
+            }
+
+            nav {
+                gap: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- HEADER -->
+    <header>
+        <div class="header-content">
+            <a href="index.html" class="logo-link">
+                <img src="images/logo.png" alt="AMG Auto Trade - Премиальные автомобили" class="logo">
+            </a>
+            <nav>
+                <a href="index.html">Главная</a>
+                <a href="catalog.html">Каталог</a>
+                <a href="services.html">Услуги</a>
+                <a href="contacts.html">Контакты</a>
+                <a href="tel:+79856742650" class="header-cta">Связаться</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- HERO -->
+    <section class="page-hero">
+        <h1 class="page-title">Политика конфиденциальности</h1>
+        <p class="page-subtitle">
+            Условия обработки и защиты персональных данных пользователей
+        </p>
+    </section>
+
+    <!-- PRIVACY CONTENT -->
+    <section class="privacy-section">
+        <div class="privacy-container">
+            <div class="privacy-content">
+                <h2>1. Общие положения</h2>
+                <p>
+                    Настоящая Политика конфиденциальности персональных данных (далее — Политика) действует в отношении всей информации, которую ООО «АМГ АВТО-ТРЕЙД» (далее — Администрация Сайта) может получить о Пользователе во время использования сайта <a href="https://amgautotrade.ru">amgautotrade.ru</a>.
+                </p>
+                <p>
+                    Использование Сайта означает безоговорочное согласие Пользователя с настоящей Политикой и указанными в ней условиями обработки его персональных данных. В случае несогласия с этими условиями Пользователь должен воздержаться от использования Сайта.
+                </p>
+                <p>
+                    Администрация Сайта не проверяет достоверность персональных данных, предоставляемых Пользователем.
+                </p>
+
+                <h2>2. Предмет политики конфиденциальности</h2>
+                <p>
+                    Настоящая Политика конфиденциальности устанавливает обязательства Администрации Сайта по неразглашению и обеспечению режима защиты конфиденциальности персональных данных, которые Пользователь предоставляет при заполнении форм обратной связи или при телефонном обращении.
+                </p>
+                <p>
+                    Персональные данные, разрешённые к обработке в рамках настоящей Политики конфиденциальности, предоставляются Пользователем путём заполнения форм на Сайте или при телефонном обращении и включают в себя следующую информацию:
+                </p>
+                <ul>
+                    <li>Имя Пользователя</li>
+                    <li>Номер контактного телефона</li>
+                </ul>
+                <p>
+                    Сайт не собирает автоматически никакие другие данные, за исключением стандартной информации, передаваемой браузером (IP-адрес, тип браузера, операционная система).
+                </p>
+
+                <h2>3. Цели сбора персональной информации пользователя</h2>
+                <p>
+                    Персональные данные Пользователя Администрация Сайта может использовать в целях:
+                </p>
+                <ul>
+                    <li>Установления обратной связи с Пользователем, включая направление уведомлений, запросов, касающихся использования Сайта, оказания услуг</li>
+                    <li>Консультирования Пользователя по вопросам приобретения автомобилей и предоставляемых услуг</li>
+                    <li>Уточнения деталей заявки или заказа</li>
+                    <li>Ведения учёта обращений в CRM-системе компании</li>
+                </ul>
+
+                <h2>4. Способы и сроки обработки персональной информации</h2>
+                <p>
+                    Обработка персональных данных Пользователя осуществляется без ограничения срока, любым законным способом, в том числе в информационных системах персональных данных с использованием средств автоматизации или без использования таких средств.
+                </p>
+                <p>
+                    Персональные данные Пользователя могут быть переданы уполномоченным органам государственной власти Российской Федерации только по основаниям и в порядке, установленным законодательством Российской Федерации.
+                </p>
+                <p>
+                    При утрате или разглашении персональных данных Администрация Сайта информирует Пользователя об утрате или разглашении персональных данных.
+                </p>
+                <p>
+                    Администрация Сайта принимает необходимые организационные и технические меры для защиты персональной информации Пользователя от неправомерного или случайного доступа, уничтожения, изменения, блокирования, копирования, распространения, а также от иных неправомерных действий третьих лиц.
+                </p>
+
+                <h2>5. Обязательства сторон</h2>
+                <h3>5.1. Пользователь обязан:</h3>
+                <ul>
+                    <li>Предоставить информацию о персональных данных, необходимую для пользования Сайтом</li>
+                    <li>Обновить, дополнить предоставленную информацию о персональных данных в случае изменения данной информации</li>
+                </ul>
+
+                <h3>5.2. Администрация Сайта обязана:</h3>
+                <ul>
+                    <li>Использовать полученную информацию исключительно для целей, указанных в настоящей Политике конфиденциальности</li>
+                    <li>Обеспечить хранение конфиденциальной информации в тайне, не разглашать без предварительного письменного разрешения Пользователя, а также не осуществлять продажу, обмен, опубликование, либо разглашение иными возможными способами переданных персональных данных Пользователя</li>
+                    <li>Принимать меры предосторожности для защиты конфиденциальности персональных данных Пользователя согласно порядку, обычно используемому для защиты такого рода информации в существующем деловом обороте</li>
+                </ul>
+
+                <h2>6. Ответственность сторон</h2>
+                <p>
+                    Администрация Сайта, не исполнившая свои обязательства, несёт ответственность за убытки, понесённые Пользователем в связи с неправомерным использованием персональных данных, в соответствии с законодательством Российской Федерации.
+                </p>
+                <p>
+                    В случае утраты или разглашения конфиденциальной информации Администрация Сайта не несёт ответственность, если данная конфиденциальная информация:
+                </p>
+                <ul>
+                    <li>Стала публичным достоянием до её утраты или разглашения</li>
+                    <li>Была получена от третьей стороны до момента её получения Администрацией Сайта</li>
+                    <li>Была разглашена с согласия Пользователя</li>
+                </ul>
+
+                <h2>7. Разрешение споров</h2>
+                <p>
+                    До обращения в суд с иском по спорам, возникающим из отношений между Пользователем Сайта и Администрацией Сайта, обязательным является предъявление претензии (письменного предложения о добровольном урегулировании спора).
+                </p>
+                <p>
+                    Получатель претензии в течение 30 календарных дней со дня получения претензии письменно уведомляет заявителя претензии о результатах рассмотрения претензии.
+                </p>
+                <p>
+                    При не достижении соглашения спор будет передан на рассмотрение в суд в соответствии с действующим законодательством Российской Федерации.
+                </p>
+                <p>
+                    К настоящей Политике конфиденциальности и отношениям между Пользователем и Администрацией Сайта применяется действующее законодательство Российской Федерации.
+                </p>
+
+                <h2>8. Дополнительные условия</h2>
+                <p>
+                    Администрация Сайта вправе вносить изменения в настоящую Политику конфиденциальности без согласия Пользователя.
+                </p>
+                <p>
+                    Новая Политика конфиденциальности вступает в силу с момента её размещения на Сайте, если иное не предусмотрено новой редакцией Политики конфиденциальности.
+                </p>
+                <p>
+                    Все предложения или вопросы по настоящей Политике конфиденциальности следует направлять на электронную почту: <a href="mailto:amgautotrade.msc@gmail.com">amgautotrade.msc@gmail.com</a>
+                </p>
+                <p>
+                    Действующая Политика конфиденциальности размещена на странице по адресу: <a href="https://n4styaparfenova.github.io/amgautotrade/privacy.html">https://n4styaparfenova.github.io/amgautotrade/privacy.html</a>
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+        <p class="footer-text">AMG Auto Trade — Премиальные автомобили с 2014 года</p>
+        <div class="footer-bottom">
+            <p>© 2024 ООО "АМГ АВТО-ТРЕЙД". Все права защищены<br>
+            ИНН: 9731139759 | ОГРН: 1247700576573<br>
+            <a href="privacy.html">Политика конфиденциальности</a></p>
+        </div>
+    </footer>
+</body>
+</html>
