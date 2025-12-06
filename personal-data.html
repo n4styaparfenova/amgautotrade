@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Политика обработки персональных данных — AMG Auto Trade</title>
+    <meta name="description" content="Политика обработки персональных данных ООО «АМГ АВТО-ТРЕЙД». Условия сбора, хранения и защиты персональных данных.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;600&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --dark-bg: #1A1D21;
+            --light-bg: #F8F8F8;
+            --gold: #C9A961;
+            --gold-hover: #D4AF37;
+            --white: #FFFFFF;
+            --gray: #A8A8A8;
+            --gray-dark: #2C3035;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background: var(--dark-bg);
+            color: var(--white);
+            overflow-x: hidden;
+        }
+
+        /* HEADER */
+        header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 1000;
+            background: rgba(26, 29, 33, 0.95);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid rgba(201, 169, 97, 0.1);
+        }
+
+        .header-content {
+            max-width: 1440px;
+            margin: 0 auto;
+            padding: 15px 60px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            height: 70px;
+            width: auto;
+            transition: all 0.3s ease;
+        }
+
+        .logo:hover {
+            opacity: 0.8;
+            transform: scale(1.05);
+        }
+
+        .logo-link {
+            display: flex;
+            align-items: center;
+        }
+
+        nav {
+            display: flex;
+            gap: 50px;
+            align-items: center;
+        }
+
+        nav a {
+            color: var(--white);
+            text-decoration: none;
+            font-weight: 300;
+            font-size: 14px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            position: relative;
+            transition: color 0.3s ease;
+        }
+
+        nav a::after {
+            content: '';
+            position: absolute;
+            bottom: -5px;
+            left: 0;
+            width: 0;
+            height: 1px;
+            background: var(--gold);
+            transition: width 0.3s ease;
+        }
+
+        nav a:hover {
+            color: var(--gold);
+        }
+
+        nav a:hover::after {
+            width: 100%;
+        }
+
+        .header-cta {
+            padding: 12px 30px;
+            background: transparent;
+            border: 1px solid var(--gold);
+            color: var(--gold);
+            text-decoration: none;
+            font-weight: 400;
+            font-size: 13px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            transition: all 0.3s ease;
+        }
+
+        .header-cta:hover {
+            background: var(--gold);
+            color: var(--dark-bg);
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(201, 169, 97, 0.3);
+        }
+
+        .header-cta::after {
+            display: none;
+        }
+
+        /* HERO */
+        .page-hero {
+            padding: 200px 60px 120px;
+            background: linear-gradient(135deg, var(--dark-bg) 0%, var(--gray-dark) 100%);
+            text-align: center;
+        }
+
+        .page-title {
+            font-family: 'Oswald', sans-serif;
+            font-size: 64px;
+            font-weight: 400;
+            letter-spacing: 2px;
+            margin-bottom: 20px;
+            color: var(--gold);
+        }
+
+        .page-subtitle {
+            font-size: 18px;
+            color: var(--gray);
+            max-width: 700px;
+            margin: 0 auto;
+            line-height: 1.6;
+        }
+
+        /* CONTENT */
+        .content-section {
+            padding: 100px 60px;
+        }
+
+        .content-container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .content-block {
+            background: rgba(44, 48, 53, 0.3);
+            padding: 60px;
+            border-radius: 8px;
+            border: 1px solid rgba(201, 169, 97, 0.2);
+        }
+
+        .content-block h2 {
+            font-family: 'Oswald', sans-serif;
+            font-size: 32px;
+            color: var(--gold);
+            margin-bottom: 30px;
+            margin-top: 40px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .content-block h2:first-child {
+            margin-top: 0;
+        }
+
+        .content-block h3 {
+            font-family: 'Oswald', sans-serif;
+            font-size: 22px;
+            color: var(--white);
+            margin-bottom: 15px;
+            margin-top: 30px;
+        }
+
+        .content-block p {
+            font-size: 16px;
+            color: var(--gray);
+            line-height: 1.8;
+            margin-bottom: 20px;
+        }
+
+        .content-block ul {
+            margin-left: 25px;
+            margin-bottom: 20px;
+        }
+
+        .content-block li {
+            font-size: 16px;
+            color: var(--gray);
+            line-height: 1.8;
+            margin-bottom: 10px;
+        }
+
+        .content-block a {
+            color: var(--gold);
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .content-block a:hover {
+            color: var(--gold-hover);
+            text-decoration: underline;
+        }
+
+        .info-box {
+            background: rgba(201, 169, 97, 0.1);
+            border-left: 4px solid var(--gold);
+            padding: 20px;
+            margin: 20px 0;
+        }
+
+        .info-box p {
+            margin: 0;
+        }
+
+        /* FOOTER */
+        footer {
+            background: var(--gray-dark);
+            padding: 60px 60px 30px;
+            text-align: center;
+            border-top: 1px solid rgba(201, 169, 97, 0.1);
+        }
+
+        .footer-text {
+            color: var(--gray);
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+
+        .footer-bottom {
+            padding-top: 30px;
+            border-top: 1px solid rgba(201, 169, 97, 0.1);
+            color: var(--gray);
+            font-size: 12px;
+        }
+
+        .footer-bottom a {
+            color: var(--gold);
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .footer-bottom a:hover {
+            color: var(--gold-hover);
+            text-decoration: underline;
+        }
+
+        @media (max-width: 768px) {
+            .page-title {
+                font-size: 42px;
+            }
+
+            .content-block {
+                padding: 30px;
+            }
+
+            .header-content {
+                padding: 15px 30px;
+            }
+
+            .content-section {
+                padding: 60px 30px;
+            }
+
+            nav {
+                gap: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- HEADER -->
+    <header>
+        <div class="header-content">
+            <a href="index.html" class="logo-link">
+                <img src="images/logo.png" alt="AMG Auto Trade - Премиальные автомобили" class="logo">
+            </a>
+            <nav>
+                <a href="index.html">Главная</a>
+                <a href="catalog.html">Каталог</a>
+                <a href="services.html">Услуги</a>
+                <a href="contacts.html">Контакты</a>
+                <a href="tel:+79856742650" class="header-cta">Связаться</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- HERO -->
+    <section class="page-hero">
+        <h1 class="page-title">Политика обработки<br>персональных данных</h1>
+        <p class="page-subtitle">
+            Условия сбора, хранения и защиты персональных данных пользователей
+        </p>
+    </section>
+
+    <!-- CONTENT -->
+    <section class="content-section">
+        <div class="content-container">
+            <div class="content-block">
+                <h2>1. Общие положения</h2>
+                <p>
+                    Настоящая Политика обработки персональных данных (далее — Политика) определяет порядок обработки персональных данных и меры по обеспечению безопасности персональных данных в ООО «АМГ АВТО-ТРЕЙД» (далее — Оператор) с целью защиты прав и свобод человека и гражданина при обработке его персональных данных, в том числе защиты прав на неприкосновенность частной жизни, личную и семейную тайну.
+                </p>
+                <p>
+                    Настоящая Политика разработана в соответствии с Федеральным законом от 27 июля 2006 г. № 152-ФЗ «О персональных данных» (далее — Закон о персональных данных) и действует в отношении всех персональных данных, которые Оператор может получить от пользователей сайта <a href="https://amgautotrade.ru">amgautotrade.ru</a>, а также от лиц, контактирующих с Оператором по телефону, через мессенджеры и социальные сети.
+                </p>
+
+                <h2>2. Сведения об операторе персональных данных</h2>
+                <div class="info-box">
+                    <p><strong>Полное наименование:</strong> Общество с ограниченной ответственностью «АМГ АВТО-ТРЕЙД»</p>
+                    <p><strong>Сокращенное наименование:</strong> ООО «АМГ АВТО-ТРЕЙД»</p>
+                    <p><strong>Юридический адрес:</strong> 121353, км МКАД 53-й, д. 6, Москва</p>
+                    <p><strong>ИНН:</strong> 9731139759</p>
+                    <p><strong>ОГРН:</strong> 1247700576573</p>
+                    <p><strong>Email:</strong> <a href="mailto:amgautotrade.msc@gmail.com">amgautotrade.msc@gmail.com</a></p>
+                    <p><strong>Телефон:</strong> <a href="tel:+79856742650">+7 (985) 674-26-50</a></p>
+                </div>
+
+                <h2>3. Цели обработки персональных данных</h2>
+                <p>
+                    Оператор обрабатывает персональные данные в следующих целях:
+                </p>
+                <ul>
+                    <li>Установление связи с пользователями для консультирования по вопросам приобретения автомобилей и услуг компании</li>
+                    <li>Предоставление ответов на запросы пользователей</li>
+                    <li>Информирование пользователей об услугах, предоставляемых Оператором</li>
+                    <li>Ведение учёта обращений в CRM-системе компании</li>
+                    <li>Улучшение качества обслуживания клиентов</li>
+                    <li>Исполнение договорных обязательств</li>
+                </ul>
+                <p>
+                    <strong>Важно:</strong> Обработка персональных данных не используется для рассылки рекламных сообщений без отдельного согласия субъекта персональных данных.
+                </p>
+
+                <h2>4. Категории обрабатываемых персональных данных</h2>
+                <p>
+                    Оператор обрабатывает следующие категории персональных данных:
+                </p>
+                <ul>
+                    <li>Имя (фамилия, имя, отчество)</li>
+                    <li>Номер контактного телефона</li>
+                    <li>Логины в мессенджерах и социальных сетях (WhatsApp, Telegram, Instagram, VK и других)</li>
+                </ul>
+                <p>
+                    Оператор <strong>не обрабатывает</strong> специальные категории персональных данных, касающиеся расовой, национальной принадлежности, политических взглядов, религиозных или философских убеждений, состояния здоровья, интимной жизни.
+                </p>
+
+                <h2>5. Правовые основания обработки персональных данных</h2>
+                <p>
+                    Обработка персональных данных осуществляется на основании:
+                </p>
+                <ul>
+                    <li>Федерального закона от 27.07.2006 № 152-ФЗ «О персональных данных»</li>
+                    <li>Согласия субъекта персональных данных на обработку его персональных данных</li>
+                    <li>Заключенных договоров, стороной которых является субъект персональных данных</li>
+                </ul>
+
+                <h2>6. Условия обработки персональных данных</h2>
+                <h3>6.1. Срок обработки</h3>
+                <p>
+                    Обработка персональных данных осуществляется без ограничения срока, любым законным способом, в том числе в информационных системах персональных данных с использованием средств автоматизации или без использования таких средств.
+                </p>
+                <p>
+                    Персональные данные хранятся до достижения целей обработки или до отзыва согласия субъектом персональных данных.
+                </p>
+
+                <h3>6.2. Способы обработки</h3>
+                <p>
+                    Обработка персональных данных включает следующие действия:
+                </p>
+                <ul>
+                    <li>Сбор</li>
+                    <li>Запись</li>
+                    <li>Систематизация</li>
+                    <li>Накопление</li>
+                    <li>Хранение</li>
+                    <li>Уточнение (обновление, изменение)</li>
+                    <li>Извлечение</li>
+                    <li>Использование</li>
+                    <li>Блокирование</li>
+                    <li>Удаление</li>
+                    <li>Уничтожение</li>
+                </ul>
+
+                <h3>6.3. Доступ к персональным данным</h3>
+                <p>
+                    Доступ к персональным данным имеют только уполномоченные сотрудники ООО «АМГ АВТО-ТРЕЙД», которые допущены к обработке персональных данных и ознакомлены с требованиями законодательства Российской Федерации и локальными актами Оператора в области обработки и защиты персональных данных.
+                </p>
+
+                <h3>6.4. Передача персональных данных третьим лицам</h3>
+                <p>
+                    Персональные данные пользователей не передаются третьим лицам, за исключением случаев, прямо предусмотренных действующим законодательством Российской Федерации (например, по запросу уполномоченных государственных органов).
+                </p>
+
+                <h2>7. Меры по защите персональных данных</h2>
+                <p>
+                    Оператор принимает необходимые правовые, организационные и технические меры для защиты персональных данных от неправомерного или случайного доступа к ним, уничтожения, изменения, блокирования, копирования, предоставления, распространения, а также от иных неправомерных действий в отношении персональных данных.
+                </p>
+                <p>
+                    Применяемые меры защиты включают:
+                </p>
+                <ul>
+                    <li>Назначение ответственного лица за организацию обработки персональных данных</li>
+                    <li>Ограничение доступа к персональным данным</li>
+                    <li>Применение организационных и технических мер по обеспечению безопасности персональных данных при их обработке в информационных системах</li>
+                    <li>Использование протоколов шифрования SSL при передаче данных через интернет</li>
+                    <li>Размещение информационных систем на защищённых серверах хостинга</li>
+                    <li>Регулярное обновление систем безопасности</li>
+                    <li>Обучение сотрудников правилам работы с персональными данными</li>
+                </ul>
+
+                <h2>8. Права субъектов персональных данных</h2>
+                <p>
+                    Субъект персональных данных имеет право:
+                </p>
+                <ul>
+                    <li>Получать информацию, касающуюся обработки его персональных данных, за исключением случаев, предусмотренных федеральными законами</li>
+                    <li>Требовать от Оператора уточнения его персональных данных, их блокирования или уничтожения в случае, если персональные данные являются неполными, устаревшими, неточными, незаконно полученными или не являются необходимыми для заявленной цели обработки</li>
+                    <li>Отозвать согласие на обработку персональных данных</li>
+                    <li>Обжаловать действия или бездействие Оператора в уполномоченный орган по защите прав субъектов персональных данных или в судебном порядке</li>
+                    <li>На защиту своих прав и законных интересов, в том числе на возмещение убытков и/или компенсацию морального вреда в судебном порядке</li>
+                </ul>
+                <p>
+                    Для реализации своих прав субъект персональных данных может направить письменное обращение на электронную почту Оператора: <a href="mailto:amgautotrade.msc@gmail.com">amgautotrade.msc@gmail.com</a>
+                </p>
+
+                <h2>9. Обязанности оператора</h2>
+                <p>
+                    Оператор обязан:
+                </p>
+                <ul>
+                    <li>Обрабатывать персональные данные исключительно в целях, для которых они были предоставлены</li>
+                    <li>Обеспечивать конфиденциальность персональных данных</li>
+                    <li>Принимать необходимые меры по защите персональных данных от неправомерного доступа</li>
+                    <li>Предоставлять субъекту персональных данных информацию об обработке его персональных данных по запросу</li>
+                    <li>Уничтожать персональные данные по достижении целей обработки или при отзыве согласия субъекта</li>
+                    <li>Уведомлять уполномоченный орган по защите прав субъектов персональных данных об инцидентах, связанных с нарушением защиты персональных данных</li>
+                </ul>
+
+                <h2>10. Изменение политики обработки персональных данных</h2>
+                <p>
+                    Оператор имеет право вносить изменения в настоящую Политику. Новая редакция Политики вступает в силу с момента её размещения на сайте <a href="https://amgautotrade.ru">amgautotrade.ru</a> или <a href="https://n4styaparfenova.github.io/amgautotrade/">n4styaparfenova.github.io/amgautotrade/</a>, если иное не предусмотрено новой редакцией Политики.
+                </p>
+                <p>
+                    Действующая редакция постоянно доступна на странице: <a href="https://n4styaparfenova.github.io/amgautotrade/personal-data.html">https://n4styaparfenova.github.io/amgautotrade/personal-data.html</a>
+                </p>
+
+                <h2>11. Контактная информация</h2>
+                <p>
+                    Все вопросы, предложения и обращения по вопросам обработки персональных данных следует направлять:
+                </p>
+                <div class="info-box">
+                    <p><strong>Email:</strong> <a href="mailto:amgautotrade.msc@gmail.com">amgautotrade.msc@gmail.com</a></p>
+                    <p><strong>Телефон:</strong> <a href="tel:+79856742650">+7 (985) 674-26-50</a></p>
+                    <p><strong>Адрес:</strong> 121353, км МКАД 53-й, д. 6, Москва</p>
+                </div>
+                <p style="margin-top: 40px; font-size: 14px; color: var(--gray);">
+                    <em>Настоящая редакция Политики вступила в силу с момента её размещения на сайте.</em>
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+        <p class="footer-text">AMG Auto Trade — Премиальные автомобили с 2014 года</p>
+        <div class="footer-bottom">
+            <p>© 2024 ООО "АМГ АВТО-ТРЕЙД". Все права защищены<br>
+            ИНН: 9731139759 | ОГРН: 1247700576573<br>
+            <a href="privacy.html">Политика конфиденциальности</a> | <a href="personal-data.html">Политика обработки персональных данных</a></p>
+        </div>
+    </footer>
+</body>
+</html>
