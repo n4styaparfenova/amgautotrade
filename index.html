@@ -7,7 +7,8 @@
     <meta name="description" content="Премиальные автомобили с доставкой. Mercedes, BMW, Porsche, Audi. Работаем с 2014 года. ☎ +7 (985) 674-26-50">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;600&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;600&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+    <noscript><link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;600&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet"></noscript>
     <style>
         :root {
             --dark-bg: #1A1D21;
@@ -25,11 +26,19 @@
             box-sizing: border-box;
         }
 
+        html {
+            overflow-x: hidden;
+            width: 100%;
+        }
+
         body {
             font-family: 'Montserrat', sans-serif;
             background: var(--dark-bg);
             color: var(--white);
             overflow-x: hidden;
+            width: 100%;
+            max-width: 100vw;
+            position: relative;
         }
 
         /* ============================================
@@ -1398,25 +1407,25 @@
 
             <div class="brands-grid">
                 <a href="catalog.html?brand=Mercedes-Benz" class="brand-item">
-                    <img src="images/brands/mercedes.png" alt="Mercedes-Benz" class="brand-logo">
+                    <img src="images/brands/mercedes.png" alt="Mercedes-Benz" class="brand-logo" loading="lazy">
                 </a>
                 <a href="catalog.html?brand=BMW" class="brand-item">
-                    <img src="images/brands/bmw.png" alt="BMW" class="brand-logo">
+                    <img src="images/brands/bmw.png" alt="BMW" class="brand-logo" loading="lazy">
                 </a>
                 <a href="catalog.html?brand=Audi" class="brand-item">
-                    <img src="images/brands/audi.png" alt="Audi" class="brand-logo">
+                    <img src="images/brands/audi.png" alt="Audi" class="brand-logo" loading="lazy">
                 </a>
                 <a href="catalog.html?brand=Lexus" class="brand-item">
-                    <img src="images/brands/lexus.png" alt="Lexus" class="brand-logo">
+                    <img src="images/brands/lexus.png" alt="Lexus" class="brand-logo" loading="lazy">
                 </a>
                 <a href="catalog.html?brand=Land Rover" class="brand-item">
-                    <img src="images/brands/landrover.png" alt="Land Rover" class="brand-logo">
+                    <img src="images/brands/landrover.png" alt="Land Rover" class="brand-logo" loading="lazy">
                 </a>
                 <a href="catalog.html?brand=Porsche" class="brand-item">
-                    <img src="images/brands/porsche.png" alt="Porsche" class="brand-logo">
+                    <img src="images/brands/porsche.png" alt="Porsche" class="brand-logo" loading="lazy">
                 </a>
                 <a href="catalog.html?brand=Toyota" class="brand-item">
-                    <img src="images/brands/toyota.png" alt="Toyota" class="brand-logo">
+                    <img src="images/brands/toyota.png" alt="Toyota" class="brand-logo" loading="lazy">
                 </a>
                 <a href="catalog.html" class="brand-item">
                     <div style="font-family: 'Oswald', sans-serif; font-size: 16px; letter-spacing: 2px; color: rgba(255, 255, 255, 0.7); text-transform: uppercase;">+ ЕЩЁ</div>
