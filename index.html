@@ -138,6 +138,87 @@
             box-shadow: 0 10px 30px rgba(201, 169, 97, 0.3);
         }
 
+        /* BURGER MENU */
+        .burger-menu {
+            display: none;
+            flex-direction: column;
+            gap: 6px;
+            cursor: pointer;
+            z-index: 1001;
+            padding: 10px;
+        }
+
+        .burger-menu span {
+            width: 30px;
+            height: 3px;
+            background: var(--gold);
+            border-radius: 2px;
+            transition: all 0.3s ease;
+        }
+
+        .burger-menu.active span:nth-child(1) {
+            transform: rotate(45deg) translate(8px, 8px);
+        }
+
+        .burger-menu.active span:nth-child(2) {
+            opacity: 0;
+        }
+
+        .burger-menu.active span:nth-child(3) {
+            transform: rotate(-45deg) translate(8px, -8px);
+        }
+
+        .mobile-nav {
+            display: none;
+            position: fixed;
+            top: 100px;
+            left: 0;
+            right: 0;
+            background: rgba(26, 29, 33, 0.98);
+            backdrop-filter: blur(10px);
+            padding: 30px;
+            z-index: 999;
+            transform: translateY(-100%);
+            transition: transform 0.3s ease;
+            border-bottom: 1px solid rgba(201, 169, 97, 0.2);
+        }
+
+        .mobile-nav.active {
+            transform: translateY(0);
+        }
+
+        .mobile-nav a {
+            display: block;
+            color: var(--white);
+            text-decoration: none;
+            font-weight: 300;
+            font-size: 18px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            padding: 15px 0;
+            border-bottom: 1px solid rgba(201, 169, 97, 0.1);
+            transition: color 0.3s ease;
+        }
+
+        .mobile-nav a:hover {
+            color: var(--gold);
+        }
+
+        .mobile-nav .header-cta {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 12px 30px;
+            background: transparent;
+            border: 1px solid var(--gold);
+            color: var(--gold);
+            text-align: center;
+        }
+
+        .mobile-nav .header-cta:hover {
+            background: var(--gold);
+            color: var(--dark-bg);
+        }
+
         /* ============================================
            HERO SECTION
         ============================================ */
@@ -1106,6 +1187,14 @@
                 display: none;
             }
 
+            .burger-menu {
+                display: flex;
+            }
+
+            .mobile-nav {
+                display: block;
+            }
+
             .hero-container,
             .brands-section,
             .process-section,
@@ -1164,6 +1253,26 @@
     
     <script>
         document.addEventListener('DOMContentLoaded', function() {
+            // Бургер меню
+            const burgerMenu = document.getElementById('burgerMenu');
+            const mobileNav = document.getElementById('mobileNav');
+
+            if (burgerMenu && mobileNav) {
+                burgerMenu.addEventListener('click', function() {
+                    burgerMenu.classList.toggle('active');
+                    mobileNav.classList.toggle('active');
+                });
+
+                // Закрытие меню при клике на ссылку
+                const mobileLinks = mobileNav.querySelectorAll('a');
+                mobileLinks.forEach(link => {
+                    link.addEventListener('click', function() {
+                        burgerMenu.classList.remove('active');
+                        mobileNav.classList.remove('active');
+                    });
+                });
+            }
+
             // Слайдер отзывов
             const testimonialCards = document.querySelectorAll('.testimonial-card');
             const dots = document.querySelectorAll('.dot');
@@ -1223,6 +1332,18 @@
                 <a href="contacts.html">Контакты</a>
                 <a href="tel:+79856742650" class="header-cta">Связаться</a>
             </nav>
+            <div class="burger-menu" id="burgerMenu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+        <div class="mobile-nav" id="mobileNav">
+            <a href="index.html">Главная</a>
+            <a href="catalog.html">Каталог</a>
+            <a href="services.html">Услуги</a>
+            <a href="contacts.html">Контакты</a>
+            <a href="tel:+79856742650" class="header-cta">Связаться</a>
         </div>
     </header>
 

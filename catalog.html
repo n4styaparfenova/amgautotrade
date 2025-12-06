@@ -169,6 +169,37 @@
             border: 1px solid var(--border);
         }
 
+        .filter-toggle-btn {
+            display: none;
+            width: 100%;
+            padding: 15px;
+            background: var(--gold);
+            color: var(--dark-bg);
+            border: none;
+            border-radius: 4px;
+            font-family: 'Oswald', sans-serif;
+            font-size: 16px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            cursor: pointer;
+            margin-bottom: 20px;
+            transition: all 0.3s ease;
+        }
+
+        .filter-toggle-btn:hover {
+            background: var(--gold-hover);
+        }
+
+        .filter-toggle-btn::before {
+            content: '▼ ';
+            margin-right: 10px;
+        }
+
+        .filter-toggle-btn.active::before {
+            content: '▲ ';
+        }
+
         .filters h2 {
             font-family: 'Oswald', sans-serif;
             font-size: 24px;
@@ -657,6 +688,23 @@
                 position: static;
             }
 
+            .filter-toggle-btn {
+                display: block;
+            }
+
+            .filters {
+                max-height: 0;
+                overflow: hidden;
+                padding: 0;
+                transition: all 0.3s ease;
+            }
+
+            .filters.active {
+                max-height: 2000px;
+                padding: 30px;
+                margin-bottom: 30px;
+            }
+
             .cars-grid {
                 grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
             }
@@ -761,7 +809,8 @@
     </header>
 
     <div class="catalog-container">
-        <aside class="filters">
+        <button class="filter-toggle-btn" id="filterToggle">Показать фильтры</button>
+        <aside class="filters" id="filtersPanel">
             <h2>Фильтры</h2>
             
             <div class="filter-group">
@@ -888,6 +937,23 @@
     </div>
 
     <script>
+        // Управление фильтрами на мобильных устройствах
+        const filterToggle = document.getElementById('filterToggle');
+        const filtersPanel = document.getElementById('filtersPanel');
+
+        if (filterToggle && filtersPanel) {
+            filterToggle.addEventListener('click', function() {
+                filtersPanel.classList.toggle('active');
+                filterToggle.classList.toggle('active');
+
+                if (filtersPanel.classList.contains('active')) {
+                    filterToggle.textContent = 'Скрыть фильтры';
+                } else {
+                    filterToggle.textContent = 'Показать фильтры';
+                }
+            });
+        }
+
         let allCars = [];
         let filteredCars = [];
         let currentCar = null;
