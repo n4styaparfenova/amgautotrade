@@ -751,6 +751,21 @@
             overflow: hidden;
         }
 
+        /* Скрыть изображения услуг на мобильных для экономии памяти */
+        @media (max-width: 768px) {
+            .service-image {
+                display: none;
+            }
+
+            .service-content {
+                padding: 20px;
+            }
+
+            .service-card {
+                background: rgba(44, 48, 53, 0.5);
+            }
+        }
+
         .service-content {
             padding: 30px;
         }
