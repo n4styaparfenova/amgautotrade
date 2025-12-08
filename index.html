@@ -257,8 +257,15 @@
             height: 100vh;
             display: flex;
             align-items: center;
-            background: url('images/hero-bg.jpg') center/cover no-repeat;
+            background: var(--dark-bg);
             overflow: hidden;
+        }
+
+        /* Фоновое изображение только на десктопе */
+        @media (min-width: 1024px) {
+            .hero {
+                background: url('images/hero-bg.jpg') center/cover no-repeat;
+            }
         }
 
         .hero::before {
@@ -268,11 +275,18 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background: linear-gradient(90deg,
-                rgba(26, 29, 33, 0.95) 0%,
-                rgba(26, 29, 33, 0.7) 50%,
-                rgba(26, 29, 33, 0.3) 100%);
+            background: transparent;
             z-index: 1;
+        }
+
+        /* Gradient только на десктопе с фоном */
+        @media (min-width: 1024px) {
+            .hero::before {
+                background: linear-gradient(90deg,
+                    rgba(26, 29, 33, 0.95) 0%,
+                    rgba(26, 29, 33, 0.7) 50%,
+                    rgba(26, 29, 33, 0.3) 100%);
+            }
         }
 
         .hero-bg {
@@ -535,11 +549,18 @@
            PROCESS SECTION
         ============================================ */
         .process-section {
-            background: url('images/order-bg.jpg') center/cover no-repeat;
+            background: var(--dark-bg);
             padding: 120px 60px;
             position: relative;
             overflow: hidden;
             content-visibility: auto;
+        }
+
+        /* Фоновое изображение только на десктопе */
+        @media (min-width: 1024px) {
+            .process-section {
+                background: url('images/order-bg.jpg') center/cover no-repeat;
+            }
         }
 
         .process-section::before {
@@ -1214,15 +1235,15 @@
             .services-section,
             .testimonials-section,
             .footer {
-                padding: 80px 30px;
+                padding: 60px 20px;
             }
 
             .hero-title {
-                font-size: 42px;
+                font-size: 36px;
             }
 
             .section-title {
-                font-size: 36px;
+                font-size: 28px;
             }
 
             .brands-grid {
