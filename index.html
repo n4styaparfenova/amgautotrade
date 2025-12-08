@@ -1271,12 +1271,15 @@
 
         });
 
-        // Слайдер отзывов
+        // Слайдер отзывов - глобальные переменные
         let currentSlide = 0;
-        const cards = document.querySelectorAll('.testimonial-card');
-        const totalSlides = cards.length;
+        let cards = [];
+        let totalSlides = 0;
 
+        // Функция переключения слайдов
         function changeSlide(direction) {
+            if (cards.length === 0) return;
+
             // Убираем active у текущего слайда
             cards[currentSlide].classList.remove('active');
 
@@ -1297,9 +1300,14 @@
             document.querySelector('.slider-counter .current').textContent = currentSlide + 1;
         }
 
-        // Инициализация при загрузке
+        // Инициализация слайдера при загрузке страницы
         document.addEventListener('DOMContentLoaded', function() {
-            document.querySelector('.slider-counter .total').textContent = totalSlides;
+            cards = document.querySelectorAll('.testimonial-card');
+            totalSlides = cards.length;
+
+            if (totalSlides > 0) {
+                document.querySelector('.slider-counter .total').textContent = totalSlides;
+            }
         });
     </script>
 </head>
