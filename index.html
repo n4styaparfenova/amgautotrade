@@ -52,9 +52,16 @@
             left: 0;
             right: 0;
             z-index: 1000;
-            background: rgba(26, 29, 33, 0.95);
-            backdrop-filter: blur(10px);
+            background: rgba(26, 29, 33, 0.98);
             border-bottom: 1px solid rgba(201, 169, 97, 0.1);
+        }
+
+        /* Backdrop filter только на десктопе */
+        @media (min-width: 1024px) {
+            header {
+                background: rgba(26, 29, 33, 0.95);
+                backdrop-filter: blur(10px);
+            }
         }
 
         .header-content {
@@ -69,14 +76,20 @@
         .logo {
             height: 70px;
             width: auto;
-            opacity: 0;
-            animation: fadeIn 0.8s ease-out forwards;
-            transition: all 0.3s ease;
         }
 
-        .logo:hover {
-            opacity: 0.8;
-            transform: scale(1.05);
+        /* Анимации только на десктопе */
+        @media (min-width: 1024px) {
+            .logo {
+                opacity: 0;
+                animation: fadeIn 0.8s ease-out forwards;
+                transition: all 0.3s ease;
+            }
+
+            .logo:hover {
+                opacity: 0.8;
+                transform: scale(1.05);
+            }
         }
 
         .logo-link {
@@ -99,14 +112,20 @@
             text-transform: uppercase;
             position: relative;
             transition: color 0.3s ease;
-            opacity: 0;
-            animation: fadeIn 0.8s ease-out forwards;
         }
 
-        nav a:nth-child(1) { animation-delay: 0.1s; }
-        nav a:nth-child(2) { animation-delay: 0.2s; }
-        nav a:nth-child(3) { animation-delay: 0.3s; }
-        nav a:nth-child(4) { animation-delay: 0.4s; }
+        /* Анимации навигации только на десктопе */
+        @media (min-width: 1024px) {
+            nav a {
+                opacity: 0;
+                animation: fadeIn 0.8s ease-out forwards;
+            }
+
+            nav a:nth-child(1) { animation-delay: 0.1s; }
+            nav a:nth-child(2) { animation-delay: 0.2s; }
+            nav a:nth-child(3) { animation-delay: 0.3s; }
+            nav a:nth-child(4) { animation-delay: 0.4s; }
+        }
 
         nav a::after {
             content: '';
@@ -275,8 +294,14 @@
 
         .hero-content {
             text-align: left;
-            opacity: 0;
-            animation: slideRight 1s ease-out 0.3s forwards;
+        }
+
+        /* Hero анимации только на десктопе */
+        @media (min-width: 1024px) {
+            .hero-content {
+                opacity: 0;
+                animation: slideRight 1s ease-out 0.3s forwards;
+            }
         }
 
         .divider {
@@ -387,6 +412,7 @@
             background: var(--dark-bg);
             padding: 120px 60px;
             position: relative;
+            content-visibility: auto;
         }
 
         .brands-container {
@@ -513,6 +539,7 @@
             padding: 120px 60px;
             position: relative;
             overflow: hidden;
+            content-visibility: auto;
         }
 
         .process-section::before {
@@ -669,6 +696,7 @@
         .services-section {
             background: var(--dark-bg);
             padding: 120px 60px;
+            content-visibility: auto;
         }
 
         .services-container {
@@ -1271,44 +1299,6 @@
 
         });
 
-        // Слайдер отзывов - глобальные переменные
-        let currentSlide = 0;
-        let cards = [];
-        let totalSlides = 0;
-
-        // Функция переключения слайдов
-        function changeSlide(direction) {
-            if (cards.length === 0) return;
-
-            // Убираем active у текущего слайда
-            cards[currentSlide].classList.remove('active');
-
-            // Вычисляем новый индекс
-            currentSlide += direction;
-
-            // Зацикливание
-            if (currentSlide >= totalSlides) {
-                currentSlide = 0;
-            } else if (currentSlide < 0) {
-                currentSlide = totalSlides - 1;
-            }
-
-            // Добавляем active к новому слайду
-            cards[currentSlide].classList.add('active');
-
-            // Обновляем счетчик
-            document.querySelector('.slider-counter .current').textContent = currentSlide + 1;
-        }
-
-        // Инициализация слайдера при загрузке страницы
-        document.addEventListener('DOMContentLoaded', function() {
-            cards = document.querySelectorAll('.testimonial-card');
-            totalSlides = cards.length;
-
-            if (totalSlides > 0) {
-                document.querySelector('.slider-counter .total').textContent = totalSlides;
-            }
-        });
     </script>
 </head>
 <body>
@@ -1319,7 +1309,7 @@
     <header>
         <div class="header-content">
             <a href="index.html" class="logo-link">
-                <img src="images/logo.png" alt="AMG Auto Trade - Премиальные автомобили" class="logo">
+                <img src="images/logo.png" alt="AMG Auto Trade - Премиальные автомобили" class="logo" fetchpriority="high">
             </a>
             <nav>
                 <a href="index.html">Главная</a>
