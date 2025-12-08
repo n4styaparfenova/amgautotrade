@@ -826,9 +826,30 @@
             gap: 20px;
         }
 
-        .modal-contact .contact-btn {
+        .contact-btn {
             flex: 1;
+            padding: 15px 30px;
+            background: transparent;
+            border: 1px solid var(--gold);
+            color: var(--gold);
+            text-decoration: none;
+            font-family: 'Montserrat', sans-serif;
+            font-size: 14px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            cursor: pointer;
+            border-radius: 4px;
+            transition: all 0.3s ease;
+            display: inline-block;
             text-align: center;
+        }
+
+        .contact-btn:hover {
+            background: var(--gold);
+            color: var(--dark-bg);
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(201, 169, 97, 0.3);
         }
 
         @media (max-width: 1024px) {
@@ -983,6 +1004,16 @@
             .specs-grid {
                 grid-template-columns: 1fr;
                 padding: 20px;
+            }
+
+            .modal-contact {
+                flex-direction: column;
+                gap: 15px;
+            }
+
+            .contact-btn {
+                padding: 12px 20px;
+                font-size: 13px;
             }
         }
 

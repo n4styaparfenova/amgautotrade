@@ -189,6 +189,7 @@
         }
 
         .mobile-nav a {
+            display: block;
             color: var(--white);
             text-decoration: none;
             font-size: 18px;
@@ -205,8 +206,19 @@
         }
 
         .mobile-nav .header-cta {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 12px 30px;
+            background: transparent;
+            border: 1px solid var(--gold);
+            color: var(--gold);
             text-align: center;
             border-bottom: none;
+        }
+
+        .mobile-nav .header-cta:hover {
+            background: var(--gold);
+            color: var(--dark-bg);
         }
 
         @media (max-width: 768px) {

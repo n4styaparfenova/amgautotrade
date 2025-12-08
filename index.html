@@ -869,16 +869,18 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background: rgba(44, 48, 53, 0.8);
+            background: linear-gradient(135deg, rgba(44, 48, 53, 0.95) 0%, rgba(26, 29, 33, 0.95) 100%);
             display: flex;
             align-items: center;
             justify-content: center;
             cursor: pointer;
             transition: all 0.3s ease;
+            border: 2px solid rgba(201, 169, 97, 0.3);
         }
 
         .video-preview:hover {
-            background: rgba(44, 48, 53, 0.9);
+            background: linear-gradient(135deg, rgba(44, 48, 53, 1) 0%, rgba(26, 29, 33, 1) 100%);
+            border-color: var(--gold);
         }
 
         .video-preview.hidden {
@@ -1399,7 +1401,7 @@
     ============================================ -->
     <header>
         <div class="header-content">
-            <a href="/" class="logo-link">
+            <a href="index.html" class="logo-link">
                 <img src="images/logo.png" alt="AMG Auto Trade - Премиальные автомобили" class="logo">
             </a>
             <nav>
