@@ -304,6 +304,9 @@
             max-width: 1440px;
             margin: 0 auto 60px;
             padding: 0 40px;
+        }
+
+        .catalog-grid-wrapper {
             display: grid;
             grid-template-columns: 280px 1fr;
             gap: 40px;
@@ -853,7 +856,7 @@
         }
 
         @media (max-width: 1024px) {
-            .catalog-container {
+            .catalog-grid-wrapper {
                 grid-template-columns: 1fr;
             }
 
@@ -1077,111 +1080,113 @@
     </div>
 
     <div class="catalog-container">
-        <button class="filter-toggle-btn" id="filterToggle">Показать фильтры</button>
-        <aside class="filters" id="filtersPanel">
-            <h2>Фильтры</h2>
-            
-            <div class="filter-group">
-                <h3>Марка</h3>
-                <select id="brandFilter">
-                    <option value="">Все марки</option>
-                </select>
-            </div>
+        <div class="loading" id="loading">
+            <h2>Загрузка каталога...</h2>
+            <p>Получаем актуальные данные из AutoHub</p>
+        </div>
 
-            <div class="filter-group">
-                <h3>Модель</h3>
-                <select id="modelFilter" disabled>
-                    <option value="">Сначала выберите марку</option>
-                </select>
-            </div>
-
-            <div class="filter-group">
-                <h3>Тип</h3>
-                <div class="checkbox-group">
-                    <label class="checkbox-label">
-                        <input type="checkbox" value="Новые" class="type-checkbox"> Новые
-                    </label>
-                    <label class="checkbox-label">
-                        <input type="checkbox" value="С пробегом" class="type-checkbox"> С пробегом
-                    </label>
+        <div id="catalogView" style="display: none;">
+            <div class="catalog-header">
+                <div>
+                    <h1>Каталог автомобилей</h1>
+                    <p class="results-count">Найдено: <span id="resultsCount">0</span> автомобилей</p>
+                </div>
+                <div class="sort-controls">
+                    <label>Сортировка:</label>
+                    <select id="sortSelect" onchange="applySorting()">
+                        <option value="price-asc">Цена (по возрастанию)</option>
+                        <option value="price-desc">Цена (по убыванию)</option>
+                        <option value="year-desc">Год (новые)</option>
+                        <option value="year-asc">Год (старые)</option>
+                        <option value="mileage-asc">Пробег (меньше)</option>
+                        <option value="mileage-desc">Пробег (больше)</option>
+                    </select>
                 </div>
             </div>
 
-            <div class="filter-group">
-                <h3>Год выпуска</h3>
-                <div class="price-inputs">
-                    <input type="number" id="yearFrom" placeholder="От" min="2000" max="2025">
-                    <input type="number" id="yearTo" placeholder="До" min="2000" max="2025">
+            <div class="catalog-grid-wrapper">
+                <button class="filter-toggle-btn" id="filterToggle">Показать фильтры</button>
+                <aside class="filters" id="filtersPanel">
+                <h2>Фильтры</h2>
+
+                <div class="filter-group">
+                    <h3>Марка</h3>
+                    <select id="brandFilter">
+                        <option value="">Все марки</option>
+                    </select>
                 </div>
-            </div>
 
-            <div class="filter-group">
-                <h3>Цена (₽)</h3>
-                <div class="price-inputs">
-                    <input type="number" id="priceFrom" placeholder="От" step="100000">
-                    <input type="number" id="priceTo" placeholder="До" step="100000">
+                <div class="filter-group">
+                    <h3>Модель</h3>
+                    <select id="modelFilter" disabled>
+                        <option value="">Сначала выберите марку</option>
+                    </select>
                 </div>
-            </div>
 
-            <div class="filter-group">
-                <h3>Пробег (км)</h3>
-                <div class="price-inputs">
-                    <input type="number" id="mileageFrom" placeholder="От" step="1000">
-                    <input type="number" id="mileageTo" placeholder="До" step="1000">
-                </div>
-            </div>
-
-            <div class="filter-group">
-                <h3>Тип кузова</h3>
-                <div class="checkbox-group" id="bodyTypeFilters">
-                    <!-- Динамически заполняется -->
-                </div>
-            </div>
-
-            <div class="filter-group">
-                <h3>Коробка передач</h3>
-                <div class="checkbox-group" id="transmissionFilters">
-                    <!-- Динамически заполняется -->
-                </div>
-            </div>
-
-            <button class="reset-btn" onclick="resetFilters()">Сбросить фильтры</button>
-        </aside>
-
-        <main class="catalog-content">
-            <div class="loading" id="loading">
-                <h2>Загрузка каталога...</h2>
-                <p>Получаем актуальные данные из AutoHub</p>
-            </div>
-
-            <div id="catalogView" style="display: none;">
-                <div class="catalog-header">
-                    <div>
-                        <h1>Каталог автомобилей</h1>
-                        <p class="results-count">Найдено: <span id="resultsCount">0</span> автомобилей</p>
-                    </div>
-                    <div class="sort-controls">
-                        <label>Сортировка:</label>
-                        <select id="sortSelect" onchange="applySorting()">
-                            <option value="price-asc">Цена (по возрастанию)</option>
-                            <option value="price-desc">Цена (по убыванию)</option>
-                            <option value="year-desc">Год (новые)</option>
-                            <option value="year-asc">Год (старые)</option>
-                            <option value="mileage-asc">Пробег (меньше)</option>
-                            <option value="mileage-desc">Пробег (больше)</option>
-                        </select>
+                <div class="filter-group">
+                    <h3>Тип</h3>
+                    <div class="checkbox-group">
+                        <label class="checkbox-label">
+                            <input type="checkbox" value="Новые" class="type-checkbox"> Новые
+                        </label>
+                        <label class="checkbox-label">
+                            <input type="checkbox" value="С пробегом" class="type-checkbox"> С пробегом
+                        </label>
                     </div>
                 </div>
 
-                <div class="cars-grid" id="carsGrid"></div>
-
-                <div class="no-results" id="noResults" style="display: none;">
-                    <h2>Ничего не найдено</h2>
-                    <p>Попробуйте изменить параметры фильтров</p>
-                    <button class="reset-btn" onclick="resetFilters()">Сбросить фильтры</button>
+                <div class="filter-group">
+                    <h3>Год выпуска</h3>
+                    <div class="price-inputs">
+                        <input type="number" id="yearFrom" placeholder="От" min="2000" max="2025">
+                        <input type="number" id="yearTo" placeholder="До" min="2000" max="2025">
+                    </div>
                 </div>
+
+                <div class="filter-group">
+                    <h3>Цена (₽)</h3>
+                    <div class="price-inputs">
+                        <input type="number" id="priceFrom" placeholder="От" step="100000">
+                        <input type="number" id="priceTo" placeholder="До" step="100000">
+                    </div>
+                </div>
+
+                <div class="filter-group">
+                    <h3>Пробег (км)</h3>
+                    <div class="price-inputs">
+                        <input type="number" id="mileageFrom" placeholder="От" step="1000">
+                        <input type="number" id="mileageTo" placeholder="До" step="1000">
+                    </div>
+                </div>
+
+                <div class="filter-group">
+                    <h3>Тип кузова</h3>
+                    <div class="checkbox-group" id="bodyTypeFilters">
+                        <!-- Динамически заполняется -->
+                    </div>
+                </div>
+
+                <div class="filter-group">
+                    <h3>Коробка передач</h3>
+                    <div class="checkbox-group" id="transmissionFilters">
+                        <!-- Динамически заполняется -->
+                    </div>
+                </div>
+
+                <button class="reset-btn" onclick="resetFilters()">Сбросить фильтры</button>
+            </aside>
+
+                <main class="catalog-content">
+                    <div class="cars-grid" id="carsGrid"></div>
+
+                    <div class="no-results" id="noResults" style="display: none;">
+                        <h2>Ничего не найдено</h2>
+                        <p>Попробуйте изменить параметры фильтров</p>
+                        <button class="reset-btn" onclick="resetFilters()">Сбросить фильтры</button>
+                    </div>
+                </main>
             </div>
-        </main>
+        </div>
     </div>
 
     <div class="modal" id="carModal">
