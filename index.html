@@ -52,16 +52,9 @@
             left: 0;
             right: 0;
             z-index: 1000;
-            background: rgba(26, 29, 33, 0.98);
+            background: rgba(26, 29, 33, 0.95);
+            backdrop-filter: blur(10px);
             border-bottom: 1px solid rgba(201, 169, 97, 0.1);
-        }
-
-        /* Backdrop filter только на десктопе */
-        @media (min-width: 1024px) {
-            header {
-                background: rgba(26, 29, 33, 0.95);
-                backdrop-filter: blur(10px);
-            }
         }
 
         .header-content {
@@ -76,20 +69,14 @@
         .logo {
             height: 70px;
             width: auto;
+            opacity: 0;
+            animation: fadeIn 0.8s ease-out forwards;
+            transition: all 0.3s ease;
         }
 
-        /* Анимации только на десктопе */
-        @media (min-width: 1024px) {
-            .logo {
-                opacity: 0;
-                animation: fadeIn 0.8s ease-out forwards;
-                transition: all 0.3s ease;
-            }
-
-            .logo:hover {
-                opacity: 0.8;
-                transform: scale(1.05);
-            }
+        .logo:hover {
+            opacity: 0.8;
+            transform: scale(1.05);
         }
 
         .logo-link {
@@ -112,20 +99,14 @@
             text-transform: uppercase;
             position: relative;
             transition: color 0.3s ease;
+            opacity: 0;
+            animation: fadeIn 0.8s ease-out forwards;
         }
 
-        /* Анимации навигации только на десктопе */
-        @media (min-width: 1024px) {
-            nav a {
-                opacity: 0;
-                animation: fadeIn 0.8s ease-out forwards;
-            }
-
-            nav a:nth-child(1) { animation-delay: 0.1s; }
-            nav a:nth-child(2) { animation-delay: 0.2s; }
-            nav a:nth-child(3) { animation-delay: 0.3s; }
-            nav a:nth-child(4) { animation-delay: 0.4s; }
-        }
+        nav a:nth-child(1) { animation-delay: 0.1s; }
+        nav a:nth-child(2) { animation-delay: 0.2s; }
+        nav a:nth-child(3) { animation-delay: 0.3s; }
+        nav a:nth-child(4) { animation-delay: 0.4s; }
 
         nav a::after {
             content: '';
@@ -257,15 +238,8 @@
             height: 100vh;
             display: flex;
             align-items: center;
-            background: var(--dark-bg);
+            background: url('images/hero-bg.jpg') center/cover no-repeat;
             overflow: hidden;
-        }
-
-        /* Фоновое изображение только на десктопе */
-        @media (min-width: 1024px) {
-            .hero {
-                background: url('images/hero-bg.jpg') center/cover no-repeat;
-            }
         }
 
         .hero::before {
@@ -275,18 +249,11 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background: transparent;
+            background: linear-gradient(90deg,
+                rgba(26, 29, 33, 0.95) 0%,
+                rgba(26, 29, 33, 0.7) 50%,
+                rgba(26, 29, 33, 0.3) 100%);
             z-index: 1;
-        }
-
-        /* Gradient только на десктопе с фоном */
-        @media (min-width: 1024px) {
-            .hero::before {
-                background: linear-gradient(90deg,
-                    rgba(26, 29, 33, 0.95) 0%,
-                    rgba(26, 29, 33, 0.7) 50%,
-                    rgba(26, 29, 33, 0.3) 100%);
-            }
         }
 
         .hero-bg {
@@ -308,14 +275,8 @@
 
         .hero-content {
             text-align: left;
-        }
-
-        /* Hero анимации только на десктопе */
-        @media (min-width: 1024px) {
-            .hero-content {
-                opacity: 0;
-                animation: slideRight 1s ease-out 0.3s forwards;
-            }
+            opacity: 0;
+            animation: slideRight 1s ease-out 0.3s forwards;
         }
 
         .divider {
@@ -549,18 +510,11 @@
            PROCESS SECTION
         ============================================ */
         .process-section {
-            background: var(--dark-bg);
+            background: url('images/order-bg.jpg') center/cover no-repeat;
             padding: 120px 60px;
             position: relative;
             overflow: hidden;
             content-visibility: auto;
-        }
-
-        /* Фоновое изображение только на десктопе */
-        @media (min-width: 1024px) {
-            .process-section {
-                background: url('images/order-bg.jpg') center/cover no-repeat;
-            }
         }
 
         .process-section::before {
@@ -956,10 +910,40 @@
             flex-grow: 1;
         }
 
+        .testimonial-footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 15px;
+        }
+
         .testimonial-rating {
             font-size: 18px;
             color: var(--gold);
             letter-spacing: 2px;
+        }
+
+        .testimonial-video-btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background: transparent;
+            border: 1px solid var(--gold);
+            color: var(--gold);
+            text-decoration: none;
+            font-size: 12px;
+            font-weight: 400;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            border-radius: 4px;
+            transition: all 0.3s ease;
+            white-space: nowrap;
+        }
+
+        .testimonial-video-btn:hover {
+            background: var(--gold);
+            color: var(--dark-bg);
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(201, 169, 97, 0.3);
         }
 
         .testimonials-cta {
@@ -1006,6 +990,19 @@
 
             .testimonial-text {
                 font-size: 13px;
+            }
+
+            .testimonial-footer {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 10px;
+            }
+
+            .testimonial-video-btn {
+                width: 100%;
+                text-align: center;
+                padding: 12px 20px;
+                font-size: 11px;
             }
         }
 
@@ -1591,7 +1588,10 @@
                     <div class="testimonial-text">
                         «Первый автомобиль — Mercedes-Benz GLE 53. Подобрали быстро, сделка прошла без проблем, осталась очень довольна. Профессиональная команда, которая знает своё дело!»
                     </div>
-                    <div class="testimonial-rating">★★★★★</div>
+                    <div class="testimonial-footer">
+                        <div class="testimonial-rating">★★★★★</div>
+                        <a href="https://vk.com/video-233883786_456239035" target="_blank" class="testimonial-video-btn">Посмотреть видео</a>
+                    </div>
                 </div>
 
                 <!-- Отзыв 2 -->
@@ -1606,7 +1606,10 @@
                     <div class="testimonial-text">
                         «BMW X5 привезён под заказ из Германии. Получила именно тот автомобиль, который хотела. Процесс прошёл спокойно, постоянно была связь. После прибытия машину доработали на высшем уровне!»
                     </div>
-                    <div class="testimonial-rating">★★★★★</div>
+                    <div class="testimonial-footer">
+                        <div class="testimonial-rating">★★★★★</div>
+                        <a href="https://vk.com/video-233883786_456239022" target="_blank" class="testimonial-video-btn">Посмотреть видео</a>
+                    </div>
                 </div>
 
                 <!-- Отзыв 3 -->
@@ -1621,7 +1624,10 @@
                     <div class="testimonial-text">
                         «BMW M440i, 2021 года, привезена из Германии с пробегом 28 тыс. км в максимальной комплектации. Процесс оформления и таможни занял всего 4 рабочих дня. Сделка прошла успешно!»
                     </div>
-                    <div class="testimonial-rating">★★★★★</div>
+                    <div class="testimonial-footer">
+                        <div class="testimonial-rating">★★★★★</div>
+                        <a href="https://vk.com/video-233883786_456239027" target="_blank" class="testimonial-video-btn">Посмотреть видео</a>
+                    </div>
                 </div>
             </div>
 
