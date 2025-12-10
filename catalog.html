@@ -258,8 +258,8 @@
         /* SEARCH BAR */
         .search-container {
             max-width: 1440px;
-            margin: 120px auto 0;
-            padding: 0 40px 20px;
+            margin: 0 auto 30px;
+            padding: 0;
         }
 
         .search-bar {
@@ -908,8 +908,8 @@
             }
 
             .search-container {
-                margin-top: 100px;
-                padding: 0 20px 15px;
+                margin: 0 0 20px;
+                padding: 0;
             }
 
             .search-input {
@@ -1071,14 +1071,6 @@
         </div>
     </header>
 
-    <!-- SEARCH BAR -->
-    <div class="search-container">
-        <div class="search-bar">
-            <span class="search-icon">🔍</span>
-            <input type="text" id="searchInput" class="search-input" placeholder="Поиск по марке, модели, году...">
-        </div>
-    </div>
-
     <div class="catalog-container">
         <div class="loading" id="loading">
             <h2>Загрузка каталога...</h2>
@@ -1101,6 +1093,14 @@
                         <option value="mileage-asc">Пробег (меньше)</option>
                         <option value="mileage-desc">Пробег (больше)</option>
                     </select>
+                </div>
+            </div>
+
+            <!-- SEARCH BAR -->
+            <div class="search-container">
+                <div class="search-bar">
+                    <span class="search-icon">🔍</span>
+                    <input type="text" id="searchInput" class="search-input" placeholder="Поиск по марке, модели, году...">
                 </div>
             </div>
 
