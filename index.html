@@ -461,6 +461,19 @@
             transform: scale(1.1);
         }
 
+        .brand-more-text {
+            font-family: 'Oswald', sans-serif;
+            font-size: 16px;
+            letter-spacing: 2px;
+            color: rgba(255, 255, 255, 0.7);
+            text-transform: uppercase;
+            text-decoration: none;
+        }
+
+        .brand-item-more {
+            text-decoration: none;
+        }
+
         .brands-cta {
             text-align: center;
         }
@@ -758,6 +771,7 @@
         }
 
         .services-expand {
+            display: inline-block;
             padding: 18px 50px;
             background: transparent;
             border: 1px solid var(--gold);
@@ -765,6 +779,8 @@
             font-family: 'Oswald', sans-serif;
             font-size: 14px;
             letter-spacing: 2px;
+            text-decoration: none;
+            text-transform: uppercase;
             cursor: pointer;
             transition: all 0.4s ease;
             position: relative;
@@ -1448,8 +1464,8 @@
                 <a href="catalog.html?brand=Toyota" class="brand-item">
                     <img src="images/brands/toyota.png" alt="Toyota" class="brand-logo" loading="lazy" decoding="async">
                 </a>
-                <a href="catalog.html" class="brand-item">
-                    <div style="font-family: 'Oswald', sans-serif; font-size: 16px; letter-spacing: 2px; color: rgba(255, 255, 255, 0.7); text-transform: uppercase;">+ ЕЩЁ</div>
+                <a href="catalog.html" class="brand-item brand-item-more">
+                    <div class="brand-more-text">+ ЕЩЁ</div>
                 </a>
             </div>
 
