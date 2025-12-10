@@ -330,8 +330,7 @@
       "https://img.maxposter.ru/photo/11973/8031553/orig/673e471e027a0d0b98679420c2d4d735.jpg",
       "https://img.maxposter.ru/photo/11973/8031553/orig/de9263218082e937efbebbc337df2689.jpg",
       "https://img.maxposter.ru/photo/11973/8031553/orig/df103660a6ef8c83b303a8dae1a17579.jpg",
-      "https://img.maxposter.ru/photo/11973/8031553/orig/f5160611e6cccdbd5695ceabf0c2358a.jpg",
-      "https://img.maxposter.ru/photo/11973/8031553/orig/dfad91c7d3ece83a389e6295b8602dcb.jpg"
+      "https://img.maxposter.ru/photo/11973/8031553/orig/f5160611e6cccdbd5695ceabf0c2358a.jpg"
     ]
   },
   {
@@ -3612,14 +3611,14 @@
     "engineType": "Дизель",
     "transmission": "Автоматическая",
     "bodyType": "Минивэн",
-    "drive": "Полный",
+    "drive": "Задний",
     "vehicleType": "С пробегом",
     "ownersCount": "Один",
     "color": "black",
     "steering": "Левый",
-    "modification": "300 d экстра длинный 2.0d AT (239 л.с.) 4WD",
+    "modification": "250 d экстра длинный 2.0d AT (190 л.с.)",
     "generation": "III (W447) Рестайлинг",
-    "power": 239,
+    "power": 190,
     "engineVolume": "1.9",
     "photos": [
       "https://img.maxposter.ru/photo/11973/7642049/orig/252d30a07fa2f9289387f86c19b1cfa2.jpg",
