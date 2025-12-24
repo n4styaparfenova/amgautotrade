@@ -1,0 +1,151 @@
+# Apache конфигурация для оптимизации производительности
+
+# ============================================
+# КЕШИРОВАНИЕ
+# ============================================
+
+<IfModule mod_expires.c>
+    ExpiresActive On
+
+    # Изображения - 1 год
+    ExpiresByType image/webp "access plus 1 year"
+    ExpiresByType image/jpeg "access plus 1 year"
+    ExpiresByType image/jpg "access plus 1 year"
+    ExpiresByType image/png "access plus 1 year"
+    ExpiresByType image/gif "access plus 1 year"
+    ExpiresByType image/svg+xml "access plus 1 year"
+    ExpiresByType image/x-icon "access plus 1 year"
+
+    # Шрифты - 1 год
+    ExpiresByType font/woff2 "access plus 1 year"
+    ExpiresByType font/woff "access plus 1 year"
+    ExpiresByType font/ttf "access plus 1 year"
+    ExpiresByType font/otf "access plus 1 year"
+
+    # CSS и JavaScript - 1 месяц
+    ExpiresByType text/css "access plus 1 month"
+    ExpiresByType application/javascript "access plus 1 month"
+    ExpiresByType text/javascript "access plus 1 month"
+
+    # JSON данные - 1 час
+    ExpiresByType application/json "access plus 1 hour"
+
+    # HTML - без кеширования для обновлений
+    ExpiresByType text/html "access plus 0 seconds"
+</IfModule>
+
+# ============================================
+# GZIP СЖАТИЕ
+# ============================================
+
+<IfModule mod_deflate.c>
+    # Сжатие текстовых файлов
+    AddOutputFilterByType DEFLATE text/html
+    AddOutputFilterByType DEFLATE text/css
+    AddOutputFilterByType DEFLATE text/javascript
+    AddOutputFilterByType DEFLATE application/javascript
+    AddOutputFilterByType DEFLATE application/json
+    AddOutputFilterByType DEFLATE application/xml
+    AddOutputFilterByType DEFLATE text/xml
+    AddOutputFilterByType DEFLATE image/svg+xml
+
+    # Не сжимать уже сжатые форматы
+    SetEnvIfNoCase Request_URI \.(?:gif|jpe?g|png|webp)$ no-gzip
+</IfModule>
+
+# ============================================
+# WEBP АВТОМАТИЧЕСКАЯ РАЗДАЧА
+# ============================================
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Если браузер поддерживает WebP и файл существует
+    RewriteCond %{HTTP_ACCEPT} image/webp
+    RewriteCond %{REQUEST_FILENAME} (.*)\.(jpe?g|png)$
+    RewriteCond %1.webp -f
+    RewriteRule ^(.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1,L]
+</IfModule>
+
+# Установка правильного MIME типа для WebP
+<IfModule mod_mime.c>
+    AddType image/webp .webp
+</IfModule>
+
+# Добавление Vary: Accept для корректного кеширования
+<IfModule mod_headers.c>
+    <FilesMatch "\.(jpe?g|png)$">
+        Header append Vary Accept env=REDIRECT_accept
+    </FilesMatch>
+
+    # Добавляем заголовки безопасности
+    Header set X-Content-Type-Options "nosniff"
+    Header set X-Frame-Options "SAMEORIGIN"
+    Header set X-XSS-Protection "1; mode=block"
+
+    # Preload для критичных ресурсов
+    <FilesMatch "\.html$">
+        Header set Link "</images/hero-bg.webp>; rel=preload; as=image; type=image/webp"
+    </FilesMatch>
+</IfModule>
+
+# ============================================
+# BROWSER CACHING (альтернатива mod_expires)
+# ============================================
+
+<IfModule mod_headers.c>
+    # Изображения
+    <FilesMatch "\.(webp|jpg|jpeg|png|gif|svg|ico)$">
+        Header set Cache-Control "public, max-age=31536000, immutable"
+    </FilesMatch>
+
+    # Шрифты
+    <FilesMatch "\.(woff2|woff|ttf|otf)$">
+        Header set Cache-Control "public, max-age=31536000, immutable"
+    </FilesMatch>
+
+    # CSS и JavaScript
+    <FilesMatch "\.(css|js)$">
+        Header set Cache-Control "public, max-age=2592000"
+    </FilesMatch>
+
+    # JSON
+    <FilesMatch "\.json$">
+        Header set Cache-Control "public, max-age=3600"
+    </FilesMatch>
+
+    # HTML - без кеширования
+    <FilesMatch "\.html$">
+        Header set Cache-Control "no-cache, must-revalidate"
+    </FilesMatch>
+</IfModule>
+
+# ============================================
+# ОТКЛЮЧЕНИЕ ETags (для лучшего кеширования)
+# ============================================
+
+<IfModule mod_headers.c>
+    Header unset ETag
+</IfModule>
+FileETag None
+
+# ============================================
+# БЕЗОПАСНОСТЬ
+# ============================================
+
+# Запрет просмотра директорий
+Options -Indexes
+
+# Защита .htaccess и других системных файлов
+<FilesMatch "^\.">
+    Require all denied
+</FilesMatch>
+
+# Защита от hotlinking изображений (опционально)
+# Раскомментируйте, если хотите защитить изображения
+# <IfModule mod_rewrite.c>
+#     RewriteEngine On
+#     RewriteCond %{HTTP_REFERER} !^$
+#     RewriteCond %{HTTP_REFERER} !^https?://(www\.)?amgautotrade\.ru [NC]
+#     RewriteRule \.(jpg|jpeg|png|gif|webp)$ - [F,NC]
+# </IfModule>

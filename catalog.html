@@ -34,8 +34,11 @@
     <meta name="geo.position" content="55.75222;37.61556">
     <meta name="ICBM" content="55.75222, 37.61556">
 
+    <!-- Preconnect для оптимизации -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://img.maxposter.ru" crossorigin>
+    <link rel="dns-prefetch" href="https://img.maxposter.ru">
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;600&family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
     <noscript><link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;600&family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet"></noscript>
     <style>
@@ -565,10 +568,17 @@
             overflow: hidden;
         }
 
+        .car-image img,
+        .car-image picture {
+            width: 100%;
+            height: 100%;
+        }
+
         .car-image img {
             width: 100%;
             height: 100%;
             object-fit: cover;
+            display: block;
         }
 
         .car-placeholder {
@@ -1523,6 +1533,11 @@
             renderCars(filteredCars);
         }
 
+        function getWebPPath(imagePath) {
+            if (!imagePath) return '';
+            return imagePath.replace(/\.(jpg|jpeg|png)$/i, '.webp');
+        }
+
         function renderCars(cars) {
             const grid = document.getElementById('carsGrid');
             const noResults = document.getElementById('noResults');
@@ -1543,7 +1558,10 @@
                 <div class="car-card" onclick="openModal(${index})">
                     <div class="car-image">
                         ${car.photos && car.photos[0]
-                            ? `<img src="${car.photos[0]}" alt="${car.name}" loading="lazy" decoding="async" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+                            ? `<picture>
+                                   <source srcset="${getWebPPath(car.photos[0])}" type="image/webp">
+                                   <img src="${car.photos[0]}" alt="${car.name}" width="648" height="260" loading="lazy" decoding="async" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+                               </picture>
                                <div class="car-placeholder" style="display:none;">ФОТО</div>`
                             : '<div class="car-placeholder">ФОТО</div>'
                         }
@@ -1636,19 +1654,23 @@
 
         function renderGallery() {
             const gallery = document.getElementById('modalGallery');
-            
+
             if (!currentCar.photos || currentCar.photos.length === 0) {
                 gallery.innerHTML = '<div class="modal-gallery-placeholder">ФОТО ОТСУТСТВУЮТ</div>';
                 return;
             }
 
+            const currentPhoto = currentCar.photos[currentPhotoIndex];
             gallery.innerHTML = `
-                <img src="${currentCar.photos[currentPhotoIndex]}" alt="${currentCar.name}" decoding="async">
+                <picture>
+                    <source srcset="${getWebPPath(currentPhoto)}" type="image/webp">
+                    <img src="${currentPhoto}" alt="${currentCar.name}" decoding="async">
+                </picture>
                 ${currentCar.photos.length > 1 ? `
                     <button class="gallery-arrow prev" onclick="prevPhoto()">‹</button>
                     <button class="gallery-arrow next" onclick="nextPhoto()">›</button>
                     <div class="gallery-controls">
-                        ${currentCar.photos.map((_, i) => 
+                        ${currentCar.photos.map((_, i) =>
                             `<div class="gallery-dot ${i === currentPhotoIndex ? 'active' : ''}" onclick="goToPhoto(${i})"></div>`
                         ).join('')}
                     </div>
