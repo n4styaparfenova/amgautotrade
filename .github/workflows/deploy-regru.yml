@@ -42,8 +42,15 @@ jobs:
             **/DNS_MIGRATION.md
             **/GITHUB_ACTIONS_SETUP.md
             **/TELEGRAM_BOT_SETUP.md
-            **/.DS_Store
+            **/PERFORMANCE-OPTIMIZATION.md
+            **/README-WEBP.md
             **/README.md
+            **/convert-to-webp.js
+            **/convert-to-webp.py
+            **/create-responsive-images.js
+            **/package.json
+            **/package-lock.json
+            **/.DS_Store
             **/*.pem
 
           # Протокол (FTP или FTPS)
