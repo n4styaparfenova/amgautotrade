@@ -3,7 +3,37 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Каталог автомобилей — AMG Auto Trade</title>
+
+    <!-- SEO Meta Tags -->
+    <title>Каталог автомобилей в наличии — AMG Auto Trade | Mercedes, BMW, Porsche в Москве</title>
+    <meta name="description" content="Более 100 премиальных автомобилей в наличии: Mercedes, BMW, Porsche, Audi, Lexus. Актуальные цены, фото, характеристики. Автомобили с пробегом и новые. Доставка под заказ. ☎ +7 (985) 674-26-50">
+    <meta name="keywords" content="купить автомобиль москва, премиум автомобили в наличии, mercedes в наличии москва, bmw в наличии москва, porsche москва, каталог автомобилей с ценами, автомобили с пробегом премиум класса">
+    <meta name="author" content="AMG Auto Trade">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://amgautotrade.ru/catalog.html">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://amgautotrade.ru/catalog.html">
+    <meta property="og:title" content="Каталог автомобилей в наличии — AMG Auto Trade">
+    <meta property="og:description" content="Более 100 премиальных автомобилей в наличии: Mercedes, BMW, Porsche, Audi. Актуальные цены и фото.">
+    <meta property="og:image" content="https://amgautotrade.ru/images/hero-bg.jpg">
+    <meta property="og:locale" content="ru_RU">
+    <meta property="og:site_name" content="AMG Auto Trade">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://amgautotrade.ru/catalog.html">
+    <meta property="twitter:title" content="Каталог автомобилей в наличии — AMG Auto Trade">
+    <meta property="twitter:description" content="Более 100 премиальных автомобилей в наличии: Mercedes, BMW, Porsche, Audi.">
+    <meta property="twitter:image" content="https://amgautotrade.ru/images/hero-bg.jpg">
+
+    <!-- Geo Tags -->
+    <meta name="geo.region" content="RU-MOW">
+    <meta name="geo.placename" content="Москва">
+    <meta name="geo.position" content="55.75222;37.61556">
+    <meta name="ICBM" content="55.75222, 37.61556">
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;600&family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
@@ -1056,6 +1086,57 @@
     </script>
     <noscript><div><img src="https://mc.yandex.ru/watch/105327533" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
     <!-- /Yandex.Metrika counter -->
+
+    <!-- Schema.org Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Каталог автомобилей премиум класса",
+        "description": "Более 100 премиальных автомобилей в наличии: Mercedes, BMW, Porsche, Audi, Lexus. Актуальные цены, фото, характеристики.",
+        "url": "https://amgautotrade.ru/catalog.html",
+        "isPartOf": {
+            "@type": "WebSite",
+            "name": "AMG Auto Trade",
+            "url": "https://amgautotrade.ru"
+        },
+        "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Главная",
+                    "item": "https://amgautotrade.ru/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Каталог",
+                    "item": "https://amgautotrade.ru/catalog.html"
+                }
+            ]
+        },
+        "mainEntity": {
+            "@type": "ItemList",
+            "name": "Автомобили в наличии",
+            "description": "Каталог премиальных автомобилей с актуальными ценами и характеристиками"
+        },
+        "provider": {
+            "@type": "AutoDealer",
+            "name": "AMG Auto Trade",
+            "url": "https://amgautotrade.ru",
+            "telephone": "+79856742650",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "км МКАД 53-й, д.6",
+                "addressLocality": "Москва",
+                "postalCode": "121353",
+                "addressCountry": "RU"
+            }
+        }
+    }
+    </script>
 </head>
 <body>
     <header>
@@ -1461,8 +1542,8 @@
             grid.innerHTML = cars.map((car, index) => `
                 <div class="car-card" onclick="openModal(${index})">
                     <div class="car-image">
-                        ${car.photos && car.photos[0] 
-                            ? `<img src="${car.photos[0]}" alt="${car.name}" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+                        ${car.photos && car.photos[0]
+                            ? `<img src="${car.photos[0]}" alt="${car.name}" loading="lazy" decoding="async" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
                                <div class="car-placeholder" style="display:none;">ФОТО</div>`
                             : '<div class="car-placeholder">ФОТО</div>'
                         }
@@ -1485,10 +1566,13 @@
         function openModal(index) {
             currentCar = filteredCars[index];
             currentPhotoIndex = 0;
-            
+
             document.getElementById('modalTitle').textContent = currentCar.name;
             document.getElementById('modalPrice').textContent = `${currentCar.priceFormatted} ₽`;
-            
+
+            // Добавляем Product Schema для SEO
+            addProductSchema(currentCar);
+
             renderGallery();
             
             const specsHTML = `
@@ -1559,7 +1643,7 @@
             }
 
             gallery.innerHTML = `
-                <img src="${currentCar.photos[currentPhotoIndex]}" alt="${currentCar.name}">
+                <img src="${currentCar.photos[currentPhotoIndex]}" alt="${currentCar.name}" decoding="async">
                 ${currentCar.photos.length > 1 ? `
                     <button class="gallery-arrow prev" onclick="prevPhoto()">‹</button>
                     <button class="gallery-arrow next" onclick="nextPhoto()">›</button>
@@ -1590,6 +1674,80 @@
         function closeModal() {
             document.getElementById('carModal').classList.remove('active');
             document.body.style.overflow = 'auto';
+            // Удаляем Product Schema при закрытии модального окна
+            removeProductSchema();
+        }
+
+        // Функция для добавления Product Schema
+        function addProductSchema(car) {
+            // Удаляем предыдущую схему, если есть
+            removeProductSchema();
+
+            const schema = {
+                "@context": "https://schema.org",
+                "@type": "Product",
+                "name": car.name,
+                "description": `${car.brand} ${car.model} ${car.year} года. Пробег: ${formatNumber(car.mileage)} км. Двигатель: ${car.engineVolume}л, ${car.power} л.с.`,
+                "brand": {
+                    "@type": "Brand",
+                    "name": car.brand
+                },
+                "model": car.model,
+                "offers": {
+                    "@type": "Offer",
+                    "price": car.price,
+                    "priceCurrency": "RUB",
+                    "availability": "https://schema.org/InStock",
+                    "seller": {
+                        "@type": "AutoDealer",
+                        "name": "AMG Auto Trade",
+                        "telephone": "+79856742650",
+                        "url": "https://amgautotrade.ru"
+                    },
+                    "itemCondition": car.vehicleType === "Новые" ? "https://schema.org/NewCondition" : "https://schema.org/UsedCondition"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": car.engineType,
+                    "engineDisplacement": {
+                        "@type": "QuantitativeValue",
+                        "value": car.engineVolume,
+                        "unitCode": "LTR"
+                    },
+                    "enginePower": {
+                        "@type": "QuantitativeValue",
+                        "value": car.power,
+                        "unitCode": "BHP"
+                    }
+                },
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": car.mileage,
+                    "unitCode": "KMT"
+                },
+                "productionDate": car.year.toString(),
+                "driveWheelConfiguration": car.drive,
+                "vehicleTransmission": car.transmission,
+                "bodyType": car.bodyType
+            };
+
+            if (car.photos && car.photos.length > 0) {
+                schema.image = car.photos;
+            }
+
+            const script = document.createElement('script');
+            script.type = 'application/ld+json';
+            script.id = 'product-schema';
+            script.textContent = JSON.stringify(schema, null, 2);
+            document.head.appendChild(script);
+        }
+
+        // Функция для удаления Product Schema
+        function removeProductSchema() {
+            const existingSchema = document.getElementById('product-schema');
+            if (existingSchema) {
+                existingSchema.remove();
+            }
         }
 
         document.getElementById('carModal').addEventListener('click', function(e) {

@@ -1372,6 +1372,269 @@
                 gap: 10px;
             }
         }
+
+        /* ============================================
+           CALLBACK FORM SECTION
+        ============================================ */
+        .callback-section {
+            background: linear-gradient(135deg, #1A1D21 0%, #2C3035 100%);
+            padding: 80px 60px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .callback-section::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            right: -10%;
+            width: 500px;
+            height: 500px;
+            background: radial-gradient(circle, rgba(201, 169, 97, 0.1) 0%, transparent 70%);
+            border-radius: 50%;
+        }
+
+        .callback-container {
+            max-width: 1440px;
+            margin: 0 auto;
+            position: relative;
+            z-index: 10;
+        }
+
+        .callback-content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 80px;
+            align-items: center;
+        }
+
+        .callback-title {
+            font-family: 'Oswald', sans-serif;
+            font-size: 48px;
+            font-weight: 600;
+            color: var(--white);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 20px;
+        }
+
+        .callback-subtitle {
+            font-size: 18px;
+            color: var(--gold);
+            margin-bottom: 40px;
+            font-weight: 400;
+        }
+
+        .callback-benefits {
+            list-style: none;
+            padding: 0;
+        }
+
+        .callback-benefits li {
+            font-size: 16px;
+            color: var(--gray);
+            margin-bottom: 15px;
+            padding-left: 10px;
+            line-height: 1.6;
+        }
+
+        .callback-form-wrapper {
+            background: rgba(44, 48, 53, 0.6);
+            padding: 40px;
+            border-radius: 8px;
+            border: 1px solid rgba(201, 169, 97, 0.2);
+            backdrop-filter: blur(10px);
+        }
+
+        .callback-form {
+            position: relative;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-input,
+        .form-textarea {
+            width: 100%;
+            padding: 15px 20px;
+            background: rgba(26, 29, 33, 0.8);
+            border: 1px solid rgba(201, 169, 97, 0.3);
+            border-radius: 4px;
+            color: var(--white);
+            font-family: 'Montserrat', sans-serif;
+            font-size: 15px;
+            transition: all 0.3s ease;
+        }
+
+        .form-input:focus,
+        .form-textarea:focus {
+            outline: none;
+            border-color: var(--gold);
+            background: rgba(26, 29, 33, 0.95);
+        }
+
+        .form-input::placeholder,
+        .form-textarea::placeholder {
+            color: var(--gray);
+        }
+
+        .form-textarea {
+            resize: vertical;
+            min-height: 80px;
+        }
+
+        .form-submit {
+            width: 100%;
+            padding: 18px 40px;
+            background: var(--gold);
+            border: none;
+            border-radius: 4px;
+            color: var(--dark-bg);
+            font-family: 'Oswald', sans-serif;
+            font-size: 16px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .form-submit:hover {
+            background: var(--gold-hover);
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(201, 169, 97, 0.4);
+        }
+
+        .form-submit:active {
+            transform: translateY(0);
+        }
+
+        .form-submit:disabled {
+            background: var(--gray);
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .form-privacy {
+            margin-top: 15px;
+            font-size: 12px;
+            color: var(--gray);
+            text-align: center;
+            line-height: 1.5;
+        }
+
+        .form-privacy a {
+            color: var(--gold);
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .form-privacy a:hover {
+            color: var(--gold-hover);
+        }
+
+        .form-success,
+        .form-error {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(44, 48, 53, 0.98);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            border-radius: 8px;
+            padding: 40px;
+            text-align: center;
+            animation: fadeIn 0.3s ease;
+        }
+
+        .success-icon {
+            width: 80px;
+            height: 80px;
+            background: var(--gold);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 48px;
+            color: var(--dark-bg);
+            margin-bottom: 20px;
+            animation: scaleIn 0.5s ease;
+        }
+
+        @keyframes scaleIn {
+            from {
+                transform: scale(0);
+            }
+            to {
+                transform: scale(1);
+            }
+        }
+
+        .success-text {
+            font-size: 18px;
+            color: var(--white);
+            line-height: 1.6;
+        }
+
+        .error-text {
+            font-size: 16px;
+            color: #ff6b6b;
+            line-height: 1.6;
+        }
+
+        .error-text a {
+            color: var(--gold);
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        /* Адаптивность для формы */
+        @media (max-width: 1024px) {
+            .callback-content {
+                grid-template-columns: 1fr;
+                gap: 50px;
+            }
+
+            .callback-title {
+                font-size: 36px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .callback-section {
+                padding: 60px 20px;
+            }
+
+            .callback-title {
+                font-size: 28px;
+            }
+
+            .callback-subtitle {
+                font-size: 16px;
+            }
+
+            .callback-form-wrapper {
+                padding: 25px;
+            }
+
+            .form-input,
+            .form-textarea {
+                padding: 12px 15px;
+                font-size: 14px;
+            }
+
+            .form-submit {
+                padding: 15px 30px;
+                font-size: 14px;
+            }
+        }
     </style>
     
     <script>
@@ -1394,6 +1657,124 @@
                         burgerMenu.classList.remove('active');
                         mobileNav.classList.remove('active');
                     });
+                });
+            }
+
+            // ============================================
+            // МАСКА ТЕЛЕФОНА
+            // ============================================
+            const phoneInput = document.getElementById('userPhone');
+            if (phoneInput) {
+                phoneInput.addEventListener('input', function(e) {
+                    let value = e.target.value.replace(/\D/g, '');
+
+                    if (value.length > 0) {
+                        if (value[0] === '8') value = '7' + value.substring(1);
+                        if (value[0] !== '7') value = '7' + value;
+                    }
+
+                    let formattedValue = '';
+                    if (value.length > 0) {
+                        formattedValue = '+7';
+                        if (value.length > 1) formattedValue += ' (' + value.substring(1, 4);
+                        if (value.length >= 4) formattedValue += ') ' + value.substring(4, 7);
+                        if (value.length >= 7) formattedValue += '-' + value.substring(7, 9);
+                        if (value.length >= 9) formattedValue += '-' + value.substring(9, 11);
+                    }
+
+                    e.target.value = formattedValue;
+                });
+
+                phoneInput.addEventListener('keydown', function(e) {
+                    if (e.key === 'Backspace' && e.target.value === '+7') {
+                        e.target.value = '';
+                    }
+                });
+            }
+
+            // ============================================
+            // ОБРАБОТКА ФОРМЫ ОБРАТНОЙ СВЯЗИ
+            // ============================================
+            const callbackForm = document.getElementById('callbackForm');
+            if (callbackForm) {
+                callbackForm.addEventListener('submit', async function(e) {
+                    e.preventDefault();
+
+                    const submitBtn = this.querySelector('.form-submit');
+                    const submitText = submitBtn.querySelector('.submit-text');
+                    const submitLoader = submitBtn.querySelector('.submit-loader');
+                    const formSuccess = document.getElementById('formSuccess');
+                    const formError = document.getElementById('formError');
+
+                    // Получаем данные формы
+                    const formData = {
+                        name: document.getElementById('userName').value.trim(),
+                        phone: document.getElementById('userPhone').value.trim(),
+                        message: document.getElementById('userMessage').value.trim()
+                    };
+
+                    // Простая валидация
+                    if (!formData.name || !formData.phone) {
+                        alert('Пожалуйста, заполните обязательные поля');
+                        return;
+                    }
+
+                    // Проверка телефона
+                    const phoneDigits = formData.phone.replace(/\D/g, '');
+                    if (phoneDigits.length !== 11) {
+                        alert('Пожалуйста, введите корректный номер телефона');
+                        return;
+                    }
+
+                    // Блокируем кнопку и показываем загрузку
+                    submitBtn.disabled = true;
+                    submitText.style.display = 'none';
+                    submitLoader.style.display = 'inline';
+
+                    try {
+                        // Отправляем данные на сервер
+                        const response = await fetch('telegram-bot.php', {
+                            method: 'POST',
+                            headers: {
+                                'Content-Type': 'application/json',
+                            },
+                            body: JSON.stringify(formData)
+                        });
+
+                        const result = await response.json();
+
+                        if (result.success) {
+                            // Показываем сообщение об успехе
+                            formSuccess.style.display = 'flex';
+
+                            // Отправляем событие в Яндекс.Метрику
+                            if (typeof ym !== 'undefined') {
+                                ym(105327533, 'reachGoal', 'form_submit');
+                            }
+
+                            // Очищаем форму
+                            callbackForm.reset();
+
+                            // Скрываем сообщение через 5 секунд
+                            setTimeout(() => {
+                                formSuccess.style.display = 'none';
+                            }, 5000);
+                        } else {
+                            throw new Error(result.error || 'Ошибка отправки');
+                        }
+                    } catch (error) {
+                        console.error('Error:', error);
+                        formError.style.display = 'flex';
+
+                        setTimeout(() => {
+                            formError.style.display = 'none';
+                        }, 5000);
+                    } finally {
+                        // Разблокируем кнопку
+                        submitBtn.disabled = false;
+                        submitText.style.display = 'inline';
+                        submitLoader.style.display = 'none';
+                    }
                 });
             }
 
@@ -1572,7 +1953,7 @@
             </div>
 
             <div class="process-image">
-                <img src="images/order-bg.jpg" alt="Доставка и растаможка автомобилей" style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;">
+                <img src="images/order-bg.jpg" alt="Доставка премиальных автомобилей из Европы, Кореи и Китая под ключ с растаможкой и ЭПТС" style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;" loading="lazy" decoding="async">
             </div>
         </div>
     </section>
@@ -1593,7 +1974,7 @@
                 <!-- Услуга 1 -->
                 <div class="service-card">
                     <div class="service-image">
-                        <img src="images/services/selection.jpg" alt="Подбор автомобилей" style="width: 100%; height: 100%; object-fit: cover;" loading="lazy" decoding="async">
+                        <img src="images/services/selection.jpg" alt="Индивидуальный подбор и доставка премиальных автомобилей из Европы, Кореи и Китая под заказ" style="width: 100%; height: 100%; object-fit: cover;" loading="lazy" decoding="async">
                     </div>
                     <div class="service-content">
                         <h3 class="service-title">Автомобили под заказ</h3>
@@ -1606,7 +1987,7 @@
                 <!-- Услуга 2 -->
                 <div class="service-card">
                     <div class="service-image">
-                        <img src="images/services/detailing.jpg" alt="Детейлинг автомобилей" style="width: 100%; height: 100%; object-fit: cover;" loading="lazy" decoding="async">
+                        <img src="images/services/detailing.jpg" alt="Профессиональный детейлинг премиальных автомобилей - химчистка салона, полировка кузова, защитные покрытия" style="width: 100%; height: 100%; object-fit: cover;" loading="lazy" decoding="async">
                     </div>
                     <div class="service-content">
                         <h3 class="service-title">Детейлинг</h3>
@@ -1619,7 +2000,7 @@
                 <!-- Услуга 3 -->
                 <div class="service-card">
                     <div class="service-image">
-                        <img src="images/services/trade-in.jpg" alt="Trade-in" style="width: 100%; height: 100%; object-fit: cover;" loading="lazy" decoding="async">
+                        <img src="images/services/trade-in.jpg" alt="Trade-in обмен автомобилей с доплатой - честная оценка и быстрое оформление в Москве" style="width: 100%; height: 100%; object-fit: cover;" loading="lazy" decoding="async">
                     </div>
                     <div class="service-content">
                         <h3 class="service-title">Trade-in</h3>
@@ -1715,6 +2096,74 @@
     </section>
 
     <!-- ============================================
+         CALLBACK FORM SECTION
+    ============================================ -->
+    <section class="callback-section">
+        <div class="callback-container">
+            <div class="callback-content">
+                <div class="callback-info">
+                    <h2 class="callback-title">Оставьте заявку</h2>
+                    <p class="callback-subtitle">Перезвоним за 5 минут и ответим на все вопросы</p>
+                    <ul class="callback-benefits">
+                        <li>✓ Бесплатная консультация по подбору автомобиля</li>
+                        <li>✓ Расчет стоимости с учетом Trade-in</li>
+                        <li>✓ Помощь с кредитом и лизингом</li>
+                    </ul>
+                </div>
+
+                <div class="callback-form-wrapper">
+                    <form id="callbackForm" class="callback-form">
+                        <div class="form-group">
+                            <input type="text"
+                                   id="userName"
+                                   name="name"
+                                   class="form-input"
+                                   placeholder="Ваше имя"
+                                   required>
+                        </div>
+
+                        <div class="form-group">
+                            <input type="tel"
+                                   id="userPhone"
+                                   name="phone"
+                                   class="form-input"
+                                   placeholder="+7 (___) ___-__-__"
+                                   required>
+                        </div>
+
+                        <div class="form-group">
+                            <textarea id="userMessage"
+                                      name="message"
+                                      class="form-textarea"
+                                      placeholder="Комментарий (опционально)"
+                                      rows="3"></textarea>
+                        </div>
+
+                        <button type="submit" class="form-submit">
+                            <span class="submit-text">Отправить заявку</span>
+                            <span class="submit-loader" style="display: none;">Отправка...</span>
+                        </button>
+
+                        <p class="form-privacy">
+                            Нажимая кнопку, вы соглашаетесь с
+                            <a href="personal-data.html" target="_blank">политикой обработки персональных данных</a>
+                        </p>
+
+                        <div class="form-success" id="formSuccess" style="display: none;">
+                            <div class="success-icon">✓</div>
+                            <p class="success-text">Спасибо! Ваша заявка принята.<br>Мы свяжемся с вами в течение 5 минут.</p>
+                        </div>
+
+                        <div class="form-error" id="formError" style="display: none;">
+                            <p class="error-text">Произошла ошибка. Пожалуйста, позвоните нам: <a href="tel:+79856742650">+7 (985) 674-26-50</a></p>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============================================
          FOOTER
     ============================================ -->
     <footer class="footer">
@@ -1777,7 +2226,7 @@
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
-        "@type": "AutoDealer",
+        "@type": ["AutoDealer", "LocalBusiness"],
         "name": "AMG Auto Trade",
         "alternateName": "АМГ Авто Трейд",
         "description": "Автосалон премиум класса в Москве. Продажа автомобилей Mercedes, BMW, Porsche, Audi. Доставка под заказ из Европы, Кореи, Китая.",
@@ -1810,12 +2259,144 @@
             "@type": "City",
             "name": "Москва"
         },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1",
+            "ratingCount": "3000"
+        },
         "sameAs": [
             "https://youtube.com/@amg_auto_trade",
             "https://t.me/AMG_auto_trade",
             "https://www.avito.ru/brands/06614d20cae91c129050527e2f11036f/items/all/transport",
             "https://auto.drom.ru/dealer331589/bmw/7-series/",
             "https://auto.ru/diler/cars/all/amg_auto_trade_moskva/"
+        ]
+    }
+    </script>
+
+    <!-- Reviews Schema -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "itemReviewed": {
+            "@type": "AutoDealer",
+            "name": "AMG Auto Trade"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "Карина"
+        },
+        "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5"
+        },
+        "reviewBody": "Первый автомобиль — Mercedes-Benz GLE 53. Подобрали быстро, сделка прошла без проблем, осталась очень довольна. Профессиональная команда, которая знает своё дело!",
+        "datePublished": "2024-11-15"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "itemReviewed": {
+            "@type": "AutoDealer",
+            "name": "AMG Auto Trade"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "Ольга"
+        },
+        "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5"
+        },
+        "reviewBody": "BMW X5 привезён под заказ из Германии. Получила именно тот автомобиль, который хотела. Процесс прошёл спокойно, постоянно была связь. После прибытия машину доработали на высшем уровне!",
+        "datePublished": "2024-10-22"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "itemReviewed": {
+            "@type": "AutoDealer",
+            "name": "AMG Auto Trade"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "Александр"
+        },
+        "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5"
+        },
+        "reviewBody": "BMW M440i, 2021 года, привезена из Германии с пробегом 28 тыс. км в максимальной комплектации. Процесс оформления и таможни занял всего 4 рабочих дня. Сделка прошла успешно!",
+        "datePublished": "2024-09-10"
+    }
+    </script>
+
+    <!-- FAQ Schema -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "Какие автомобили есть в наличии?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "В наличии более 100 премиальных автомобилей: Mercedes-Benz, BMW, Porsche, Audi, Lexus, Land Rover, Toyota и другие. Актуальный каталог доступен на сайте."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Как долго занимает доставка автомобиля под заказ?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Срок доставки зависит от страны происхождения: из Европы - от 30 дней, из Южной Кореи - от 45 дней, из Китая - от 60 дней. Точные сроки обсуждаются индивидуально при заключении договора."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Предоставляете ли вы гарантию на автомобили?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Да, мы предоставляем гарантию на все автомобили. Условия гарантии зависят от типа автомобиля (новый/с пробегом) и обсуждаются индивидуально."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Возможен ли Trade-in?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Да, мы принимаем автомобили в Trade-in. Проводим честную оценку вашего автомобиля и предлагаем выгодные условия обмена с доплатой."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Помогаете ли с оформлением кредита?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Да, мы сотрудничаем с ведущими банками и помогаем оформить автокредит на выгодных условиях. Также доступны программы лизинга для юридических лиц."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Где находится автосалон?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Автосалон AMG Auto Trade находится в Москве по адресу: км МКАД 53-й, д.6. Работаем ежедневно с 09:00 до 21:00. Телефон: +7 (985) 674-26-50."
+                }
+            }
         ]
     }
     </script>

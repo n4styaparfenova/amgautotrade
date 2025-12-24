@@ -1,0 +1,19 @@
+[Unit]
+Description=AMG Auto Trade Telegram Bot
+Documentation=https://github.com/yourrepo/amg-bot
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root/amgautotrade/telegram-bot
+ExecStart=/usr/bin/node /root/amgautotrade/telegram-bot/bot.js
+Restart=on-failure
+RestartSec=10
+StandardOutput=syslog
+StandardError=syslog
+SyslogIdentifier=amg-bot
+Environment=NODE_ENV=production
+
+[Install]
+WantedBy=multi-user.target

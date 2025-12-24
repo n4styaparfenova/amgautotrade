@@ -1,0 +1,56 @@
+name: Deploy to Reg.ru via FTP
+
+# Запуск при пуше в ветку main
+on:
+  push:
+    branches:
+      - main
+  # Или вручную через Actions
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    name: Deploy to Reg.ru
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Deploy to Reg.ru FTP
+        uses: SamKirkland/FTP-Deploy-Action@4.3.3
+        with:
+          # FTP данные из GitHub Secrets
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+
+          # Локальная папка для загрузки (корень репозитория)
+          local-dir: ./
+
+          # Удаленная папка на сервере (обычно public_html)
+          server-dir: /public_html/
+
+          # Исключения - что НЕ загружать на сервер
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
+            **/.github/**
+            **/telegram-bot/**
+            **/DEPLOYMENT_GUIDE.md
+            **/DNS_MIGRATION.md
+            **/GITHUB_ACTIONS_SETUP.md
+            **/TELEGRAM_BOT_SETUP.md
+            **/.DS_Store
+            **/README.md
+            **/*.pem
+
+          # Протокол (FTP или FTPS)
+          protocol: ftp
+
+          # Порт (обычно 21 для FTP)
+          port: 21
+
+          # Таймаут (в секундах)
+          timeout: 300000
