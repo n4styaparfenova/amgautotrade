@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- SEO Meta Tags -->
+    <title>Блог о премиум автомобилях — AMG Auto Trade | Советы, обзоры, новости</title>
+    <meta name="description" content="Полезные статьи о покупке, выборе и обслуживании премиум автомобилей. Обзоры Mercedes, BMW, Porsche. Гайды по растаможке и trade-in. Экспертные советы.">
+    <meta name="keywords" content="блог об автомобилях, премиум авто статьи, обзоры mercedes, bmw обзоры, купить авто из германии">
+    <meta name="author" content="AMG Auto Trade">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://amgautotrade.ru/blog/">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://amgautotrade.ru/blog/">
+    <meta property="og:title" content="Блог о премиум автомобилях — AMG Auto Trade">
+    <meta property="og:description" content="Полезные статьи о покупке, выборе и обслуживании премиум автомобилей.">
+    <meta property="og:image" content="https://amgautotrade.ru/images/hero-bg.jpg">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;600&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+
+    <style>
+        :root {
+            --dark-bg: #1A1D21;
+            --light-bg: #F8F8F8;
+            --gold: #C9A961;
+            --gold-hover: #D4AF37;
+            --white: #FFFFFF;
+            --gray: #A8A8A8;
+            --card-bg: #2C3035;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background: var(--dark-bg);
+            color: var(--white);
+            line-height: 1.6;
+        }
+
+        /* Header - копируем из index.html */
+        header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 1000;
+            background: rgba(26, 29, 33, 0.95);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid rgba(201, 169, 97, 0.1);
+        }
+
+        .header-content {
+            max-width: 1440px;
+            margin: 0 auto;
+            padding: 15px 60px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            height: 70px;
+            width: auto;
+        }
+
+        nav {
+            display: flex;
+            gap: 50px;
+            align-items: center;
+        }
+
+        nav a {
+            color: var(--white);
+            text-decoration: none;
+            font-weight: 300;
+            font-size: 14px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            transition: color 0.3s ease;
+        }
+
+        nav a:hover {
+            color: var(--gold);
+        }
+
+        /* Main Content */
+        .blog-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 140px 60px 60px;
+        }
+
+        .blog-header {
+            text-align: center;
+            margin-bottom: 60px;
+        }
+
+        .blog-header h1 {
+            font-family: 'Oswald', sans-serif;
+            font-size: 56px;
+            font-weight: 600;
+            color: var(--white);
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .blog-header p {
+            font-size: 18px;
+            color: var(--gray);
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        .categories {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin-bottom: 80px;
+        }
+
+        .category-card {
+            background: var(--card-bg);
+            border: 1px solid rgba(201, 169, 97, 0.2);
+            border-radius: 8px;
+            padding: 30px;
+            transition: all 0.3s ease;
+        }
+
+        .category-card:hover {
+            transform: translateY(-5px);
+            border-color: var(--gold);
+            box-shadow: 0 10px 40px rgba(201, 169, 97, 0.2);
+        }
+
+        .category-icon {
+            font-size: 48px;
+            margin-bottom: 20px;
+        }
+
+        .category-card h3 {
+            font-family: 'Oswald', sans-serif;
+            font-size: 24px;
+            color: var(--gold);
+            margin-bottom: 15px;
+            text-transform: uppercase;
+        }
+
+        .category-card p {
+            color: var(--gray);
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+
+        .category-card ul {
+            list-style: none;
+        }
+
+        .category-card li {
+            padding: 8px 0;
+            border-bottom: 1px solid rgba(201, 169, 97, 0.1);
+        }
+
+        .category-card li:last-child {
+            border-bottom: none;
+        }
+
+        .category-card a {
+            color: var(--white);
+            text-decoration: none;
+            font-size: 14px;
+            transition: color 0.3s ease;
+        }
+
+        .category-card a:hover {
+            color: var(--gold);
+        }
+
+        .articles-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 30px;
+            margin-bottom: 60px;
+        }
+
+        .article-card {
+            background: var(--card-bg);
+            border: 1px solid rgba(201, 169, 97, 0.2);
+            border-radius: 8px;
+            overflow: hidden;
+            transition: all 0.3s ease;
+        }
+
+        .article-card:hover {
+            transform: translateY(-5px);
+            border-color: var(--gold);
+            box-shadow: 0 10px 40px rgba(201, 169, 97, 0.2);
+        }
+
+        .article-image {
+            width: 100%;
+            height: 200px;
+            background: var(--dark-bg);
+            overflow: hidden;
+        }
+
+        .article-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .article-content {
+            padding: 25px;
+        }
+
+        .article-meta {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 15px;
+            font-size: 12px;
+            color: var(--gray);
+        }
+
+        .article-category {
+            color: var(--gold);
+            text-transform: uppercase;
+            font-weight: 600;
+        }
+
+        .article-title {
+            font-family: 'Oswald', sans-serif;
+            font-size: 22px;
+            color: var(--white);
+            margin-bottom: 15px;
+            line-height: 1.3;
+        }
+
+        .article-title a {
+            color: var(--white);
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .article-title a:hover {
+            color: var(--gold);
+        }
+
+        .article-excerpt {
+            color: var(--gray);
+            font-size: 14px;
+            margin-bottom: 20px;
+            line-height: 1.6;
+        }
+
+        .read-more {
+            display: inline-block;
+            padding: 10px 25px;
+            background: transparent;
+            border: 1px solid var(--gold);
+            color: var(--gold);
+            text-decoration: none;
+            font-size: 12px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            transition: all 0.3s ease;
+        }
+
+        .read-more:hover {
+            background: var(--gold);
+            color: var(--dark-bg);
+        }
+
+        @media (max-width: 768px) {
+            .blog-container {
+                padding: 100px 20px 40px;
+            }
+
+            .blog-header h1 {
+                font-size: 36px;
+            }
+
+            .categories {
+                grid-template-columns: 1fr;
+            }
+
+            .articles-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <a href="../index.html">
+                <img src="../images/logo.png" alt="AMG Auto Trade" class="logo" loading="lazy">
+            </a>
+            <nav>
+                <a href="../index.html">Главная</a>
+                <a href="../catalog.html">Каталог</a>
+                <a href="../services.html">Услуги</a>
+                <a href="index.html">Блог</a>
+                <a href="../contacts.html">Контакты</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="blog-container">
+        <div class="blog-header">
+            <h1>Блог AMG Auto Trade</h1>
+            <p>Полезные статьи о покупке, выборе и обслуживании премиум автомобилей от экспертов</p>
+        </div>
+
+        <section class="categories">
+            <div class="category-card">
+                <div class="category-icon">🚗</div>
+                <h3>Покупка и подбор</h3>
+                <p>Руководства по выбору и покупке премиум автомобилей</p>
+                <ul>
+                    <li><a href="buying-guide/premium-used-cars-guide.html">Как выбрать авто с пробегом</a></li>
+                    <li><a href="#">Trade-in: максимальная выгода</a></li>
+                    <li><a href="#">Покупка из Германии: инструкция</a></li>
+                </ul>
+            </div>
+
+            <div class="category-card">
+                <div class="category-icon">⭐</div>
+                <h3>Обзоры брендов</h3>
+                <p>Детальные обзоры автомобилей премиум класса</p>
+                <ul>
+                    <li><a href="#">Mercedes-Benz GLE 2024-2025</a></li>
+                    <li><a href="#">BMW X5 полный обзор</a></li>
+                    <li><a href="#">Porsche Cayenne новое поколение</a></li>
+                </ul>
+            </div>
+
+            <div class="category-card">
+                <div class="category-icon">⚖️</div>
+                <h3>Сравнения</h3>
+                <p>Сравнительные обзоры популярных моделей</p>
+                <ul>
+                    <li><a href="#">BMW X5 vs Mercedes GLE</a></li>
+                    <li><a href="#">Топ-10 кроссоверов 2025</a></li>
+                    <li><a href="#">Бензин или дизель</a></li>
+                </ul>
+            </div>
+
+            <div class="category-card">
+                <div class="category-icon">📋</div>
+                <h3>Юридические вопросы</h3>
+                <p>Все о растаможке, ЭПТС и документах</p>
+                <ul>
+                    <li><a href="#">Растаможка авто в 2025</a></li>
+                    <li><a href="#">ЭПТС: полное руководство</a></li>
+                    <li><a href="#">Автокредит на премиум авто</a></li>
+                </ul>
+            </div>
+
+            <div class="category-card">
+                <div class="category-icon">🔧</div>
+                <h3>Обслуживание</h3>
+                <p>Уход и обслуживание премиум автомобилей</p>
+                <ul>
+                    <li><a href="#">Стоимость владения</a></li>
+                    <li><a href="#">Детейлинг премиум авто</a></li>
+                    <li><a href="#">Подготовка к зиме</a></li>
+                </ul>
+            </div>
+
+            <div class="category-card">
+                <div class="category-icon">📰</div>
+                <h3>Новости рынка</h3>
+                <p>Актуальные новости автомобильного рынка</p>
+                <ul>
+                    <li><a href="#">Рынок авто 2025: прогноз</a></li>
+                    <li><a href="#">Электромобили премиум класса</a></li>
+                    <li><a href="#">Тренды автопрома</a></li>
+                </ul>
+            </div>
+        </section>
+
+        <h2 style="font-family: 'Oswald', sans-serif; font-size: 36px; margin-bottom: 40px; text-align: center; color: var(--gold);">
+            ПОСЛЕДНИЕ СТАТЬИ
+        </h2>
+
+        <div class="articles-grid">
+            <article class="article-card">
+                <div class="article-image">
+                    <img src="../images/hero-bg.jpg" alt="Премиум автомобили с пробегом" loading="lazy">
+                </div>
+                <div class="article-content">
+                    <div class="article-meta">
+                        <span class="article-category">Покупка и подбор</span>
+                        <span>•</span>
+                        <span>5 минут чтения</span>
+                    </div>
+                    <h3 class="article-title">
+                        <a href="buying-guide/premium-used-cars-guide.html">
+                            Премиум автомобили с пробегом: как выбрать и не ошибиться
+                        </a>
+                    </h3>
+                    <p class="article-excerpt">
+                        Полное руководство по покупке премиальных автомобилей с пробегом. На что обратить внимание, как проверить историю, избежать подводных камней...
+                    </p>
+                    <a href="buying-guide/premium-used-cars-guide.html" class="read-more">Читать далее</a>
+                </div>
+            </article>
+
+            <!-- Больше статей будут добавлены -->
+        </div>
+    </main>
+
+    <!-- Schema.org для блога -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Blog",
+        "name": "Блог AMG Auto Trade",
+        "description": "Полезные статьи о покупке, выборе и обслуживании премиум автомобилей",
+        "url": "https://amgautotrade.ru/blog/",
+        "publisher": {
+            "@type": "Organization",
+            "name": "AMG Auto Trade",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://amgautotrade.ru/images/logo.png"
+            }
+        }
+    }
+    </script>
+</body>
+</html>

@@ -1,20 +1,46 @@
 User-agent: *
 Allow: /
 
+# Запрещаем индексацию служебных и дублирующихся страниц
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /cache/
+Disallow: /*?sort=*
+Disallow: /*?filter=*
+Disallow: /*&*
+
+# Разрешаем важные параметры для брендов
+Allow: /*?brand=*
+
+# Блокируем технические файлы
+Disallow: /*.md$
+Disallow: /PERFORMANCE-OPTIMIZATION.md
+Disallow: /README-WEBP.md
+Disallow: /convert-to-webp.js
+Disallow: /convert-to-webp.py
+Disallow: /create-responsive-images.js
+Disallow: /.github/
+Disallow: /node_modules/
+Disallow: /telegram-bot/
+
+# Разрешаем сканирование изображений
+Allow: /images/
+Allow: /*.jpg
+Allow: /*.png
+Allow: /*.webp
+
 # Sitemap
 Sitemap: https://amgautotrade.ru/sitemap.xml
 
-# Disallow admin pages if any
-# Disallow: /admin/
-
-# Crawl-delay for polite crawling
-Crawl-delay: 1
-
-# Allow all major search engines
+# Специфичные боты
 User-agent: Googlebot
 Allow: /
+User-agent: Googlebot-Image
+Allow: /images/
 
 User-agent: Yandex
+Allow: /
+User-agent: YandexBot
 Allow: /
 
 User-agent: Bingbot
