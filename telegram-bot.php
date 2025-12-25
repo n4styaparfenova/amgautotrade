@@ -33,7 +33,7 @@
 define('NODE_BOT_URL', 'http://195.209.210.45:3001/api/lead');
 
 // Секретный ключ для API (должен совпадать с API_SECRET в .env на VPS)
-define('API_SECRET', 'amgautotrade_secret_2025_change_this');
+define('API_SECRET', 'amgautotrade_secret_2025');
 
 // Логирование (для отладки)
 define('ENABLE_LOGGING', true);
