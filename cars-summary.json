@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-26T14:12:13.715Z",
+  "updated_at": "2025-12-26T15:12:10.683Z",
   "total_cars": 98,
   "brands": [
     "Audi",
@@ -19,7 +19,7 @@
     "Zeekr"
   ],
   "price_range": {
-    "min": 3690000,
+    "min": 3540000,
     "max": 33000000
   }
 }
