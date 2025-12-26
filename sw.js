@@ -1,6 +1,6 @@
 // Service Worker для кеширования изображений и ресурсов
 // Версия кеша - обновляйте при изменениях
-const CACHE_VERSION = 'v1.0.0';
+const CACHE_VERSION = 'v1.0.1';
 const CACHE_NAME = `amgautotrade-cache-${CACHE_VERSION}`;
 
 // Ресурсы для предварительного кеширования

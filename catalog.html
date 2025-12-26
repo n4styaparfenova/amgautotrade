@@ -1535,6 +1535,11 @@
 
         function getWebPPath(imagePath) {
             if (!imagePath) return '';
+            // Не конвертируем внешние URL (maxposter и другие)
+            if (imagePath.startsWith('http://') || imagePath.startsWith('https://')) {
+                return imagePath;
+            }
+            // Конвертируем только локальные файлы
             return imagePath.replace(/\.(jpg|jpeg|png)$/i, '.webp');
         }
 
@@ -1554,15 +1559,20 @@
             grid.style.display = 'grid';
             noResults.style.display = 'none';
 
-            grid.innerHTML = cars.map((car, index) => `
+            grid.innerHTML = cars.map((car, index) => {
+                const isExternalImage = car.photos && car.photos[0] && (car.photos[0].startsWith('http://') || car.photos[0].startsWith('https://'));
+                return `
                 <div class="car-card" onclick="openModal(${index})">
                     <div class="car-image">
                         ${car.photos && car.photos[0]
-                            ? `<picture>
-                                   <source srcset="${getWebPPath(car.photos[0])}" type="image/webp">
-                                   <img src="${car.photos[0]}" alt="${car.name}" width="648" height="260" loading="lazy" decoding="async" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
-                               </picture>
-                               <div class="car-placeholder" style="display:none;">ФОТО</div>`
+                            ? isExternalImage
+                                ? `<img src="${car.photos[0]}" alt="${car.name}" width="648" height="260" loading="lazy" decoding="async" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+                                   <div class="car-placeholder" style="display:none;">ФОТО</div>`
+                                : `<picture>
+                                       <source srcset="${getWebPPath(car.photos[0])}" type="image/webp">
+                                       <img src="${car.photos[0]}" alt="${car.name}" width="648" height="260" loading="lazy" decoding="async" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+                                   </picture>
+                                   <div class="car-placeholder" style="display:none;">ФОТО</div>`
                             : '<div class="car-placeholder">ФОТО</div>'
                         }
                         ${car.vehicleType === 'Новые' ? '<div class="car-badge">Новый</div>' : ''}
@@ -1578,7 +1588,7 @@
                         <button class="view-btn">Подробнее</button>
                     </div>
                 </div>
-            `).join('');
+            `}).join('');
         }
 
         function openModal(index) {
@@ -1661,11 +1671,16 @@
             }
 
             const currentPhoto = currentCar.photos[currentPhotoIndex];
+            const isExternalImage = currentPhoto.startsWith('http://') || currentPhoto.startsWith('https://');
+
             gallery.innerHTML = `
-                <picture>
-                    <source srcset="${getWebPPath(currentPhoto)}" type="image/webp">
-                    <img src="${currentPhoto}" alt="${currentCar.name}" decoding="async">
-                </picture>
+                ${isExternalImage
+                    ? `<img src="${currentPhoto}" alt="${currentCar.name}" decoding="async">`
+                    : `<picture>
+                           <source srcset="${getWebPPath(currentPhoto)}" type="image/webp">
+                           <img src="${currentPhoto}" alt="${currentCar.name}" decoding="async">
+                       </picture>`
+                }
                 ${currentCar.photos.length > 1 ? `
                     <button class="gallery-arrow prev" onclick="prevPhoto()">‹</button>
                     <button class="gallery-arrow next" onclick="nextPhoto()">›</button>
