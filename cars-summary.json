@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-01-09T14:15:33.082Z",
-  "total_cars": 114,
+  "updated_at": "2026-01-09T15:13:28.217Z",
+  "total_cars": 117,
   "brands": [
     "BMW",
     "Kia",
@@ -9,6 +9,8 @@
     "Li Auto (Lixiang)",
     "Mazda",
     "Mercedes-Benz",
+    "Mitsubishi",
+    "Nissan",
     "Porsche",
     "Rolls-Royce",
     "Toyota",
@@ -18,7 +20,7 @@
     "Zeekr"
   ],
   "price_range": {
-    "min": 2100000,
+    "min": 1300000,
     "max": 33500000
   }
 }
