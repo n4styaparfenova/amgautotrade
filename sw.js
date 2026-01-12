@@ -1,6 +1,6 @@
 // Service Worker для кеширования изображений и ресурсов
 // Версия кеша - обновляйте при изменениях
-const CACHE_VERSION = 'v1.0.1';
+const CACHE_VERSION = 'v1.0.2';
 const CACHE_NAME = `amgautotrade-cache-${CACHE_VERSION}`;
 
 // Ресурсы для предварительного кеширования
@@ -17,11 +17,11 @@ const PRECACHE_URLS = [
 
 // Стратегии кеширования для разных типов ресурсов
 const CACHE_STRATEGIES = {
-    // Изображения с maxposter.ru - кешировать на 7 дней
+    // Изображения с maxposter.ru - кешировать на 30 дней
     maxposter: {
         pattern: /img\.maxposter\.ru/,
         strategy: 'cache-first',
-        maxAge: 7 * 24 * 60 * 60 * 1000 // 7 дней
+        maxAge: 30 * 24 * 60 * 60 * 1000 // 30 дней
     },
     // Локальные изображения - кешировать на 30 дней
     images: {
