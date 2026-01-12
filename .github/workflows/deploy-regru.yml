@@ -5,6 +5,13 @@ on:
   push:
     branches:
       - main
+  # Запуск после синхронизации каталога
+  workflow_run:
+    workflows: ["Sync AutoHub Cars"]
+    types:
+      - completed
+    branches:
+      - main
   # Или вручную через Actions
   workflow_dispatch:
 
@@ -12,6 +19,8 @@ jobs:
   deploy:
     name: Deploy to Reg.ru
     runs-on: ubuntu-latest
+    # Запускать только если workflow_run успешен или это обычный push/dispatch
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
 
     steps:
       - name: Checkout code
