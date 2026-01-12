@@ -18,12 +18,15 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           persist-credentials: true
-      
+
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '18'
-      
+
+      - name: Install sharp for image processing
+        run: npm install sharp
+
       - name: Fetch cars from AutoHub API
         run: |
           node << 'EOF'
@@ -246,10 +249,150 @@ jobs:
           EOF
         env:
           AUTOHUB_API_KEY: ${{ secrets.AUTOHUB_API_KEY }}
-      
+
+      - name: Download and convert images to WebP
+        run: |
+          node << 'EOF'
+          const https = require('https');
+          const http = require('http');
+          const fs = require('fs');
+          const path = require('path');
+          const sharp = require('sharp');
+
+          const IMAGES_DIR = 'images/cars';
+          const WEBP_QUALITY = 80;
+          const MAX_WIDTH = 800;  // Максимальная ширина для превью
+
+          // Создаём директорию если не существует
+          if (!fs.existsSync(IMAGES_DIR)) {
+              fs.mkdirSync(IMAGES_DIR, { recursive: true });
+          }
+
+          // Функция для скачивания изображения
+          function downloadImage(url) {
+              return new Promise((resolve, reject) => {
+                  const protocol = url.startsWith('https') ? https : http;
+
+                  const request = protocol.get(url, {
+                      timeout: 30000,
+                      headers: {
+                          'User-Agent': 'Mozilla/5.0 (compatible; AMGAutoTrade/1.0)'
+                      }
+                  }, (response) => {
+                      // Обработка редиректов
+                      if (response.statusCode >= 300 && response.statusCode < 400 && response.headers.location) {
+                          downloadImage(response.headers.location).then(resolve).catch(reject);
+                          return;
+                      }
+
+                      if (response.statusCode !== 200) {
+                          reject(new Error(`HTTP ${response.statusCode}`));
+                          return;
+                      }
+
+                      const chunks = [];
+                      response.on('data', chunk => chunks.push(chunk));
+                      response.on('end', () => resolve(Buffer.concat(chunks)));
+                      response.on('error', reject);
+                  });
+
+                  request.on('error', reject);
+                  request.on('timeout', () => {
+                      request.destroy();
+                      reject(new Error('Timeout'));
+                  });
+              });
+          }
+
+          // Функция для конвертации в WebP
+          async function convertToWebP(imageBuffer, outputPath) {
+              await sharp(imageBuffer)
+                  .resize(MAX_WIDTH, null, {
+                      withoutEnlargement: true,
+                      fit: 'inside'
+                  })
+                  .webp({ quality: WEBP_QUALITY })
+                  .toFile(outputPath);
+          }
+
+          // Генерация уникального ID для файла
+          function getImageId(car) {
+              // Используем VIN или комбинацию полей
+              if (car.vin) {
+                  return car.vin.replace(/[^a-zA-Z0-9]/g, '');
+              }
+              return `${car.brand}_${car.model}_${car.year}_${car.price}`.replace(/[^a-zA-Z0-9]/g, '_');
+          }
+
+          // Главная функция
+          (async () => {
+              try {
+                  // Читаем cars.json
+                  const carsData = JSON.parse(fs.readFileSync('cars.json', 'utf8'));
+                  console.log(`Обработка ${carsData.length} машин...`);
+
+                  let downloaded = 0;
+                  let skipped = 0;
+                  let errors = 0;
+
+                  for (const car of carsData) {
+                      const imageId = getImageId(car);
+                      const webpPath = path.join(IMAGES_DIR, `${imageId}.webp`);
+                      const localPhotoPath = `/images/cars/${imageId}.webp`;
+
+                      // Проверяем, есть ли фото для скачивания
+                      if (!car.photos || car.photos.length === 0) {
+                          car.localPhoto = null;
+                          skipped++;
+                          continue;
+                      }
+
+                      const photoUrl = car.photos[0];
+
+                      // Проверяем, существует ли уже файл
+                      if (fs.existsSync(webpPath)) {
+                          car.localPhoto = localPhotoPath;
+                          skipped++;
+                          continue;
+                      }
+
+                      try {
+                          console.log(`Скачиваю: ${car.name}...`);
+                          const imageBuffer = await downloadImage(photoUrl);
+                          await convertToWebP(imageBuffer, webpPath);
+                          car.localPhoto = localPhotoPath;
+                          downloaded++;
+                          console.log(`✅ ${car.name} -> ${webpPath}`);
+                      } catch (err) {
+                          console.error(`❌ Ошибка для ${car.name}: ${err.message}`);
+                          car.localPhoto = null;
+                          errors++;
+                      }
+
+                      // Небольшая задержка между запросами
+                      await new Promise(resolve => setTimeout(resolve, 100));
+                  }
+
+                  // Сохраняем обновлённый cars.json
+                  fs.writeFileSync('cars.json', JSON.stringify(carsData, null, 2));
+
+                  console.log('');
+                  console.log('=== Результат ===');
+                  console.log(`Скачано: ${downloaded}`);
+                  console.log(`Пропущено (уже есть): ${skipped}`);
+                  console.log(`Ошибок: ${errors}`);
+                  console.log('✅ Готово!');
+
+              } catch (error) {
+                  console.error('❌ Критическая ошибка:', error.message);
+                  process.exit(1);
+              }
+          })();
+          EOF
+
       - name: Commit and push if changed
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          git add cars.json cars-summary.json
+          git add cars.json cars-summary.json images/cars/
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update cars catalog $(date '+%Y-%m-%d %H:%M')" && git push)

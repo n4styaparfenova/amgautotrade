@@ -1566,18 +1566,17 @@
             noResults.style.display = 'none';
 
             grid.innerHTML = cars.map((car, index) => {
-                const isExternalImage = car.photos && car.photos[0] && (car.photos[0].startsWith('http://') || car.photos[0].startsWith('https://'));
+                // Используем локальное превью если доступно, иначе внешнее
+                const previewSrc = car.localPhoto || (car.photos && car.photos[0]) || null;
+                const isLocalPhoto = car.localPhoto && previewSrc === car.localPhoto;
                 return `
                 <div class="car-card" onclick="openModal(${index})">
                     <div class="car-image">
-                        ${car.photos && car.photos[0]
-                            ? isExternalImage
-                                ? `<img src="${car.photos[0]}" alt="${car.name}" width="648" height="260" loading="lazy" decoding="async" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+                        ${previewSrc
+                            ? isLocalPhoto
+                                ? `<img src="${previewSrc}" alt="${car.name}" width="648" height="260" loading="lazy" decoding="async" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
                                    <div class="car-placeholder" style="display:none;">ФОТО</div>`
-                                : `<picture>
-                                       <source srcset="${getWebPPath(car.photos[0])}" type="image/webp">
-                                       <img src="${car.photos[0]}" alt="${car.name}" width="648" height="260" loading="lazy" decoding="async" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
-                                   </picture>
+                                : `<img src="${previewSrc}" alt="${car.name}" width="648" height="260" loading="lazy" decoding="async" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
                                    <div class="car-placeholder" style="display:none;">ФОТО</div>`
                             : '<div class="car-placeholder">ФОТО</div>'
                         }
