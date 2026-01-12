@@ -1,6 +1,6 @@
 // Service Worker для кеширования изображений и ресурсов
 // Версия кеша - обновляйте при изменениях
-const CACHE_VERSION = 'v1.0.2';
+const CACHE_VERSION = 'v1.0.3';
 const CACHE_NAME = `amgautotrade-cache-${CACHE_VERSION}`;
 
 // Ресурсы для предварительного кеширования
@@ -47,11 +47,11 @@ const CACHE_STRATEGIES = {
         strategy: 'network-first',
         maxAge: 1 * 60 * 60 * 1000 // 1 час
     },
-    // API запросы (cars.json) - stale-while-revalidate
+    // API запросы (cars.json) - network-first (всегда свежие данные)
     api: {
         pattern: /\.json$/,
-        strategy: 'stale-while-revalidate',
-        maxAge: 5 * 60 * 1000 // 5 минут
+        strategy: 'network-first',
+        maxAge: 5 * 60 * 1000 // 5 минут (используется только при офлайн)
     }
 };
 
