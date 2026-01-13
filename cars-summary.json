@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-01-13T14:16:58.634Z",
-  "total_cars": 110,
+  "updated_at": "2026-01-13T15:15:35.241Z",
+  "total_cars": 111,
   "brands": [
     "BMW",
     "Kia",
@@ -14,6 +14,7 @@
     "Porsche",
     "Rolls-Royce",
     "Toyota",
+    "Volkswagen",
     "Xiaomi",
     "Zeekr"
   ],
