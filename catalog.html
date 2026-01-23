@@ -1376,18 +1376,6 @@
                 </div>
 
                 <div class="filter-group">
-                    <h3>Тип</h3>
-                    <div class="checkbox-group">
-                        <label class="checkbox-label">
-                            <input type="checkbox" value="Новые" class="type-checkbox"> Новые
-                        </label>
-                        <label class="checkbox-label">
-                            <input type="checkbox" value="С пробегом" class="type-checkbox"> С пробегом
-                        </label>
-                    </div>
-                </div>
-
-                <div class="filter-group">
                     <h3>Год выпуска</h3>
                     <div class="price-inputs">
                         <input type="number" id="yearFrom" placeholder="От" min="2000" max="2025">
@@ -1408,6 +1396,21 @@
                     <div class="price-inputs">
                         <input type="number" id="mileageFrom" placeholder="От" step="1000">
                         <input type="number" id="mileageTo" placeholder="До" step="1000">
+                    </div>
+                </div>
+
+                <div class="filter-group filter-collapsible">
+                    <h3 class="filter-collapsible-header" onclick="toggleFilterGroup(this)">
+                        Состояние
+                        <span class="filter-arrow">▼</span>
+                    </h3>
+                    <div class="checkbox-group filter-collapsible-content">
+                        <label class="checkbox-label">
+                            <input type="checkbox" value="Новые" class="type-checkbox"> Новые
+                        </label>
+                        <label class="checkbox-label">
+                            <input type="checkbox" value="С пробегом" class="type-checkbox"> С пробегом
+                        </label>
                     </div>
                 </div>
 
