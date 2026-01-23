@@ -596,6 +596,40 @@
             color: var(--dark-bg);
         }
 
+        /* Раскрывающиеся фильтры на мобильных */
+        .filter-collapsible-header {
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .filter-arrow {
+            font-size: 10px;
+            transition: transform 0.3s ease;
+            display: none;
+        }
+
+        @media (max-width: 1024px) {
+            .filter-arrow {
+                display: inline-block;
+            }
+
+            .filter-collapsible-content {
+                max-height: 0;
+                overflow: hidden;
+                transition: max-height 0.3s ease;
+            }
+
+            .filter-collapsible.active .filter-collapsible-content {
+                max-height: 500px;
+            }
+
+            .filter-collapsible.active .filter-arrow {
+                transform: rotate(180deg);
+            }
+        }
+
         .catalog-content {
             min-height: 600px;
         }
@@ -1377,16 +1411,22 @@
                     </div>
                 </div>
 
-                <div class="filter-group">
-                    <h3>Тип кузова</h3>
-                    <div class="checkbox-group" id="bodyTypeFilters">
+                <div class="filter-group filter-collapsible">
+                    <h3 class="filter-collapsible-header" onclick="toggleFilterGroup(this)">
+                        Тип кузова
+                        <span class="filter-arrow">▼</span>
+                    </h3>
+                    <div class="checkbox-group filter-collapsible-content" id="bodyTypeFilters">
                         <!-- Динамически заполняется -->
                     </div>
                 </div>
 
-                <div class="filter-group">
-                    <h3>Коробка передач</h3>
-                    <div class="checkbox-group" id="transmissionFilters">
+                <div class="filter-group filter-collapsible">
+                    <h3 class="filter-collapsible-header" onclick="toggleFilterGroup(this)">
+                        Коробка передач
+                        <span class="filter-arrow">▼</span>
+                    </h3>
+                    <div class="checkbox-group filter-collapsible-content" id="transmissionFilters">
                         <!-- Динамически заполняется -->
                     </div>
                 </div>
@@ -1445,6 +1485,12 @@
                     mobileNav.classList.remove('active');
                 });
             });
+        }
+
+        // Функция для раскрытия/скрытия фильтров (тип кузова, коробка передач)
+        function toggleFilterGroup(header) {
+            const filterGroup = header.parentElement;
+            filterGroup.classList.toggle('active');
         }
 
         // Управление фильтрами на мобильных устройствах
