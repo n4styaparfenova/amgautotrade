@@ -339,6 +339,86 @@
             pointer-events: none;
         }
 
+        /* Autocomplete dropdown */
+        .autocomplete-dropdown {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-top: none;
+            border-radius: 0 0 8px 8px;
+            max-height: 300px;
+            overflow-y: auto;
+            z-index: 100;
+            display: none;
+        }
+
+        .autocomplete-dropdown.active {
+            display: block;
+        }
+
+        .autocomplete-item {
+            padding: 12px 20px;
+            cursor: pointer;
+            transition: background 0.2s ease;
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .autocomplete-item:last-child {
+            border-bottom: none;
+        }
+
+        .autocomplete-item:hover,
+        .autocomplete-item.selected {
+            background: rgba(201, 169, 97, 0.1);
+        }
+
+        .autocomplete-item-image {
+            width: 60px;
+            height: 40px;
+            object-fit: cover;
+            border-radius: 4px;
+            background: var(--dark-bg);
+        }
+
+        .autocomplete-item-info {
+            flex: 1;
+        }
+
+        .autocomplete-item-name {
+            color: var(--white);
+            font-size: 14px;
+            font-weight: 500;
+        }
+
+        .autocomplete-item-details {
+            color: var(--gray);
+            font-size: 12px;
+            margin-top: 2px;
+        }
+
+        .autocomplete-item-price {
+            color: var(--gold);
+            font-family: 'Oswald', sans-serif;
+            font-size: 14px;
+            font-weight: 600;
+        }
+
+        .autocomplete-category {
+            padding: 8px 20px;
+            font-size: 11px;
+            color: var(--gold);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            background: rgba(201, 169, 97, 0.05);
+            border-bottom: 1px solid var(--border);
+        }
+
         .catalog-container {
             max-width: 1440px;
             margin: 0 auto 60px;
@@ -1211,7 +1291,8 @@
             <div class="search-container">
                 <div class="search-bar">
                     <span class="search-icon">🔍</span>
-                    <input type="text" id="searchInput" class="search-input" placeholder="Поиск по марке, модели, году...">
+                    <input type="text" id="searchInput" class="search-input" placeholder="Поиск по марке, модели, году..." autocomplete="off">
+                    <div class="autocomplete-dropdown" id="autocompleteDropdown"></div>
                 </div>
             </div>
 
@@ -1450,15 +1531,161 @@
                 cb.addEventListener('change', applyFilters);
             });
 
-            // Поиск в реальном времени с debounce
+            // Поиск в реальном времени с debounce и autocomplete
             const searchInput = document.getElementById('searchInput');
+            const autocompleteDropdown = document.getElementById('autocompleteDropdown');
             let searchTimeout;
+            let selectedIndex = -1;
+
             searchInput.addEventListener('input', function() {
                 clearTimeout(searchTimeout);
+                const query = this.value.trim();
+
+                // Показываем автодополнение
+                if (query.length >= 1) {
+                    showAutocomplete(query);
+                } else {
+                    hideAutocomplete();
+                }
+
                 searchTimeout = setTimeout(() => {
                     applyFilters();
                 }, 300);
             });
+
+            // Закрытие при клике вне
+            document.addEventListener('click', function(e) {
+                if (!searchInput.contains(e.target) && !autocompleteDropdown.contains(e.target)) {
+                    hideAutocomplete();
+                }
+            });
+
+            // Навигация клавиатурой
+            searchInput.addEventListener('keydown', function(e) {
+                const items = autocompleteDropdown.querySelectorAll('.autocomplete-item');
+
+                if (e.key === 'ArrowDown') {
+                    e.preventDefault();
+                    selectedIndex = Math.min(selectedIndex + 1, items.length - 1);
+                    updateSelection(items);
+                } else if (e.key === 'ArrowUp') {
+                    e.preventDefault();
+                    selectedIndex = Math.max(selectedIndex - 1, -1);
+                    updateSelection(items);
+                } else if (e.key === 'Enter' && selectedIndex >= 0) {
+                    e.preventDefault();
+                    items[selectedIndex].click();
+                } else if (e.key === 'Escape') {
+                    hideAutocomplete();
+                }
+            });
+
+            function updateSelection(items) {
+                items.forEach((item, i) => {
+                    item.classList.toggle('selected', i === selectedIndex);
+                });
+                if (selectedIndex >= 0 && items[selectedIndex]) {
+                    items[selectedIndex].scrollIntoView({ block: 'nearest' });
+                }
+            }
+
+            function showAutocomplete(query) {
+                const lowerQuery = query.toLowerCase();
+                let html = '';
+
+                // Собираем уникальные марки
+                const brands = [...new Set(allCars.map(c => c.brand))].filter(b =>
+                    b.toLowerCase().includes(lowerQuery)
+                ).slice(0, 3);
+
+                // Собираем уникальные модели (марка + модель)
+                const models = [...new Set(allCars.map(c => `${c.brand} ${c.model}`))].filter(m =>
+                    m.toLowerCase().includes(lowerQuery)
+                ).slice(0, 3);
+
+                // Находим подходящие автомобили
+                const matchingCars = allCars.filter(car => {
+                    const searchText = `${car.brand} ${car.model} ${car.name} ${car.year}`.toLowerCase();
+                    return searchText.includes(lowerQuery);
+                }).slice(0, 5);
+
+                // Марки
+                if (brands.length > 0) {
+                    html += '<div class="autocomplete-category">Марки</div>';
+                    brands.forEach(brand => {
+                        const count = allCars.filter(c => c.brand === brand).length;
+                        html += `
+                            <div class="autocomplete-item" data-type="brand" data-value="${brand}">
+                                <div class="autocomplete-item-info">
+                                    <div class="autocomplete-item-name">${highlightMatch(brand, query)}</div>
+                                    <div class="autocomplete-item-details">${count} авто в наличии</div>
+                                </div>
+                            </div>
+                        `;
+                    });
+                }
+
+                // Автомобили
+                if (matchingCars.length > 0) {
+                    html += '<div class="autocomplete-category">Автомобили</div>';
+                    matchingCars.forEach((car, index) => {
+                        const photoSrc = car.localPhoto || (car.photos && car.photos[0]) || '';
+                        html += `
+                            <div class="autocomplete-item" data-type="car" data-index="${allCars.indexOf(car)}">
+                                ${photoSrc ? `<img src="${photoSrc}" alt="${car.name}" class="autocomplete-item-image" loading="lazy">` : ''}
+                                <div class="autocomplete-item-info">
+                                    <div class="autocomplete-item-name">${highlightMatch(car.name, query)}</div>
+                                    <div class="autocomplete-item-details">${car.year} г. • ${formatNumber(car.mileage)} км</div>
+                                </div>
+                                <div class="autocomplete-item-price">${car.priceFormatted} ₽</div>
+                            </div>
+                        `;
+                    });
+                }
+
+                if (html) {
+                    autocompleteDropdown.innerHTML = html;
+                    autocompleteDropdown.classList.add('active');
+                    selectedIndex = -1;
+
+                    // Обработчики кликов
+                    autocompleteDropdown.querySelectorAll('.autocomplete-item').forEach(item => {
+                        item.addEventListener('click', function() {
+                            const type = this.dataset.type;
+
+                            if (type === 'brand') {
+                                const brand = this.dataset.value;
+                                document.getElementById('brandFilter').value = brand;
+                                document.getElementById('brandFilter').dispatchEvent(new Event('change'));
+                                searchInput.value = '';
+                            } else if (type === 'car') {
+                                const carIndex = parseInt(this.dataset.index);
+                                searchInput.value = '';
+                                hideAutocomplete();
+                                // Открываем модальное окно с авто
+                                filteredCars = allCars;
+                                openModal(carIndex);
+                            }
+
+                            hideAutocomplete();
+                            applyFilters();
+                        });
+                    });
+                } else {
+                    hideAutocomplete();
+                }
+            }
+
+            function hideAutocomplete() {
+                autocompleteDropdown.classList.remove('active');
+                autocompleteDropdown.innerHTML = '';
+                selectedIndex = -1;
+            }
+
+            function highlightMatch(text, query) {
+                const regex = new RegExp(`(${query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+                return text.replace(regex, '<strong style="color: var(--gold);">$1</strong>');
+            }
         }
 
         function applyFilters() {
