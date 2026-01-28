@@ -65,7 +65,10 @@ jobs:
               'suv': 'Внедорожник',
               'coupe': 'Купе',
               'minivan': 'Минивэн',
-              'cabriolet': 'Кабриолет'
+              'cabriolet': 'Кабриолет',
+              'liftback': 'Лифтбек',
+              'full metal van': 'Цельнометаллический фургон',
+              'full_metal_van': 'Цельнометаллический фургон'
             },
             brandMapping: {
               'Mercedes-Benz': 'Mercedes-Benz',
