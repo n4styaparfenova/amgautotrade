@@ -30,3 +30,10 @@ Thumbs.db
 .env
 .env.local
 .mcp.json
+
+# Debug and analysis scripts
+check-cars.js
+find-differences.js
+compare-with-avito.js
+test-maxposter-api.js
+cars-analysis.txt

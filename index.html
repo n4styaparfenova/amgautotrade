@@ -390,31 +390,24 @@
             font-size: 14px;
             letter-spacing: 2px;
             text-transform: uppercase;
-            transition: all 0.4s ease;
+            transition: all 0.3s ease;
             position: relative;
-            overflow: hidden;
         }
 
-        .hero-cta::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: -100%;
-            width: 100%;
-            height: 100%;
+        .hero-cta:hover,
+        .hero-cta:active {
             background: var(--gold);
-            transition: left 0.4s ease;
-            z-index: -1;
-        }
-
-        .hero-cta:hover::before {
-            left: 0;
-        }
-
-        .hero-cta:hover {
             color: var(--dark-bg);
             transform: translateY(-3px);
             box-shadow: 0 15px 40px rgba(201, 169, 97, 0.4);
+        }
+
+        /* Для мобильных устройств - мгновенное изменение при касании */
+        @media (hover: none) {
+            .hero-cta:active {
+                transform: translateY(0);
+                box-shadow: 0 8px 20px rgba(201, 169, 97, 0.3);
+            }
         }
 
         .hero-image-wrapper {
