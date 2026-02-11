@@ -7,9 +7,8 @@
     // === НАСТРОЙКИ ===
     var ORIGINAL = '+74994907030';
     var ORIGINAL_DISPLAY = '+7 (499) 490-70-30';
-    // TODO: заменить на реальный номер после покупки в Novofon
-    var TRACKING = '+74994907869';
-    var TRACKING_DISPLAY = '+7 (499) 490-78-69';
+    var TRACKING = '+74994907903';
+    var TRACKING_DISPLAY = '+7 (499) 490-79-03';
     var STORAGE_KEY = 'amg_phone_source';
 
     function isYandexDirect() {
