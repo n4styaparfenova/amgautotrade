@@ -2175,5 +2175,13 @@
             <a href="privacy.html" style="color: #C9A961; text-decoration: none; transition: color 0.3s ease;">Политика конфиденциальности</a> | <a href="personal-data.html" style="color: #C9A961; text-decoration: none; transition: color 0.3s ease;">Политика обработки персональных данных</a></p>
         </div>
     </footer>
+
+    <!-- Отслеживание кликов по телефону -->
+    <script>
+    document.addEventListener('click', function(e) {
+        var link = e.target.closest('a[href^="tel:"]');
+        if (link) ym(105327533, 'reachGoal', 'phone_click');
+    });
+    </script>
 </body>
 </html>

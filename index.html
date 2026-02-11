@@ -2058,5 +2058,13 @@
 
     <!-- Service Worker для кеширования -->
     <script src="sw-register.js"></script>
+
+    <!-- Отслеживание кликов по телефону -->
+    <script>
+    document.addEventListener('click', function(e) {
+        var link = e.target.closest('a[href^="tel:"]');
+        if (link) ym(105327533, 'reachGoal', 'phone_click');
+    });
+    </script>
 </body>
 </html>
