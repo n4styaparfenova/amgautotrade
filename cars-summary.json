@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-11T10:39:10.232Z",
-  "total_cars": 96,
+  "updated_at": "2026-02-11T11:36:56.675Z",
+  "total_cars": 94,
   "brands": [
     "Audi",
     "BMW",
@@ -21,6 +21,6 @@
   ],
   "price_range": {
     "min": 1890000,
-    "max": 32500000
+    "max": 31990000
   }
 }
