@@ -394,9 +394,12 @@ jobs:
           })();
           EOF
 
+      - name: Generate YML feed for Yandex Direct
+        run: node generate-feed.js
+
       - name: Commit and push if changed
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          git add cars.json cars-summary.json images/cars/
+          git add cars.json cars-summary.json images/cars/ feed.yml
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update cars catalog $(date '+%Y-%m-%d %H:%M')" && git push)
