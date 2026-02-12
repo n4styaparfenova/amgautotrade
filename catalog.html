@@ -1548,7 +1548,10 @@
                 
                 document.getElementById('loading').style.display = 'none';
                 document.getElementById('catalogView').style.display = 'block';
-                
+
+                // Применяем URL-параметры ?brand= и ?model= после загрузки данных
+                applyUrlParams();
+
             } catch (error) {
                 console.error('Error loading cars:', error);
                 document.getElementById('loading').innerHTML = `
@@ -1777,6 +1780,25 @@
             function highlightMatch(text, query) {
                 const regex = new RegExp(`(${query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
                 return text.replace(regex, '<strong style="color: var(--gold);">$1</strong>');
+            }
+        }
+
+        function applyUrlParams() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const brandParam = urlParams.get('brand');
+            const modelParam = urlParams.get('model');
+
+            if (brandParam) {
+                const brandSelect = document.getElementById('brandFilter');
+                brandSelect.value = brandParam;
+                // Заполняем список моделей для выбранного бренда
+                brandSelect.dispatchEvent(new Event('change'));
+
+                if (modelParam) {
+                    const modelSelect = document.getElementById('modelFilter');
+                    modelSelect.value = modelParam;
+                    applyFilters();
+                }
             }
         }
 
@@ -2145,21 +2167,6 @@
         // Загружаем данные при загрузке страницы
         document.addEventListener('DOMContentLoaded', () => {
             loadCars();
-
-            // Проверяем URL параметр ?brand= и автоматически применяем фильтр
-            const urlParams = new URLSearchParams(window.location.search);
-            const brandParam = urlParams.get('brand');
-
-            if (brandParam) {
-                // Ждем загрузки данных
-                setTimeout(() => {
-                    const brandSelect = document.getElementById('brandFilter');
-                    if (brandSelect) {
-                        brandSelect.value = brandParam;
-                        brandSelect.dispatchEvent(new Event('change'));
-                    }
-                }, 500);
-            }
         });
     </script>
 
