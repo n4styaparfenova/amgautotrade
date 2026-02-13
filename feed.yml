@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-13 14:35">
+<yml_catalog date="2026-02-13 15:32">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -29,6 +29,37 @@
       <category id="18" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="X4XKV494X0LB33005" available="true">
+        <name>BMW X6 II (F16), 2018</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X6</url>
+        <price>4290000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8357594/orig/d49b51110ec9c81859220f8701292a99.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8357594/orig/b3a82a6b4e258ec591b75f6d8c988aed.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8357594/orig/796c2f5c817720b0ebd58f437e426d39.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8357594/orig/a3110fd07a63516829d211034fe2344a.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8357594/orig/f229f122f62344f1666dc343608d288f.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8357594/orig/304197f3b54994e8d46c65e7aa599597.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8357594/orig/35969aa1d5fea327a217a024e17e099d.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8357594/orig/38ff9844b620cd7dd049284e0dcc6247.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8357594/orig/956296aa982691525f465bc0357e8d02.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8357594/orig/6ca6dafeb4a1a2d4bb7ae80b225884bb.jpg</picture>
+        <description>2018 г., дизель, 3.0 л, 313 л.с., автоматическая, полный привод, пробег 170 197 км, grey</description>
+        <vendor>BMW</vendor>
+        <model>X6</model>
+        <param name="Год выпуска">2018</param>
+        <param name="Пробег">170197 км</param>
+        <param name="Двигатель">Дизель</param>
+        <param name="Объём двигателя">3.0 л</param>
+        <param name="Мощность">313 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">grey</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">40d 3.0d AT (313 л.с.) 4WD</param>
+      </offer>
       <offer id="W1K2230631A005179" available="true">
         <name>Mercedes-Benz S-Класс VII (W223), 2020</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
@@ -183,6 +214,37 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">350h 2.5hyb CVT (250 л.с.) 4WD</param>
+      </offer>
+      <offer id="JTEARCAJ2SK043437" available="true">
+        <name>Toyota Land Cruiser Prado 250 Series, 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Land%20Cruiser%20Prado</url>
+        <price>11790000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>14</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8351140/orig/e06f3764fc2f4adf8ccff03367d919dd.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8351140/orig/5664b6dbf4a5d91c1b1b0886ea347680.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8351140/orig/81c2ed02553af1e56ff75f52ea52e177.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8351140/orig/392585e6c841d11db7d69a1cdb18fd99.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8351140/orig/76075c8c907b6ada41800833e7b39865.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8351140/orig/083a8e7abc215f2aadbfc54a516cfedf.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8351140/orig/933035f32e976c7dd9f22eafb5d56414.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8351140/orig/3634de322aad046d141882b966794e58.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8351140/orig/c1f91fb248263fa5a01a099302213290.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8351140/orig/2d7f34fb60a83e08aea1a3956eda61cc.jpg</picture>
+        <description>2025 г., дизель, 2.8 л, 204 л.с., автоматическая, полный привод, новый, black</description>
+        <vendor>Toyota</vendor>
+        <model>Land Cruiser Prado</model>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег">21 км</param>
+        <param name="Двигатель">Дизель</param>
+        <param name="Объём двигателя">2.8 л</param>
+        <param name="Мощность">204 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">2.8d AT (204 л.с.) 4WD</param>
       </offer>
       <offer id="W1NKJ5BB0SF378698" available="true">
         <name>Mercedes-Benz GLC II (X254), 2025</name>
