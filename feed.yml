@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-13 09:33">
+<yml_catalog date="2026-02-13 10:29">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -679,37 +679,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">53 AMG 3.0 AT (435 л.с.) 4WD</param>
-      </offer>
-      <offer id="Z9M1671195L001502" available="true">
-        <name>Mercedes-Benz GLE II (V167), 2020</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLE</url>
-        <price>4699000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>10</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8299990/orig/ca27de515f6720454db1aae76b6659ec.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8299990/orig/5fa66b9c24d95e3e881c4ba9d7742ccc.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8299990/orig/b275c9200a6fe023c47e576a6cf59cae.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8299990/orig/9adce0b0d67a7dd14ee46c6cc9ec39be.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8299990/orig/55fd57d460dc28db7b2e79a3664eeac0.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8299990/orig/a486d4978a407883585a53b8ef2f0d11.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8299990/orig/e1c376214ac1f1fb6659a9f742fd2dde.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8299990/orig/932dba1fa908aef217b23a993c1ec84d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8299990/orig/bd40aa48f94f193236600ddda02291f0.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8299990/orig/03c790e72d7800d9b0b068f703a95446.jpg</picture>
-        <description>2020 г., дизель, 1.9 л, 245 л.с., автоматическая, полный привод, пробег 80 959 км, white</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>GLE</model>
-        <param name="Год выпуска">2020</param>
-        <param name="Пробег">80959 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">1.9 л</param>
-        <param name="Мощность">245 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">white</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">300 d 2.0d AT (245 л.с.) 4WD</param>
       </offer>
       <offer id="LBV21GT03T1C14893" available="true">
         <name>BMW X3 IV (G45/G48), 2025</name>
