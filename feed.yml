@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-14 08:19">
+<yml_catalog date="2026-02-14 09:20">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1794,37 +1794,6 @@
         <param name="Цвет">white</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">28i xDrive 2.0 AT (245 л.с.) 4WD</param>
-      </offer>
-      <offer id="HLX33B127S0460253" available="true">
-        <name>Li Auto (Lixiang) L9 I Рестайлинг, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Li%20Auto%20(Lixiang)&amp;model=L9</url>
-        <price>8599000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>8</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8157959/orig/a7f8a3075c87345d016a97bbd4b8725b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8157959/orig/3ba2d05a40d02331e019549f75f1cfff.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8157959/orig/2e95412964a2bdd753f4aa0a998a7c77.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8157959/orig/ae7d7d4341556d32de154fcca34a8e24.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8157959/orig/e2cd433696679f491304089bfa1e0971.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8157959/orig/a7707f017bfac8daf8ae187a76e895f4.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8157959/orig/713fa23c1e2e167c816d9f3fa8e2d34a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8157959/orig/36c725755293b7c5b23b198e649170cb.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8157959/orig/686a4eb2e791bc10a405567c161e21b6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8157959/orig/9429b3dbc576e5ce2982919481472152.jpg</picture>
-        <description>2025 г., гибрид, 1.5 л, 449 л.с., автоматическая, полный привод, новый, white</description>
-        <vendor>Li Auto (Lixiang)</vendor>
-        <model>L9</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">5 км</param>
-        <param name="Двигатель">Гибрид</param>
-        <param name="Объём двигателя">1.5 л</param>
-        <param name="Мощность">449 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">white</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">52.3 kWh 1.5hyb AT (449 л.с.) 4WD</param>
       </offer>
       <offer id="WP1ZZZ9YZTDA37181" available="true">
         <name>Porsche Cayenne III Рестайлинг, 2025</name>
