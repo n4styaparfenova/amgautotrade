@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-15 16:17">
+<yml_catalog date="2026-02-15 17:17">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1856,37 +1856,6 @@
         <param name="Цвет">blue</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">30d 3.0d AT (286 л.с.) 4WD</param>
-      </offer>
-      <offer id="LVGEU76A3SG052734" available="true">
-        <name>Toyota Highlander IV (XU70), 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Highlander</url>
-        <price>5550000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>14</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8131948/orig/ad8ce438a0ab5677d5c1770f4fa9f7a8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8131948/orig/d709ff05fffbc0a969687cd949d1a0bb.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8131948/orig/b1a806a0788e39e800a32053d4e72be6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8131948/orig/b7d707b82e6ef8c9cc3e863a7ca4615e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8131948/orig/192fde572099c9735eef39f7cf237f30.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8131948/orig/fabd74c26a1ae4b0e14aeb44631389e4.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8131948/orig/6ca43f4a615005f640e1c3c4bc5fe5b5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8131948/orig/15585fdabd2c4ace0b27f2f1f6da9588.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8131948/orig/a4f03782fa8a073f11861c153b06c0c2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8131948/orig/b09c20cab87037d1ccc1dd39523dc9f1.jpg</picture>
-        <description>2025 г., бензин, 2.0 л, 248 л.с., автоматическая, полный привод, новый, white</description>
-        <vendor>Toyota</vendor>
-        <model>Highlander</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">13 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">248 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">white</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">2.0 AT (248 л.с.) 4WD</param>
       </offer>
       <offer id="WBATC6100P9R74540" available="true">
         <name>BMW X6 III (G06), 2023</name>
