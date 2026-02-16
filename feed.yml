@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-16 08:34">
+<yml_catalog date="2026-02-16 09:41">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1732,37 +1732,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">400 3.0 AT (333 л.с.) 4WD</param>
-      </offer>
-      <offer id="WBAWX910800C80212" available="true">
-        <name>BMW X3 II (F25), 2013</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X3</url>
-        <price>1890000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8157961/orig/a61e93fade6247c561f59a614496b931.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8157961/orig/53d55ed27b407009b6113d98d6fdcea9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8157961/orig/457c8b35370eb3067066660dcbd2e91b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8157961/orig/f7b960092d3244ee37efe81d4642800c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8157961/orig/82812da5843ce00fbce34826068efd79.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8157961/orig/231f6a43788d31b9e35534dd4c06d0b7.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8157961/orig/13cd54a0708348c80ae7f11bc011299b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8157961/orig/1cdd758c620990fde1a10941519958b0.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8157961/orig/28d5e35bfaaaac110a1a54e6704fa3c1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8157961/orig/7910e5fa7f5b46f1b6396a7f757216d9.jpg</picture>
-        <description>2013 г., бензин, 2.0 л, 245 л.с., автоматическая, полный привод, пробег 113 097 км, white</description>
-        <vendor>BMW</vendor>
-        <model>X3</model>
-        <param name="Год выпуска">2013</param>
-        <param name="Пробег">113097 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">245 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">white</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">28i xDrive 2.0 AT (245 л.с.) 4WD</param>
       </offer>
       <offer id="WP1ZZZ9YZTDA37181" available="true">
         <name>Porsche Cayenne III Рестайлинг, 2025</name>
