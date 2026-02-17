@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-17 14:00">
+<yml_catalog date="2026-02-17 14:49">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -647,37 +647,6 @@
         <param name="Цвет">grey</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">30d 3.0d AT (286 л.с.) 4WD</param>
-      </offer>
-      <offer id="W1K2906591A039322" available="true">
-        <name>Mercedes-Benz AMG GT I Рестайлинг, 2021</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=AMG%20GT</url>
-        <price>7945000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8302315/orig/f09cb57af4e1d030d03f542e87cfa693.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8302315/orig/9b1061da89ccd2de135fabd8f43c3d16.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8302315/orig/21df278b02e40657a815b7670d0e6876.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8302315/orig/7eacddd9916fe7441580636bd15b6ff9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8302315/orig/90951f167bdf0a7c6634781e37fc0805.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8302315/orig/0c9bcd568e635e157d23432850aeb346.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8302315/orig/609843b9855f1387a6dbfc109036f8c3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8302315/orig/50b2e8d020cc1cb3a90ac148ceba4e1c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8302315/orig/0f8e4abf99930e431161616a0647b9a1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8302315/orig/be40582410cce4498d82aa6083ef4625.jpg</picture>
-        <description>2021 г., бензин, 3.0 л, 367 л.с., автоматическая, полный привод, пробег 70 643 км, grey</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>AMG GT</model>
-        <param name="Год выпуска">2021</param>
-        <param name="Пробег">70643 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">367 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Лифтбек</param>
-        <param name="Цвет">grey</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">43 3.0 AT (367 л.с.) 4WD</param>
       </offer>
       <offer id="4JGFB6BB5MA289121" available="true">
         <name>Mercedes-Benz GLE AMG II (V167), 2020</name>
