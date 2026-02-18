@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-18T12:37:00.818Z",
-  "total_cars": 98,
+  "updated_at": "2026-02-18T14:01:09.242Z",
+  "total_cars": 96,
   "brands": [
     "Audi",
     "BMW",
@@ -20,7 +20,7 @@
     "Zeekr"
   ],
   "price_range": {
-    "min": 1960000,
+    "min": 1899000,
     "max": 31990000
   }
 }

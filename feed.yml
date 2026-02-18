@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-18 12:37">
+<yml_catalog date="2026-02-18 14:01">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -124,7 +124,7 @@
       <offer id="W1K2230631A005179" available="true">
         <name>Mercedes-Benz S-Класс VII (W223), 2020</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>11490000</price>
+        <price>11190000</price>
         <currencyId>RUR</currencyId>
         <categoryId>9</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8357591/orig/9075f550ffb45780e3155de91db80147.jpg</picture>
@@ -651,7 +651,7 @@
       <offer id="WBA51AH020CH71037" available="true">
         <name>BMW 5 серии VII (G30/G31/G38) Рестайлинг, 2021</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=5%20%D1%81%D0%B5%D1%80%D0%B8%D0%B8</url>
-        <price>6199000</price>
+        <price>5890000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8326757/orig/f568d27de76eb66fa83f8c20403e23e7.jpg</picture>
@@ -713,7 +713,7 @@
       <offer id="4JGFB6BB5MA289121" available="true">
         <name>Mercedes-Benz GLE AMG II (V167), 2020</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLE%20AMG</url>
-        <price>8290000</price>
+        <price>7990000</price>
         <currencyId>RUR</currencyId>
         <categoryId>9</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8302300/orig/233020790e2a871b3bbc890a0e41823a.jpg</picture>
@@ -1116,7 +1116,7 @@
       <offer id="WBS61AY090FS66155" available="true">
         <name>BMW M3 VI (G80), 2024</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=M3</url>
-        <price>18990000</price>
+        <price>17990000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8230207/orig/77c1c5a196929b8ad54d3e8b40e2f6b7.jpg</picture>
@@ -1178,7 +1178,7 @@
       <offer id="SCA664S06BUX36585" available="true">
         <name>Rolls-Royce Ghost I, 2011</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Rolls-Royce&amp;model=Ghost</url>
-        <price>8190000</price>
+        <price>7990000</price>
         <currencyId>RUR</currencyId>
         <categoryId>12</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8230203/orig/5b115d228ab347dc4c099b03b6eb94b0.jpg</picture>
@@ -1240,7 +1240,7 @@
       <offer id="W1K7X8KB7LA030303" available="true">
         <name>Mercedes-Benz AMG GT I Рестайлинг, 2020</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=AMG%20GT</url>
-        <price>13490000</price>
+        <price>12990000</price>
         <currencyId>RUR</currencyId>
         <categoryId>9</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8219839/orig/ebfffa617dec4537ea9f6f4de26f0baa.jpg</picture>
@@ -1333,7 +1333,7 @@
       <offer id="Z8NFBNJ11ES017522" available="true">
         <name>Nissan Qashqai II, 2016</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Nissan&amp;model=Qashqai</url>
-        <price>1960000</price>
+        <price>1899000</price>
         <currencyId>RUR</currencyId>
         <categoryId>10</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8189582/orig/e7bc87da8b3c07ba28fd058f17e5e1f3.jpg</picture>
@@ -1426,7 +1426,7 @@
       <offer id="W1K6G6DB0PA217675" available="true">
         <name>Mercedes-Benz S-Класс VII (W223), 2023</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>15990000</price>
+        <price>15799000</price>
         <currencyId>RUR</currencyId>
         <categoryId>9</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8182251/orig/c2ff14bd950cb1ebca56810f81d71a74.jpg</picture>
@@ -1519,7 +1519,7 @@
       <offer id="WBACV010109B33035" available="true">
         <name>BMW X5 IV (G05/G18), 2020</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5</url>
-        <price>6990000</price>
+        <price>6890000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8171091/orig/4e1c9aa5f379367ca95d8386473bf3ae.jpg</picture>
@@ -2042,41 +2042,10 @@
         <param name="Состояние">Новые</param>
         <param name="Модификация">200 2.0 AT (204 л.с.) 4WD</param>
       </offer>
-      <offer id="W1NYC7GJ8MX407300" available="true">
-        <name>Mercedes-Benz G-Класс AMG II (W463), 2021</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>18990000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8094122/orig/c048538bd4ef061f98212b651aed8d09.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8094122/orig/4f49fbf42be4efeeeb8e4a2f58bcee60.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8094122/orig/2c6a40ad33fd727e6a0b90cbfdfd7ba3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8094122/orig/dca2a1bc70fd10e97e80c1acd0d69384.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8094122/orig/8bf576a352f7455fac423839ec0ffe35.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8094122/orig/f819f9e3de63f43bf3f42d18521b6d6d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8094122/orig/410dc55bd01b2ffe64e093fc2d761ca6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8094122/orig/22aee4fef23b7fa3b39de94b5f5ef665.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8094122/orig/7a12b28dc01f3f07692a3f33156b4f5a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8094122/orig/1a08ed922eff2993f9b1ec0493dc2fe5.jpg</picture>
-        <description>2021 г., бензин, 4.0 л, 585 л.с., автоматическая, полный привод, пробег 24 544 км, white</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>G-Класс AMG</model>
-        <param name="Год выпуска">2021</param>
-        <param name="Пробег">24544 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">4.0 л</param>
-        <param name="Мощность">585 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">white</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
-      </offer>
       <offer id="W1NFD6BB3MA524297" available="true">
         <name>Mercedes-Benz GLE Coupe AMG II (C167), 2021</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLE%20Coupe%20AMG</url>
-        <price>8749000</price>
+        <price>8099000</price>
         <currencyId>RUR</currencyId>
         <categoryId>9</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8081185/orig/52a1e9ea991299801688ea20c828513c.jpg</picture>
@@ -2107,7 +2076,7 @@
       <offer id="SCA665C03HUX80640" available="true">
         <name>Rolls-Royce Wraith, 2017</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Rolls-Royce&amp;model=Wraith</url>
-        <price>24849000</price>
+        <price>24390000</price>
         <currencyId>RUR</currencyId>
         <categoryId>12</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8065489/orig/bf11f47f99e57f5a7bfce572dcdbe904.jpg</picture>
@@ -2475,37 +2444,6 @@
         <param name="Цвет">blue</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">30L xDrive 2.0 AT (258 л.с.) 4WD</param>
-      </offer>
-      <offer id="WDC2923751A088082" available="true">
-        <name>Mercedes-Benz GLE Coupe AMG I (C292), 2017</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLE%20Coupe%20AMG</url>
-        <price>4700000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/7944427/orig/c7760ee1cc228c7259dd8bac584ce724.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7944427/orig/ae88317afd332207470ea4efb7d7ef3b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7944427/orig/2f42e87fab517708f304cee6fa65580c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7944427/orig/2cfd5d869978c4dff26e08b4744696b9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7944427/orig/66720cb9a3faaae6171675e6c4602954.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7944427/orig/0c23866318f47a746b6e5611e1e78db2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7944427/orig/eddfc61b8ecc4dd5c7ac02ea83c730de.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7944427/orig/6f83e7078240cae0aac40f2e97a367cd.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7944427/orig/7393286f7d60c6df3989a4d02930e27a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7944427/orig/1b969b9ec754fd047346b061e1f10d10.jpg</picture>
-        <description>2017 г., бензин, 5.5 л, 585 л.с., автоматическая, полный привод, пробег 109 029 км, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>GLE Coupe AMG</model>
-        <param name="Год выпуска">2017</param>
-        <param name="Пробег">109029 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">5.5 л</param>
-        <param name="Мощность">585 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">63 AMG S 5.5 AT (585 л.с.) 4WD</param>
       </offer>
       <offer id="WBA11EY0109V94867" available="true">
         <name>BMW X6 III (G06) Рестайлинг, 2024</name>
