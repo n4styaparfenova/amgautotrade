@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-20 13:53">
+<yml_catalog date="2026-02-20 14:33">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -121,6 +121,37 @@
         <param name="Цвет">white</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">2.2 HDi MT (150 л.с.)</param>
+      </offer>
+      <offer id="JTHCDAAD5S5008317" available="true">
+        <name>Lexus LM II, 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Lexus&amp;model=LM</url>
+        <price>15490000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8391445/orig/e430ddbf3b7406801fa09e11156d30eb.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8391445/orig/c5aa6753ee94bb341a2cc1a7d790d3bf.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8391445/orig/08ee459605799a012901bfb2d59f793e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8391445/orig/984625c57ec38e6efa2f1376863349cb.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8391445/orig/b6ab234aa5f047c9c2a72840805ae704.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8391445/orig/9e1ad789b9df8b40a90e9f3672365cfb.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8391445/orig/a4d22f8557abfa694999eaf2930fe467.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8391445/orig/2769b161359d59068a681d4696089eba.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8391445/orig/1414ad142829a3158c65f74f9c243aa2.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8391445/orig/ec30283880bcda17c77bf96ff16962f6.jpg</picture>
+        <description>2025 г., гибрид, 2.5 л, 250 л.с., вариаторная, полный привод, новый, black</description>
+        <vendor>Lexus</vendor>
+        <model>LM</model>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег">26 км</param>
+        <param name="Двигатель">Гибрид</param>
+        <param name="Объём двигателя">2.5 л</param>
+        <param name="Мощность">250 л.с.</param>
+        <param name="Коробка передач">Вариаторная</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Минивэн</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">350h 2.5hyb CVT (250 л.с.) 4WD</param>
       </offer>
       <offer id="JTMABABJ7R4163065" available="true">
         <name>Toyota Land Cruiser 300 Series, 2024</name>
