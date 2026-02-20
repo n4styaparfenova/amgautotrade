@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-20 17:29">
+<yml_catalog date="2026-02-20 18:32">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1609,37 +1609,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">300 2.0 AT (258 л.с.) 4WD</param>
-      </offer>
-      <offer id="W1VVNLTZ4T4535499" available="true">
-        <name>Mercedes-Benz V-Класс III (W447) Рестайлинг 2, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=V-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>15840000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8177349/orig/922bdd30b71c06ca76512db6f6af17d1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8177349/orig/60d7aff4a59dd51b6e0e0e1f13971aec.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8177349/orig/f5f919b59470f5e2719702351f731e1e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8177349/orig/4609f492f033ac7fdd3abe8835655f39.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8177349/orig/b1cc57bdd2962a2b93c924449dedd94a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8177349/orig/928ddf7bc5db2e7e4863e961b1bfaa14.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8177349/orig/34606ddc600a01784f90d68455492682.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8177349/orig/7088570a20e35348737e18da4bd1febe.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8177349/orig/4c6bf3564bb2d722f1903e32b6d160b3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8177349/orig/67f7e3bb56b334a0aab47463ddc780f5.jpg</picture>
-        <description>2025 г., дизель, 1.9 л, 237 л.с., автоматическая, полный привод, пробег 6 923 км, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>V-Класс</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">6923 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">1.9 л</param>
-        <param name="Мощность">237 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Минивэн</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">300 d экстра длинный 2.0d AT (237 л.с.) 4WD</param>
       </offer>
       <offer id="WBACV010109B33035" available="true">
         <name>BMW X5 IV (G05/G18), 2020</name>
