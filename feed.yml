@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-21 13:35">
+<yml_catalog date="2026-02-21 14:17">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -122,6 +122,68 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">350h 2.5hyb CVT (250 л.с.) 4WD</param>
+      </offer>
+      <offer id="W1NFD5KB4TB521153" available="true">
+        <name>Mercedes-Benz GLE Coupe II (C167) Рестайлинг, 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLE%20Coupe</url>
+        <price>14800000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8396598/orig/86f6995bea23469d0002d29d564b1a51.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8396598/orig/36365144c879c7c167033c7901baf9f3.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8396598/orig/c8f9e8ca7348fcdbb504b3a895e02c84.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8396598/orig/cd199074158111cd892b646a319d6073.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8396598/orig/440305fa9a9b0dc45b322c155e42185d.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8396598/orig/6cb600d8a19d7d6a4169b0409b2e19df.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8396598/orig/5da4df0f6309eb186f7e894241fbe100.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8396598/orig/404bca7855461339af072e71366dfdcf.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8396598/orig/54c3766c1550ea7d223b60f87642a35d.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8396598/orig/cb3ee8817a97ce2e9eb1bd771cdf640d.jpg</picture>
+        <description>2025 г., бензин, 3.0 л, 380 л.с., автоматическая, полный привод, новый, grey</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>GLE Coupe</model>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег">43 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">3.0 л</param>
+        <param name="Мощность">380 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">grey</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">450 3.0 AT (380 л.с.) 4WD</param>
+      </offer>
+      <offer id="WBACV610509B35471" available="true">
+        <name>BMW X5 IV (G05/G18), 2020</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5</url>
+        <price>5999000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8391480/orig/17b9d5ddc2720d497931316495164228.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8391480/orig/d4483c62c570e4a5690e20c571afe06a.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8391480/orig/919471a99f22809924a799e292083041.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8391480/orig/e48917d81b6be91c25dcfd03b5befc2e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8391480/orig/014fce8bf7b01ffe4c448818b5ee903b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8391480/orig/8c35c29614b4d8a711930f89a0bbf904.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8391480/orig/ee70e9152ab11b2baea358b08d47c9cb.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8391480/orig/878ae1b7d9535ef53c2cfc5528260a09.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8391480/orig/13f452d43a78b923acdb39e1c6d7e7b9.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8391480/orig/e1f8b85d7d6e2ca844598628c9b9adf8.jpg</picture>
+        <description>2020 г., дизель, 3.0 л, 249 л.с., автоматическая, полный привод, пробег 112 280 км, blue</description>
+        <vendor>BMW</vendor>
+        <model>X5</model>
+        <param name="Год выпуска">2020</param>
+        <param name="Пробег">112280 км</param>
+        <param name="Двигатель">Дизель</param>
+        <param name="Объём двигателя">3.0 л</param>
+        <param name="Мощность">249 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">blue</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">30d 3.0d AT (249 л.с.) 4WD</param>
       </offer>
       <offer id="WBA21EV0309269551" available="true">
         <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
