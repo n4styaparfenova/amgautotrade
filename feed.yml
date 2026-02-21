@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-21 11:14">
+<yml_catalog date="2026-02-21 12:24">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -2290,37 +2290,6 @@
         <param name="Цвет">white</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">Coupé 3.0 AT (353 л.с.) 4WD</param>
-      </offer>
-      <offer id="WBA21EV0109133936" available="true">
-        <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5</url>
-        <price>16990000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8022284/orig/496194cd953aaba89e4452aab4dd3faa.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8022284/orig/99d4893ccb3e40a7be5bc768e813093c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8022284/orig/dfca5e6c0dba725a4530f6ae7bec9dd4.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8022284/orig/d3a84f8b881b144a54f653793d26340a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8022284/orig/3fcd4c303d0b83c63f7268db2cd731ee.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8022284/orig/7530307d1cf94a0b12e27e5671aec880.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8022284/orig/e49936a442ea18b52c652cdb9f8161af.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8022284/orig/5abed3dfa20a22b42d62326a22d237f5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8022284/orig/faaa1c3ca9a570563a489028cc5f2a32.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8022284/orig/14e44d7c6b9660cda2c675150f4ec1d4.jpg</picture>
-        <description>2025 г., дизель, 3.0 л, 352 л.с., автоматическая, полный привод, новый, grey</description>
-        <vendor>BMW</vendor>
-        <model>X5</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">35 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">352 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">grey</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">40d 3.0d AT (352 л.с.) 4WD</param>
       </offer>
       <offer id="LBV21GT05T1C06651" available="true">
         <name>BMW X3 IV (G45/G48), 2025</name>
