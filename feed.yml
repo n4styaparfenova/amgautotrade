@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-22 13:37">
+<yml_catalog date="2026-02-22 14:16">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -2384,37 +2384,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">Competition 4.4 AT (625 л.с.) 4WD</param>
-      </offer>
-      <offer id="SAL1A2BU7SA439778" available="true">
-        <name>Land Rover Range Rover Sport III, 2024</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Land%20Rover&amp;model=Range%20Rover%20Sport</url>
-        <price>15990000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>6</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8050210/orig/e6b257f62fe4c36bb653869568a955b3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8050210/orig/480f80224ff6166eb1e28a481aa803ae.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8050210/orig/5b8e31610c95d3959043f0448aa6ba9f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8050210/orig/5cd4b150855e37cdccf16efd855000b6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8050210/orig/0f89a61e617c500f4787c1deeed0ab2c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8050210/orig/c40296f69df881920c9f96433b6ddac0.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8050210/orig/0f602d0db34cbe8edf7b700ab1f766b1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8050210/orig/2deb431858b75e3fe86d706f836c6803.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8050210/orig/404c05a872dcd820443135361e24e552.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8050210/orig/167fd1149c89981254a24b3c1d5be8d9.jpg</picture>
-        <description>2024 г., бензин, 3.0 л, 400 л.с., автоматическая, полный привод, пробег 12 776 км, black</description>
-        <vendor>Land Rover</vendor>
-        <model>Range Rover Sport</model>
-        <param name="Год выпуска">2024</param>
-        <param name="Пробег">12776 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">400 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">P400 MHEV 3.0 AT (400 л.с.) 4WD</param>
       </offer>
       <offer id="WP1ZZZ9Y5TDA36613" available="true">
         <name>Porsche Cayenne III Рестайлинг, 2025</name>
