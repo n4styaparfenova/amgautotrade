@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-25 11:33">
+<yml_catalog date="2026-02-25 12:38">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -401,37 +401,6 @@
         <param name="Цвет">white</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">2.2 HDi MT (150 л.с.)</param>
-      </offer>
-      <offer id="JTHCDAAD5S5008317" available="true">
-        <name>Lexus LM II, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Lexus&amp;model=LM</url>
-        <price>15490000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8391445/orig/e430ddbf3b7406801fa09e11156d30eb.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391445/orig/c5aa6753ee94bb341a2cc1a7d790d3bf.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391445/orig/08ee459605799a012901bfb2d59f793e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391445/orig/984625c57ec38e6efa2f1376863349cb.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391445/orig/b6ab234aa5f047c9c2a72840805ae704.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391445/orig/9e1ad789b9df8b40a90e9f3672365cfb.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391445/orig/a4d22f8557abfa694999eaf2930fe467.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391445/orig/2769b161359d59068a681d4696089eba.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391445/orig/1414ad142829a3158c65f74f9c243aa2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391445/orig/ec30283880bcda17c77bf96ff16962f6.jpg</picture>
-        <description>2025 г., гибрид, 2.5 л, 250 л.с., вариаторная, полный привод, новый, black</description>
-        <vendor>Lexus</vendor>
-        <model>LM</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">26 км</param>
-        <param name="Двигатель">Гибрид</param>
-        <param name="Объём двигателя">2.5 л</param>
-        <param name="Мощность">250 л.с.</param>
-        <param name="Коробка передач">Вариаторная</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Минивэн</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">350h 2.5hyb CVT (250 л.с.) 4WD</param>
       </offer>
       <offer id="JTMABABJ7R4163065" available="true">
         <name>Toyota Land Cruiser 300 Series, 2024</name>
@@ -1331,37 +1300,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">55 kWh 2.0hyb AT (898 л.с.) 4WD</param>
-      </offer>
-      <offer id="W1NWH5AB5TX068153" available="true">
-        <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>31990000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>10</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8264821/orig/eff630ca7a2e4de516a595f20ee2943d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8264821/orig/1673ab12d5738831de3d9afcf3b8af36.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8264821/orig/801dca9dd25d8bf3780b03b13d89443b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8264821/orig/440f4818047aa2e50a4e728d7b51ce9b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8264821/orig/f8c49dbfa5e9be346c260ee3c6fc5b90.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8264821/orig/37287fc17ea15e2b13c86469094081ab.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8264821/orig/3595fc60525b14fedf5b2115977b3ab5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8264821/orig/ff50dd043fb370940a886d9f6edf4300.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8264821/orig/0177cbf9fac039b370627ae37d0faf8a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8264821/orig/ccdb17049c159fb603b57b295ddcfb91.jpg</picture>
-        <description>2025 г., бензин, 4.0 л, 585 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>G-Класс AMG</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">42 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">4.0 л</param>
-        <param name="Мощность">585 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
       </offer>
       <offer id="L6T795ND3SN109461" available="true">
         <name>Zeekr 9X, 2025</name>
