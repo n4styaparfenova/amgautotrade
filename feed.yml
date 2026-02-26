@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-26 10:35">
+<yml_catalog date="2026-02-26 11:32">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -60,37 +60,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">P400 MHEV 3.0 AT (400 л.с.) 4WD</param>
-      </offer>
-      <offer id="WBA21EV0309291680" available="true">
-        <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5</url>
-        <price>16990000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8406699/orig/50e9ec9ede48912e2ffc3cc78fa2d594.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8406699/orig/cf7b9f163bb70e06c173a8cddfc218f0.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8406699/orig/2cb068c6a3de2b67add55382bc79c338.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8406699/orig/58c782f78c048d4b976062b747e4bbba.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8406699/orig/edeecf70d57d9cebd444c27523452ef2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8406699/orig/4186829b4e3243634bf3d35753fa4f8e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8406699/orig/8eebe9bc79b897e2f50bde8b589f0e37.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8406699/orig/9fb8afc73a88376876563f6f2322b2dd.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8406699/orig/69e47ea66c8f6a52650f67cded87f812.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8406699/orig/37a68287407402c032c048ee2b721ca6.jpg</picture>
-        <description>2025 г., дизель, 3.0 л, 352 л.с., автоматическая, полный привод, новый, grey</description>
-        <vendor>BMW</vendor>
-        <model>X5</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">48 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">352 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">grey</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">40d 3.0d AT (352 л.с.) 4WD</param>
       </offer>
       <offer id="WBA21EV07S9793746" available="true">
         <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
@@ -681,37 +650,6 @@
         <param name="Состояние">Новые</param>
         <param name="Модификация">2.8d AT (204 л.с.) 4WD</param>
       </offer>
-      <offer id="W1NKJ5BB0SF378698" available="true">
-        <name>Mercedes-Benz GLC II (X254), 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLC</url>
-        <price>7590000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>10</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8351139/orig/12f83f45aa8c697c0e2d6107ed06c162.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351139/orig/f814e080a0c7ff6f95867eb04a94a6f6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351139/orig/7b1e872c23ac59000e387767de8afcb2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351139/orig/957615309264fec7bc014117f59caaa7.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351139/orig/6f23f1b239f18629aa29ba5d76f98dfe.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351139/orig/05b391e4ba0b21103cd808b4d34a52dc.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351139/orig/e9d9c51773cb16ac0d8183fc7c638717.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351139/orig/b148505d66b4ec3720d04a732fe9ee2d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351139/orig/aeca618f2da5a9d762b5ffd5b5187496.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351139/orig/790bbd7070eecc868406e0ac4e6755aa.jpg</picture>
-        <description>2025 г., бензин, 2.0 л, 204 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>GLC</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">24 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">204 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">260 L 2.0 AT (204 л.с.) 4WD</param>
-      </offer>
       <offer id="W1NKJ5BB9SF413061" available="true">
         <name>Mercedes-Benz GLC Coupe II (C254), 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLC%20Coupe</url>
@@ -866,37 +804,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">260 L 2.0 AT (204 л.с.) 4WD</param>
-      </offer>
-      <offer id="W1NKJ5BB5SF380091" available="true">
-        <name>Mercedes-Benz GLC Coupe II (C254), 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLC%20Coupe</url>
-        <price>7590000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>10</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8348345/orig/abaec7b9e7b0b0de838154a669ab66a9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348345/orig/10914ade0cd09bfc28b2812e787bb640.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348345/orig/d5c27a88004d711885d3f7fef735abfd.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348345/orig/8050ccce783994e5ee9af31e74337915.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348345/orig/d77ea722683e74869e76fd00702126ae.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348345/orig/8f1c790e64c2fdacdb4ca70ed8eb6d86.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348345/orig/24cbbab620b9421411af5275f56e2f63.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348345/orig/410069f87bdf6f0ca0741f131af1182f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348345/orig/9f4b3bae180cb365e57ffd6eb102ca53.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348345/orig/85c8ab4ff182f71e35ff189d68ebdaa4.jpg</picture>
-        <description>2025 г., бензин, 2.0 л, 204 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>GLC Coupe</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">42 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">204 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">260 2.0 AT (204 л.с.) 4WD</param>
       </offer>
       <offer id="JTMAAABJ1T4130945" available="true">
         <name>Toyota Land Cruiser 300 Series, 2025</name>
