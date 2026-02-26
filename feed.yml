@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-26 15:42">
+<yml_catalog date="2026-02-26 16:45">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1830,7 +1830,7 @@
       <offer id="L6T795ND4SN115253" available="true">
         <name>Zeekr 9X, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Zeekr&amp;model=9X</url>
-        <price>12299000</price>
+        <price>11890000</price>
         <currencyId>RUR</currencyId>
         <categoryId>19</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8160156/orig/4c22deb539f9b5843639daeac1fceff0.jpg</picture>
@@ -1954,7 +1954,7 @@
       <offer id="W1KLF5BB9SA108191" available="true">
         <name>Mercedes-Benz E-Класс VI (W214, S214), 2024</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>8450000</price>
+        <price>7890000</price>
         <currencyId>RUR</currencyId>
         <categoryId>10</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8146817/orig/32c30835948eeacfabe04418b3d7ed5e.jpg</picture>
