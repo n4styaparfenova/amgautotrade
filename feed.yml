@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-27 16:28">
+<yml_catalog date="2026-02-27 17:26">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -184,37 +184,6 @@
         <param name="Цвет">white</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">2.5 AT (192 л.с.) 4WD</param>
-      </offer>
-      <offer id="JTHCDAAD9T5009066" available="true">
-        <name>Lexus LM II, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Lexus&amp;model=LM</url>
-        <price>15490000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8396639/orig/a46a03ec2b8a14f7091d7d618202d55a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8396639/orig/0404fc8394f950315ea272fb3c64cf5f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8396639/orig/e62af0de205afa806a9dc7f807605f88.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8396639/orig/ff0a341b64fc0c9519c7b7d492b77050.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8396639/orig/299e4e1eecc93c9866b8c223c7c6ec5d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8396639/orig/61f500182898d1f3ddfc58525e8dbc7e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8396639/orig/183c0dc014e672926b5fee9c244a98f9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8396639/orig/42432dbd440321f92c4452a40d7e549a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8396639/orig/e1560e8c3a76ba0fea5e3bc53ddc9563.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8396639/orig/c293fbe3be4e40542d9094d02eeb7c7a.jpg</picture>
-        <description>2025 г., гибрид, 2.5 л, 250 л.с., вариаторная, полный привод, новый, black</description>
-        <vendor>Lexus</vendor>
-        <model>LM</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">24 км</param>
-        <param name="Двигатель">Гибрид</param>
-        <param name="Объём двигателя">2.5 л</param>
-        <param name="Мощность">250 л.с.</param>
-        <param name="Коробка передач">Вариаторная</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Минивэн</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">350h 2.5hyb CVT (250 л.с.) 4WD</param>
       </offer>
       <offer id="W1NFD5KB4TB521153" available="true">
         <name>Mercedes-Benz GLE Coupe II (C167) Рестайлинг, 2025</name>
@@ -618,68 +587,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">2.8d AT (204 л.с.) 4WD</param>
-      </offer>
-      <offer id="W1NKJ5BB0SF378698" available="true">
-        <name>Mercedes-Benz GLC II (X254), 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLC</url>
-        <price>7590000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>10</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8351139/orig/12f83f45aa8c697c0e2d6107ed06c162.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351139/orig/f814e080a0c7ff6f95867eb04a94a6f6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351139/orig/7b1e872c23ac59000e387767de8afcb2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351139/orig/957615309264fec7bc014117f59caaa7.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351139/orig/6f23f1b239f18629aa29ba5d76f98dfe.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351139/orig/05b391e4ba0b21103cd808b4d34a52dc.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351139/orig/e9d9c51773cb16ac0d8183fc7c638717.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351139/orig/b148505d66b4ec3720d04a732fe9ee2d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351139/orig/aeca618f2da5a9d762b5ffd5b5187496.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351139/orig/790bbd7070eecc868406e0ac4e6755aa.jpg</picture>
-        <description>2025 г., бензин, 2.0 л, 204 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>GLC</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">24 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">204 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">260 L 2.0 AT (204 л.с.) 4WD</param>
-      </offer>
-      <offer id="LE4KB5BB6SL376941" available="true">
-        <name>Mercedes-Benz GLC II (X254), 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLC</url>
-        <price>7590000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>10</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8348349/orig/f1831cfe0e755d1af5d9a9f3a69d0e3b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348349/orig/f6150acceb3a6f17bf7edbd69cec8c9e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348349/orig/5e28f6daa347228774a1ef68f7709c6b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348349/orig/18521cd588f3926aafea4eb4056e2377.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348349/orig/a76fa213f2da6923e0c5126a14207dad.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348349/orig/0f0a673b8608b281cfa63521f2523f9a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348349/orig/2f65404ca7fbf82bfbc03311babf5d4c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348349/orig/1ea77e6535363bf87901d2f452daac96.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348349/orig/65b72a230a752dac012278e9bac07b25.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348349/orig/06651e040e9bfe23442de5aedf9574e9.jpg</picture>
-        <description>2025 г., бензин, 2.0 л, 204 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>GLC</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">19 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">204 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">260 L 2.0 AT (204 л.с.) 4WD</param>
       </offer>
       <offer id="SCATD2101PU216428" available="true">
         <name>Rolls-Royce Ghost II, 2022</name>
