@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-27 11:24">
+<yml_catalog date="2026-02-27 12:34">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -649,37 +649,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">260 L 2.0 AT (204 л.с.) 4WD</param>
-      </offer>
-      <offer id="W1NKJ5BB9SF413061" available="true">
-        <name>Mercedes-Benz GLC Coupe II (C254), 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLC%20Coupe</url>
-        <price>7590000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>10</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8348612/orig/41d43602735dbba9df67b0ecb477dbd5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348612/orig/14608169f7b6e90917e567bde323426e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348612/orig/bd3c11bc713b876d8436253111bca069.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348612/orig/3158beb294daedeb94a819f3dc148a86.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348612/orig/dc354e21359b446e7dec8b05370158c2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348612/orig/5a462bfa554082214fbe86858360d5f1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348612/orig/edd0c951b1faf105a93cb986b8de5c72.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348612/orig/b71d4808f39305a20c3a20d275976945.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348612/orig/b4fd048663780d8e1e2cc5c7664f13c7.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348612/orig/9c9725eb0ebcf059dfdfd0804276efa8.jpg</picture>
-        <description>2025 г., бензин, 2.0 л, 204 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>GLC Coupe</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">36 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">204 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">260 2.0 AT (204 л.с.) 4WD</param>
       </offer>
       <offer id="LE4KB5BB6SL376941" available="true">
         <name>Mercedes-Benz GLC II (X254), 2025</name>
