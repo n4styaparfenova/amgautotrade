@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-27 05:43">
+<yml_catalog date="2026-02-27 06:39">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -494,37 +494,6 @@
         <param name="Цвет">white</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">500 4MATIC 3.0 AT (435 л.с.) 4WD</param>
-      </offer>
-      <offer id="JTHADAADXT5008998" available="true">
-        <name>Lexus LM II, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Lexus&amp;model=LM</url>
-        <price>17990000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8355431/orig/2bc99326e016db7e440f4bb754326772.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8355431/orig/5e54c343ed99061b790bb26f9d1af419.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8355431/orig/9cb1540b6b5611a881d9aa3bd6b3833d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8355431/orig/275840cd10446479cb2c1859136933fc.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8355431/orig/0ced0f2120cb3a52c972d7ae419ba9ed.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8355431/orig/d46d0f543609a8f008e5357cf63b990c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8355431/orig/9e3c2ead137bd3614c0e837c0fcd7cf1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8355431/orig/badbc06924482de13896774f817f8571.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8355431/orig/fc82cc012390018a8cb2170a7e80ca08.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8355431/orig/3139d4e24db93d2602b15ca3952059c2.jpg</picture>
-        <description>2025 г., гибрид, 2.5 л, 250 л.с., вариаторная, полный привод, новый, black</description>
-        <vendor>Lexus</vendor>
-        <model>LM</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">26 км</param>
-        <param name="Двигатель">Гибрид</param>
-        <param name="Объём двигателя">2.5 л</param>
-        <param name="Мощность">250 л.с.</param>
-        <param name="Коробка передач">Вариаторная</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Минивэн</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">350h 2.5hyb CVT (250 л.с.) 4WD</param>
       </offer>
       <offer id="W1N4632761X437522" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W463), 2022</name>
