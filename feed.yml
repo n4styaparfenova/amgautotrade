@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-28 07:19">
+<yml_catalog date="2026-02-28 08:16">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -2388,7 +2388,7 @@
       <offer id="HLX33B125S0774371" available="true">
         <name>Li Auto (Lixiang) L7 I Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Li%20Auto%20(Lixiang)&amp;model=L7</url>
-        <price>8250000</price>
+        <price>7990000</price>
         <currencyId>RUR</currencyId>
         <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/7910625/orig/44aa2ee941f91df1a5f8f373ffd88882.jpg</picture>
@@ -2413,37 +2413,6 @@
         <param name="Привод">Полный</param>
         <param name="Кузов">Внедорожник</param>
         <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">52.3 kWh 1.5hyb AT (449 л.с.) 4WD</param>
-      </offer>
-      <offer id="HLX33B120S0772995" available="true">
-        <name>Li Auto (Lixiang) L7 I Рестайлинг, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Li%20Auto%20(Lixiang)&amp;model=L7</url>
-        <price>8250000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>8</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/7910621/orig/3ca1e56cf72532354fac48d9790e19c0.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7910621/orig/2365567ad296ba39b6bca3d94a5832cf.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7910621/orig/169088b69b403e61b6fadb0876e204d7.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7910621/orig/da16718daa0b077c521398d71571314a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7910621/orig/20e034c769a748df70c212a1d2516ce4.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7910621/orig/6d9a0c5bfe282342f57ad7d0c6fdaf78.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7910621/orig/fc1b2b245dfbf4a9cd8c5fab084e904b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7910621/orig/631e2e6de8203384f54c99abc731d499.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7910621/orig/9ae0c97c8d43d54e0e3d57b66bb28e77.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7910621/orig/1fe870bebacabae9ca21e252420a18f3.jpg</picture>
-        <description>2025 г., гибрид, 1.5 л, 449 л.с., автоматическая, полный привод, новый, grey</description>
-        <vendor>Li Auto (Lixiang)</vendor>
-        <model>L7</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">20 км</param>
-        <param name="Двигатель">Гибрид</param>
-        <param name="Объём двигателя">1.5 л</param>
-        <param name="Мощность">449 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">grey</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">52.3 kWh 1.5hyb AT (449 л.с.) 4WD</param>
       </offer>
