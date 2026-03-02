@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-02 17:41">
+<yml_catalog date="2026-03-02 18:32">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1242,7 +1242,7 @@
       <offer id="WDD1771511J143239" available="true">
         <name>Mercedes-Benz A-Класс AMG II (W177), 2019</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=A-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>3740000</price>
+        <price>3690000</price>
         <currencyId>RUR</currencyId>
         <categoryId>10</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8261972/orig/05497ad5eb3e56e33b528a355a07c7c0.jpg</picture>
@@ -1679,16 +1679,16 @@
         <price>9399000</price>
         <currencyId>RUR</currencyId>
         <categoryId>10</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8182248/orig/72c8c1574b7b37084863b5e04485fa25.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182248/orig/fb739f9e927fc3a2bee33e5c52fb7280.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182248/orig/e6ceb5841b506b5f485690cc73ee7139.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182248/orig/494c1b4dc769153d50a19a4b386eb990.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182248/orig/bb1f829475723268e25668fc6159403d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182248/orig/152654c6332fd9ae04d3691ab1298413.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182248/orig/177cb2a10d9841aebc73995a7d5fd80a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182248/orig/a60a435a9814a90576f740e6fa992d37.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182248/orig/848d08af5352da890266ecc1f1494a4d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182248/orig/0e493fc12559fb691d4205dd47638722.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8182248/orig/cabfad796648fb3647b12b16b0c315ea.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8182248/orig/cc2876a31cf8a596e65b87935f64fa0f.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8182248/orig/b0c5772ef3639fa46b385012352ef33f.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8182248/orig/a6b358052f87e89fbed5ec8a3522f3ed.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8182248/orig/e7fcaf6104cb3ea3e39097814029bada.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8182248/orig/63a81f3c92cf2aa5a20e3c14869567a2.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8182248/orig/735ff40b2b201a18349576a844b347c6.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8182248/orig/f28c706ae35a6245f5dcbae709bec210.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8182248/orig/3b631b20819602d45e781eb0cee479d7.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8182248/orig/6e1be6c6fa1bd0ed642b58f389d76ca1.jpg</picture>
         <description>2025 г., бензин, 2.0 л, 258 л.с., автоматическая, полный привод, новый, black</description>
         <vendor>Mercedes-Benz</vendor>
         <model>E-Класс</model>
