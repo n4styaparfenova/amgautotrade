@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-03 21:24">
+<yml_catalog date="2026-03-03 22:18">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -29,6 +29,68 @@
       <category id="18" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="W1NYC7GJ2PX489397" available="true">
+        <name>Mercedes-Benz G-Класс AMG II (W463), 2024</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
+        <price>38500000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8452594/orig/1d4b629e0d4f75966d59f3b14816f394.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8452594/orig/2cdd34f723df1d091aae7ce473922c74.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8452594/orig/b943d1eb4b604d7a19d951d025488cf6.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8452594/orig/36d72664b23b3889ff030e8615a9bc8f.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8452594/orig/08c9938bb4d44bd956e85765dea23b7d.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8452594/orig/30cac0409c6998e96692f9ca99e8a7d5.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8452594/orig/0e6d4260be3385654ca0ed4d537e2019.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8452594/orig/ca94fa81e9c1579c268cb89a3c94b128.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8452594/orig/fb498096e46875f5ca00740e7734a6f3.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8452594/orig/3140a5ad85a1c050cc9ade23a6a9776f.jpg</picture>
+        <description>2024 г., бензин, 4.0 л, 585 л.с., автоматическая, полный привод, пробег 2 170 км, black</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>G-Класс AMG</model>
+        <param name="Год выпуска">2024</param>
+        <param name="Пробег">2170 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">4.0 л</param>
+        <param name="Мощность">585 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">63 4x4 Squared 4.0 AT (585 л.с.) 4WD</param>
+      </offer>
+      <offer id="W1NWH5AB7TX075198" available="true">
+        <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
+        <price>31490000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8452593/orig/0acf3c671718dc1b0887146d127ba040.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8452593/orig/92d7698f95ca79a151b4860f4085e533.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8452593/orig/e16bbd63b4f7cf4f45f3f51e868d6a0a.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8452593/orig/233f4c2691c71eb2136fa8b51172e9e1.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8452593/orig/b3d8157fcb2e2d5c0dcba7045f929403.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8452593/orig/79a85599685880c06d05d341780f9a53.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8452593/orig/0b37ddb5b035d2e3bc6ab9ba3ef76ad2.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8452593/orig/851a9727a476eb5dbac037097dc74c43.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8452593/orig/35830dc3daa9fb074b0e31da6bb29d67.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8452593/orig/2a34ad621027060b01584e0cdfefec58.jpg</picture>
+        <description>2025 г., бензин, 4.0 л, 585 л.с., автоматическая, полный привод, новый, black</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>G-Класс AMG</model>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег">86 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">4.0 л</param>
+        <param name="Мощность">585 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
+      </offer>
       <offer id="W1KLF4HB1TA229865" available="true">
         <name>Mercedes-Benz E-Класс VI (W214, S214), 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
@@ -59,6 +121,37 @@
         <param name="Цвет">grey</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">300 2.0 AT (258 л.с.) 4WD</param>
+      </offer>
+      <offer id="WBS81FK03SCU77287" available="true">
+        <name>BMW M5 VII (G90), 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=M5</url>
+        <price>19990000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8444859/orig/5222a6e6e03075b06f33ab86c03c0329.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8444859/orig/cea59d020245d6c7b2e64ba8ff4ddb94.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8444859/orig/6fe556be5b784d0802e4211d7388ba85.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8444859/orig/1abd346e5699ba1ce0cc0ed4ca3309f2.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8444859/orig/e967bffd066f0e9f592f1cd4b56b1236.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8444859/orig/7037f9793ac9efc88e20d0d4f4244e1c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8444859/orig/d0bfd9a4a556050ce7183609824dc969.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8444859/orig/ae8ffd3bc71a52a091d5932e784d0e95.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8444859/orig/717b1559d7ecca1c41c76f6064fde61b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8444859/orig/873801f3238a3804968bbef00cdb9853.jpg</picture>
+        <description>2025 г., гибрид, 4.4 л, 727 л.с., автоматическая, полный привод, пробег 5 654 км, grey</description>
+        <vendor>BMW</vendor>
+        <model>M5</model>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег">5654 км</param>
+        <param name="Двигатель">Гибрид</param>
+        <param name="Объём двигателя">4.4 л</param>
+        <param name="Мощность">727 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Седан</param>
+        <param name="Цвет">grey</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">4.4hyb AT (727 л.с.) 4WD</param>
       </offer>
       <offer id="WBA21EV01S9Z80202" available="true">
         <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
