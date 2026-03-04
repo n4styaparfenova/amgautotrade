@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-04 11:22">
+<yml_catalog date="2026-03-04 12:32">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -742,24 +742,24 @@
         <param name="Модификация">6.8 AT (571 л.с.) 4WD</param>
       </offer>
       <offer id="W1NKJ5BB1SF423714" available="true">
-        <name>Mercedes-Benz GLC II (X254), 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLC</url>
+        <name>Mercedes-Benz GLC Coupe II (C254), 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLC%20Coupe</url>
         <price>7590000</price>
         <currencyId>RUR</currencyId>
         <categoryId>8</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8348347/orig/8ddd52f564547c9b4e2b13cb1fd961d7.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348347/orig/da1e9adcc8dc1105dfaa641abe3482db.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348347/orig/500998250db5f9601274f1d552326ebf.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348347/orig/167eadb71153d1762841f1df7c366fd9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348347/orig/0fb6c0500a53ff3fa87ac8183c398273.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348347/orig/21007587d276fde3b1d20942b4f01041.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348347/orig/d328e199c0ec8aaee7013f8ead61cb7e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348347/orig/31b54550666b257250cc3460b1b24e00.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348347/orig/7243499831f78c48de24f885da031246.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348347/orig/72c1324a0d6ea478aecc938128289842.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8348347/orig/b11af0a8a438526897f200051a4b9014.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8348347/orig/0acc80cee2f06dfddd694f508e9b6c1c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8348347/orig/648a228a3a860f002db386dea4c4e809.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8348347/orig/c513e82dd860ab17875f90f4eaf3a014.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8348347/orig/460a1eeb8b9f2e31819f7c8c85690281.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8348347/orig/1c7ae32449d55196aa93ddc013e31fdc.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8348347/orig/2f65160449f0f7e4dcd2900592c6dab0.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8348347/orig/2843408239dcdc14734eae6b422402be.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8348347/orig/9b45ef98d2b630f4cbb658a1663ef1cf.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8348347/orig/8f854e55084668fa182e45d7234d7fba.jpg</picture>
         <description>2025 г., бензин, 2.0 л, 204 л.с., автоматическая, полный привод, новый, black</description>
         <vendor>Mercedes-Benz</vendor>
-        <model>GLC</model>
+        <model>GLC Coupe</model>
         <param name="Год выпуска">2025</param>
         <param name="Пробег">38 км</param>
         <param name="Двигатель">Бензин</param>
@@ -770,27 +770,27 @@
         <param name="Кузов">Внедорожник</param>
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
-        <param name="Модификация">260 L 2.0 AT (204 л.с.) 4WD</param>
+        <param name="Модификация">260 2.0 AT (204 л.с.) 4WD</param>
       </offer>
       <offer id="W1NKJ5BB3TF442802" available="true">
-        <name>Mercedes-Benz GLC II (X254), 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLC</url>
+        <name>Mercedes-Benz GLC Coupe II (C254), 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLC%20Coupe</url>
         <price>7590000</price>
         <currencyId>RUR</currencyId>
         <categoryId>8</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8348346/orig/08f01072b9a7932409028c038482e0bb.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348346/orig/006d4e2782b803d845abdafa0d7bee59.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348346/orig/be60249966fcd1b35e217b76831f44fc.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348346/orig/62ec8a2599eb856274ba957fe61db0bc.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348346/orig/b310b12cbe0ed3fa6fe154490ba7188d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348346/orig/9e8d2df38a2e39583d8ee023c04cd2cf.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348346/orig/020affe4393c67a5ffafd7187f9e1443.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348346/orig/b04528199e4f6eaf2f547f55db1ba785.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348346/orig/e7f3ab356c3916b9bee2c547c6df6048.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348346/orig/4493a3a030cf5049f9e881c8aa3c0ec2.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8348346/orig/79d30dbd3032fb30d808eac7266c2a7c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8348346/orig/0700ee60d0e65fef4930ba095b4817e3.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8348346/orig/09ad0ec0aedae0ddeb19267c7af1dca8.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8348346/orig/2a10adfa80f5a62f3cd1bba22c035c10.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8348346/orig/fb8ea9daee81d2ee46471c26153b5148.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8348346/orig/45b4585421cfc2d20771cf806a9300f0.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8348346/orig/a70873a791928fda95ffeba110c94af5.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8348346/orig/47187178657f530677f0d1b9511ce12b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8348346/orig/9ed14892e369fb0d3904de7415a6ae1c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8348346/orig/e9bad272b13ce25e62b4f54a38abf7bd.jpg</picture>
         <description>2025 г., бензин, 2.0 л, 204 л.с., автоматическая, полный привод, новый, black</description>
         <vendor>Mercedes-Benz</vendor>
-        <model>GLC</model>
+        <model>GLC Coupe</model>
         <param name="Год выпуска">2025</param>
         <param name="Пробег">22 км</param>
         <param name="Двигатель">Бензин</param>
@@ -801,7 +801,7 @@
         <param name="Кузов">Внедорожник</param>
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
-        <param name="Модификация">260 L 2.0 AT (204 л.с.) 4WD</param>
+        <param name="Модификация">260 2.0 AT (204 л.с.) 4WD</param>
       </offer>
       <offer id="JTMAAABJ1T4130945" available="true">
         <name>Toyota Land Cruiser 300 Series, 2025</name>
