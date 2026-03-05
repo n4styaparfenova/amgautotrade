@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-05 07:35">
+<yml_catalog date="2026-03-05 08:28">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -462,37 +462,6 @@
         <param name="Состояние">Новые</param>
         <param name="Модификация">2.2 HDi MT (150 л.с.)</param>
       </offer>
-      <offer id="JTMABABJ7R4163065" available="true">
-        <name>Toyota Land Cruiser 300 Series, 2024</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Land%20Cruiser</url>
-        <price>14990000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>13</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8386110/orig/4ca000e0aa5b6cf24d8a737723a30342.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8386110/orig/717f416abe8544c27f05db15d3d1f7b1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8386110/orig/9c2117029c96d835f013371a7d788172.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8386110/orig/c68a824095615c90aa92e1c25872efb1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8386110/orig/88bc3cf4db4fe194c4cdb654174dab43.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8386110/orig/de6962383c37845d94a923a2dac4f9f4.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8386110/orig/78e02413812ae5b3d21e398c492d2159.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8386110/orig/5efc0c3f894c71a9aaf92e6c46e37a38.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8386110/orig/9164783e7f8db0e9c7a0c6f6a821e37c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8386110/orig/10fde7843fa511e24530f5d125dc2176.jpg</picture>
-        <description>2024 г., бензин, 3.4 л, 415 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>Toyota</vendor>
-        <model>Land Cruiser</model>
-        <param name="Год выпуска">2024</param>
-        <param name="Пробег">60 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">3.4 л</param>
-        <param name="Мощность">415 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">3.4 AT (415 л.с.) 4WD</param>
-      </offer>
       <offer id="W1VVNLTZ6T4575549" available="true">
         <name>Mercedes-Benz V-Класс III (W447) Рестайлинг 2, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=V-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
@@ -558,7 +527,7 @@
       <offer id="W1K2230631A005179" available="true">
         <name>Mercedes-Benz S-Класс VII (W223), 2020</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>11190000</price>
+        <price>10890000</price>
         <currencyId>RUR</currencyId>
         <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8357591/orig/9075f550ffb45780e3155de91db80147.jpg</picture>
@@ -682,7 +651,7 @@
       <offer id="JTEARCAJ2SK043437" available="true">
         <name>Toyota Land Cruiser Prado 250 Series, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Land%20Cruiser%20Prado</url>
-        <price>11790000</price>
+        <price>11490000</price>
         <currencyId>RUR</currencyId>
         <categoryId>13</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8351140/orig/e06f3764fc2f4adf8ccff03367d919dd.jpg</picture>
@@ -806,7 +775,7 @@
       <offer id="JTMAAABJ1T4130945" available="true">
         <name>Toyota Land Cruiser 300 Series, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Land%20Cruiser</url>
-        <price>14990000</price>
+        <price>14290000</price>
         <currencyId>RUR</currencyId>
         <categoryId>13</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8339955/orig/d7461ba6f3d68c68144eb6d4260382a7.jpg</picture>
@@ -837,7 +806,7 @@
       <offer id="YV1LFL5AXT1490325" available="true">
         <name>Volvo XC90 II Рестайлинг 2, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Volvo&amp;model=XC90</url>
-        <price>11290000</price>
+        <price>10990000</price>
         <currencyId>RUR</currencyId>
         <categoryId>15</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8334829/orig/9e36c894b1f522e57f336558799fdcf2.jpg</picture>
@@ -868,7 +837,7 @@
       <offer id="YV1LFL5A0T1490513" available="true">
         <name>Volvo XC90 II Рестайлинг 2, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Volvo&amp;model=XC90</url>
-        <price>11290000</price>
+        <price>10990000</price>
         <currencyId>RUR</currencyId>
         <categoryId>15</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8327272/orig/82f98945e5fb402bf31b01c8ce76056b.jpg</picture>
