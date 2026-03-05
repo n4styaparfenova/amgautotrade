@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-05 09:33">
+<yml_catalog date="2026-03-05 10:28">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1143,68 +1143,6 @@
         <param name="Цвет">grey</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">30L xDrive 2.0 AT (258 л.с.) 4WD</param>
-      </offer>
-      <offer id="L6T795ND9SN125986" available="true">
-        <name>Zeekr 9X, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Zeekr&amp;model=9X</url>
-        <price>12290000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>17</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8276792/orig/db007b41511d31ec41292cd8c484fb23.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8276792/orig/fc3e65ec8e42b93395eebc289a4d88a4.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8276792/orig/061a1955bcde6b974ccba0df67f43e6b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8276792/orig/99da824968ca8b22eaca5f12f083f4b6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8276792/orig/16217c0cf342542537a53561fe265a33.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8276792/orig/ec010cd89407696e15e39c7392efa124.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8276792/orig/7124ba82390f7777d6750925337753a9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8276792/orig/2f4958102b69f07e3d69805e766a389c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8276792/orig/fad8d8f789cc332ce46356b467be08a1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8276792/orig/caa6c97134fe636106c4b5a5f84b2d33.jpg</picture>
-        <description>2025 г., гибрид, 2.0 л, 898 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>Zeekr</vendor>
-        <model>9X</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">40 км</param>
-        <param name="Двигатель">Гибрид</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">898 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">55 kWh 2.0hyb AT (898 л.с.) 4WD</param>
-      </offer>
-      <offer id="L6T795ND3SN109461" available="true">
-        <name>Zeekr 9X, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Zeekr&amp;model=9X</url>
-        <price>11490000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>17</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8264819/orig/d8ba59a76c7af05065c5e15feae0c404.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8264819/orig/e74da644f1ed3db2871d78f0584952d2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8264819/orig/d556f3a9f99958dfe0a2b81a24b01a28.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8264819/orig/003d58c1f401cc1ca87bae2c15a1e2e0.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8264819/orig/262d511f2949397b6d562ef5a1e95a27.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8264819/orig/b0a47ed98c237e4077f54c3191aae842.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8264819/orig/86c61d7ca212c284c1a16dd30d05dd1f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8264819/orig/0a4f6f7ad6da773a847c412fad2dd1f1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8264819/orig/7b8d9f435f5140df165813995f28a0a2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8264819/orig/a9726326dd7a909a9f124530c630c201.jpg</picture>
-        <description>2025 г., гибрид, 2.0 л, 898 л.с., автоматическая, полный привод, пробег 231 км, black</description>
-        <vendor>Zeekr</vendor>
-        <model>9X</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">231 км</param>
-        <param name="Двигатель">Гибрид</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">898 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">70 kWh 2.0hyb AT (898 л.с.) 4WD</param>
       </offer>
       <offer id="WDD1771511J143239" available="true">
         <name>Mercedes-Benz A-Класс AMG II (W177), 2019</name>
