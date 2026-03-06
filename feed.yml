@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-06 11:20">
+<yml_catalog date="2026-03-06 12:31">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -792,37 +792,6 @@
         <model>GLC Coupe</model>
         <param name="Год выпуска">2025</param>
         <param name="Пробег">38 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">204 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">260 2.0 AT (204 л.с.) 4WD</param>
-      </offer>
-      <offer id="W1NKJ5BB3TF442802" available="true">
-        <name>Mercedes-Benz GLC Coupe II (C254), 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLC%20Coupe</url>
-        <price>7590000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>8</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8348346/orig/79d30dbd3032fb30d808eac7266c2a7c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348346/orig/0700ee60d0e65fef4930ba095b4817e3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348346/orig/09ad0ec0aedae0ddeb19267c7af1dca8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348346/orig/2a10adfa80f5a62f3cd1bba22c035c10.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348346/orig/fb8ea9daee81d2ee46471c26153b5148.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348346/orig/45b4585421cfc2d20771cf806a9300f0.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348346/orig/a70873a791928fda95ffeba110c94af5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348346/orig/47187178657f530677f0d1b9511ce12b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348346/orig/9ed14892e369fb0d3904de7415a6ae1c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348346/orig/e9bad272b13ce25e62b4f54a38abf7bd.jpg</picture>
-        <description>2025 г., бензин, 2.0 л, 204 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>GLC Coupe</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">22 км</param>
         <param name="Двигатель">Бензин</param>
         <param name="Объём двигателя">2.0 л</param>
         <param name="Мощность">204 л.с.</param>
@@ -1917,37 +1886,6 @@
         <param name="Состояние">Новые</param>
         <param name="Модификация">2.0 AT (248 л.с.) 4WD</param>
       </offer>
-      <offer id="LVGEU76A0SG052738" available="true">
-        <name>Toyota Highlander IV (XU70), 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Highlander</url>
-        <price>5550000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>12</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8120593/orig/767713563d16495cfc9ee6d1f093db46.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8120593/orig/af2b4e063964cd386ad498105fc23bb1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8120593/orig/f5a9f58235715155df9e6ef4bbe68012.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8120593/orig/e4cc515ea19cd826a395e92852611b58.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8120593/orig/7fc3f0a6251026f093ae89bccd1d7394.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8120593/orig/fa50f37eea6dcf1089d9216e4e0a33e5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8120593/orig/1d385f2ea321389fd002eca0701ee72c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8120593/orig/0161f46467b1178b277212a615a55f81.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8120593/orig/bb5730b3eee7287701d0ed2af43b5d54.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8120593/orig/14454f3b64fbf30caab24abf93d029bb.jpg</picture>
-        <description>2025 г., бензин, 2.0 л, 248 л.с., автоматическая, полный привод, новый, white</description>
-        <vendor>Toyota</vendor>
-        <model>Highlander</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">38 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">248 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">white</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">2.0 AT (248 л.с.) 4WD</param>
-      </offer>
       <offer id="LVGBECEK7SG630093" available="true">
         <name>Toyota Camry IX (XV80) China Market, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Camry</url>
@@ -2323,7 +2261,7 @@
       <offer id="WDD2211761A167965" available="true">
         <name>Mercedes-Benz S-Класс V (W221), 2007</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>3999000</price>
+        <price>3790000</price>
         <currencyId>RUR</currencyId>
         <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/7899474/orig/0cb922f7b00453b4011b4d3951371ed5.jpg</picture>
