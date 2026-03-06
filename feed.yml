@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-06 16:27">
+<yml_catalog date="2026-03-06 17:26">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -707,37 +707,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">350h 2.5hyb CVT (250 л.с.) 4WD</param>
-      </offer>
-      <offer id="JTEARCAJ2SK043437" available="true">
-        <name>Toyota Land Cruiser Prado 250 Series, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Land%20Cruiser%20Prado</url>
-        <price>11490000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8351140/orig/e06f3764fc2f4adf8ccff03367d919dd.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351140/orig/5664b6dbf4a5d91c1b1b0886ea347680.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351140/orig/81c2ed02553af1e56ff75f52ea52e177.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351140/orig/392585e6c841d11db7d69a1cdb18fd99.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351140/orig/76075c8c907b6ada41800833e7b39865.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351140/orig/083a8e7abc215f2aadbfc54a516cfedf.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351140/orig/933035f32e976c7dd9f22eafb5d56414.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351140/orig/3634de322aad046d141882b966794e58.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351140/orig/c1f91fb248263fa5a01a099302213290.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351140/orig/2d7f34fb60a83e08aea1a3956eda61cc.jpg</picture>
-        <description>2025 г., дизель, 2.8 л, 204 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>Toyota</vendor>
-        <model>Land Cruiser Prado</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">21 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">2.8 л</param>
-        <param name="Мощность">204 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">2.8d AT (204 л.с.) 4WD</param>
       </offer>
       <offer id="SCATD2101PU216428" available="true">
         <name>Rolls-Royce Ghost II, 2022</name>
