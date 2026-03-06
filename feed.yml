@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-06 09:28">
+<yml_catalog date="2026-03-06 10:24">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -27,6 +27,68 @@
       <category id="16" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="W1NWH5AB5TX075782" available="true">
+        <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
+        <price>32490000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8457712/orig/f5feb7ec0122b42fee445a4d08285167.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8457712/orig/e865d93974acc86015589c2fc7d33d9f.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8457712/orig/449bfe544c6387b8a14500d1095fcbcc.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8457712/orig/39ad63a926d0a2ebdb8dc556b1e43ce5.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8457712/orig/b9d652260492855c69c49ff17374afb3.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8457712/orig/3e929068d913fcab36db7d85af78c2b6.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8457712/orig/b154c0519944bdf76d88809f7d7b1c68.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8457712/orig/5c2d4fa5f597161401fd091139a90364.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8457712/orig/51e6574afcdcb849e40c5f199865e768.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8457712/orig/c20d66cd8b5fb68d59687df6e9b16463.jpg</picture>
+        <description>2025 г., бензин, 4.0 л, 585 л.с., автоматическая, полный привод, новый, grey</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>G-Класс AMG</model>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег">83 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">4.0 л</param>
+        <param name="Мощность">585 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">grey</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
+      </offer>
+      <offer id="JTJPB7CX5T4090816" available="true">
+        <name>Lexus LX IV, 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Lexus&amp;model=LX</url>
+        <price>18790000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8457706/orig/37db48c730b40f1aa589c67c1ac6b985.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8457706/orig/7a43889539a2603e49238bb6708acea2.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8457706/orig/4dc117fdf843b24bbf272ebbcfa14acc.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8457706/orig/2d6949b8aefb65b48f4a73e43187d779.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8457706/orig/70b049b954d73d2287cc7542be2d3077.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8457706/orig/f9eb1d4c8ff80e21b151265eb10070d8.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8457706/orig/f0d7a524ac626ff3c46185f3a03626df.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8457706/orig/7a41168cfe34fdedc5a998ba380b8c00.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8457706/orig/2b369bb6e15bc3d6a0a6de44d4e8936e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8457706/orig/80a9b3637881e91c885b7f9f0fc3d00d.jpg</picture>
+        <description>2025 г., бензин, 3.4 л, 415 л.с., автоматическая, полный привод, новый, black</description>
+        <vendor>Lexus</vendor>
+        <model>LX</model>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег">2 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">3.4 л</param>
+        <param name="Мощность">415 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">600 3.4 AT (415 л.с.) 4WD</param>
+      </offer>
       <offer id="W1NYC7GJ2PX489397" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W463), 2024</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
