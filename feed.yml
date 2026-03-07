@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-07 20:14">
+<yml_catalog date="2026-03-07 21:12">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1857,7 +1857,7 @@
       <offer id="LVGBECEK7SG630093" available="true">
         <name>Toyota Camry IX (XV80) China Market, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Camry</url>
-        <price>4300000</price>
+        <price>4150000</price>
         <currencyId>RUR</currencyId>
         <categoryId>11</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8110182/orig/b8b25727ba122a08e020e686b36ff3a8.jpg</picture>
@@ -2287,37 +2287,6 @@
         <param name="Цвет">grey</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">Long 4.4d AT (339 л.с.) 4WD</param>
-      </offer>
-      <offer id="LVGBECEK2SG614027" available="true">
-        <name>Toyota Camry IX (XV80) China Market, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Camry</url>
-        <price>4350000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/7775766/orig/b3b1d16edc11e9f51bda27343543078d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7775766/orig/209acdb5ec917b211c4249b17195e5fe.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7775766/orig/1955b60f335d2c04f05f4f74a37c6738.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7775766/orig/acf0c3a076858c95887fbdf97fb224d4.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7775766/orig/02a5b7af71dc9e766d0b5bd6f58870d1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7775766/orig/4dfda234c2bbac3771d2e6eb5ae6cc34.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7775766/orig/f5544d2a5bd98b3c6a6de019a441afd7.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7775766/orig/6a4b48655a1fc741b58edbc92eb9d54b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7775766/orig/a69eb7dde66aef6342d1d1481aa6e0f3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7775766/orig/ba708e479a878befe5861199eb1d3c19.jpg</picture>
-        <description>2025 г., гибрид, 2.0 л, 197 л.с., вариаторная, передний привод, новый, black</description>
-        <vendor>Toyota</vendor>
-        <model>Camry</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">64 км</param>
-        <param name="Двигатель">Гибрид</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">197 л.с.</param>
-        <param name="Коробка передач">Вариаторная</param>
-        <param name="Привод">Передний</param>
-        <param name="Кузов">Седан</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">2.0hyb CVT (197 л.с.)</param>
       </offer>
       <offer id="WMX1973771A006247" available="true">
         <name>Mercedes-Benz SLS AMG, 2011</name>
