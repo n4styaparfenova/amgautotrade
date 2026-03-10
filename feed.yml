@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-10 11:24">
+<yml_catalog date="2026-03-10 12:35">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -675,37 +675,6 @@
         <param name="Кузов">Внедорожник</param>
         <param name="Цвет">green</param>
         <param name="Состояние">С пробегом</param>
-        <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
-      </offer>
-      <offer id="W1NWH5AB8TX072018" available="true">
-        <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>31790000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8351439/orig/1ab6e11f1e23f41963c3dfca298bbeb9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351439/orig/c1f99ab35d1d87fb2d5dab8c627f77c5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351439/orig/64d1efad6466b5b4316b8de21f25a3a1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351439/orig/9694b722d7ae50153bcb91ba833c9fee.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351439/orig/b618cfd7bd54180444b612ae0fd5eabe.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351439/orig/b8ea10b0d72014b3f46a4c4934d9d152.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351439/orig/35b62f9569a343d5beed62aa5eeef8c1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351439/orig/4e7a9fea236f32f14d83ece92debd7e3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351439/orig/9a44de0109066b105b838ca0311a960e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351439/orig/31ade375ae5b30803cc1074e35e4b8b9.jpg</picture>
-        <description>2025 г., бензин, 4.0 л, 585 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>G-Класс AMG</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">41 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">4.0 л</param>
-        <param name="Мощность">585 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
         <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
       </offer>
       <offer id="JTHADAAD7T5008893" available="true">
