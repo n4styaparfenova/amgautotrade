@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-10 14:40">
+<yml_catalog date="2026-03-10 15:51">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -26,6 +26,37 @@
       <category id="15" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="W1NWH5AB4TX073280" available="true">
+        <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
+        <price>31790000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8474860/orig/dfc8f4ce710881e7a93f6125f2656f1e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8474860/orig/34ea948ae3023dd2070969e1f6f5f649.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8474860/orig/bae5f9ac7c6f092447a4e844e6be49cf.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8474860/orig/b618e1ffd69fa47517608509e36f01e0.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8474860/orig/3dfe916f323160cafb88a5b16794cc72.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8474860/orig/1a9a9ea92d6570853fc19565f9974a91.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8474860/orig/ceadd3ffbdf21aff6922468868f79d84.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8474860/orig/cd30dd566cac91d339dfc936b5edb151.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8474860/orig/6a403118a287a0fda72047bd78551dc4.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8474860/orig/60d08209186ae254e8239b286e3b6b23.jpg</picture>
+        <description>2025 г., бензин, 4.0 л, 585 л.с., автоматическая, полный привод, новый, black</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>G-Класс AMG</model>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег">49 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">4.0 л</param>
+        <param name="Мощность">585 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
+      </offer>
       <offer id="WBA11EV0109293911" available="true">
         <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5</url>
