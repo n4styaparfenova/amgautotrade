@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-11 19:35">
+<yml_catalog date="2026-03-11 20:23">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -26,6 +26,68 @@
       <category id="15" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="LE4AG4BB6RL337560" available="true">
+        <name>Mercedes-Benz C-Класс V (W206), 2023</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=C-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
+        <price>5390000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8484563/orig/279b871ee0057ed6198d92a5447f5d10.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8484563/orig/4c23599cc532c46056a84c6ff2bdc341.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8484563/orig/3bf8daff325b5374ab8a0a97e573eda5.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8484563/orig/152b01185ea0a25c3f933ac0cc0f44ed.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8484563/orig/51321fdf9818db6c8948910004765a4b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8484563/orig/3724d0b08be629bba8edc45fa07c79e3.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8484563/orig/c36f16eb3e2f6d86675afb8f9b0451bc.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8484563/orig/e977733e0b65a1b83411adce943f8aba.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8484563/orig/6728648cb682f3c926615c0462bbdd99.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8484563/orig/1c13e139834d42b7592c7fd90e3ffc54.jpg</picture>
+        <description>2023 г., бензин, 1.5 л, 204 л.с., автоматическая, задний привод, пробег 9 522 км, white</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>C-Класс</model>
+        <param name="Год выпуска">2023</param>
+        <param name="Пробег">9522 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">1.5 л</param>
+        <param name="Мощность">204 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Задний</param>
+        <param name="Кузов">Седан</param>
+        <param name="Цвет">white</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">260 L 1.5 AT (204 л.с.)</param>
+      </offer>
+      <offer id="SAL1A2BW5TA623698" available="true">
+        <name>Land Rover Range Rover Sport III, 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Land%20Rover&amp;model=Range%20Rover%20Sport</url>
+        <price>18790000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8474861/orig/de81d14282281ec207a686afb982af4a.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8474861/orig/9f5894a54a38b61f12ef9c10f5d87dce.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8474861/orig/382496c200d223c00f4417c1687e30de.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8474861/orig/04954c409a082ee712b358536d3fb0f8.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8474861/orig/ad8ec6ccd0df535272ee2c6b27cecdd6.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8474861/orig/620fb641694746ba95dc6b9248e3c1e1.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8474861/orig/31d669097392da0de384d41e7932f4e9.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8474861/orig/53e37185b4f3a19b703f018c8a1bebdd.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8474861/orig/2e8fede48dbc444747cc8f407fb95c44.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8474861/orig/06ddea519c912b6ffe695284cec89b0c.jpg</picture>
+        <description>2025 г., дизель, 3.0 л, 350 л.с., автоматическая, полный привод, новый, black</description>
+        <vendor>Land Rover</vendor>
+        <model>Range Rover Sport</model>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег">33 км</param>
+        <param name="Двигатель">Дизель</param>
+        <param name="Объём двигателя">3.0 л</param>
+        <param name="Мощность">350 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">D350 3.0d AT (350 л.с.) 4WD</param>
+      </offer>
       <offer id="W1NWH5AB4TX073280" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
