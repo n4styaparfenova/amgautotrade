@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-11 17:41">
+<yml_catalog date="2026-03-11 18:40">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1049,37 +1049,6 @@
         <param name="Состояние">Новые</param>
         <param name="Модификация">300 2.0 AT (258 л.с.) 4WD</param>
       </offer>
-      <offer id="W1K2130591A902089" available="true">
-        <name>Mercedes-Benz E-Класс V (W213, S213, C238) Рестайлинг, 2020</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>6090000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8295821/orig/a174de5e63a07708fc8fed4d34505533.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8295821/orig/45714075ccdaf97a931b8f19b3440962.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8295821/orig/c58cbdab94bc3e9c7f539b2929d61c5e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8295821/orig/dc68aba60fca8a56f3a6ff2318c5f4a2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8295821/orig/a84ca47885e615a7d6d8a9b6cd59dd94.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8295821/orig/082ace26669fc66064a6d5241b33b733.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8295821/orig/40be7d7feea7f11bc37e27be78c77343.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8295821/orig/40a6b7da7df189090bbab8e0beade357.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8295821/orig/4c4ecd8fe87b1a8cd5d7d42eac724cdc.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8295821/orig/80b41f13710a591363574a051e8abb18.jpg</picture>
-        <description>2020 г., бензин, 3.0 л, 367 л.с., автоматическая, полный привод, пробег 60 430 км, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>E-Класс</model>
-        <param name="Год выпуска">2020</param>
-        <param name="Пробег">60430 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">367 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Седан</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">450 3.0 AT (367 л.с.) 4WD</param>
-      </offer>
       <offer id="WAUZZZF12MD024572" available="true">
         <name>Audi Q8 I (4M), 2021</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Audi&amp;model=Q8</url>
@@ -1884,37 +1853,6 @@
         <param name="Цвет">white</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">2.0 AT (248 л.с.) 4WD</param>
-      </offer>
-      <offer id="LVGBECEK7SG630093" available="true">
-        <name>Toyota Camry IX (XV80) China Market, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Camry</url>
-        <price>4150000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8110182/orig/b8b25727ba122a08e020e686b36ff3a8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8110182/orig/8095a794dd42444ac51500a81567a50f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8110182/orig/5e8c26fc1fe28b845a1280d8f70a0f0d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8110182/orig/da05d000d0ff5697d887ff3e0e17d68f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8110182/orig/ebdc3020603fac260b61f466f0cd735f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8110182/orig/ab10553569c75dd048e740bb6b7a694e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8110182/orig/b6f163101c849a35f638b09353c5904e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8110182/orig/ee8912c8521aeef225fbdfc73aca82cc.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8110182/orig/b66bf250eac31a9a99d10d52a512bb19.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8110182/orig/ac48db172ed7e24fa22f034b9ce0a9ac.jpg</picture>
-        <description>2025 г., гибрид, 2.0 л, 197 л.с., вариаторная, передний привод, новый, black</description>
-        <vendor>Toyota</vendor>
-        <model>Camry</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">15 км</param>
-        <param name="Двигатель">Гибрид</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">197 л.с.</param>
-        <param name="Коробка передач">Вариаторная</param>
-        <param name="Привод">Передний</param>
-        <param name="Кузов">Седан</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">2.0hyb CVT (197 л.с.)</param>
       </offer>
       <offer id="WBA11EY0509068905" available="true">
         <name>BMW X6 III (G06) Рестайлинг, 2025</name>
