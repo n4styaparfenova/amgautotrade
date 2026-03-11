@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-11 07:36">
+<yml_catalog date="2026-03-11 08:28">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -63,16 +63,16 @@
         <price>15500000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8471439/orig/2aff492ac476a87091603974a318915d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8471439/orig/7d81a058f5fed7a24e1457356784836c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8471439/orig/46349dc14a5be00bba487a2a233a0400.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8471439/orig/6d5de45d9a943a23334cbbb1cf1c4fee.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8471439/orig/d82841bc13d195498634ba8431cae7f8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8471439/orig/b719574c294e6164c0ccee3ccc80420d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8471439/orig/02119ddc34988c4341b36f00a6a11cf2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8471439/orig/b10d9dc5718127b281a9db8041741fb8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8471439/orig/12b297d0388fe1cff59a374dee6cdced.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8471439/orig/15027739f4be32825da200aeed1220c3.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8471439/orig/f85dcd056a51948139d7e4b5b25471c9.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8471439/orig/65fbac170b4b11e77dd4cb620651a07e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8471439/orig/25784bf1f0fdb3d6d7e2f184c317d785.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8471439/orig/52213fbb099b1376e40d2ced8ca28bb8.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8471439/orig/a91b3b3872271a3597706c0ec11da66b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8471439/orig/4021f1fdf3f5bce07a4d542617506b34.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8471439/orig/0dec6de06d0e86bb4c5d21d738789424.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8471439/orig/b5fe477d1a89763791da13c0028fbe12.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8471439/orig/1eb6e5a61e9b7e8f8e1f35ac902036ba.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8471439/orig/9a6d9ed8e2cfa971b173b5d959329011.jpg</picture>
         <description>2025 г., дизель, 3.0 л, 286 л.с., автоматическая, полный привод, новый, blue</description>
         <vendor>BMW</vendor>
         <model>X5</model>
