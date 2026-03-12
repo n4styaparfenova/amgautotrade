@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-12 06:40">
+<yml_catalog date="2026-03-12 07:39">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -583,37 +583,6 @@
         <param name="Цвет">blue</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">40d 3.0d AT (352 л.с.) 4WD</param>
-      </offer>
-      <offer id="JTJPB7CX7T4087867" available="true">
-        <name>Lexus LX IV, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Lexus&amp;model=LX</url>
-        <price>18790000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>6</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8391469/orig/009edb9db789e5a88706e547ca7d0862.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391469/orig/21b4c9b23db03615c63d8ae6755af1de.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391469/orig/bf5df8718ec82850324685b34d16cf50.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391469/orig/2d29e15a664fbc027980fbdacec88435.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391469/orig/ea4d1965b9440fc590cc51097853304c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391469/orig/4279089125485bf681ed678e0328b9ca.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391469/orig/8641de988b9d537c9ff2267752063f13.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391469/orig/5b4fe0f848024b8513ab3b673beeac89.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391469/orig/3994c0e1627c0d69c502a47c81659f39.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391469/orig/25b74b46ca62f7e2ed4bcd4931bd3d90.jpg</picture>
-        <description>2025 г., бензин, 3.4 л, 415 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>Lexus</vendor>
-        <model>LX</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">5 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">3.4 л</param>
-        <param name="Мощность">415 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">600 3.4 AT (415 л.с.) 4WD</param>
       </offer>
       <offer id="VF3YCBTFCRMA19523" available="true">
         <name>Peugeot Boxer II рестайлинг, 2025</name>
