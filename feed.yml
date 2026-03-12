@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-12 10:29">
+<yml_catalog date="2026-03-12 11:25">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -118,37 +118,6 @@
         <param name="Цвет">blue</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">30d 3.0d AT (286 л.с.) 4WD</param>
-      </offer>
-      <offer id="W1NWH5AB5TX075782" available="true">
-        <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>32490000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8457712/orig/f5feb7ec0122b42fee445a4d08285167.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8457712/orig/e865d93974acc86015589c2fc7d33d9f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8457712/orig/449bfe544c6387b8a14500d1095fcbcc.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8457712/orig/39ad63a926d0a2ebdb8dc556b1e43ce5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8457712/orig/b9d652260492855c69c49ff17374afb3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8457712/orig/3e929068d913fcab36db7d85af78c2b6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8457712/orig/b154c0519944bdf76d88809f7d7b1c68.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8457712/orig/5c2d4fa5f597161401fd091139a90364.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8457712/orig/51e6574afcdcb849e40c5f199865e768.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8457712/orig/c20d66cd8b5fb68d59687df6e9b16463.jpg</picture>
-        <description>2025 г., бензин, 4.0 л, 585 л.с., автоматическая, полный привод, новый, grey</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>G-Класс AMG</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">83 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">4.0 л</param>
-        <param name="Мощность">585 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">grey</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
       </offer>
       <offer id="JTJPB7CX5T4090816" available="true">
         <name>Lexus LX IV, 2025</name>
