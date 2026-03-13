@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-13 15:33">
+<yml_catalog date="2026-03-13 16:27">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1451,37 +1451,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">300 2.0 AT (258 л.с.) 4WD</param>
-      </offer>
-      <offer id="WBA51FJ06RCS27707" available="true">
-        <name>BMW 5 серии VIII (G60/G61/G68), 2024</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=5%20%D1%81%D0%B5%D1%80%D0%B8%D0%B8</url>
-        <price>8290000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8182254/orig/ef95f6a4dd1e63a80c465c36affce904.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182254/orig/188b196da1ac098727f3790f9fc24c7c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182254/orig/5c39d79b816138939792ef051730daba.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182254/orig/d2290787e9b0676ca406e66796230d65.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182254/orig/db73af93a2f0fd27b8fbc69130ee99d4.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182254/orig/9085e41d6ae882f19de5d4fd7adf6a8c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182254/orig/684596227dee78923f409608111728af.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182254/orig/b5592c708d86e4b3c49f106cd4c19aa3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182254/orig/e3bb2056132f3ff8e66039551999b10c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182254/orig/069a764138a6fd50d8a055ead0094b16.jpg</picture>
-        <description>2024 г., бензин, 2.0 л, 258 л.с., автоматическая, полный привод, пробег 6 825 км, blue</description>
-        <vendor>BMW</vendor>
-        <model>5 серии</model>
-        <param name="Год выпуска">2024</param>
-        <param name="Пробег">6825 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">258 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Седан</param>
-        <param name="Цвет">blue</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">530i xDrive 2.0 AT (258 л.с.) 4WD</param>
       </offer>
       <offer id="W1K6G6DB0PA217675" available="true">
         <name>Mercedes-Benz S-Класс VII (W223), 2023</name>
