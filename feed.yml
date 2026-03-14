@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-14 14:18">
+<yml_catalog date="2026-03-14 15:18">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -29,7 +29,7 @@
       <offer id="W1NWH5AB7TX079493" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>33490000</price>
+        <price>33480000</price>
         <currencyId>RUR</currencyId>
         <categoryId>7</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8514733/orig/9a5c56c5042dc7c0019dadada42cb6ef.jpg</picture>
@@ -153,7 +153,7 @@
       <offer id="W1NWH5AB4TX073280" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>31790000</price>
+        <price>31780000</price>
         <currencyId>RUR</currencyId>
         <categoryId>7</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8474860/orig/dfc8f4ce710881e7a93f6125f2656f1e.jpg</picture>
@@ -215,7 +215,7 @@
       <offer id="JTJPB7CX5T4090816" available="true">
         <name>Lexus LX IV, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Lexus&amp;model=LX</url>
-        <price>18790000</price>
+        <price>18780000</price>
         <currencyId>RUR</currencyId>
         <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8457706/orig/37db48c730b40f1aa589c67c1ac6b985.jpg</picture>
@@ -246,7 +246,7 @@
       <offer id="W1NYC7GJ2PX489397" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W463), 2024</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>38500000</price>
+        <price>38490000</price>
         <currencyId>RUR</currencyId>
         <categoryId>7</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8452594/orig/1d4b629e0d4f75966d59f3b14816f394.jpg</picture>
@@ -277,7 +277,7 @@
       <offer id="W1NWH5AB7TX075198" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>31490000</price>
+        <price>31480000</price>
         <currencyId>RUR</currencyId>
         <categoryId>7</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8452593/orig/0acf3c671718dc1b0887146d127ba040.jpg</picture>
@@ -339,7 +339,7 @@
       <offer id="WBS81FK03SCU77287" available="true">
         <name>BMW M5 VII (G90), 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=M5</url>
-        <price>19990000</price>
+        <price>19980000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8444859/orig/5222a6e6e03075b06f33ab86c03c0329.jpg</picture>
@@ -742,7 +742,7 @@
       <offer id="W1N4632761X437522" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W463), 2022</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>28999000</price>
+        <price>28989000</price>
         <currencyId>RUR</currencyId>
         <categoryId>7</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8355427/orig/f7b8a798ab0f48f6ca7f1a6f8bef05c1.jpg</picture>
@@ -773,7 +773,7 @@
       <offer id="JTHADAAD7T5008893" available="true">
         <name>Lexus LM II, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Lexus&amp;model=LM</url>
-        <price>17990000</price>
+        <price>17980000</price>
         <currencyId>RUR</currencyId>
         <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8351143/orig/e07e68a2a41d633a0f97cfe1bef7b6f6.jpg</picture>
@@ -804,7 +804,7 @@
       <offer id="SCATD2101PU216428" available="true">
         <name>Rolls-Royce Ghost II, 2022</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Rolls-Royce&amp;model=Ghost</url>
-        <price>26995000</price>
+        <price>26985000</price>
         <currencyId>RUR</currencyId>
         <categoryId>10</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8348348/orig/5d83c0d1f24e44bd24cd908b7946d674.jpg</picture>
@@ -1300,7 +1300,7 @@
       <offer id="WBS61AY090FS66155" available="true">
         <name>BMW M3 VI (G80), 2024</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=M3</url>
-        <price>17990000</price>
+        <price>17980000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8230207/orig/77c1c5a196929b8ad54d3e8b40e2f6b7.jpg</picture>
@@ -1641,7 +1641,7 @@
       <offer id="W1N4632761X402319" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W463), 2021</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>18490000</price>
+        <price>18480000</price>
         <currencyId>RUR</currencyId>
         <categoryId>7</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8163672/orig/d14ed48229a6e5253a944d4ac834cfb7.jpg</picture>
@@ -1919,7 +1919,7 @@
       <offer id="SCA665C03HUX80640" available="true">
         <name>Rolls-Royce Wraith, 2017</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Rolls-Royce&amp;model=Wraith</url>
-        <price>24390000</price>
+        <price>24380000</price>
         <currencyId>RUR</currencyId>
         <categoryId>10</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8065489/orig/bf11f47f99e57f5a7bfce572dcdbe904.jpg</picture>
@@ -2291,7 +2291,7 @@
       <offer id="WMX1973771A006247" available="true">
         <name>Mercedes-Benz SLS AMG, 2011</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=SLS%20AMG</url>
-        <price>23990000</price>
+        <price>23980000</price>
         <currencyId>RUR</currencyId>
         <categoryId>7</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/7671059/orig/b64b664138df37341ae7c977541054d6.jpg</picture>
@@ -2477,7 +2477,7 @@
       <offer id="WP0ZZZ99ZRS212447" available="true">
         <name>Porsche 911 VIII (992), 2023</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Porsche&amp;model=911</url>
-        <price>20270000</price>
+        <price>20260000</price>
         <currencyId>RUR</currencyId>
         <categoryId>9</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/7614072/orig/c646bfbe8d67cac72e95c48b2e3387ab.jpg</picture>
