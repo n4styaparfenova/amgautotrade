@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-14 17:17">
+<yml_catalog date="2026-03-14 18:22">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1641,7 +1641,7 @@
       <offer id="W1N4632761X402319" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W463), 2021</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>18480000</price>
+        <price>19000000</price>
         <currencyId>RUR</currencyId>
         <categoryId>7</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8163672/orig/d14ed48229a6e5253a944d4ac834cfb7.jpg</picture>
@@ -2105,7 +2105,7 @@
       <offer id="W1K2906891A042297" available="true">
         <name>Mercedes-Benz AMG GT I Рестайлинг, 2021</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=AMG%20GT</url>
-        <price>11480000</price>
+        <price>10995000</price>
         <currencyId>RUR</currencyId>
         <categoryId>7</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/7982630/orig/a76435434925fc19327d13974e5f14e4.jpg</picture>
