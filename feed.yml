@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-15 11:17">
+<yml_catalog date="2026-03-15 13:39">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -800,37 +800,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">350h 2.5hyb CVT (250 л.с.) 4WD</param>
-      </offer>
-      <offer id="SCATD2101PU216428" available="true">
-        <name>Rolls-Royce Ghost II, 2022</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Rolls-Royce&amp;model=Ghost</url>
-        <price>26985000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>10</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8348348/orig/5d83c0d1f24e44bd24cd908b7946d674.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348348/orig/23444eda3819a0138f08da3b1fad6e01.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348348/orig/f5d66817ec5bd971f31a9449bb925e5f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348348/orig/5f1054277dfabe52dd468e7d38db46eb.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348348/orig/35cfc84706f11fbd7fc7281f1eee7f43.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348348/orig/c4dc7c16875deb432fd85999df3e9bf7.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348348/orig/78f304f7d730af00fd27ad90d423fb2a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348348/orig/4015bb6de9d861acf565da142f75dfe9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348348/orig/dd2b7d2a98d19eac11d01605e4063e34.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348348/orig/5fac02b3d81e466bc03dac0ceece5ebe.jpg</picture>
-        <description>2022 г., бензин, 6.7 л, 571 л.с., автоматическая, полный привод, пробег 43 600 км, black</description>
-        <vendor>Rolls-Royce</vendor>
-        <model>Ghost</model>
-        <param name="Год выпуска">2022</param>
-        <param name="Пробег">43600 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">6.7 л</param>
-        <param name="Мощность">571 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Седан</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">6.8 AT (571 л.с.) 4WD</param>
       </offer>
       <offer id="W1NKJ5BB1SF423714" available="true">
         <name>Mercedes-Benz GLC Coupe II (C254), 2025</name>
@@ -1853,37 +1822,6 @@
         <param name="Цвет">grey</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">40d 3.0d AT (340 л.с.) 4WD</param>
-      </offer>
-      <offer id="LVGEU76A3SG052023" available="true">
-        <name>Toyota Highlander IV (XU70), 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Highlander</url>
-        <price>5440000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8121928/orig/4a58df00a4e24edd8c5640b2844f07d0.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8121928/orig/bff145f38f492d9113a0e3ff37765fe9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8121928/orig/1fbb77883ad53c2e4e57d70f21dda529.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8121928/orig/1a573c49099bb29cf618b25afd4c4178.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8121928/orig/e9c730b6f66af53cbea18c5cd86b7f56.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8121928/orig/f2f7f2af77df6d09d230547fefd1674f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8121928/orig/64927e89c0cb819b338f7cc335dce528.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8121928/orig/c92cc7ac84b3b36ced834443a3bfa848.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8121928/orig/804681add117904c598f837e3dc5284a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8121928/orig/529cca2d6bc54751191dcd0a70d8d675.jpg</picture>
-        <description>2025 г., бензин, 2.0 л, 248 л.с., автоматическая, полный привод, новый, white</description>
-        <vendor>Toyota</vendor>
-        <model>Highlander</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">41 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">248 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">white</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">2.0 AT (248 л.с.) 4WD</param>
       </offer>
       <offer id="WBA11EY0509068905" available="true">
         <name>BMW X6 III (G06) Рестайлинг, 2025</name>
