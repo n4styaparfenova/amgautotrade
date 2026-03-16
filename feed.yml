@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-16 14:14">
+<yml_catalog date="2026-03-16 15:55">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -22,8 +22,7 @@
       <category id="11" parentId="1">Toyota</category>
       <category id="12" parentId="1">Volkswagen</category>
       <category id="13" parentId="1">Volvo</category>
-      <category id="14" parentId="1">Xiaomi</category>
-      <category id="15" parentId="1">Zeekr</category>
+      <category id="14" parentId="1">Zeekr</category>
     </categories>
     <offers>
       <offer id="WBA21EN0709256382" available="true">
@@ -58,7 +57,7 @@
         <param name="Модификация">40d 3.0d AT (340 л.с.) 4WD</param>
       </offer>
       <offer id="W1NWH5AB7TX079493" available="true">
-        <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2025</name>
+        <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
         <price>33480000</price>
         <currencyId>RUR</currencyId>
@@ -73,10 +72,10 @@
         <picture>https://img.maxposter.ru/photo/11973/8514733/orig/4ad00fce758dcb7fca17a0698e364c17.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8514733/orig/93132316a28433771222b4018b127a1a.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8514733/orig/49c50fbe9d2c77049941c1f7ae4af968.jpg</picture>
-        <description>2025 г., бензин, 4.0 л, 585 л.с., автоматическая, полный привод, новый, black</description>
+        <description>2026 г., бензин, 4.0 л, 585 л.с., автоматическая, полный привод, новый, black</description>
         <vendor>Mercedes-Benz</vendor>
         <model>G-Класс AMG</model>
-        <param name="Год выпуска">2025</param>
+        <param name="Год выпуска">2026</param>
         <param name="Пробег">79 км</param>
         <param name="Двигатель">Бензин</param>
         <param name="Объём двигателя">4.0 л</param>
@@ -742,7 +741,7 @@
       <offer id="W1K2230631A005179" available="true">
         <name>Mercedes-Benz S-Класс VII (W223), 2020</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>10880000</price>
+        <price>10490000</price>
         <currencyId>RUR</currencyId>
         <categoryId>7</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8357591/orig/9075f550ffb45780e3155de91db80147.jpg</picture>
@@ -928,9 +927,9 @@
       <offer id="L6T795ND0SN120806" available="true">
         <name>Zeekr 9X, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Zeekr&amp;model=9X</url>
-        <price>12989000</price>
+        <price>12490000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>15</categoryId>
+        <categoryId>14</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8327271/orig/ce931f76ccffdc2d440be2d3fc6544bb.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8327271/orig/888a1dc263df4efbfe23f00d2751668c.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8327271/orig/1dd3e4bd702b57c0bc4959d0d1d59cd2.jpg</picture>
@@ -959,7 +958,7 @@
       <offer id="WBA51AH020CH71037" available="true">
         <name>BMW 5 серии VII (G30/G31/G38) Рестайлинг, 2021</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=5%20%D1%81%D0%B5%D1%80%D0%B8%D0%B8</url>
-        <price>5880000</price>
+        <price>5590000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8326757/orig/f568d27de76eb66fa83f8c20403e23e7.jpg</picture>
@@ -1083,7 +1082,7 @@
       <offer id="WAUZZZF12MD024572" available="true">
         <name>Audi Q8 I (4M), 2021</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Audi&amp;model=Q8</url>
-        <price>7740000</price>
+        <price>7499000</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8288148/orig/89e0b6d5ea2c958efb919543fefc64fb.jpg</picture>
@@ -1234,37 +1233,6 @@
         <param name="Цвет">green</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">40i 3.0 AT (381 л.с.) 4WD</param>
-      </offer>
-      <offer id="W1KLF4HBXSA163024" available="true">
-        <name>Mercedes-Benz E-Класс VI (W214, S214), 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>8480000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8243751/orig/9a6e8a8501e75adb21955ba29e1f8d27.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8243751/orig/e6985a32253dd47753ad3a9cd9894f6d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8243751/orig/ee030fc5ad358b1fe3db58274b10c8a3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8243751/orig/80a0f13edd302b1dc146d7da6f6544a8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8243751/orig/9a8b0ee77e073adfda9b227fdd179e83.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8243751/orig/54494db714fd6abaec3f09a37be48e3c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8243751/orig/e518d765ef542d575b64de02c3f53793.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8243751/orig/de836d364beb6c5c62e44f47276e5822.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8243751/orig/dc8a5b64bfff49bf3e2e30438ceb71af.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8243751/orig/23132c25a384c63ce85af780d1fd9983.jpg</picture>
-        <description>2025 г., бензин, 2.0 л, 258 л.с., автоматическая, полный привод, пробег 1 799 км, white</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>E-Класс</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">1799 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">258 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Седан</param>
-        <param name="Цвет">white</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">300 2.0 AT (258 л.с.) 4WD</param>
       </offer>
       <offer id="WBS61AY090FS66155" available="true">
         <name>BMW M3 VI (G80), 2024</name>
@@ -1421,37 +1389,6 @@
         <param name="Состояние">Новые</param>
         <param name="Модификация">2.0 TDCi AT (170 л.с.)</param>
       </offer>
-      <offer id="W1KZF6BB8PB150224" available="true">
-        <name>Mercedes-Benz E-Класс AMG V (W213) Рестайлинг, 2023</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>8980000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8203048/orig/0fc8e56ee55489757799476dd1de30fd.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8203048/orig/12b1149c74a7ef90fda6e88c86c08def.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8203048/orig/324c53431ad1a53f859ac70a2db7e569.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8203048/orig/e1eeee40dee3786580ec7ae4afe9f5e0.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8203048/orig/4482b4c54d89dcb3c0c53562baf81142.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8203048/orig/105bbeac05fa8656ff66619e19ccb90a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8203048/orig/cd4466c7ded0b019683f5778932abcbc.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8203048/orig/12df724c48e19721063c9c756ac6f352.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8203048/orig/3969b0377af3735745b7fe46c56076dc.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8203048/orig/b11a988b95dc4dc179c899a71f746e4d.jpg</picture>
-        <description>2023 г., бензин, 3.0 л, 435 л.с., автоматическая, полный привод, пробег 25 563 км, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>E-Класс AMG</model>
-        <param name="Год выпуска">2023</param>
-        <param name="Пробег">25563 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">435 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Седан</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">53 AMG 3.0 AT (435 л.с.) 4WD</param>
-      </offer>
       <offer id="W1KLF4HB2TA203484" available="true">
         <name>Mercedes-Benz E-Класс VI (W214, S214), 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
@@ -1607,42 +1544,12 @@
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
       </offer>
-      <offer id="HXMM3A084SA048587" available="true">
-        <name>Xiaomi SU7 I, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Xiaomi&amp;model=SU7</url>
-        <price>14490000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>14</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8161062/orig/bc08769e39f75799eb5f57db953e9424.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8161062/orig/3946f688dbf5a881904d2345312c1065.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8161062/orig/fde358301be838e09a1e87bf7243ba38.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8161062/orig/6d401b48bb77c0e56d37a681b4018c1f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8161062/orig/3843e6c785e0b143e27e38de756273da.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8161062/orig/9afa48e0b8c35e6a5cce4b54c51931e1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8161062/orig/aff9e1eae70178e1188ffe920a3ea694.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8161062/orig/0c189842dbf5d5389f7f393a768a413b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8161062/orig/db89b5e763fc49ac382ea7a6e23fbdf7.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8161062/orig/26e3c421fd0940eaf01f42852b3e22e7.jpg</picture>
-        <description>2025 г., электро, 1548 л.с., автоматическая, полный привод, пробег 442 км, yellow</description>
-        <vendor>Xiaomi</vendor>
-        <model>SU7</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">442 км</param>
-        <param name="Двигатель">Электро</param>
-        <param name="Мощность">1548 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Седан</param>
-        <param name="Цвет">yellow</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">Ultra Electro AT (1138.0 кВт) 4WD</param>
-      </offer>
       <offer id="L6T795ND4SN115253" available="true">
         <name>Zeekr 9X, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Zeekr&amp;model=9X</url>
         <price>11880000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>15</categoryId>
+        <categoryId>14</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8160156/orig/4c22deb539f9b5843639daeac1fceff0.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8160156/orig/985927b94296ce829d37544e73df32f2.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8160156/orig/ad5588f59b8deb61d930e3247f190605.jpg</picture>
@@ -1857,7 +1764,7 @@
       <offer id="WP1ZZZ9Y5TDA36613" available="true">
         <name>Porsche Cayenne III Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Porsche&amp;model=Cayenne</url>
-        <price>17980000</price>
+        <price>18480000</price>
         <currencyId>RUR</currencyId>
         <categoryId>9</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8030586/orig/58b2e8d49b28213dae1e2b4ab475cdb7.jpg</picture>
@@ -2167,7 +2074,7 @@
       <offer id="SALGA2BJ8JA509173" available="true">
         <name>Land Rover Range Rover IV Рестайлинг, 2018</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Land%20Rover&amp;model=Range%20Rover</url>
-        <price>5970000</price>
+        <price>5750000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/7806239/orig/65295c10c7021344be40a6eedcf6caf7.jpg</picture>
