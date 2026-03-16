@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-16 09:54">
+<yml_catalog date="2026-03-16 10:43">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -304,37 +304,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">600 3.4 AT (415 л.с.) 4WD</param>
-      </offer>
-      <offer id="W1NYC7GJ2PX489397" available="true">
-        <name>Mercedes-Benz G-Класс AMG II (W463), 2024</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>38490000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8452594/orig/1d4b629e0d4f75966d59f3b14816f394.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8452594/orig/2cdd34f723df1d091aae7ce473922c74.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8452594/orig/b943d1eb4b604d7a19d951d025488cf6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8452594/orig/36d72664b23b3889ff030e8615a9bc8f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8452594/orig/08c9938bb4d44bd956e85765dea23b7d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8452594/orig/30cac0409c6998e96692f9ca99e8a7d5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8452594/orig/0e6d4260be3385654ca0ed4d537e2019.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8452594/orig/ca94fa81e9c1579c268cb89a3c94b128.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8452594/orig/fb498096e46875f5ca00740e7734a6f3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8452594/orig/3140a5ad85a1c050cc9ade23a6a9776f.jpg</picture>
-        <description>2024 г., бензин, 4.0 л, 585 л.с., автоматическая, полный привод, пробег 2 170 км, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>G-Класс AMG</model>
-        <param name="Год выпуска">2024</param>
-        <param name="Пробег">2170 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">4.0 л</param>
-        <param name="Мощность">585 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">63 4x4 Squared 4.0 AT (585 л.с.) 4WD</param>
       </offer>
       <offer id="W1NWH5AB7TX075198" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2025</name>
@@ -862,37 +831,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">350h 2.5hyb CVT (250 л.с.) 4WD</param>
-      </offer>
-      <offer id="W1NKJ5BB1SF423714" available="true">
-        <name>Mercedes-Benz GLC Coupe II (C254), 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLC%20Coupe</url>
-        <price>7580000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8348347/orig/b11af0a8a438526897f200051a4b9014.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348347/orig/0acc80cee2f06dfddd694f508e9b6c1c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348347/orig/648a228a3a860f002db386dea4c4e809.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348347/orig/c513e82dd860ab17875f90f4eaf3a014.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348347/orig/460a1eeb8b9f2e31819f7c8c85690281.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348347/orig/1c7ae32449d55196aa93ddc013e31fdc.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348347/orig/2f65160449f0f7e4dcd2900592c6dab0.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348347/orig/2843408239dcdc14734eae6b422402be.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348347/orig/9b45ef98d2b630f4cbb658a1663ef1cf.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8348347/orig/8f854e55084668fa182e45d7234d7fba.jpg</picture>
-        <description>2025 г., бензин, 2.0 л, 204 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>GLC Coupe</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">38 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">204 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">260 2.0 AT (204 л.с.) 4WD</param>
       </offer>
       <offer id="JTMAAABJ1T4130945" available="true">
         <name>Toyota Land Cruiser 300 Series, 2025</name>
@@ -1637,37 +1575,6 @@
         <param name="Цвет">blue</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">M50d 3.0d AT (400 л.с.) 4WD</param>
-      </offer>
-      <offer id="LBV21GT07S1B73621" available="true">
-        <name>BMW X3 IV (G45/G48), 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X3</url>
-        <price>7340000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8163674/orig/f1215723980a5d0ba36966c9775f8f77.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8163674/orig/bf05ea676ab999f891994e992ee00349.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8163674/orig/fedbff7eb9326b34db1386455fc8a371.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8163674/orig/4f5ec4255b9d78e580bb3e09cde3d78f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8163674/orig/b3c092ce59ea12985bc89daab8ff3f4a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8163674/orig/89c5578e10654a7c62d9d0d9fc09fc60.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8163674/orig/e75ac5d12986d2782a03aea117d491d9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8163674/orig/b5fc2dd798e119250979705a1cad07ff.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8163674/orig/89bb94c6195927dd77efb3210c860b15.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8163674/orig/adb792345a0f2fac3ee6d766e553e638.jpg</picture>
-        <description>2025 г., бензин, 2.0 л, 258 л.с., автоматическая, полный привод, новый, white</description>
-        <vendor>BMW</vendor>
-        <model>X3</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">23 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">258 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">white</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">30L xDrive 2.0 AT (258 л.с.) 4WD</param>
       </offer>
       <offer id="W1N4632761X402319" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W463), 2021</name>
