@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-17 18:46">
+<yml_catalog date="2026-03-17 19:48">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -25,6 +25,37 @@
       <category id="14" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="WBA11EY0X09148426" available="true">
+        <name>BMW X6 III (G06) Рестайлинг, 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X6</url>
+        <price>15990000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8524981/orig/a102ef7cb96fa541f9aeac553a1f5c82.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8524981/orig/1b0428f3c9e8fb584e73457b33782151.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8524981/orig/6add4fa75c324557cba1425e66e8d2ed.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8524981/orig/6af7fd6e2928c8d4be5174ceb0cde302.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8524981/orig/79b00f7ab3f6fdc19085ee88dabd7da4.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8524981/orig/ba53820e40017b30ba386f52fd4c57d7.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8524981/orig/fb89f628c233c1c4abb1a15dabc2695f.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8524981/orig/10a1c1b8146dffc36272377a49372b65.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8524981/orig/9b225202e27aac536a00799fa5840768.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8524981/orig/b0fb2c9aedd2ce8ec361e8549c4d2867.jpg</picture>
+        <description>2025 г., дизель, 3.0 л, 286 л.с., автоматическая, полный привод, новый, grey</description>
+        <vendor>BMW</vendor>
+        <model>X6</model>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег">13 км</param>
+        <param name="Двигатель">Дизель</param>
+        <param name="Объём двигателя">3.0 л</param>
+        <param name="Мощность">286 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">grey</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">30d 3.0d AT (286 л.с.) 4WD</param>
+      </offer>
       <offer id="WBA21EN0709256382" available="true">
         <name>BMW X7 I (G07) Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X7</url>
