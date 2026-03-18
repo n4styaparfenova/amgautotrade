@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-18 19:41">
+<yml_catalog date="2026-03-18 20:25">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -24,6 +24,37 @@
       <category id="13" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="W1N4632761X424927" available="true">
+        <name>Mercedes-Benz G-Класс AMG II (W463), 2022</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
+        <price>22199000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8535651/orig/5b7b2f150dbe14c06811792e918df629.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8535651/orig/d9340436e0445f1c6c2a592f0fb9e9a6.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8535651/orig/1d98418f52324d769afe2d3be9e6f5b5.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8535651/orig/78dc22f89b1715314a9a084fcfcb584f.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8535651/orig/fcee241ad8ffeb5d54b110a00a472f0a.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8535651/orig/f435ace8e1efeea6299628fbb4cc06b9.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8535651/orig/2a4f9ae18e6f3eff8e4d185cdeffe2f0.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8535651/orig/76e1d98d1f460b86c39a5da34a0d9525.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8535651/orig/a1012df004203b4e99bf8fd16101f58a.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8535651/orig/295b50a2239a983f0916785f613423e4.jpg</picture>
+        <description>2022 г., бензин, 4.0 л, 585 л.с., автоматическая, полный привод, пробег 34 008 км, black</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>G-Класс AMG</model>
+        <param name="Год выпуска">2022</param>
+        <param name="Пробег">34008 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">4.0 л</param>
+        <param name="Мощность">585 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
+      </offer>
       <offer id="WBA21EV0909270204" available="true">
         <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5</url>
@@ -54,6 +85,37 @@
         <param name="Цвет">grey</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">40d 3.0d AT (352 л.с.) 4WD</param>
+      </offer>
+      <offer id="W1KLF4HB3SA177153" available="true">
+        <name>Mercedes-Benz E-Класс VI (W214, S214), 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
+        <price>8590000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8535641/orig/533921f78fc220a518ac9a5b4f338335.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8535641/orig/9ea840a409d4df366ce3fa778f963b8d.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8535641/orig/d70f5fd9ed63efa0a44deed723a3a57b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8535641/orig/1839a775b2fe412191796ad30e84b466.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8535641/orig/74772ad24a792a8979e908c6854d03ff.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8535641/orig/8665afccdd7a90d2bed8439661407947.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8535641/orig/ff245ac23966397db0276817313d01a8.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8535641/orig/022426ceb908b34dded230b0b99a1546.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8535641/orig/7945b3dcd5a58205a9be141e6df873c3.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8535641/orig/2bc0cac17a369148bba5e31d506f137c.jpg</picture>
+        <description>2025 г., бензин, 2.0 л, 258 л.с., автоматическая, полный привод, новый, black</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>E-Класс</model>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег">50 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">2.0 л</param>
+        <param name="Мощность">258 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Седан</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">300 2.0 AT (258 л.с.) 4WD</param>
       </offer>
       <offer id="JTHCDAAD7T5009079" available="true">
         <name>Lexus LM II, 2025</name>
