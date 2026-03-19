@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-19 07:39">
+<yml_catalog date="2026-03-19 08:30">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1294,37 +1294,6 @@
         <param name="Цвет">grey</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">45 TDI 3.0d AT (249 л.с.) 4WD</param>
-      </offer>
-      <offer id="LBV21GT01T1C10972" available="true">
-        <name>BMW X3 IV (G45/G48), 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X3</url>
-        <price>7640000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8288139/orig/7e6790afd02aeff5c78387dd2df10f8f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8288139/orig/e5e79b0d3eb515f0880d75ba7d01318f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8288139/orig/5fe1c12aca7ce28e3cf1ef2397eec1c8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8288139/orig/5e61b2d2d444b24e70b766b167d33681.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8288139/orig/4066c02c5f39a97b8ed4d18418672ba5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8288139/orig/545e020d6c1622282083709defe98e27.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8288139/orig/cacacafe255abe015b114729fd59caf6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8288139/orig/df4d79871f609863aa71235f2afc420d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8288139/orig/a1f489d1813961e3470e01adf71e53d7.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8288139/orig/81c1a0c68e2f07d8c97a722d3ac1940e.jpg</picture>
-        <description>2025 г., бензин, 2.0 л, 258 л.с., автоматическая, полный привод, новый, grey</description>
-        <vendor>BMW</vendor>
-        <model>X3</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">43 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">258 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">grey</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">30L xDrive 2.0 AT (258 л.с.) 4WD</param>
       </offer>
       <offer id="WDD1771511J143239" available="true">
         <name>Mercedes-Benz A-Класс AMG II (W177), 2019</name>
