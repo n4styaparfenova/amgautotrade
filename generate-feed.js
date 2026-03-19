@@ -62,7 +62,7 @@ function generateFeed(cars) {
     xml += `    <name>${escapeXml(SHOP_NAME)}</name>\n`;
     xml += `    <company>${escapeXml(COMPANY)}</company>\n`;
     xml += `    <url>${SITE_URL}</url>\n`;
-    xml += `    <phone>+7 (499) 490-70-30</phone>\n`;
+    xml += `    <phone>+7 (985) 674-26-50</phone>\n`;
     xml += `    <currencies>\n`;
     xml += `      <currency id="RUR" rate="1"/>\n`;
     xml += `    </currencies>\n`;

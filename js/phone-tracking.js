@@ -6,13 +6,13 @@
  */
 (function() {
     // === НАСТРОЙКИ ===
-    var ORIGINAL = '+74994907030';
+    var ORIGINAL = '+79856742650';
     var TRACKING = '+74994907903';
     var TRACKING_DISPLAY = '+7 (499) 490-79-03';
     var STORAGE_KEY = 'amg_direct_visitor';
     var TTL_DAYS = 30;
 
-    var phoneRegex = /\+?7?\s*\(?\s*499\s*\)?\s*490[\s-]*70[\s-]*30/g;
+    var phoneRegex = /\+?7?\s*\(?\s*985\s*\)?\s*674[\s-]*26[\s-]*50/g;
 
     function isYandexDirect() {
         var params = new URLSearchParams(window.location.search);
@@ -65,7 +65,7 @@
         var links = root.querySelectorAll('a[href*="tel:"]');
         for (var i = 0; i < links.length; i++) {
             var href = links[i].getAttribute('href') || '';
-            if (href.indexOf('4994907030') !== -1 || href.indexOf('74994907030') !== -1) {
+            if (href.indexOf('9856742650') !== -1 || href.indexOf('79856742650') !== -1) {
                 links[i].href = 'tel:' + TRACKING;
                 if (phoneRegex.test(links[i].textContent)) {
                     phoneRegex.lastIndex = 0;
