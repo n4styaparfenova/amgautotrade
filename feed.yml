@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-21 09:22">
+<yml_catalog date="2026-03-21 10:16">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -24,6 +24,37 @@
       <category id="13" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="WBA21EY0X09195850" available="true">
+        <name>BMW X6 III (G06) Рестайлинг, 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X6</url>
+        <price>17490000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8541950/orig/21e8a8e6aecffa9cd1f363cb6b5d99e8.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8541950/orig/7a37a818780b4f1704fbf81d048af54d.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8541950/orig/82e9510a7220d4ad5a8d2c3bb41ce7a2.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8541950/orig/0fca31f93efedad04113da31505a9dfe.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8541950/orig/7f516c11da6376c765817badd5dc3a9d.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8541950/orig/8f1a153030e936e66e83e57f164d26f0.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8541950/orig/158a15f5da26004373ee3ddea52c224d.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8541950/orig/1b362f34ddea28298607f65170804ed8.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8541950/orig/13b8afa75c50cb92be5e991978d6f892.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8541950/orig/3ad63721a6ec540b6b42a411fc0d7031.jpg</picture>
+        <description>2025 г., дизель, 3.0 л, 352 л.с., автоматическая, полный привод, новый, grey</description>
+        <vendor>BMW</vendor>
+        <model>X6</model>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег">25 км</param>
+        <param name="Двигатель">Дизель</param>
+        <param name="Объём двигателя">3.0 л</param>
+        <param name="Мощность">352 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">grey</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">40d 3.0d AT (352 л.с.) 4WD</param>
+      </offer>
       <offer id="W1N4632761X424927" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W463), 2022</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
