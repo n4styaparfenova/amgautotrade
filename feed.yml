@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-21 17:17">
+<yml_catalog date="2026-03-21 18:21">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -737,37 +737,6 @@
         <param name="Состояние">Новые</param>
         <param name="Модификация">40d 3.0d AT (352 л.с.) 4WD</param>
       </offer>
-      <offer id="SAL1A2BU7SA475180" available="true">
-        <name>Land Rover Range Rover Sport III, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Land%20Rover&amp;model=Range%20Rover%20Sport</url>
-        <price>17389000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>5</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8412969/orig/a87cd7c28704ce51d3b32f35ab03c9ea.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8412969/orig/85044e598532f5bf00efc6eb9d9e5ef1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8412969/orig/68a313f9974c95a4b105977f2e299751.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8412969/orig/4064cbbf73abed0c247b610c0f298218.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8412969/orig/d1a6451535ac15400e734104f1c8bca9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8412969/orig/e6e67b9eacc16b719d67d9180a85ede1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8412969/orig/8d078642427fc05e95c7bdbeed597220.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8412969/orig/4a1b05de050545e041d8f7096ee1be45.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8412969/orig/124780aef1078b72894d0c7ecb29893c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8412969/orig/fad14faf5adff10da386ef96d03f0b6d.jpg</picture>
-        <description>2025 г., бензин, 3.0 л, 400 л.с., автоматическая, полный привод, пробег 2 969 км, black</description>
-        <vendor>Land Rover</vendor>
-        <model>Range Rover Sport</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">2969 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">400 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">P400 MHEV 3.0 AT (400 л.с.) 4WD</param>
-      </offer>
       <offer id="WBA21EV07S9793746" available="true">
         <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5</url>
@@ -926,7 +895,7 @@
       <offer id="W1VVNLTZ6T4575549" available="true">
         <name>Mercedes-Benz V-Класс III (W447) Рестайлинг 2, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=V-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>14340000</price>
+        <price>13990000</price>
         <currencyId>RUR</currencyId>
         <categoryId>7</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8374377/orig/e217d4af503b0f3046975fd838b179d7.jpg</picture>
