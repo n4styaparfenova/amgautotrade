@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-22 11:15">
+<yml_catalog date="2026-03-22 12:27">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1605,37 +1605,6 @@
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">500 Long 4MATIC 3.0 AT (435 л.с.) 4WD</param>
       </offer>
-      <offer id="W1KLF4HB5SA166347" available="true">
-        <name>Mercedes-Benz E-Класс VI (W214, S214), 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>8789000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8182248/orig/cabfad796648fb3647b12b16b0c315ea.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182248/orig/cc2876a31cf8a596e65b87935f64fa0f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182248/orig/b0c5772ef3639fa46b385012352ef33f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182248/orig/a6b358052f87e89fbed5ec8a3522f3ed.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182248/orig/e7fcaf6104cb3ea3e39097814029bada.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182248/orig/63a81f3c92cf2aa5a20e3c14869567a2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182248/orig/735ff40b2b201a18349576a844b347c6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182248/orig/f28c706ae35a6245f5dcbae709bec210.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182248/orig/3b631b20819602d45e781eb0cee479d7.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182248/orig/6e1be6c6fa1bd0ed642b58f389d76ca1.jpg</picture>
-        <description>2025 г., бензин, 2.0 л, 258 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>E-Класс</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">22 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">258 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Седан</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">300 2.0 AT (258 л.с.) 4WD</param>
-      </offer>
       <offer id="WBACV010109B33035" available="true">
         <name>BMW X5 IV (G05/G18), 2020</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5</url>
@@ -1666,37 +1635,6 @@
         <param name="Цвет">blue</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">M50d 3.0d AT (400 л.с.) 4WD</param>
-      </offer>
-      <offer id="W1N4632761X402319" available="true">
-        <name>Mercedes-Benz G-Класс AMG II (W463), 2021</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>19000000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8163672/orig/d14ed48229a6e5253a944d4ac834cfb7.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8163672/orig/c57f96cceea1c3cbe0cce1fabf45723b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8163672/orig/0242810fdf444d32ab4cbbc9e86165cf.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8163672/orig/5007e197b74ded66e2b2688cbc328ccc.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8163672/orig/384c0416e6b3ac474a7cfcb0b722f6dc.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8163672/orig/8370fff28be1ea962d38ca84e77c1dd2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8163672/orig/55948930739e7bb15b7b7d1514cd5ae0.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8163672/orig/5bda01567a6e02a7060ddf14a5266d59.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8163672/orig/5eddfc7aa38be5984cc198aabc4f99fa.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8163672/orig/59383b425acdaa48a3cc631807429587.jpg</picture>
-        <description>2021 г., бензин, 4.0 л, 585 л.с., автоматическая, полный привод, пробег 55 820 км, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>G-Класс AMG</model>
-        <param name="Год выпуска">2021</param>
-        <param name="Пробег">55820 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">4.0 л</param>
-        <param name="Мощность">585 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
       </offer>
       <offer id="L6T795ND4SN115253" available="true">
         <name>Zeekr 9X, 2025</name>
