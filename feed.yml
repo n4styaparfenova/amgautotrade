@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-23 10:42">
+<yml_catalog date="2026-03-23 11:36">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -768,37 +768,6 @@
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">40d 3.0d AT (352 л.с.) 4WD</param>
       </offer>
-      <offer id="WBA21EV04S9036846" available="true">
-        <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5</url>
-        <price>15359000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8406695/orig/f97374c90a507f9e301e5e513da72056.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8406695/orig/2cd36be80368a7b09e980a072ccc3e2c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8406695/orig/cc267cd3b98e29150f61f4c3f331c2f1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8406695/orig/76965dcb666e9308cc1734f84cc9abea.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8406695/orig/97d27c032e6bebca4653a75933b4f306.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8406695/orig/655efc1cb6147da351f570d3ac17f09c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8406695/orig/1988d42254a0846e994e58dfd677163e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8406695/orig/9e488d1f65fdad0cbf015a06294e81ba.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8406695/orig/0623b60d2a3836b86ea86ac58c49f27d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8406695/orig/16c9543d586f45dbcf93ecd9773fd88d.jpg</picture>
-        <description>2025 г., дизель, 3.0 л, 352 л.с., автоматическая, полный привод, пробег 4 341 км, blue</description>
-        <vendor>BMW</vendor>
-        <model>X5</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">4341 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">352 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">blue</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">40d 3.0d AT (352 л.с.) 4WD</param>
-      </offer>
       <offer id="W1NFD5KB4TB521153" available="true">
         <name>Mercedes-Benz GLE Coupe II (C167) Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLE%20Coupe</url>
@@ -1298,7 +1267,7 @@
       <offer id="WDD1771511J143239" available="true">
         <name>Mercedes-Benz A-Класс AMG II (W177), 2019</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=A-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>3680000</price>
+        <price>3580000</price>
         <currencyId>RUR</currencyId>
         <categoryId>7</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8261972/orig/05497ad5eb3e56e33b528a355a07c7c0.jpg</picture>
@@ -1856,7 +1825,7 @@
       <offer id="WP1ZZZ9Y5TDA36613" available="true">
         <name>Porsche Cayenne III Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Porsche&amp;model=Cayenne</url>
-        <price>18450000</price>
+        <price>17970000</price>
         <currencyId>RUR</currencyId>
         <categoryId>9</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8030586/orig/58b2e8d49b28213dae1e2b4ab475cdb7.jpg</picture>
