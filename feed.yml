@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-24 12:44">
+<yml_catalog date="2026-03-24 14:12">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -19,11 +19,74 @@
       <category id="8" parentId="1">Peugeot</category>
       <category id="9" parentId="1">Porsche</category>
       <category id="10" parentId="1">Rolls-Royce</category>
-      <category id="11" parentId="1">Volkswagen</category>
-      <category id="12" parentId="1">Volvo</category>
-      <category id="13" parentId="1">Zeekr</category>
+      <category id="11" parentId="1">Toyota</category>
+      <category id="12" parentId="1">Volkswagen</category>
+      <category id="13" parentId="1">Volvo</category>
+      <category id="14" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="SALGA2BJ9KA553667" available="true">
+        <name>Land Rover Range Rover IV Рестайлинг, 2019</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Land%20Rover&amp;model=Range%20Rover</url>
+        <price>8590000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8561445/orig/971fe6da2aa6798e1d4f09dd2fcd7710.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8561445/orig/ca35b3708f9133d5b5057dfe847e5595.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8561445/orig/7c2c8510c5400947e61d57c68cda9fc8.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8561445/orig/e81a40c8f06cad630a5b042823150254.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8561445/orig/f6959034434e9db063360dd72ecd3e0e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8561445/orig/819d51fbdd6c23abe389fe90970a93bd.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8561445/orig/6114c89ec5ee79f5e3e74a580f40b1ab.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8561445/orig/b2b35a6606f4697f958415cfda00e0d6.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8561445/orig/adb46fdef8fe3254b34938d29fb7f72a.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8561445/orig/cedea9415994324e9a212493f04eea1c.jpg</picture>
+        <description>2019 г., дизель, 4.4 л, 339 л.с., автоматическая, полный привод, пробег 83 176 км, grey</description>
+        <vendor>Land Rover</vendor>
+        <model>Range Rover</model>
+        <param name="Год выпуска">2019</param>
+        <param name="Пробег">83176 км</param>
+        <param name="Двигатель">Дизель</param>
+        <param name="Объём двигателя">4.4 л</param>
+        <param name="Мощность">339 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">grey</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">Long 4.4d AT (339 л.с.) 4WD</param>
+      </offer>
+      <offer id="WBA11EV0509143462" available="true">
+        <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5</url>
+        <price>15990000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8561423/orig/5d7fea8048f10e9085c5c4444d07c2d7.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8561423/orig/a645c3cf8377eb32fbad920c75fef4f6.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8561423/orig/ae64a1fd6e181c0b89fc92f7172e6699.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8561423/orig/157ffb438628779304748fee61c984f5.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8561423/orig/44b1971a8d706e4cfa07a4f9595e04fe.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8561423/orig/948f3d95adb85360284eb841d67d17f4.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8561423/orig/3ecc1cf22ff9a90b6c51d5df6c1f4ee0.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8561423/orig/b2e1c307049f6c441e75aebfd0619687.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8561423/orig/1c3f79de25f4b43e82e54dbc4fe56dd8.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8561423/orig/ed295ace93e1ba9f8e38c93581461553.jpg</picture>
+        <description>2025 г., дизель, 3.0 л, 286 л.с., автоматическая, полный привод, новый, grey</description>
+        <vendor>BMW</vendor>
+        <model>X5</model>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег">27 км</param>
+        <param name="Двигатель">Дизель</param>
+        <param name="Объём двигателя">3.0 л</param>
+        <param name="Мощность">286 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">grey</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">30d 3.0d AT (286 л.с.) 4WD</param>
+      </offer>
       <offer id="WBA21EV0309129628" available="true">
         <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5</url>
@@ -54,6 +117,37 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">40d 3.0d AT (352 л.с.) 4WD</param>
+      </offer>
+      <offer id="WDD2221861A518519" available="true">
+        <name>Mercedes-Benz S-Класс VI (W222, C217) Рестайлинг, 2019</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
+        <price>7990000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8556837/orig/671d13b64aadab266c8a826403ebf58f.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8556837/orig/8c4c0766c9daea7a062f84110cde2358.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8556837/orig/89cfee538af6d2b987a81f0ed1d307f7.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8556837/orig/458c59cf2a89eb8d33520e6877ee9886.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8556837/orig/015c39ff77ca25d4d3ff5b1d55f2aaaf.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8556837/orig/e7e9e75701f19076246e5218f82cbee2.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8556837/orig/d5aba259a1e373d77e9a7334f78088da.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8556837/orig/8c682ce274e9e1989431db1969589a80.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8556837/orig/e44b76612c2ea984fee07b8f2ed69318.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8556837/orig/35f2a314d4702abb74e4ddb20970360e.jpg</picture>
+        <description>2019 г., бензин, 4.0 л, 469 л.с., автоматическая, полный привод, пробег 43 117 км, white</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>S-Класс</model>
+        <param name="Год выпуска">2019</param>
+        <param name="Пробег">43117 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">4.0 л</param>
+        <param name="Мощность">469 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Седан</param>
+        <param name="Цвет">white</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">560 Long 4.0 AT (469 л.с.) 4WD</param>
       </offer>
       <offer id="WBA21EN0X09173299" available="true">
         <name>BMW X7 I (G07) Рестайлинг, 2025</name>
@@ -1114,7 +1208,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Volvo&amp;model=XC90</url>
         <price>10950000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>12</categoryId>
+        <categoryId>13</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8334829/orig/9e36c894b1f522e57f336558799fdcf2.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8334829/orig/c3a5f46cf684da79751ef43d1f34ff1c.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8334829/orig/10ddbc2c52967273ea6815f1a34db24d.jpg</picture>
@@ -1145,7 +1239,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Volvo&amp;model=XC90</url>
         <price>10950000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>12</categoryId>
+        <categoryId>13</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8327272/orig/82f98945e5fb402bf31b01c8ce76056b.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8327272/orig/265b44c1f7a37f5710d08cc3b3dd4f82.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8327272/orig/2f3035b21f53b3d4c7631543d10d8f6a.jpg</picture>
@@ -1176,7 +1270,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Zeekr&amp;model=9X</url>
         <price>12450000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>13</categoryId>
+        <categoryId>14</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8327271/orig/ce931f76ccffdc2d440be2d3fc6544bb.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8327271/orig/888a1dc263df4efbfe23f00d2751668c.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8327271/orig/1dd3e4bd702b57c0bc4959d0d1d59cd2.jpg</picture>
@@ -1672,7 +1766,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Zeekr&amp;model=9X</url>
         <price>11850000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>13</categoryId>
+        <categoryId>14</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8160156/orig/4c22deb539f9b5843639daeac1fceff0.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8160156/orig/985927b94296ce829d37544e73df32f2.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8160156/orig/ad5588f59b8deb61d930e3247f190605.jpg</picture>
@@ -1852,6 +1946,37 @@
         <param name="Цвет">grey</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">30d 3.0d AT (286 л.с.) 4WD</param>
+      </offer>
+      <offer id="LVGBECEK2SG631698" available="true">
+        <name>Toyota Camry IX (XV80) China Market, 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Camry</url>
+        <price>4300000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8081182/orig/664970a11de9cccb62937eb39a7a52fa.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8081182/orig/c81f101beba35783c4e13a650ab55542.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8081182/orig/d521030b26a469617278175363deed43.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8081182/orig/fd1831f670e2230e29f2a7e151d1723b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8081182/orig/22b92ce31878092f76079ec034dee063.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8081182/orig/af8ad5c5076e0f6770d64475c361f35d.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8081182/orig/38e63a5ef56c0025f16e8d77058e2296.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8081182/orig/929f844ecb75b69f6b544d0fa1c41edd.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8081182/orig/ec8d3ae3dd98b06ffbbd94c104e5b115.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8081182/orig/9040b87b30dd247c478e4136e67968b6.jpg</picture>
+        <description>2025 г., гибрид, 2.0 л, 197 л.с., вариаторная, передний привод, новый, black</description>
+        <vendor>Toyota</vendor>
+        <model>Camry</model>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег">11 км</param>
+        <param name="Двигатель">Гибрид</param>
+        <param name="Объём двигателя">2.0 л</param>
+        <param name="Мощность">197 л.с.</param>
+        <param name="Коробка передач">Вариаторная</param>
+        <param name="Привод">Передний</param>
+        <param name="Кузов">Седан</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">2.0hyb CVT (197 л.с.)</param>
       </offer>
       <offer id="SCA665C03HUX80640" available="true">
         <name>Rolls-Royce Wraith, 2017</name>
@@ -2137,7 +2262,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Volkswagen&amp;model=Transporter</url>
         <price>4960000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
+        <categoryId>12</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/7899469/orig/b6c8c7ab406edc7286661bcc78a7c88f.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/7899469/orig/c55f5c72e123449df1ac363a15c15def.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/7899469/orig/111e09e995492743b783b7108fe57988.jpg</picture>
