@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-24 09:44">
+<yml_catalog date="2026-03-24 10:40">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -368,7 +368,7 @@
       <offer id="W1NWH5AB7TX079493" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>33450000</price>
+        <price>34250000</price>
         <currencyId>RUR</currencyId>
         <categoryId>7</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8514733/orig/9a5c56c5042dc7c0019dadada42cb6ef.jpg</picture>
@@ -1263,37 +1263,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">53 AMG 3.0 AT (435 л.с.) 4WD</param>
-      </offer>
-      <offer id="LBV21GT03T1C14893" available="true">
-        <name>BMW X3 IV (G45/G48), 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X3</url>
-        <price>7660000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8295857/orig/9374b2881e3767a3ad135f1594dedd3c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8295857/orig/241b8d81b270dd1b9a0530cc404487da.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8295857/orig/74f871307c02ada0aca65517727e8162.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8295857/orig/643fb709c5b057828368e4d226ba8299.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8295857/orig/94d03c1c7b4d53a71ca300bf1ddb355a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8295857/orig/094cba27435744631e6a7a29054f1334.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8295857/orig/362f8829e291a534b63dcdf7a8efd534.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8295857/orig/fd82383e0e99454535cf71e84b30e7a0.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8295857/orig/4c436f92cc6d3340d350fa3362f31b3f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8295857/orig/a766965d7721bb46339bdacaa988a43c.jpg</picture>
-        <description>2025 г., бензин, 2.0 л, 258 л.с., автоматическая, полный привод, новый, grey</description>
-        <vendor>BMW</vendor>
-        <model>X3</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">31 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">258 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">grey</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">30L xDrive 2.0 AT (258 л.с.) 4WD</param>
       </offer>
       <offer id="W1KLF4HB5TA210123" available="true">
         <name>Mercedes-Benz E-Класс VI (W214, S214), 2025</name>
