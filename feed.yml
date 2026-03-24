@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-24 18:48">
+<yml_catalog date="2026-03-24 19:46">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1512,37 +1512,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">300 2.0 AT (258 л.с.) 4WD</param>
-      </offer>
-      <offer id="WBA31EX06S9Z90435" available="true">
-        <name>BMW X6 III (G06) Рестайлинг, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X6</url>
-        <price>13960000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8243754/orig/7274bf0533bf0c9fb744fcadb1bae520.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8243754/orig/76fc7398dca27bbbb4a2ac9e011c135f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8243754/orig/b57c09f61c2f40794eeaf3fc22f4cd72.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8243754/orig/65ecf75a26c6f90e6b82cd2aba0ffdb3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8243754/orig/fd739e0defce6e4de50f22de23be9ce3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8243754/orig/05b5df44b9d8701e59607ec6d7a2ef0b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8243754/orig/91729bbf2716199fec9a325ad8da3644.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8243754/orig/ec40e8142ae63ed0e9f470616b34f612.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8243754/orig/f501c8290fdbb7b9c178306401b02dd3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8243754/orig/8a2356b6104086446fed14c42d07a42b.jpg</picture>
-        <description>2025 г., бензин, 3.0 л, 381 л.с., автоматическая, полный привод, пробег 7 235 км, green</description>
-        <vendor>BMW</vendor>
-        <model>X6</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">7235 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">381 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">green</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">40i 3.0 AT (381 л.с.) 4WD</param>
       </offer>
       <offer id="WBS61AY090FS66155" available="true">
         <name>BMW M3 VI (G80), 2024</name>
