@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-27 18:42">
+<yml_catalog date="2026-03-27 19:35">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -12,17 +12,16 @@
       <category id="1">Автомобили</category>
       <category id="2" parentId="1">Audi</category>
       <category id="3" parentId="1">BMW</category>
-      <category id="4" parentId="1">Ford</category>
-      <category id="5" parentId="1">Land Rover</category>
-      <category id="6" parentId="1">Lexus</category>
-      <category id="7" parentId="1">Mercedes-Benz</category>
-      <category id="8" parentId="1">Peugeot</category>
-      <category id="9" parentId="1">Porsche</category>
-      <category id="10" parentId="1">Rolls-Royce</category>
-      <category id="11" parentId="1">Toyota</category>
-      <category id="12" parentId="1">Volkswagen</category>
-      <category id="13" parentId="1">Volvo</category>
-      <category id="14" parentId="1">Zeekr</category>
+      <category id="4" parentId="1">Land Rover</category>
+      <category id="5" parentId="1">Lexus</category>
+      <category id="6" parentId="1">Mercedes-Benz</category>
+      <category id="7" parentId="1">Peugeot</category>
+      <category id="8" parentId="1">Porsche</category>
+      <category id="9" parentId="1">Rolls-Royce</category>
+      <category id="10" parentId="1">Toyota</category>
+      <category id="11" parentId="1">Volkswagen</category>
+      <category id="12" parentId="1">Volvo</category>
+      <category id="13" parentId="1">Zeekr</category>
     </categories>
     <offers>
       <offer id="WBA11EY0609091139" available="true">
@@ -90,9 +89,9 @@
       <offer id="SALGA2BJ9KA553667" available="true">
         <name>Land Rover Range Rover IV Рестайлинг, 2019</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Land%20Rover&amp;model=Range%20Rover</url>
-        <price>8590000</price>
+        <price>8490000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>5</categoryId>
+        <categoryId>4</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8561445/orig/971fe6da2aa6798e1d4f09dd2fcd7710.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8561445/orig/ca35b3708f9133d5b5057dfe847e5595.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8561445/orig/7c2c8510c5400947e61d57c68cda9fc8.jpg</picture>
@@ -185,7 +184,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
         <price>7990000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8556837/orig/671d13b64aadab266c8a826403ebf58f.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8556837/orig/8c4c0766c9daea7a062f84110cde2358.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8556837/orig/89cfee538af6d2b987a81f0ed1d307f7.jpg</picture>
@@ -247,7 +246,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=V-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
         <price>14990000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8552671/orig/01de1e1c3a164b93b554d5aaa62db3e5.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8552671/orig/d541c3f8cb046944852e0e86d6e88b36.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8552671/orig/a731e73b5fed3c0000bd2c2aa25bad2e.jpg</picture>
@@ -309,7 +308,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
         <price>22169000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8535651/orig/5b7b2f150dbe14c06811792e918df629.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8535651/orig/d9340436e0445f1c6c2a592f0fb9e9a6.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8535651/orig/1d98418f52324d769afe2d3be9e6f5b5.jpg</picture>
@@ -371,7 +370,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
         <price>8560000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8535641/orig/533921f78fc220a518ac9a5b4f338335.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8535641/orig/9ea840a409d4df366ce3fa778f963b8d.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8535641/orig/d70f5fd9ed63efa0a44deed723a3a57b.jpg</picture>
@@ -402,7 +401,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Lexus&amp;model=LM</url>
         <price>15460000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>6</categoryId>
+        <categoryId>5</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8535635/orig/f678f546b389902589b4eef38f6fe6a1.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8535635/orig/0450045110f79e4e2ca2e78a86bf243c.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8535635/orig/133b834c4841e49f040011102ac1f7b1.jpg</picture>
@@ -526,7 +525,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
         <price>34250000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8514733/orig/9a5c56c5042dc7c0019dadada42cb6ef.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8514733/orig/fa66f9553a70ae20f38d26bbdfd631df.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8514733/orig/c01c6c70b20d6d1e1fe96c3ebb684a98.jpg</picture>
@@ -588,7 +587,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLC%20Coupe</url>
         <price>8950000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8514726/orig/c6056f4a48a01588d74148fda84685e7.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8514726/orig/f2e068ad3786e532bd7cdc0a96db650d.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8514726/orig/01207decd78366ef9e3d1ffb0a842082.jpg</picture>
@@ -619,7 +618,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
         <price>14960000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8498990/orig/2f82de9420aabab967487044ad58685b.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8498990/orig/4783351f4182bac3f0172a5bd9b0732f.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8498990/orig/2278ca30108b48269a5fd48ee69602cb.jpg</picture>
@@ -650,7 +649,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Lexus&amp;model=LM</url>
         <price>15450000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>6</categoryId>
+        <categoryId>5</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8490519/orig/d28dad729f7c88c0f2f19f693442b661.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8490519/orig/823a91e293f573dc768c7f9f326a14ff.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8490519/orig/4087842977269eeebd75b4060d3aeb0c.jpg</picture>
@@ -681,7 +680,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Rolls-Royce&amp;model=Ghost</url>
         <price>24990000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>10</categoryId>
+        <categoryId>9</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8484566/orig/602c1e623e8ef12838ec5fdcd21f33a9.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8484566/orig/f97435ef558b62106aaf9e8d0c590166.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8484566/orig/10d807b156c237e550b94aca2cbd7b37.jpg</picture>
@@ -712,7 +711,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=C-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
         <price>5380000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8484563/orig/279b871ee0057ed6198d92a5447f5d10.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8484563/orig/4c23599cc532c46056a84c6ff2bdc341.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8484563/orig/3bf8daff325b5374ab8a0a97e573eda5.jpg</picture>
@@ -774,7 +773,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Lexus&amp;model=LX</url>
         <price>18749000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>6</categoryId>
+        <categoryId>5</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8457706/orig/37db48c730b40f1aa589c67c1ac6b985.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8457706/orig/7a43889539a2603e49238bb6708acea2.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8457706/orig/4dc117fdf843b24bbf272ebbcfa14acc.jpg</picture>
@@ -805,7 +804,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
         <price>32490000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8452593/orig/0acf3c671718dc1b0887146d127ba040.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8452593/orig/92d7698f95ca79a151b4860f4085e533.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8452593/orig/e16bbd63b4f7cf4f45f3f51e868d6a0a.jpg</picture>
@@ -836,7 +835,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
         <price>9449000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8444861/orig/5a1f7109fa31f58a9da64acadb83d058.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8444861/orig/ca4029f62539629e721c750fa36ee39e.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8444861/orig/ad6cc5808f7016a7902ac3df6dc4954e.jpg</picture>
@@ -929,7 +928,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Lexus&amp;model=RX</url>
         <price>11460000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>6</categoryId>
+        <categoryId>5</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8420566/orig/fa1896fd6c22de4f201991041fad3eb4.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8420566/orig/7fca314918407f2a4f994e0914ea79df.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8420566/orig/c39c3d144d895b0c47b4644c46c0a902.jpg</picture>
@@ -1022,7 +1021,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLE%20Coupe</url>
         <price>14760000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8396598/orig/86f6995bea23469d0002d29d564b1a51.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8396598/orig/36365144c879c7c167033c7901baf9f3.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8396598/orig/c8f9e8ca7348fcdbb504b3a895e02c84.jpg</picture>
@@ -1084,7 +1083,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Peugeot&amp;model=Boxer</url>
         <price>6360000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>8</categoryId>
+        <categoryId>7</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8391462/orig/0aec9ce0df399dc00f07cbe933978049.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8391462/orig/d5902e4e0effea364093fe9cb22f31b0.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8391462/orig/e98a467efb123e64f01efc91d8007675.jpg</picture>
@@ -1115,7 +1114,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=V-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
         <price>13960000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8374377/orig/e217d4af503b0f3046975fd838b179d7.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8374377/orig/d5bd28eb2b96a7ace0c8b29e4da7a046.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8374377/orig/e2a704f9a15a425a934b585d75fc0c03.jpg</picture>
@@ -1144,7 +1143,7 @@
       <offer id="X4XKV494X0LB33005" available="true">
         <name>BMW X6 II (F16), 2018</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X6</url>
-        <price>4250000</price>
+        <price>3890000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8357594/orig/d49b51110ec9c81859220f8701292a99.jpg</picture>
@@ -1175,9 +1174,9 @@
       <offer id="W1K2230631A005179" available="true">
         <name>Mercedes-Benz S-Класс VII (W223), 2020</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>10460000</price>
+        <price>10290000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8357591/orig/9075f550ffb45780e3155de91db80147.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8357591/orig/af3dece7a168326011aa6732a1534e5f.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8357591/orig/aee26b36f402ff113a751a31f8ef056c.jpg</picture>
@@ -1208,7 +1207,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
         <price>28959000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8355427/orig/f7b8a798ab0f48f6ca7f1a6f8bef05c1.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8355427/orig/710ec5f6ad2296ce95792d34f7c74616.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8355427/orig/6e854af2afde2442d259bfce673d290c.jpg</picture>
@@ -1239,7 +1238,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Lexus&amp;model=LM</url>
         <price>17950000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>6</categoryId>
+        <categoryId>5</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8351143/orig/e07e68a2a41d633a0f97cfe1bef7b6f6.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8351143/orig/808fb80142d618e0927355a807977597.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8351143/orig/1f19935cd40fae7b0f6b1d4cb70cad93.jpg</picture>
@@ -1270,7 +1269,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Volvo&amp;model=XC90</url>
         <price>10950000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>13</categoryId>
+        <categoryId>12</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8334829/orig/9e36c894b1f522e57f336558799fdcf2.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8334829/orig/c3a5f46cf684da79751ef43d1f34ff1c.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8334829/orig/10ddbc2c52967273ea6815f1a34db24d.jpg</picture>
@@ -1301,7 +1300,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Volvo&amp;model=XC90</url>
         <price>10950000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>13</categoryId>
+        <categoryId>12</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8327272/orig/82f98945e5fb402bf31b01c8ce76056b.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8327272/orig/265b44c1f7a37f5710d08cc3b3dd4f82.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8327272/orig/2f3035b21f53b3d4c7631543d10d8f6a.jpg</picture>
@@ -1332,7 +1331,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Zeekr&amp;model=9X</url>
         <price>12450000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>14</categoryId>
+        <categoryId>13</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8327271/orig/ce931f76ccffdc2d440be2d3fc6544bb.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8327271/orig/888a1dc263df4efbfe23f00d2751668c.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8327271/orig/1dd3e4bd702b57c0bc4959d0d1d59cd2.jpg</picture>
@@ -1394,7 +1393,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLE%20AMG</url>
         <price>7950000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8302300/orig/233020790e2a871b3bbc890a0e41823a.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8302300/orig/566ca46f4dcdcb4cd21e1cb92f6f2368.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8302300/orig/0930cbbb417af69cfa9d6209f4d82e6d.jpg</picture>
@@ -1425,7 +1424,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
         <price>8559000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8295822/orig/0fc2d45396bd73d18ae578811104d71d.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8295822/orig/eceff36fec3a47be988ae9b532e16e46.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8295822/orig/fec27d0d1acf9534079ad6692aee1492.jpg</picture>
@@ -1487,7 +1486,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=A-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
         <price>3580000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8261972/orig/05497ad5eb3e56e33b528a355a07c7c0.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8261972/orig/a3592095af45ab080b49f7d7d24b0de0.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8261972/orig/07e5c94e4eccfc3b951947caeedcc0d9.jpg</picture>
@@ -1518,7 +1517,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
         <price>8950000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8257528/orig/3d5994d560a1427533a1236a8d0cf6a6.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8257528/orig/cb17d9699e7ccdd59248b5e1af2abca5.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8257528/orig/4ee2e1ee81aae93f70f5cabdd424469f.jpg</picture>
@@ -1578,9 +1577,9 @@
       <offer id="WDD2229851A259899" available="true">
         <name>Mercedes-Benz Maybach S-Класс I (X222), 2016</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=Maybach%20S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>3980000</price>
+        <price>3780000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8230204/orig/50d16c385576c4d5271b0488c12610a6.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8230204/orig/c8c725d721e0c12d2dbd47928b6e2bd3.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8230204/orig/5a0023d8e2b0756c4df22b4b45bfc0fb.jpg</picture>
@@ -1611,7 +1610,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=AMG%20GT</url>
         <price>12950000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8219839/orig/ebfffa617dec4537ea9f6f4de26f0baa.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8219839/orig/5d00c2e314677d368ec7a859d81107f6.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8219839/orig/d68dc9892302a42c8cb5fdeed8438771.jpg</picture>
@@ -1637,43 +1636,12 @@
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">63 S 4.0 AT (639 л.с.) 4WD</param>
       </offer>
-      <offer id="LJXCMDFC3ST037377" available="true">
-        <name>Ford Transit Custom I рестайлинг, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Ford&amp;model=Transit%20Custom</url>
-        <price>6150000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>4</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8219820/orig/98a3c0f020e467320c89680173bf3fc9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8219820/orig/1fb543b1346ee9aa2e483d1da87a14ae.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8219820/orig/97031ffe3e5971f1b6af7b0512b2f15d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8219820/orig/1599ede82b1b91d28c76ab0dbacf2430.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8219820/orig/a86031ca609e6b98172d3418c42f1f81.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8219820/orig/c355a80bfd5792dc0a78d583780c1ddc.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8219820/orig/6332bc1cce623a4be64bfab2966c401c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8219820/orig/dcfd05b4c0a50f1964081da4433b117a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8219820/orig/41cb0f882ec83ff025d1901531c9cbf9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8219820/orig/fe2c450d48c8f69f80a634819d8f72b9.jpg</picture>
-        <description>2025 г., дизель, 2.0 л, 170 л.с., автоматическая, передний привод, новый, white</description>
-        <vendor>Ford</vendor>
-        <model>Transit Custom</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">50 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">170 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Передний</param>
-        <param name="Кузов">Фургон</param>
-        <param name="Цвет">white</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">2.0 TDCi AT (170 л.с.)</param>
-      </offer>
       <offer id="W1KLF4HB2TA203484" available="true">
         <name>Mercedes-Benz E-Класс VI (W214, S214), 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
         <price>8569000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8189581/orig/3c4025a892d6d9e915c22460576cf46a.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8189581/orig/97e5f66be42ef79cd4cbacfb36feb7bb.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8189581/orig/96224e31c4ddc5b79f0286f4adedcff0.jpg</picture>
@@ -1702,9 +1670,9 @@
       <offer id="W1K6G6DB0PA217675" available="true">
         <name>Mercedes-Benz S-Класс VII (W223), 2023</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>15759000</price>
+        <price>15490000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8182251/orig/c2ff14bd950cb1ebca56810f81d71a74.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8182251/orig/e44d73f1482e718747ee8d8cba50bff7.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8182251/orig/d41610b0d653524b0a55bc5e40acf28d.jpg</picture>
@@ -1766,7 +1734,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Zeekr&amp;model=9X</url>
         <price>11850000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>14</categoryId>
+        <categoryId>13</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8160156/orig/4c22deb539f9b5843639daeac1fceff0.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8160156/orig/985927b94296ce829d37544e73df32f2.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8160156/orig/ad5588f59b8deb61d930e3247f190605.jpg</picture>
@@ -1797,7 +1765,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
         <price>6450000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8159424/orig/77c4e59379a8288909790e121c77438d.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8159424/orig/454472a8e0ad9d711e156584784439e1.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8159424/orig/e69f815bdc546c949fb4fbb41354d4bd.jpg</picture>
@@ -1828,7 +1796,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLE</url>
         <price>2650000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8159423/orig/7840cbe718169ad6ea47b2affbb779d3.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8159423/orig/4cb7f25f4733381e4dbb3d86a969496c.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8159423/orig/b4333d2b78b663c3a2aa22270d70a488.jpg</picture>
@@ -1859,7 +1827,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
         <price>7850000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8146817/orig/32c30835948eeacfabe04418b3d7ed5e.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8146817/orig/1ac09dbde8282524d3be1708ff6b849d.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8146817/orig/a07c2326fd71571862cddb47d39b4eda.jpg</picture>
@@ -1952,7 +1920,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Camry</url>
         <price>4300000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
+        <categoryId>10</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8081182/orig/664970a11de9cccb62937eb39a7a52fa.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8081182/orig/c81f101beba35783c4e13a650ab55542.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8081182/orig/d521030b26a469617278175363deed43.jpg</picture>
@@ -1983,7 +1951,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Rolls-Royce&amp;model=Wraith</url>
         <price>24350000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>10</categoryId>
+        <categoryId>9</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8065489/orig/bf11f47f99e57f5a7bfce572dcdbe904.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8065489/orig/3f6bcf2665287f05712d2f6ae79e961e.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8065489/orig/ac98e67cc15ce3edd9bc196fbee5ed0a.jpg</picture>
@@ -2014,7 +1982,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Porsche&amp;model=Cayenne</url>
         <price>17970000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
+        <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8030586/orig/58b2e8d49b28213dae1e2b4ab475cdb7.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8030586/orig/dbbc8772805baeb5b2b2b56dad9f946a.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8030586/orig/7c34263e299f600b8fccdb2bb678290d.jpg</picture>
@@ -2076,7 +2044,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Land%20Rover&amp;model=Range%20Rover</url>
         <price>4850000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>5</categoryId>
+        <categoryId>4</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/7999070/orig/6f5665479353be981fc266becaddea27.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/7999070/orig/124da5c049f1a73b5c42af8522a90fe9.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/7999070/orig/5c225aeef73eaf93865b3487bf8b6e97.jpg</picture>
@@ -2169,7 +2137,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=AMG%20GT</url>
         <price>10965000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/7982630/orig/a76435434925fc19327d13974e5f14e4.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/7982630/orig/2f596e4b13e768f5f4572ff90e0df305.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/7982630/orig/1819c5cb16f8dada5f83ca2999c7de08.jpg</picture>
@@ -2231,7 +2199,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
         <price>3749000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/7899474/orig/0cb922f7b00453b4011b4d3951371ed5.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/7899474/orig/782555f9752032f408902289b75fc473.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/7899474/orig/fdff683570adf374870f728713ad36ee.jpg</picture>
@@ -2262,7 +2230,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Volkswagen&amp;model=Transporter</url>
         <price>4960000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>12</categoryId>
+        <categoryId>11</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/7899469/orig/b6c8c7ab406edc7286661bcc78a7c88f.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/7899469/orig/c55f5c72e123449df1ac363a15c15def.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/7899469/orig/111e09e995492743b783b7108fe57988.jpg</picture>
@@ -2293,7 +2261,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Land%20Rover&amp;model=Range%20Rover</url>
         <price>5730000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>5</categoryId>
+        <categoryId>4</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/7806239/orig/65295c10c7021344be40a6eedcf6caf7.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/7806239/orig/0cddc498a787e869c5d2af10f014b9a2.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/7806239/orig/865c499fd585f25827622f8eaed08288.jpg</picture>
@@ -2386,7 +2354,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
         <price>6200000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/7614122/orig/68f8089478de5f7ec2e4bda1941f37ce.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/7614122/orig/c71d809e89d64f0e125691ca9a29c858.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/7614122/orig/d67f4b3a3abdd855c1f82965fdeb7a9a.jpg</picture>
@@ -2479,7 +2447,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Porsche&amp;model=911</url>
         <price>20260000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
+        <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/7614072/orig/c646bfbe8d67cac72e95c48b2e3387ab.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/7614072/orig/4270a4903a23f157dd4914c58af3dbf4.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/7614072/orig/4f649113b6d4199cef7872bbd9b9f775.jpg</picture>
