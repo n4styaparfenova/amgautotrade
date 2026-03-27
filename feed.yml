@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-27 21:25">
+<yml_catalog date="2026-03-27 22:21">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -24,6 +24,68 @@
       <category id="13" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="W1N4632601X364226" available="true">
+        <name>Mercedes-Benz G-Класс III (W463), 2020</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
+        <price>13490000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8588982/orig/568f86e22be1bb75ee629820d8412eb0.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8588982/orig/5959e2d748a168eab88def435f583e78.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8588982/orig/d0a1988aa45e9efdaf6d7dbc1d306433.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8588982/orig/8aef30cf328ebe08665529bfb0d8db68.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8588982/orig/081ada5a4da7e766c5df409fbbb1c19e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8588982/orig/cd290aa4e19973de17ae0550d5174f3c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8588982/orig/0481e0e2eca08addbfce9d02953f44e7.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8588982/orig/2a0929a314d2b9ae3e5d9efc871c8870.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8588982/orig/eb29d006c9ce9bf0b03c027e9cb35f6e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8588982/orig/999b06ffa0fcec20592dc3ecc972ea2b.jpg</picture>
+        <description>2020 г., бензин, 4.0 л, 422 л.с., автоматическая, полный привод, пробег 89 453 км, black</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>G-Класс</model>
+        <param name="Год выпуска">2020</param>
+        <param name="Пробег">89453 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">4.0 л</param>
+        <param name="Мощность">422 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">500 4.0 AT (422 л.с.) 4WD</param>
+      </offer>
+      <offer id="W1N1671891A271910" available="true">
+        <name>Mercedes-Benz GLE AMG II (V167), 2020</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLE%20AMG</url>
+        <price>12990000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8577960/orig/1d9dd8912d6e7a9c151552f1da491f69.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8577960/orig/e3b38a19b3755828ddb0c33ddd2fb934.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8577960/orig/164d7eb1db40ec82b90acfb687876d4c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8577960/orig/49ae1fc6c4db87e84a8fa754960db2d0.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8577960/orig/40902d0f676b7277c90b7a25e50f4bc7.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8577960/orig/410ed1f9167241a810142303627c4fea.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8577960/orig/2ca96be886b42fc735eafbbc8dcc8619.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8577960/orig/e96caf299b8c8d170f807d818f18cccc.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8577960/orig/8a9b70ec3eb3c37623d0ef55b3f4cf03.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8577960/orig/0c88bb38b7afae04688695e7db0e02b2.jpg</picture>
+        <description>2020 г., бензин, 4.0 л, 612 л.с., автоматическая, полный привод, пробег 73 628 км, grey</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>GLE AMG</model>
+        <param name="Год выпуска">2020</param>
+        <param name="Пробег">73628 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">4.0 л</param>
+        <param name="Мощность">612 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">grey</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">63 AMG S 4.0 AT (612 л.с.) 4WD</param>
+      </offer>
       <offer id="WBA11EY0609091139" available="true">
         <name>BMW X6 III (G06) Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X6</url>
