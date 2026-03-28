@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-28 21:21">
+<yml_catalog date="2026-03-28 22:17">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -20,8 +20,7 @@
       <category id="9" parentId="1">Rolls-Royce</category>
       <category id="10" parentId="1">Toyota</category>
       <category id="11" parentId="1">Volkswagen</category>
-      <category id="12" parentId="1">Volvo</category>
-      <category id="13" parentId="1">Zeekr</category>
+      <category id="12" parentId="1">Zeekr</category>
     </categories>
     <offers>
       <offer id="W1N4632601X364226" available="true">
@@ -1109,37 +1108,6 @@
         <param name="Состояние">Новые</param>
         <param name="Модификация">450 3.0 AT (380 л.с.) 4WD</param>
       </offer>
-      <offer id="WBA21EV0309269551" available="true">
-        <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5</url>
-        <price>16960000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8391470/orig/2d02764ca4c270fd93c8903ebaca9b2b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391470/orig/66118457e1233c6b2193a2d879fcd1f4.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391470/orig/f179828e0605798972e373e69d8ec9a8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391470/orig/acafba448df36d7c32d921d71280be4f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391470/orig/ac4b3bb63200a398071f7a8af1bd71a8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391470/orig/429f964793ae4dfdca3357ce9deb8a7b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391470/orig/ffe398992a4daa62421f8e64e45f8999.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391470/orig/c047f7e0949af1c0490fd0a87b7d0170.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391470/orig/d812a1aa55dc17981914c6ed1e98cf58.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391470/orig/c2856b518c649d4a24c435b8804af535.jpg</picture>
-        <description>2025 г., дизель, 3.0 л, 352 л.с., автоматическая, полный привод, новый, blue</description>
-        <vendor>BMW</vendor>
-        <model>X5</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">42 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">352 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">blue</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">40d 3.0d AT (352 л.с.) 4WD</param>
-      </offer>
       <offer id="VF3YCBTFCRMA19523" available="true">
         <name>Peugeot Boxer II рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Peugeot&amp;model=Boxer</url>
@@ -1326,74 +1294,12 @@
         <param name="Состояние">Новые</param>
         <param name="Модификация">350h 2.5hyb CVT (250 л.с.) 4WD</param>
       </offer>
-      <offer id="YV1LFL5AXT1490325" available="true">
-        <name>Volvo XC90 II Рестайлинг 2, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Volvo&amp;model=XC90</url>
-        <price>10950000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>12</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8334829/orig/9e36c894b1f522e57f336558799fdcf2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8334829/orig/c3a5f46cf684da79751ef43d1f34ff1c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8334829/orig/10ddbc2c52967273ea6815f1a34db24d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8334829/orig/354d8ff1ca2b9977372b60cbdc91d80c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8334829/orig/76300f3f126e5469b0c4dd413459debf.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8334829/orig/62df0896624a861bd40c655c557fd91c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8334829/orig/d13906ad653acf6be3df5244a813aca8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8334829/orig/207fc9659ed434ee43bf2e2efefa208f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8334829/orig/3217e36d184fa144aeb318b345132317.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8334829/orig/cc18f1ed14cb581cdbc96f48df766c9e.jpg</picture>
-        <description>2025 г., бензин, 2.0 л, 250 л.с., автоматическая, полный привод, новый, blue</description>
-        <vendor>Volvo</vendor>
-        <model>XC90</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">27 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">250 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">blue</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">B5 2.0 AT (250 л.с.) 4WD</param>
-      </offer>
-      <offer id="YV1LFL5A0T1490513" available="true">
-        <name>Volvo XC90 II Рестайлинг 2, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Volvo&amp;model=XC90</url>
-        <price>10950000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>12</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8327272/orig/82f98945e5fb402bf31b01c8ce76056b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8327272/orig/265b44c1f7a37f5710d08cc3b3dd4f82.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8327272/orig/2f3035b21f53b3d4c7631543d10d8f6a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8327272/orig/1d1da339683d9fed52f52566f2af9a70.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8327272/orig/9776616bba484c484efd3bcfad070bbf.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8327272/orig/4782bd096f487054203ecf0e33566c01.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8327272/orig/c948c0c3ab98577d0f6081c3acf3ecca.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8327272/orig/64edfe73d8a694f6d615bedb601c110c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8327272/orig/9e3282cbf769137ee09403735e610650.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8327272/orig/946a1378689b920a894e0d624c3c435b.jpg</picture>
-        <description>2025 г., бензин, 2.0 л, 250 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>Volvo</vendor>
-        <model>XC90</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">29 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">250 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">B5 2.0 AT (250 л.с.) 4WD</param>
-      </offer>
       <offer id="L6T795ND0SN120806" available="true">
         <name>Zeekr 9X, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Zeekr&amp;model=9X</url>
         <price>12450000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>13</categoryId>
+        <categoryId>12</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8327271/orig/ce931f76ccffdc2d440be2d3fc6544bb.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8327271/orig/888a1dc263df4efbfe23f00d2751668c.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8327271/orig/1dd3e4bd702b57c0bc4959d0d1d59cd2.jpg</picture>
@@ -1796,7 +1702,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Zeekr&amp;model=9X</url>
         <price>11850000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>13</categoryId>
+        <categoryId>12</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8160156/orig/4c22deb539f9b5843639daeac1fceff0.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8160156/orig/985927b94296ce829d37544e73df32f2.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8160156/orig/ad5588f59b8deb61d930e3247f190605.jpg</picture>
