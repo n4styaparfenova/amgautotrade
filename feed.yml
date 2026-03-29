@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-28 23:21">
+<yml_catalog date="2026-03-29 01:21">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -84,6 +84,37 @@
         <param name="Цвет">grey</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">63 AMG S 4.0 AT (612 л.с.) 4WD</param>
+      </offer>
+      <offer id="LB1WG3E60S8249244" available="true">
+        <name>Mercedes-Benz Vito III (W447) Рестайлинг 2, 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=Vito</url>
+        <price>9990000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8577940/orig/e1560b75f207722cd5a4c5bfbf1ed3d1.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8577940/orig/727a07cb84d6ec595f2fdde4a35dd7c8.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8577940/orig/fe58de445685c4d60d59addd4b5f921b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8577940/orig/7c99bc4e9991b20d18dc9314778e9359.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8577940/orig/34609cb50305b992bd71656b186b899e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8577940/orig/de6ebc146b19fb0b21f2c69ae3714a19.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8577940/orig/a51a426088c35b3da953c2edd890ab7e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8577940/orig/8f02400dc172e5d1ca25ab4e15241b60.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8577940/orig/7ed3e7eb695affa1d9a8f66a81be041e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8577940/orig/fc7b8a2955a9d782a153e69694a68fac.jpg</picture>
+        <description>2025 г., бензин, 2.0 л, 231 л.с., автоматическая, задний привод, пробег 110 км, black</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Vito</model>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег">110 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">2.0 л</param>
+        <param name="Мощность">231 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Задний</param>
+        <param name="Кузов">Минивэн</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">2.0 AT (231 л.с.)</param>
       </offer>
       <offer id="WBA11EY0609091139" available="true">
         <name>BMW X6 III (G06) Рестайлинг, 2025</name>
