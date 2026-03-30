@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-30 15:59">
+<yml_catalog date="2026-03-30 16:57">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1914,37 +1914,6 @@
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">200 9G-Tronic 2.0 AT (204 л.с.) 4WD</param>
       </offer>
-      <offer id="WBA11EY0509068905" available="true">
-        <name>BMW X6 III (G06) Рестайлинг, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X6</url>
-        <price>14270000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8110175/orig/80394c7d769eb0830708895f8b5104d9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8110175/orig/2be6f7419abef34671baefe845094349.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8110175/orig/7f0e26f4b22b092c911def12d6c1b514.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8110175/orig/b49c701ffbb1c12736885cc03ef523e6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8110175/orig/33dad67735c9e28b4c82701d93f01f07.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8110175/orig/d79ea98f4bb378088197f18242b32983.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8110175/orig/ff7fe97f065d097a44eb66cbcf51ad6a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8110175/orig/fd23600d684dd1ef71714303d34e093a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8110175/orig/2cddc7207616f36061f65a9a19ef504d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8110175/orig/881c1beeff4603c4e6d5c7a36d885fd4.jpg</picture>
-        <description>2025 г., дизель, 3.0 л, 286 л.с., автоматическая, полный привод, пробег 8 132 км, grey</description>
-        <vendor>BMW</vendor>
-        <model>X6</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">8132 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">286 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">grey</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">30d 3.0d AT (286 л.с.) 4WD</param>
-      </offer>
       <offer id="LVGBECEK2SG631698" available="true">
         <name>Toyota Camry IX (XV80) China Market, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Camry</url>
@@ -2097,37 +2066,6 @@
         <param name="Привод">Полный</param>
         <param name="Кузов">Внедорожник</param>
         <param name="Цвет">white</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">30L xDrive 2.0 AT (258 л.с.) 4WD</param>
-      </offer>
-      <offer id="LBV21GT02S1B82422" available="true">
-        <name>BMW X3 IV (G45/G48), 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X3</url>
-        <price>7560000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/7982633/orig/d5cbc3a4ccc223bd94b810e034d93ceb.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7982633/orig/2481f5e19aad6770fc89a2b6b1e85cb0.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7982633/orig/9e6598c60e573b78317ee7a6d34f69af.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7982633/orig/062e944f7ccfcf324a8631df6a3aa101.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7982633/orig/71a1ce5913f4234cd14aa113dd4ce4ee.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7982633/orig/37f31242958ff88ba66658b5ae603d00.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7982633/orig/3ff4c298a9018f4dfe0cb90ae1764970.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7982633/orig/909fed32b1c37c6cbc1e7290561843e4.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7982633/orig/dbe749e745ad532e63cfa764d971bb03.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7982633/orig/d41c39fe6afabbc1670ede3273801c31.jpg</picture>
-        <description>2025 г., бензин, 2.0 л, 258 л.с., автоматическая, полный привод, новый, blue</description>
-        <vendor>BMW</vendor>
-        <model>X3</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">37 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">258 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">blue</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">30L xDrive 2.0 AT (258 л.с.) 4WD</param>
       </offer>
