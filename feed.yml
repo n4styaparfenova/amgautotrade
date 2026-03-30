@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-30 11:46">
+<yml_catalog date="2026-03-30 12:53">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -23,6 +23,99 @@
       <category id="12" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="WBA21EJ050CX54038" available="true">
+        <name>BMW 7 серии VII (G70), 2026</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=7%20%D1%81%D0%B5%D1%80%D0%B8%D0%B8</url>
+        <price>19990000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8597850/orig/3620dfd4af67f1c938a2c8397c8d0838.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8597850/orig/dd4ba42f0da65e151355e0558c5ae59d.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8597850/orig/04a719b5dac696472b4e700c863411e1.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8597850/orig/974015557d9ef679a3421c6a0960c146.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8597850/orig/6e33bf82d0e66c670e017c931b9f0397.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8597850/orig/104648f493beca20e0006360b4eab112.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8597850/orig/c81d591ab95e4a7f3925e4a8fea0e6f8.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8597850/orig/c09d501eff3dd232acc1f8b567e62fd5.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8597850/orig/3c290b2d1b1504d43b70bc381e62a725.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8597850/orig/8fac10eeca39b5168ebbd71a2488090d.jpg</picture>
+        <description>2026 г., дизель, 3.0 л, 286 л.с., автоматическая, полный привод, новый, black</description>
+        <vendor>BMW</vendor>
+        <model>7 серии</model>
+        <param name="Год выпуска">2026</param>
+        <param name="Пробег">36 км</param>
+        <param name="Двигатель">Дизель</param>
+        <param name="Объём двигателя">3.0 л</param>
+        <param name="Мощность">286 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Седан</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">740d xDrive 3.0d AT (286 л.с.) 4WD</param>
+      </offer>
+      <offer id="L6T795ND2SN112318" available="true">
+        <name>Zeekr 9X, 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Zeekr&amp;model=9X</url>
+        <price>10890000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8596612/orig/adefef8502e265f7bdc049f9f050a053.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8596612/orig/014c6a28e47a653c2fce122e9897406f.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8596612/orig/cf98516ea3ca00bb404da61d50adca1c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8596612/orig/55a5edcb7f747c457407df1d4ce3bffc.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8596612/orig/ed311018555d50603491bc79fbdb3a0d.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8596612/orig/0fd5d41c78564fd8a5e950b50a225a6b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8596612/orig/bd132e6e675d4960cfd64655843c614e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8596612/orig/0dafcef7503906facb3734dedbebf049.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8596612/orig/49db26d15335a92f5a6a512b5890b712.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8596612/orig/34bf32409af7e4e1791fb73a2acde075.jpg</picture>
+        <description>2025 г., гибрид, 2.0 л, 898 л.с., автоматическая, полный привод, пробег 1 038 км, black</description>
+        <vendor>Zeekr</vendor>
+        <model>9X</model>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег">1038 км</param>
+        <param name="Двигатель">Гибрид</param>
+        <param name="Объём двигателя">2.0 л</param>
+        <param name="Мощность">898 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">70 kWh 2.0hyb AT (898 л.с.) 4WD</param>
+      </offer>
+      <offer id="W1NWH5AB3TX080172" available="true">
+        <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2026</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
+        <price>34490000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8592398/orig/c87425f0c1de9ff5d1038cbdc24f01ca.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8592398/orig/c7661de856401391160e70e54ca2a6ae.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8592398/orig/0ce63132c814fd67d6645d8422901d66.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8592398/orig/d87530b12b0d757dd31834983c6f5d0c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8592398/orig/77f3aed96a1565e1cabcba6aafad6918.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8592398/orig/001cb2794cd9d8856c59871db65745e1.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8592398/orig/1c15dc6586c250fbf8c45a4749fd6a9d.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8592398/orig/f1a6a56aaae71f0625aa109ed6d4fdfa.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8592398/orig/b740592b7f7b8d53e41247487bd31c38.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8592398/orig/744b5a24f69c266d25e1417bff39d5fe.jpg</picture>
+        <description>2026 г., бензин, 4.0 л, 585 л.с., автоматическая, полный привод, новый, black</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>G-Класс AMG</model>
+        <param name="Год выпуска">2026</param>
+        <param name="Пробег">71 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">4.0 л</param>
+        <param name="Мощность">585 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
+      </offer>
       <offer id="W1N4632601X364226" available="true">
         <name>Mercedes-Benz G-Класс III (W463), 2020</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
@@ -925,7 +1018,7 @@
       <offer id="W1KLF4HB1TA229865" available="true">
         <name>Mercedes-Benz E-Класс VI (W214, S214), 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>9449000</price>
+        <price>9199000</price>
         <currencyId>RUR</currencyId>
         <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8444861/orig/5a1f7109fa31f58a9da64acadb83d058.jpg</picture>
@@ -1452,7 +1545,7 @@
       <offer id="WDD1771511J143239" available="true">
         <name>Mercedes-Benz A-Класс AMG II (W177), 2019</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=A-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>3580000</price>
+        <price>3380000</price>
         <currencyId>RUR</currencyId>
         <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8261972/orig/05497ad5eb3e56e33b528a355a07c7c0.jpg</picture>
