@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-30 08:16">
+<yml_catalog date="2026-03-30 10:06">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -39,7 +39,7 @@
         <picture>https://img.maxposter.ru/photo/11973/8588982/orig/2a0929a314d2b9ae3e5d9efc871c8870.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8588982/orig/eb29d006c9ce9bf0b03c027e9cb35f6e.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8588982/orig/999b06ffa0fcec20592dc3ecc972ea2b.jpg</picture>
-        <description>2020 г., бензин, 4.0 л, 422 л.с., автоматическая, полный привод, пробег 89 453 км, black</description>
+        <description>2020 г., бензин, 4.0 л, 422 л.с., автоматическая, полный привод, пробег 89 453 км, green</description>
         <vendor>Mercedes-Benz</vendor>
         <model>G-Класс</model>
         <param name="Год выпуска">2020</param>
@@ -50,7 +50,7 @@
         <param name="Коробка передач">Автоматическая</param>
         <param name="Привод">Полный</param>
         <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
+        <param name="Цвет">green</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">500 4.0 AT (422 л.с.) 4WD</param>
       </offer>
@@ -1232,37 +1232,6 @@
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">40d 3.0d AT (313 л.с.) 4WD</param>
       </offer>
-      <offer id="W1K2230631A005179" available="true">
-        <name>Mercedes-Benz S-Класс VII (W223), 2020</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>10290000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>6</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8357591/orig/9075f550ffb45780e3155de91db80147.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8357591/orig/af3dece7a168326011aa6732a1534e5f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8357591/orig/aee26b36f402ff113a751a31f8ef056c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8357591/orig/710fa21f29dccff55dafa811978198cf.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8357591/orig/7a9426c0716297d9904b2b7e8c06a7d9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8357591/orig/6041be4186375038fdb337908787dd37.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8357591/orig/b9cf43ff46173baaf8cc86d78508f0ee.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8357591/orig/e48a3bb0f2270a7c6a957dc8f1e4f9f2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8357591/orig/fb89171fdb53c06c890142836526f217.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8357591/orig/ede81b73971778de3269f8b60619aaf0.jpg</picture>
-        <description>2020 г., бензин, 3.0 л, 435 л.с., автоматическая, полный привод, пробег 51 607 км, white</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>S-Класс</model>
-        <param name="Год выпуска">2020</param>
-        <param name="Пробег">51607 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">435 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Седан</param>
-        <param name="Цвет">white</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">500 4MATIC 3.0 AT (435 л.с.) 4WD</param>
-      </offer>
       <offer id="W1N4632761X437522" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W463), 2022</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
@@ -1852,37 +1821,6 @@
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">200 9G-Tronic 2.0 AT (204 л.с.) 4WD</param>
       </offer>
-      <offer id="WBATC6100P9R74540" available="true">
-        <name>BMW X6 III (G06), 2023</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X6</url>
-        <price>11490000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8131944/orig/f893c62e387d58533b7d11626512953f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8131944/orig/6ea2a50a72b30253f3a365db7fb568ab.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8131944/orig/e1a0b0787b1e32fd4c9c1b52a0456c7a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8131944/orig/ddf7f09393a8ba3b438822f14576788f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8131944/orig/e91a805272a66309edae051b06a95d26.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8131944/orig/29deb22c1ac04d59836f6a60e54bc98b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8131944/orig/b0de58de21cfadf871c00f54066c68f4.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8131944/orig/5beded82e108bf9dee4d6578bae4f879.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8131944/orig/143e8157ad15e9c6017af2eb44a87fe7.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8131944/orig/eb0497fc9964e7fa84c657808ffaae4b.jpg</picture>
-        <description>2023 г., дизель, 3.0 л, 340 л.с., автоматическая, полный привод, пробег 21 169 км, grey</description>
-        <vendor>BMW</vendor>
-        <model>X6</model>
-        <param name="Год выпуска">2023</param>
-        <param name="Пробег">21169 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">340 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">grey</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">40d 3.0d AT (340 л.с.) 4WD</param>
-      </offer>
       <offer id="WBA11EY0509068905" available="true">
         <name>BMW X6 III (G06) Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X6</url>
@@ -2037,37 +1975,6 @@
         <param name="Цвет">blue</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">30L xDrive 2.0 AT (258 л.с.) 4WD</param>
-      </offer>
-      <offer id="SALGA2EF4EA194675" available="true">
-        <name>Land Rover Range Rover IV, 2014</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Land%20Rover&amp;model=Range%20Rover</url>
-        <price>4850000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>4</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/7999070/orig/6f5665479353be981fc266becaddea27.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7999070/orig/124da5c049f1a73b5c42af8522a90fe9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7999070/orig/5c225aeef73eaf93865b3487bf8b6e97.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7999070/orig/ad3aba28c1f97fce085fa9b472ea0866.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7999070/orig/f316aefcc1dcf6bd7582edc087b3c920.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7999070/orig/b075afa41bfe6bebbea64624be130c9a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7999070/orig/94e14ca818f68a6e8cbeff41869fae6f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7999070/orig/c4a01bd29e9b61bc0df896ed07ada350.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7999070/orig/a74befb14934dc57a5dbecc2f9098119.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7999070/orig/bb58fb18a435a6a558c61c72a741af54.jpg</picture>
-        <description>2014 г., бензин, 5.0 л, 510 л.с., автоматическая, полный привод, пробег 42 043 км, green</description>
-        <vendor>Land Rover</vendor>
-        <model>Range Rover</model>
-        <param name="Год выпуска">2014</param>
-        <param name="Пробег">42043 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">5.0 л</param>
-        <param name="Мощность">510 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">green</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">Long 5.0 AT (510 л.с.) 4WD</param>
       </offer>
       <offer id="LBV21GT07S1B45849" available="true">
         <name>BMW X3 IV (G45/G48), 2025</name>
