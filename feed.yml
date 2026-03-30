@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-30 20:34">
+<yml_catalog date="2026-03-30 21:33">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -23,6 +23,37 @@
       <category id="12" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="WBS81CH0X0CF38110" available="true">
+        <name>BMW M5 VI (F90) Рестайлинг, 2020</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=M5</url>
+        <price>9290000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/93ce5690e8b5b2e8cc649e180e762381.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/c36857fdc4f319f82ba4af0fa185bec9.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/f9537d56281413526fd868805dca6d90.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/caeb47eb128d5500ea2fb69f376d6be6.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/947c2016f07902f38b37036a0352c37b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/8e636b41f236fadd3594ad980e0a298f.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/9793dd720519dd0c3e8f10a77bcc41f3.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/4d8cc7ca6278701f5367eeb95d54e19b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/4738ba3682c99ad7903efa64a4224bfd.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/2636194453025b36ef9b17f44b220123.jpg</picture>
+        <description>2020 г., бензин, 4.4 л, 625 л.с., автоматическая, полный привод, пробег 96 891 км, grey</description>
+        <vendor>BMW</vendor>
+        <model>M5</model>
+        <param name="Год выпуска">2020</param>
+        <param name="Пробег">96891 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">4.4 л</param>
+        <param name="Мощность">625 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Седан</param>
+        <param name="Цвет">grey</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">Competition 4.4 AT (625 л.с.) 4WD</param>
+      </offer>
       <offer id="WBA21EJ050CX54038" available="true">
         <name>BMW 7 серии VII (G70), 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=7%20%D1%81%D0%B5%D1%80%D0%B8%D0%B8</url>
@@ -53,6 +84,37 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">740d xDrive 3.0d AT (286 л.с.) 4WD</param>
+      </offer>
+      <offer id="W1N1679331B514249" available="true">
+        <name>Mercedes-Benz GLS II (X167) Рестайлинг, 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLS</url>
+        <price>16290000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8596614/orig/0ce8b35eaa0a2b88da2866bfe76a5ba1.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8596614/orig/29c56eb09da94716da9c2f46e981086a.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8596614/orig/6c215089ba971db50782fb69c1ae3975.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8596614/orig/42a1b602bb7b173e38fc3e45b6ec8d38.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8596614/orig/f5ec80f35853420211b69a0d3bd198c9.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8596614/orig/8df4a490d66861c272f5ed3df3a25358.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8596614/orig/203f55271b431f0417e9d2d5b467af68.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8596614/orig/0d8ddc592aa588e57bc5bc5065415c60.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8596614/orig/177d3f46e88f585ac52377c75d46f4f8.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8596614/orig/837b604c31868ad6670c818d170c2ad7.jpg</picture>
+        <description>2025 г., дизель, 3.0 л, 367 л.с., автоматическая, полный привод, новый, black</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>GLS</model>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег">47 км</param>
+        <param name="Двигатель">Дизель</param>
+        <param name="Объём двигателя">3.0 л</param>
+        <param name="Мощность">367 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">450 d 3.0d AT (367 л.с.) 4WD</param>
       </offer>
       <offer id="L6T795ND2SN112318" available="true">
         <name>Zeekr 9X, 2025</name>
