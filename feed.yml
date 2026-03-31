@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-31 11:40">
+<yml_catalog date="2026-03-31 12:52">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1448,6 +1448,37 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">350h 2.5hyb CVT (250 л.с.) 4WD</param>
+      </offer>
+      <offer id="JTMAAABJ1T4130945" available="true">
+        <name>Toyota Land Cruiser 300 Series, 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Land%20Cruiser</url>
+        <price>14780000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8339955/orig/d7461ba6f3d68c68144eb6d4260382a7.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8339955/orig/fbfbc51477a6fc48dcb4ea256a1aa44c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8339955/orig/97a10c535593dc97ba4e70f1affea4a6.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8339955/orig/acd67146fc50c3545a755f21e542a38d.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8339955/orig/f652df0ebe5dcbb1f8f9efc6301e897f.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8339955/orig/f923a276cc560158acef996082286268.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8339955/orig/1269e9803e646f4ed88d4bd32db3be63.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8339955/orig/76dd4d87ea0e6456bfc3f883a933fc8b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8339955/orig/42e949815356620c1ae6de9a069466af.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8339955/orig/08b78ef013491509a026712dbd1d3703.jpg</picture>
+        <description>2025 г., дизель, 3.3 л, 299 л.с., автоматическая, полный привод, новый, black</description>
+        <vendor>Toyota</vendor>
+        <model>Land Cruiser</model>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег">24 км</param>
+        <param name="Двигатель">Дизель</param>
+        <param name="Объём двигателя">3.3 л</param>
+        <param name="Мощность">299 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">3.4d AT (299 л.с.) 4WD</param>
       </offer>
       <offer id="L6T795ND0SN120806" available="true">
         <name>Zeekr 9X, 2025</name>
