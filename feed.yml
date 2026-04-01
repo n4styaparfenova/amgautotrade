@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-01 09:58">
+<yml_catalog date="2026-04-01 10:53">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -863,7 +863,7 @@
       <offer id="W1KLF6DB4TA216691" available="true">
         <name>Mercedes-Benz E-Класс AMG VI (W214), 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>14490000</price>
+        <price>14250000</price>
         <currencyId>RUR</currencyId>
         <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8498990/orig/2f82de9420aabab967487044ad58685b.jpg</picture>
@@ -953,41 +953,10 @@
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">Extended 6.8 AT (571 л.с.) 4WD</param>
       </offer>
-      <offer id="LE4AG4BB6RL337560" available="true">
-        <name>Mercedes-Benz C-Класс V (W206), 2023</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=C-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>5380000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>6</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8484563/orig/279b871ee0057ed6198d92a5447f5d10.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8484563/orig/4c23599cc532c46056a84c6ff2bdc341.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8484563/orig/3bf8daff325b5374ab8a0a97e573eda5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8484563/orig/152b01185ea0a25c3f933ac0cc0f44ed.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8484563/orig/51321fdf9818db6c8948910004765a4b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8484563/orig/3724d0b08be629bba8edc45fa07c79e3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8484563/orig/c36f16eb3e2f6d86675afb8f9b0451bc.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8484563/orig/e977733e0b65a1b83411adce943f8aba.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8484563/orig/6728648cb682f3c926615c0462bbdd99.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8484563/orig/1c13e139834d42b7592c7fd90e3ffc54.jpg</picture>
-        <description>2023 г., бензин, 1.5 л, 204 л.с., автоматическая, задний привод, пробег 9 522 км, white</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>C-Класс</model>
-        <param name="Год выпуска">2023</param>
-        <param name="Пробег">9522 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">1.5 л</param>
-        <param name="Мощность">204 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Задний</param>
-        <param name="Кузов">Седан</param>
-        <param name="Цвет">white</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">260 L 1.5 AT (204 л.с.)</param>
-      </offer>
       <offer id="WBA11EV0109293911" available="true">
         <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5</url>
-        <price>15460000</price>
+        <price>15260000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8471439/orig/f85dcd056a51948139d7e4b5b25471c9.jpg</picture>
@@ -1359,7 +1328,7 @@
       <offer id="X4XKV494X0LB33005" available="true">
         <name>BMW X6 II (F16), 2018</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X6</url>
-        <price>3890000</price>
+        <price>3690000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8357594/orig/d49b51110ec9c81859220f8701292a99.jpg</picture>
@@ -1514,7 +1483,7 @@
       <offer id="WBA51AH020CH71037" available="true">
         <name>BMW 5 серии VII (G30/G31/G38) Рестайлинг, 2021</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=5%20%D1%81%D0%B5%D1%80%D0%B8%D0%B8</url>
-        <price>5560000</price>
+        <price>5499000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8326757/orig/f568d27de76eb66fa83f8c20403e23e7.jpg</picture>
@@ -1855,7 +1824,7 @@
       <offer id="WBACV010109B33035" available="true">
         <name>BMW X5 IV (G05/G18), 2020</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5</url>
-        <price>6850000</price>
+        <price>6650000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8171091/orig/4e1c9aa5f379367ca95d8386473bf3ae.jpg</picture>
@@ -2351,7 +2320,7 @@
       <offer id="WBSJU0100M9E87740" available="true">
         <name>BMW X5 M III (F95), 2021</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5%20M</url>
-        <price>11950000</price>
+        <price>11750000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/7614126/orig/30ced839936bc0692082456a1dcdaf5e.jpg</picture>
