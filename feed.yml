@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-02 14:15">
+<yml_catalog date="2026-04-02 15:50">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -828,37 +828,6 @@
         <param name="Состояние">Новые</param>
         <param name="Модификация">40d 3.0d AT (352 л.с.) 4WD</param>
       </offer>
-      <offer id="W1N2543511F539391" available="true">
-        <name>Mercedes-Benz GLC Coupe II (C254), 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLC%20Coupe</url>
-        <price>8950000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>5</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8514726/orig/c6056f4a48a01588d74148fda84685e7.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8514726/orig/f2e068ad3786e532bd7cdc0a96db650d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8514726/orig/01207decd78366ef9e3d1ffb0a842082.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8514726/orig/6923e159e5a7e4b35d506deab40dd33c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8514726/orig/a6b1c155329529cd5543e2dab90c394e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8514726/orig/1706cd57093736b9bb6f6dd060536f95.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8514726/orig/9bf5f71344faa02bb64bdb0c253309ab.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8514726/orig/2404f6e9aa2f49257317cfb0c64f5b66.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8514726/orig/01a6433c04cfca01c4b55b34eded3fba.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8514726/orig/76564909f312d7d5b498f42b6731ca62.jpg</picture>
-        <description>2025 г., бензин, 2.0 л, 204 л.с., автоматическая, полный привод, новый, grey</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>GLC Coupe</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">17 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">204 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">grey</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">200 2.0 AT (204 л.с.) 4WD</param>
-      </offer>
       <offer id="W1KLF6DB4TA216691" available="true">
         <name>Mercedes-Benz E-Класс AMG VI (W214), 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
@@ -1230,37 +1199,6 @@
         <param name="Цвет">white</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">40d 3.0d AT (352 л.с.) 4WD</param>
-      </offer>
-      <offer id="W1NFD5KB4TB521153" available="true">
-        <name>Mercedes-Benz GLE Coupe II (C167) Рестайлинг, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLE%20Coupe</url>
-        <price>14760000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>5</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8396598/orig/86f6995bea23469d0002d29d564b1a51.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8396598/orig/36365144c879c7c167033c7901baf9f3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8396598/orig/c8f9e8ca7348fcdbb504b3a895e02c84.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8396598/orig/cd199074158111cd892b646a319d6073.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8396598/orig/440305fa9a9b0dc45b322c155e42185d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8396598/orig/6cb600d8a19d7d6a4169b0409b2e19df.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8396598/orig/5da4df0f6309eb186f7e894241fbe100.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8396598/orig/404bca7855461339af072e71366dfdcf.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8396598/orig/54c3766c1550ea7d223b60f87642a35d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8396598/orig/cb3ee8817a97ce2e9eb1bd771cdf640d.jpg</picture>
-        <description>2025 г., бензин, 3.0 л, 380 л.с., автоматическая, полный привод, новый, grey</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>GLE Coupe</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">43 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">380 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">grey</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">450 3.0 AT (380 л.с.) 4WD</param>
       </offer>
       <offer id="VF3YCBTFCRMA19523" available="true">
         <name>Peugeot Boxer II рестайлинг, 2025</name>
@@ -1978,7 +1916,7 @@
       <offer id="LVGBECEK2SG631698" available="true">
         <name>Toyota Camry IX (XV80) China Market, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Camry</url>
-        <price>4300000</price>
+        <price>4400000</price>
         <currencyId>RUR</currencyId>
         <categoryId>9</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8081182/orig/664970a11de9cccb62937eb39a7a52fa.jpg</picture>
