@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-03 17:25">
+<yml_catalog date="2026-04-03 18:33">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -642,37 +642,6 @@
         <param name="Состояние">Новые</param>
         <param name="Модификация">40d 3.0d AT (352 л.с.) 4WD</param>
       </offer>
-      <offer id="W1N4632761X424927" available="true">
-        <name>Mercedes-Benz G-Класс AMG II (W463), 2022</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>22169000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>5</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8535651/orig/5b7b2f150dbe14c06811792e918df629.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8535651/orig/d9340436e0445f1c6c2a592f0fb9e9a6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8535651/orig/1d98418f52324d769afe2d3be9e6f5b5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8535651/orig/78dc22f89b1715314a9a084fcfcb584f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8535651/orig/fcee241ad8ffeb5d54b110a00a472f0a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8535651/orig/f435ace8e1efeea6299628fbb4cc06b9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8535651/orig/2a4f9ae18e6f3eff8e4d185cdeffe2f0.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8535651/orig/76e1d98d1f460b86c39a5da34a0d9525.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8535651/orig/a1012df004203b4e99bf8fd16101f58a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8535651/orig/295b50a2239a983f0916785f613423e4.jpg</picture>
-        <description>2022 г., бензин, 4.0 л, 585 л.с., автоматическая, полный привод, пробег 34 008 км, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>G-Класс AMG</model>
-        <param name="Год выпуска">2022</param>
-        <param name="Пробег">34008 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">4.0 л</param>
-        <param name="Мощность">585 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
-      </offer>
       <offer id="WBA21EV0909270204" available="true">
         <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5</url>
@@ -828,37 +797,6 @@
         <param name="Состояние">Новые</param>
         <param name="Модификация">40d 3.0d AT (340 л.с.) 4WD</param>
       </offer>
-      <offer id="WBS21ET09S9X64676" available="true">
-        <name>BMW X6 M III (F96) Рестайлинг, 2024</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X6%20M</url>
-        <price>18660000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8519196/orig/06b0acebb27259c9223e90cef05a4445.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8519196/orig/eb4ebbf4eaa09f13b8cf2829fc917524.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8519196/orig/9b39126d537dbcfe29e665231e4ef05a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8519196/orig/74094d0e9ab40bc78ff7a1cda6ba28c3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8519196/orig/916f6ce03e117f6f78e53bd1b57f829a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8519196/orig/981586d2ea2fc825184785d54445dd11.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8519196/orig/a1e4cfc58822fb89371b0b220eb0f4fa.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8519196/orig/f528d22fabbd754baa3b2e2cb446ea80.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8519196/orig/86766e897e129dd26639ee52b62d48b8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8519196/orig/86a4557ac5df1860fcd2140da7fb9806.jpg</picture>
-        <description>2024 г., бензин, 4.4 л, 625 л.с., автоматическая, полный привод, пробег 17 876 км, black</description>
-        <vendor>BMW</vendor>
-        <model>X6 M</model>
-        <param name="Год выпуска">2024</param>
-        <param name="Пробег">17876 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">4.4 л</param>
-        <param name="Мощность">625 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">Competition 4.4 AT (625 л.с.) 4WD</param>
-      </offer>
       <offer id="W1NWH5AB7TX079493" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
@@ -920,37 +858,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">40d 3.0d AT (352 л.с.) 4WD</param>
-      </offer>
-      <offer id="W1KLF6DB4TA216691" available="true">
-        <name>Mercedes-Benz E-Класс AMG VI (W214), 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>14250000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>5</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8498990/orig/2f82de9420aabab967487044ad58685b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8498990/orig/4783351f4182bac3f0172a5bd9b0732f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8498990/orig/2278ca30108b48269a5fd48ee69602cb.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8498990/orig/e0b6cb5188feb20265f34b3db89c0360.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8498990/orig/acc94d91e3c48f9168813bfdbe0541b4.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8498990/orig/c5cd9917cfa4d169a1701fded67a85a4.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8498990/orig/1928c350dbf18e79c33e7ae3e8c32eb6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8498990/orig/1d8f47570f53665c0b25818596cdb4e1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8498990/orig/05aa75694ab3ea98b08dd607d6d58f4a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8498990/orig/25cb29171f35b3f8a9a5cf62a4242953.jpg</picture>
-        <description>2025 г., гибрид, 3.0 л, 585 л.с., автоматическая, полный привод, пробег 621 км, white</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>E-Класс AMG</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">621 км</param>
-        <param name="Двигатель">Гибрид</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">585 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Седан</param>
-        <param name="Цвет">white</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">53 AMG 3.0hyb AT (585 л.с.) 4WD</param>
       </offer>
       <offer id="JTHCDAAD8T5008829" available="true">
         <name>Lexus LM II, 2025</name>
