@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-04 21:21">
+<yml_catalog date="2026-04-04 22:18">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -22,6 +22,37 @@
       <category id="11" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="WP0AD2996MS257163" available="true">
+        <name>Porsche 911 VIII (992), 2020</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Porsche&amp;model=911</url>
+        <price>20000000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8629578/orig/4e4aebec3a4b04a5f2728497ec6c362b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8629578/orig/a60b457c344e103af698865a891091e1.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8629578/orig/f4470566b01ff9ccb071f02f5cf306f6.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8629578/orig/df96bf6bb5cfb76c9bdb32615a021d07.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8629578/orig/1ae699190c911d1bc6cade1263898842.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8629578/orig/d397fd0603163e406d853ae60a714b3d.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8629578/orig/257958d30b39d137e3998f81b071fe4d.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8629578/orig/15d505761c06918df488210a37201e5c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8629578/orig/d580b16555a65e42566034d6052a622b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8629578/orig/7d5e2c6d745a101946d47a48b8e5a017.jpg</picture>
+        <description>2020 г., бензин, 3.7 л, 650 л.с., роботизированная, полный привод, пробег 28 647 км, blue</description>
+        <vendor>Porsche</vendor>
+        <model>911</model>
+        <param name="Год выпуска">2020</param>
+        <param name="Пробег">28647 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">3.7 л</param>
+        <param name="Мощность">650 л.с.</param>
+        <param name="Коробка передач">Роботизированная</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Купе</param>
+        <param name="Цвет">blue</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">Turbo S 3.8 AMT (650 л.с.) 4WD</param>
+      </offer>
       <offer id="WBA11DW090CD98520" available="true">
         <name>BMW 5 серии VII (G30/G31/G38), 2020</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=5%20%D1%81%D0%B5%D1%80%D0%B8%D0%B8</url>
