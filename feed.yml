@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-05 17:21">
+<yml_catalog date="2026-04-05 18:28">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1110,7 +1110,7 @@
       <offer id="WBA11EV0109293911" available="true">
         <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5</url>
-        <price>15260000</price>
+        <price>15460000</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8471439/orig/f85dcd056a51948139d7e4b5b25471c9.jpg</picture>
@@ -2539,16 +2539,16 @@
         <price>11930000</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/7614073/orig/48fe0505afeff92df3ffbc7f729c0c30.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7614073/orig/9a53015a62394cd54656dc572d953b7b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7614073/orig/f5d8257306c75f2514c96c9d107e82cc.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7614073/orig/4b98e6cbe823b97160da4df79c68defa.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7614073/orig/bfdfeeafdba0dac1aa5e78abd22a9dc8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7614073/orig/1c8a87197537fc0750096e312968dac5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7614073/orig/25f79ae2dcafac375eaab9a8b9200cd2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7614073/orig/077eae4002072c5370d63c847e2c3d68.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7614073/orig/aeb66e7b6e359563b97667668f437619.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7614073/orig/519ccf5e96240e0232b3b4414b2818d9.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/7614073/orig/61299f9a401c7580b2085f979785edfe.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/7614073/orig/ca10fda307007d204b54163e9ffbab4f.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/7614073/orig/a8d0cd0c1ac5b03e832d9d8ee0012d6f.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/7614073/orig/02ddcbd6a418c5db97606d6f3e3aa0a6.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/7614073/orig/67525421952958786377a1e589fe6f3c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/7614073/orig/c9e137f2dbcf0c8c38d1b6878edde3d5.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/7614073/orig/68354bc3db5c9892d3975dcc75ea2828.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/7614073/orig/d1855b3514a7037ada738b17a7237ce9.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/7614073/orig/b244f7fc4b9e827a19364b671e7cfc51.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/7614073/orig/fd383b493db2b8c5871b50b5c1e27911.jpg</picture>
         <description>2022 г., бензин, 3.0 л, 510 л.с., автоматическая, полный привод, пробег 11 289 км, yellow</description>
         <vendor>BMW</vendor>
         <model>M4</model>
