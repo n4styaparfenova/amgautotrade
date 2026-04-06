@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-06 15:37">
+<yml_catalog date="2026-04-06 16:34">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -59,15 +59,15 @@
         <price>16900000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8631730/orig/b83d713f877919710ec185dd6df02a59.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8631730/orig/72d53b3c1a62b457b9fd6473e76604e1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8631730/orig/5ab49a65c363077ba332ab15a47edae6.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8631730/orig/7bc902feb763a8eb8171c8eb34b59073.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8631730/orig/ec5d9f75ce930bdc371252312bcb4a2c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8631730/orig/39330d7a1505fd4df07ca21b8a848932.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8631730/orig/8b836cc36f0b7fe15e6aae7368f7b485.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8631730/orig/3a917dd49820ffbf8e534b9b08de1041.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8631730/orig/a3cd7915e299a784319ac4c8a749c84a.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8631730/orig/79d7834b8cc0e667a7e77aa97876c26e.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8631730/orig/79faac31c89f4a088032c33e93ef7a27.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8631730/orig/cb9396efb0f3f487855a0b4165ceccfa.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8631730/orig/d68b96bbc653fd19e94757420fec233b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8631730/orig/de84018251fb6f8852cc87b57a9d6c71.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8631730/orig/b2689acf23e142f70f5e8e6f059b965b.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8631730/orig/af2cafe97d06aa29d73900d5134580b5.jpg</picture>
         <description>2021 г., бензин, 4.0 л, 585 л.с., автоматическая, полный привод, пробег 67 492 км, black</description>
         <vendor>Mercedes-Benz</vendor>
