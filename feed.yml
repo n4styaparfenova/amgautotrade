@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-07 16:04">
+<yml_catalog date="2026-04-07 17:48">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -52,6 +52,37 @@
         <param name="Цвет">grey</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
+      </offer>
+      <offer id="SALWA2BK4KA868543" available="true">
+        <name>Land Rover Range Rover Sport II Рестайлинг, 2019</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Land%20Rover&amp;model=Range%20Rover%20Sport</url>
+        <price>8890000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8631734/orig/abe7335e9f35cf91fcb7077ba1a77ad3.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8631734/orig/6f8e03b8cb6e90466173eb4bd6096edf.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8631734/orig/1280c42a4652c4dc3c032064a14ab4ad.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8631734/orig/cfa5f87123f49f08e2f90565b27c9aa2.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8631734/orig/0b2b5cc74a386911fe23302351e86aaf.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8631734/orig/babf9888cfb1faf6233c6f29e4a42778.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8631734/orig/c0a77c2fea6a7652d587f893b262000f.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8631734/orig/091304ff32d8fd4fa7126edc23332f8b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8631734/orig/cafaf72fb122394ae09df23f6536e0fa.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8631734/orig/bd85bb09bdda427d793f4f90aedfdd71.jpg</picture>
+        <description>2019 г., дизель, 3.0 л, 249 л.с., автоматическая, полный привод, пробег 41 307 км, black</description>
+        <vendor>Land Rover</vendor>
+        <model>Range Rover Sport</model>
+        <param name="Год выпуска">2019</param>
+        <param name="Пробег">41307 км</param>
+        <param name="Двигатель">Дизель</param>
+        <param name="Объём двигателя">3.0 л</param>
+        <param name="Мощность">249 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">3.0d AT (249 л.с.) 4WD</param>
       </offer>
       <offer id="W1N4632761X404049" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W463), 2021</name>
