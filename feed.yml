@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-07 06:12">
+<yml_catalog date="2026-04-07 08:05">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -366,7 +366,7 @@
       <offer id="WBS81CH0X0CF38110" available="true">
         <name>BMW M5 VI (F90) Рестайлинг, 2020</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=M5</url>
-        <price>10500000</price>
+        <price>9290000</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8602114/orig/93ce5690e8b5b2e8cc649e180e762381.jpg</picture>
@@ -893,7 +893,7 @@
       <offer id="WBA21EV0909270204" available="true">
         <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5</url>
-        <price>16960000</price>
+        <price>16760000</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8535650/orig/022aaca9a45a8809f82a0b6d093032ae.jpg</picture>
@@ -924,7 +924,7 @@
       <offer id="W1KLF4HB3SA177153" available="true">
         <name>Mercedes-Benz E-Класс VI (W214, S214), 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>8560000</price>
+        <price>8660000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8535641/orig/533921f78fc220a518ac9a5b4f338335.jpg</picture>
@@ -1172,7 +1172,7 @@
       <offer id="JTJPB7CX5T4090816" available="true">
         <name>Lexus LX IV, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Lexus&amp;model=LX</url>
-        <price>18749000</price>
+        <price>18590000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8457706/orig/37db48c730b40f1aa589c67c1ac6b985.jpg</picture>
@@ -1327,7 +1327,7 @@
       <offer id="JTJCHBJA5T2024910" available="true">
         <name>Lexus RX V, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Lexus&amp;model=RX</url>
-        <price>11460000</price>
+        <price>11090000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8420566/orig/fa1896fd6c22de4f201991041fad3eb4.jpg</picture>
@@ -1358,7 +1358,7 @@
       <offer id="WBA21EV0109270195" available="true">
         <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5</url>
-        <price>16960000</price>
+        <price>16760000</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8420561/orig/f836f6058d341580d923c23a82826219.jpg</picture>
@@ -1606,7 +1606,7 @@
       <offer id="JTMAAABJ1T4130945" available="true">
         <name>Toyota Land Cruiser 300 Series, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Land%20Cruiser</url>
-        <price>14780000</price>
+        <price>14690000</price>
         <currencyId>RUR</currencyId>
         <categoryId>9</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8339955/orig/d7461ba6f3d68c68144eb6d4260382a7.jpg</picture>
