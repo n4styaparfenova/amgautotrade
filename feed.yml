@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-07 12:56">
+<yml_catalog date="2026-04-07 14:26">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -459,7 +459,7 @@
       <offer id="L6T795ND2SN112318" available="true">
         <name>Zeekr 9X, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Zeekr&amp;model=9X</url>
-        <price>10890000</price>
+        <price>10790000</price>
         <currencyId>RUR</currencyId>
         <categoryId>11</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8596612/orig/adefef8502e265f7bdc049f9f050a053.jpg</picture>
@@ -1510,37 +1510,6 @@
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">40d 3.0d AT (313 л.с.) 4WD</param>
       </offer>
-      <offer id="W1K2230631A005179" available="true">
-        <name>Mercedes-Benz S-Класс VII (W223), 2020</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>9990000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>5</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8357591/orig/9075f550ffb45780e3155de91db80147.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8357591/orig/af3dece7a168326011aa6732a1534e5f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8357591/orig/aee26b36f402ff113a751a31f8ef056c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8357591/orig/710fa21f29dccff55dafa811978198cf.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8357591/orig/7a9426c0716297d9904b2b7e8c06a7d9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8357591/orig/6041be4186375038fdb337908787dd37.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8357591/orig/b9cf43ff46173baaf8cc86d78508f0ee.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8357591/orig/e48a3bb0f2270a7c6a957dc8f1e4f9f2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8357591/orig/fb89171fdb53c06c890142836526f217.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8357591/orig/ede81b73971778de3269f8b60619aaf0.jpg</picture>
-        <description>2020 г., бензин, 3.0 л, 435 л.с., автоматическая, полный привод, пробег 51 607 км, white</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>S-Класс</model>
-        <param name="Год выпуска">2020</param>
-        <param name="Пробег">51607 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">435 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Седан</param>
-        <param name="Цвет">white</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">500 4MATIC 3.0 AT (435 л.с.) 4WD</param>
-      </offer>
       <offer id="W1N4632761X437522" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W463), 2022</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
@@ -1571,37 +1540,6 @@
         <param name="Цвет">green</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
-      </offer>
-      <offer id="JTHADAAD7T5008893" available="true">
-        <name>Lexus LM II, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Lexus&amp;model=LM</url>
-        <price>17950000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>4</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8351143/orig/e07e68a2a41d633a0f97cfe1bef7b6f6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351143/orig/808fb80142d618e0927355a807977597.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351143/orig/1f19935cd40fae7b0f6b1d4cb70cad93.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351143/orig/18b1ae5eecf644253185a7ff13feaa08.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351143/orig/bd0647d0a8cadcf7d9f8ecbb1beee27b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351143/orig/76ed2a277f3578d248d4a22a4a485c23.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351143/orig/f4faacfe747a6062fa8623f90a98ff50.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351143/orig/f3b5fa567d4812485668c9a8fc3d1d81.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351143/orig/8d72e84b9ab09cc94f487b28cbad8ada.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8351143/orig/f04e05605cffabb97529b1e722560290.jpg</picture>
-        <description>2025 г., гибрид, 2.5 л, 250 л.с., вариаторная, полный привод, новый, black</description>
-        <vendor>Lexus</vendor>
-        <model>LM</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">25 км</param>
-        <param name="Двигатель">Гибрид</param>
-        <param name="Объём двигателя">2.5 л</param>
-        <param name="Мощность">250 л.с.</param>
-        <param name="Коробка передач">Вариаторная</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Минивэн</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">350h 2.5hyb CVT (250 л.с.) 4WD</param>
       </offer>
       <offer id="JTMAAABJ1T4130945" available="true">
         <name>Toyota Land Cruiser 300 Series, 2025</name>
@@ -1789,37 +1727,6 @@
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">35 AMG 2.0 AMT (306 л.с.) 4WD</param>
       </offer>
-      <offer id="W1KLF4HB7SA171453" available="true">
-        <name>Mercedes-Benz E-Класс VI (W214, S214), 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>8950000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>5</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8257528/orig/3d5994d560a1427533a1236a8d0cf6a6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8257528/orig/cb17d9699e7ccdd59248b5e1af2abca5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8257528/orig/4ee2e1ee81aae93f70f5cabdd424469f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8257528/orig/2ca2dfb6c4c4a9ba026377e6729e8b7a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8257528/orig/5940ebff1f6b5e852e0a79d7d3953696.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8257528/orig/087fec51e86366fcbd82b30247e9d77d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8257528/orig/51f14ad5b8eb9485791f00b2486cd254.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8257528/orig/b4d54bbd7f17698b014ef83055a0c93a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8257528/orig/b5fa86ef8a7960ac9d7f6b1ebec35309.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8257528/orig/d3d6b4efb10e282733b03fb0587d6f84.jpg</picture>
-        <description>2025 г., бензин, 2.0 л, 258 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>E-Класс</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">29 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">258 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Седан</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">300 2.0 AT (258 л.с.) 4WD</param>
-      </offer>
       <offer id="WBS61AY090FS66155" available="true">
         <name>BMW M3 VI (G80), 2024</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=M3</url>
@@ -1943,37 +1850,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">300 2.0 AT (258 л.с.) 4WD</param>
-      </offer>
-      <offer id="W1K6G6DB0PA217675" available="true">
-        <name>Mercedes-Benz S-Класс VII (W223), 2023</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>15490000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>5</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8182251/orig/c2ff14bd950cb1ebca56810f81d71a74.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182251/orig/e44d73f1482e718747ee8d8cba50bff7.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182251/orig/d41610b0d653524b0a55bc5e40acf28d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182251/orig/327fc9503a39f3ae9b0f830b9bdf7014.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182251/orig/2bcb3ba6cb3a0e0aeb1ce51533d15d03.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182251/orig/b3d6efd98beb1e030a509514cd4e1dce.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182251/orig/211955b83afa43d1e6faecbd548175c7.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182251/orig/d86f58e81bba31d567afb7782a68e1c6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182251/orig/51130d456df703d825e6d29dd030dc4a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8182251/orig/1588780d06be628395d35a882741595e.jpg</picture>
-        <description>2023 г., бензин, 3.0 л, 435 л.с., автоматическая, полный привод, пробег 9 416 км, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>S-Класс</model>
-        <param name="Год выпуска">2023</param>
-        <param name="Пробег">9416 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">435 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Седан</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">500 Long 4MATIC 3.0 AT (435 л.с.) 4WD</param>
       </offer>
       <offer id="WBACV010109B33035" available="true">
         <name>BMW X5 IV (G05/G18), 2020</name>
