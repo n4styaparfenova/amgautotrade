@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-09 08:11">
+<yml_catalog date="2026-04-09 10:02">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -645,7 +645,7 @@
       <offer id="WBA11EY0609091139" available="true">
         <name>BMW X6 III (G06) Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X6</url>
-        <price>16340000</price>
+        <price>15990000</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8577923/orig/7e55fd68bf2a95f20bf9503b5ff94497.jpg</picture>
@@ -676,7 +676,7 @@
       <offer id="WBA21EV0009187776" available="true">
         <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5</url>
-        <price>16790000</price>
+        <price>16490000</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8577883/orig/fe8c4bc5fef4083bb077c1456d72865f.jpg</picture>
@@ -738,7 +738,7 @@
       <offer id="WBA11EV0509143462" available="true">
         <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5</url>
-        <price>15990000</price>
+        <price>15490000</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8561423/orig/5d7fea8048f10e9085c5c4444d07c2d7.jpg</picture>
@@ -769,7 +769,7 @@
       <offer id="WBA21EV0309129628" available="true">
         <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5</url>
-        <price>16290000</price>
+        <price>15990000</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8561376/orig/7be3ae052de55e148509f249fee34348.jpg</picture>
@@ -1451,7 +1451,7 @@
       <offer id="W1VVNLTZ6T4575549" available="true">
         <name>Mercedes-Benz V-Класс III (W447) Рестайлинг 2, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=V-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>13960000</price>
+        <price>13840000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8374377/orig/e217d4af503b0f3046975fd838b179d7.jpg</picture>
