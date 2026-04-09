@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-09 04:24">
+<yml_catalog date="2026-04-09 06:14">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -180,7 +180,7 @@
       <offer id="WP0AD2996MS257163" available="true">
         <name>Porsche 911 VIII (992), 2020</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Porsche&amp;model=911</url>
-        <price>20000000</price>
+        <price>20499000</price>
         <currencyId>RUR</currencyId>
         <categoryId>7</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8629578/orig/4e4aebec3a4b04a5f2728497ec6c362b.jpg</picture>
@@ -459,7 +459,7 @@
       <offer id="W1N1679331B514249" available="true">
         <name>Mercedes-Benz GLS II (X167) Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLS</url>
-        <price>16290000</price>
+        <price>15990000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8596614/orig/0ce8b35eaa0a2b88da2866bfe76a5ba1.jpg</picture>
@@ -796,37 +796,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">40d 3.0d AT (352 л.с.) 4WD</param>
-      </offer>
-      <offer id="WDD2221861A518519" available="true">
-        <name>Mercedes-Benz S-Класс VI (W222, C217) Рестайлинг, 2019</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>7990000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>5</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8556837/orig/671d13b64aadab266c8a826403ebf58f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8556837/orig/8c4c0766c9daea7a062f84110cde2358.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8556837/orig/89cfee538af6d2b987a81f0ed1d307f7.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8556837/orig/458c59cf2a89eb8d33520e6877ee9886.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8556837/orig/015c39ff77ca25d4d3ff5b1d55f2aaaf.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8556837/orig/e7e9e75701f19076246e5218f82cbee2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8556837/orig/d5aba259a1e373d77e9a7334f78088da.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8556837/orig/8c682ce274e9e1989431db1969589a80.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8556837/orig/e44b76612c2ea984fee07b8f2ed69318.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8556837/orig/35f2a314d4702abb74e4ddb20970360e.jpg</picture>
-        <description>2019 г., бензин, 4.0 л, 469 л.с., автоматическая, полный привод, пробег 43 117 км, white</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>S-Класс</model>
-        <param name="Год выпуска">2019</param>
-        <param name="Пробег">43117 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">4.0 л</param>
-        <param name="Мощность">469 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Седан</param>
-        <param name="Цвет">white</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">560 Long 4.0 AT (469 л.с.) 4WD</param>
       </offer>
       <offer id="WBA21EN0X09173299" available="true">
         <name>BMW X7 I (G07) Рестайлинг, 2025</name>
