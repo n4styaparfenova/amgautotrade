@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-09 19:57">
+<yml_catalog date="2026-04-09 20:44">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1137,37 +1137,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
-      </offer>
-      <offer id="WBA21EV0309286690" available="true">
-        <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5</url>
-        <price>16470000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8514727/orig/789fb87fa81ac364bdc60b4425e1009d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8514727/orig/b342b15e50bad77c04f31592fc72da5c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8514727/orig/b9e336ed1b244248c38c3bdb1f3d9c0e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8514727/orig/ca34a2c7a0dbde90287213f3df2d3e60.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8514727/orig/875b7e67020b20725b9dcaa6710d7dc8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8514727/orig/359a1e8be1060c51036fb4829aa5e124.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8514727/orig/89d0f87fee9385fd06003e8950a295a5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8514727/orig/679b7c338fd3e0ecaca21cd7afc5ae4e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8514727/orig/8bc22fe02b05f3a3148af11661a1c7c4.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8514727/orig/b414ae14bfb477f5adbdc7f0a25b1b11.jpg</picture>
-        <description>2025 г., дизель, 3.0 л, 352 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>BMW</vendor>
-        <model>X5</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">66 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">352 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">40d 3.0d AT (352 л.с.) 4WD</param>
       </offer>
       <offer id="SCATV0102MU206083" available="true">
         <name>Rolls-Royce Ghost II, 2021</name>
