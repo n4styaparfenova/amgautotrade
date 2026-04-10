@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-10 12:44">
+<yml_catalog date="2026-04-10 14:10">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1293,37 +1293,6 @@
         <param name="Состояние">Новые</param>
         <param name="Модификация">40d 3.0d AT (352 л.с.) 4WD</param>
       </offer>
-      <offer id="WBA21EV07S9793746" available="true">
-        <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5</url>
-        <price>15159000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8406698/orig/e35c08f44256543fa78ef6ada29bb351.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8406698/orig/e039852699263af202a2c4e5c02572db.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8406698/orig/95c340e2f945d4bc20e2daee4d73c36a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8406698/orig/82800551edf4e66ccf2e8443421160bb.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8406698/orig/83b58cb28defc3280ee1f040392622a2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8406698/orig/0fb71aee42624968b05f758c82b0f062.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8406698/orig/e784a9a48398721d1622eb84865d8642.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8406698/orig/feefdbf0289277e1a737bdb25157de28.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8406698/orig/bd0cf45922c01bc95b7dbc7d77126802.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8406698/orig/91db0794f5cd049f81d8b007ba9ba32e.jpg</picture>
-        <description>2025 г., дизель, 3.0 л, 352 л.с., автоматическая, полный привод, пробег 7 049 км, white</description>
-        <vendor>BMW</vendor>
-        <model>X5</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">7049 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">352 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">white</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">40d 3.0d AT (352 л.с.) 4WD</param>
-      </offer>
       <offer id="VF3YCBTFCRMA19523" available="true">
         <name>Peugeot Boxer II рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Peugeot&amp;model=Boxer</url>
@@ -1730,7 +1699,7 @@
       <offer id="WBACV010109B33035" available="true">
         <name>BMW X5 IV (G05/G18), 2020</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5</url>
-        <price>6650000</price>
+        <price>6499000</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8171091/orig/4e1c9aa5f379367ca95d8386473bf3ae.jpg</picture>
