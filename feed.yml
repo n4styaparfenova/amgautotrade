@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-10 10:00">
+<yml_catalog date="2026-04-10 10:59">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -300,37 +300,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">300 d экстра длинный 2.0d AT (237 л.с.) 4WD</param>
-      </offer>
-      <offer id="JTHCDAAD1T5009093" available="true">
-        <name>Lexus LM II, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Lexus&amp;model=LM</url>
-        <price>15490000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>4</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8629571/orig/a3b1def1a451288e7a4f5e7fc4f6716c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629571/orig/3ff305631bf34725c09647fd2162768d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629571/orig/5a4ff727bce0d02d433a465bea24158c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629571/orig/b821cb3def4b2323bdad42651b4d6e1e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629571/orig/20dddc283a3e138ba208ffc575d6c141.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629571/orig/6d8918bb7117d4559f461731fbe4bd63.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629571/orig/f6d8cf4af1ccbecc5febd64dd30ce723.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629571/orig/4dd7332b7c4fb4ddbcf201bdda255792.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629571/orig/ca3989c09148580ff1129f9e40101ec5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629571/orig/76bcc04f8dde887618c0906b715dd456.jpg</picture>
-        <description>2025 г., гибрид, 2.5 л, 250 л.с., вариаторная, полный привод, новый, black</description>
-        <vendor>Lexus</vendor>
-        <model>LM</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">25 км</param>
-        <param name="Двигатель">Гибрид</param>
-        <param name="Объём двигателя">2.5 л</param>
-        <param name="Мощность">250 л.с.</param>
-        <param name="Коробка передач">Вариаторная</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Минивэн</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">350h 2.5hyb CVT (250 л.с.) 4WD</param>
       </offer>
       <offer id="WBA11DW090CD98520" available="true">
         <name>BMW 5 серии VII (G30/G31/G38), 2020</name>
@@ -1076,37 +1045,6 @@
         <param name="Состояние">Новые</param>
         <param name="Модификация">30d 3.0d AT (286 л.с.) 4WD</param>
       </offer>
-      <offer id="WBA21EN0709256382" available="true">
-        <name>BMW X7 I (G07) Рестайлинг, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X7</url>
-        <price>17960000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8519199/orig/3a75e92ca35f794e3cb45f06f6388cc9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8519199/orig/88cce893e5e75793f92c51c12fa2003b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8519199/orig/0fb2975b1cef2ec4667675705a576ed4.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8519199/orig/e8a46ae4cc3c699a91f279e049738b9d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8519199/orig/aca0a0dfeea82780b02b6af368e33b29.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8519199/orig/fc37f6863c53a6b977c52069851a51b2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8519199/orig/e9aead1ca8dcbe4f4f0d982dd360d175.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8519199/orig/ec061626e1f042f6d2941a4a4a3991af.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8519199/orig/ace14f4bf1635045fd1c621894964ad6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8519199/orig/37212fc0d7a9c92119c9cab1a7bec56e.jpg</picture>
-        <description>2025 г., дизель, 3.0 л, 340 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>BMW</vendor>
-        <model>X7</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">39 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">340 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">40d 3.0d AT (340 л.с.) 4WD</param>
-      </offer>
       <offer id="W1NWH5AB7TX079493" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
@@ -1199,37 +1137,6 @@
         <param name="Цвет">blue</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">30d 3.0d AT (286 л.с.) 4WD</param>
-      </offer>
-      <offer id="JTJPB7CX5T4090816" available="true">
-        <name>Lexus LX IV, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Lexus&amp;model=LX</url>
-        <price>18590000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>4</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8457706/orig/37db48c730b40f1aa589c67c1ac6b985.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8457706/orig/7a43889539a2603e49238bb6708acea2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8457706/orig/4dc117fdf843b24bbf272ebbcfa14acc.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8457706/orig/2d6949b8aefb65b48f4a73e43187d779.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8457706/orig/70b049b954d73d2287cc7542be2d3077.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8457706/orig/f9eb1d4c8ff80e21b151265eb10070d8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8457706/orig/f0d7a524ac626ff3c46185f3a03626df.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8457706/orig/7a41168cfe34fdedc5a998ba380b8c00.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8457706/orig/2b369bb6e15bc3d6a0a6de44d4e8936e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8457706/orig/80a9b3637881e91c885b7f9f0fc3d00d.jpg</picture>
-        <description>2025 г., бензин, 3.4 л, 415 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>Lexus</vendor>
-        <model>LX</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">2 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">3.4 л</param>
-        <param name="Мощность">415 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">600 3.4 AT (415 л.с.) 4WD</param>
       </offer>
       <offer id="W1NWH5AB7TX075198" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2025</name>
@@ -1354,37 +1261,6 @@
         <param name="Цвет">blue</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">40d 3.0d AT (352 л.с.) 4WD</param>
-      </offer>
-      <offer id="JTJCHBJA5T2024910" available="true">
-        <name>Lexus RX V, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Lexus&amp;model=RX</url>
-        <price>11090000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>4</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8420566/orig/fa1896fd6c22de4f201991041fad3eb4.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8420566/orig/7fca314918407f2a4f994e0914ea79df.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8420566/orig/c39c3d144d895b0c47b4644c46c0a902.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8420566/orig/8faa4378d2a1a67890a2e9f80de04638.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8420566/orig/43612f45ad18e7ae7757aafd61bbb330.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8420566/orig/351eef86e83b506ca459d99edf2f5728.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8420566/orig/b3f9dbba5a0c0a935117cc8cd13deb35.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8420566/orig/339cb4d5b88c3749d57ea9ae856a11e2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8420566/orig/71f6a9e74907960c4b7311de3e091574.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8420566/orig/be10c0e0f41847dd3d168a03931c0379.jpg</picture>
-        <description>2025 г., бензин, 2.4 л, 249 л.с., автоматическая, полный привод, новый, grey</description>
-        <vendor>Lexus</vendor>
-        <model>RX</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">26 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.4 л</param>
-        <param name="Мощность">249 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">grey</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">350 2.4 AT (249 л.с.) 4WD</param>
       </offer>
       <offer id="WBA21EV0109270195" available="true">
         <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
@@ -1571,37 +1447,6 @@
         <param name="Цвет">green</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
-      </offer>
-      <offer id="JTMAAABJ1T4130945" available="true">
-        <name>Toyota Land Cruiser 300 Series, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Land%20Cruiser</url>
-        <price>14690000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8339955/orig/d7461ba6f3d68c68144eb6d4260382a7.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8339955/orig/fbfbc51477a6fc48dcb4ea256a1aa44c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8339955/orig/97a10c535593dc97ba4e70f1affea4a6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8339955/orig/acd67146fc50c3545a755f21e542a38d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8339955/orig/f652df0ebe5dcbb1f8f9efc6301e897f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8339955/orig/f923a276cc560158acef996082286268.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8339955/orig/1269e9803e646f4ed88d4bd32db3be63.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8339955/orig/76dd4d87ea0e6456bfc3f883a933fc8b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8339955/orig/42e949815356620c1ae6de9a069466af.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8339955/orig/08b78ef013491509a026712dbd1d3703.jpg</picture>
-        <description>2025 г., дизель, 3.3 л, 299 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>Toyota</vendor>
-        <model>Land Cruiser</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">24 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">3.3 л</param>
-        <param name="Мощность">299 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">3.4d AT (299 л.с.) 4WD</param>
       </offer>
       <offer id="L6T795ND0SN120806" available="true">
         <name>Zeekr 9X, 2025</name>
@@ -2098,37 +1943,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">Black Badge 6.6 AT (632 л.с.)</param>
-      </offer>
-      <offer id="WP1ZZZ9Y5TDA36613" available="true">
-        <name>Porsche Cayenne III Рестайлинг, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Porsche&amp;model=Cayenne</url>
-        <price>17970000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8030586/orig/58b2e8d49b28213dae1e2b4ab475cdb7.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8030586/orig/dbbc8772805baeb5b2b2b56dad9f946a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8030586/orig/7c34263e299f600b8fccdb2bb678290d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8030586/orig/9f9c9e457c97227de7144b39f0975890.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8030586/orig/47fdb1d2b0a2f2ca38d3cfc404788f19.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8030586/orig/0c4eb2a6e15ace05e7c57b572c24ba97.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8030586/orig/57ce911f8ebb90d9f9eeb74e20e93026.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8030586/orig/f4d628864a2f031db345b24cc63e0fe3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8030586/orig/86804addb3bcfeb0e12fd681b981d4e3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8030586/orig/dc3b2f6467b7ada070e5f27770146a4a.jpg</picture>
-        <description>2025 г., бензин, 3.0 л, 353 л.с., автоматическая, полный привод, новый, white</description>
-        <vendor>Porsche</vendor>
-        <model>Cayenne</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">41 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">353 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">white</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">Coupé 3.0 AT (353 л.с.) 4WD</param>
       </offer>
       <offer id="LBV21GT05T1C06651" available="true">
         <name>BMW X3 IV (G45/G48), 2025</name>
