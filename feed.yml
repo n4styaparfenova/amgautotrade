@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-11 12:33">
+<yml_catalog date="2026-04-11 13:47">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -22,6 +22,68 @@
       <category id="11" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="WBA21EN0509056519" available="true">
+        <name>BMW X7 I (G07) Рестайлинг, 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X7</url>
+        <price>14490000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8671507/orig/35920ee475ba1be1241da7ba74d8d472.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8671507/orig/d0c1c6dbaece6e5f18a35d15833e7fde.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8671507/orig/5f8bd59867851352fb1b299080df0fc8.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8671507/orig/d609c85155033e9cc4e0ef66d19f52b4.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8671507/orig/8a9ef43304d979529789926d10d87e71.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8671507/orig/baf33c1e945d645da0adf42ba2badfc6.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8671507/orig/33b88f93ae1d4c972d135e0cc13323ff.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8671507/orig/5af1643032e422e6b499bfaeb9e3eef5.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8671507/orig/8eb80aae2bdaaa3d5dcc4842bea330ac.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8671507/orig/0a7c00c23072109b140ea397bd140c0e.jpg</picture>
+        <description>2025 г., дизель, 3.0 л, 340 л.с., автоматическая, полный привод, пробег 8 921 км, black</description>
+        <vendor>BMW</vendor>
+        <model>X7</model>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег">8921 км</param>
+        <param name="Двигатель">Дизель</param>
+        <param name="Объём двигателя">3.0 л</param>
+        <param name="Мощность">340 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">40d 3.0d AT (340 л.с.) 4WD</param>
+      </offer>
+      <offer id="LVGBECEK1RG015288" available="true">
+        <name>Toyota Camry IX (XV80) China Market, 2024</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Camry</url>
+        <price>3850000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8665384/orig/3ea5bee85d41b1fbb9d0a6e97687153b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8665384/orig/047ec0ff9a184a6e8492c1f13e982013.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8665384/orig/d5653b462aea023af0ec1b859f1b0e3d.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8665384/orig/53cad19296ef620bbdc5b43b93bfd092.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8665384/orig/75ea07d7f8f073e92ca907e8a7852bd1.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8665384/orig/0d715be565f23a68b03ee4141ceeacf1.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8665384/orig/cf7f367d8fa1b1708ceb4f84a3828246.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8665384/orig/1e3903fc5b8fe22e51567348b9855b0e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8665384/orig/8ed60b0d3b4e8e2305dbf90a2b0e5002.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8665384/orig/f7178457cb5456b44a82f9060c863990.jpg</picture>
+        <description>2024 г., гибрид, 2.0 л, 197 л.с., вариаторная, передний привод, пробег 2 563 км, black</description>
+        <vendor>Toyota</vendor>
+        <model>Camry</model>
+        <param name="Год выпуска">2024</param>
+        <param name="Пробег">2563 км</param>
+        <param name="Двигатель">Гибрид</param>
+        <param name="Объём двигателя">2.0 л</param>
+        <param name="Мощность">197 л.с.</param>
+        <param name="Коробка передач">Вариаторная</param>
+        <param name="Привод">Передний</param>
+        <param name="Кузов">Седан</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">2.0hyb CVT (197 л.с.)</param>
+      </offer>
       <offer id="W1K2363471F119627" available="true">
         <name>Mercedes-Benz CLE, 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=CLE</url>
