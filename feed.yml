@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-11 09:31">
+<yml_catalog date="2026-04-11 10:23">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -114,37 +114,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">300 d экстра длинный 2.0d AT (237 л.с.) 4WD</param>
-      </offer>
-      <offer id="W1NWH5AB6TX080537" available="true">
-        <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2026</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>33990000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>5</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8631735/orig/e1c5695511bc93b60b2e3b82e0f07aef.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8631735/orig/6fb87bafb77847424603d74b0ab39d98.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8631735/orig/c06b2986555b36e9874ac0b015902a4e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8631735/orig/310ca087946c78213cc42d3d5c879b21.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8631735/orig/7b24243d52f39284b78ef08b77b12e69.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8631735/orig/734d5a022fc5c978ca4aa4df06ea5741.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8631735/orig/52625637d58635a3ca79df6901c7ee39.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8631735/orig/4120833247c3c4ebcb78546db2f2e666.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8631735/orig/a2cf249b20003cf6b49ea0dcc5a86182.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8631735/orig/9db9ffa18115d47515946afc75314249.jpg</picture>
-        <description>2026 г., бензин, 4.0 л, 585 л.с., автоматическая, полный привод, новый, grey</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>G-Класс AMG</model>
-        <param name="Год выпуска">2026</param>
-        <param name="Пробег">70 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">4.0 л</param>
-        <param name="Мощность">585 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">grey</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
       </offer>
       <offer id="SALWA2BK4KA868543" available="true">
         <name>Land Rover Range Rover Sport II Рестайлинг, 2019</name>
@@ -304,7 +273,7 @@
       <offer id="W1VVNLTZ8T4617378" available="true">
         <name>Mercedes-Benz V-Класс III (W447) Рестайлинг 2, 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=V-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>14990000</price>
+        <price>14790000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8629572/orig/86156358400f1451254bfa4fc0b47c8c.jpg</picture>
@@ -893,7 +862,7 @@
       <offer id="W1V44781514607372" available="true">
         <name>Mercedes-Benz V-Класс III (W447) Рестайлинг 2, 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=V-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>14990000</price>
+        <price>14790000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8552671/orig/01de1e1c3a164b93b554d5aaa62db3e5.jpg</picture>
@@ -920,37 +889,6 @@
         <param name="Цвет">grey</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">300 d экстра длинный 2.0d AT (237 л.с.) 4WD</param>
-      </offer>
-      <offer id="WBA21EY0X09195850" available="true">
-        <name>BMW X6 III (G06) Рестайлинг, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X6</url>
-        <price>17460000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8541950/orig/21e8a8e6aecffa9cd1f363cb6b5d99e8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8541950/orig/7a37a818780b4f1704fbf81d048af54d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8541950/orig/82e9510a7220d4ad5a8d2c3bb41ce7a2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8541950/orig/0fca31f93efedad04113da31505a9dfe.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8541950/orig/7f516c11da6376c765817badd5dc3a9d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8541950/orig/8f1a153030e936e66e83e57f164d26f0.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8541950/orig/158a15f5da26004373ee3ddea52c224d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8541950/orig/1b362f34ddea28298607f65170804ed8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8541950/orig/13b8afa75c50cb92be5e991978d6f892.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8541950/orig/3ad63721a6ec540b6b42a411fc0d7031.jpg</picture>
-        <description>2025 г., дизель, 3.0 л, 352 л.с., автоматическая, полный привод, новый, grey</description>
-        <vendor>BMW</vendor>
-        <model>X6</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">25 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">352 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">grey</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">40d 3.0d AT (352 л.с.) 4WD</param>
       </offer>
       <offer id="WBA21EV0909270204" available="true">
         <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
@@ -1048,7 +986,7 @@
       <offer id="WBA11EY0X09148426" available="true">
         <name>BMW X6 III (G06) Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X6</url>
-        <price>15500000</price>
+        <price>14990000</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8524981/orig/a102ef7cb96fa541f9aeac553a1f5c82.jpg</picture>
@@ -2102,7 +2040,7 @@
       <offer id="X892840MCG3ED6384" available="true">
         <name>Volkswagen Transporter T6, 2016</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Volkswagen&amp;model=Transporter</url>
-        <price>4960000</price>
+        <price>4890000</price>
         <currencyId>RUR</currencyId>
         <categoryId>10</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/7899469/orig/b6c8c7ab406edc7286661bcc78a7c88f.jpg</picture>
