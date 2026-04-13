@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-13 11:08">
+<yml_catalog date="2026-04-13 12:59">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1293,37 +1293,6 @@
         <param name="Состояние">Новые</param>
         <param name="Модификация">300 2.0 AT (258 л.с.) 4WD</param>
       </offer>
-      <offer id="WBS81FK03SCU77287" available="true">
-        <name>BMW M5 VII (G90), 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=M5</url>
-        <price>19490000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8444859/orig/5222a6e6e03075b06f33ab86c03c0329.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8444859/orig/cea59d020245d6c7b2e64ba8ff4ddb94.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8444859/orig/6fe556be5b784d0802e4211d7388ba85.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8444859/orig/1abd346e5699ba1ce0cc0ed4ca3309f2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8444859/orig/e967bffd066f0e9f592f1cd4b56b1236.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8444859/orig/7037f9793ac9efc88e20d0d4f4244e1c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8444859/orig/d0bfd9a4a556050ce7183609824dc969.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8444859/orig/ae8ffd3bc71a52a091d5932e784d0e95.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8444859/orig/717b1559d7ecca1c41c76f6064fde61b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8444859/orig/873801f3238a3804968bbef00cdb9853.jpg</picture>
-        <description>2025 г., гибрид, 4.4 л, 727 л.с., автоматическая, полный привод, пробег 5 654 км, grey</description>
-        <vendor>BMW</vendor>
-        <model>M5</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">5654 км</param>
-        <param name="Двигатель">Гибрид</param>
-        <param name="Объём двигателя">4.4 л</param>
-        <param name="Мощность">727 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Седан</param>
-        <param name="Цвет">grey</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">4.4hyb AT (727 л.с.) 4WD</param>
-      </offer>
       <offer id="WBA21EV01S9Z80202" available="true">
         <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5</url>
@@ -1823,7 +1792,7 @@
       <offer id="WDD2221881A357837" available="true">
         <name>Mercedes-Benz S-Класс AMG III (W222, C217) Рестайлинг, 2017</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>6450000</price>
+        <price>6090000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8159424/orig/77c4e59379a8288909790e121c77438d.jpg</picture>
