@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-14 06:25">
+<yml_catalog date="2026-04-14 08:20">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -145,37 +145,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">2.0hyb CVT (197 л.с.)</param>
-      </offer>
-      <offer id="W1K2363471F119627" available="true">
-        <name>Mercedes-Benz CLE, 2026</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=CLE</url>
-        <price>10990000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>5</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8659667/orig/937c0b3ad063e6bc2017fcb76888b2a5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8659667/orig/6a6ae344e121e55b980e0cec5cee99f5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8659667/orig/4614f16fb9c97a7ee6b3ade4ee08c6ae.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8659667/orig/435b9ca81a576d33ca741281f91ff330.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8659667/orig/abdd317558c40292605ff7405e96ef32.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8659667/orig/6c720d34db36034b64af95d2d45f2735.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8659667/orig/d05814dbf9270aa215e70b14900968bc.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8659667/orig/681c9197f019661e2ff996c82c12de65.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8659667/orig/c211830bbfbe456f01487d7349d916bd.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8659667/orig/7634e0648b0fc4997233fca7952994bc.jpg</picture>
-        <description>2026 г., бензин, 2.0 л, 258 л.с., автоматическая, полный привод, новый, grey</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>CLE</model>
-        <param name="Год выпуска">2026</param>
-        <param name="Пробег">31 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">258 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Купе</param>
-        <param name="Цвет">grey</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">300 2.0 AT (258 л.с.) 4WD</param>
       </offer>
       <offer id="W1NWH5AB0TX081392" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2026</name>
