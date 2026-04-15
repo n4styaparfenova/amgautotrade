@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-15 12:58">
+<yml_catalog date="2026-04-15 14:43">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -56,7 +56,7 @@
       <offer id="W1V44781514607483" available="true">
         <name>Mercedes-Benz V-Класс III (W447) Рестайлинг 2, 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=V-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>14499000</price>
+        <price>14490000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8675764/orig/67b4519cd3e4a4229943a4f1411c54b3.jpg</picture>
@@ -180,7 +180,7 @@
       <offer id="W1NWH5AB0TX081392" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>34490000</price>
+        <price>33990000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8659665/orig/1186976fbbc0bebdbee711f94e73861c.jpg</picture>
@@ -366,7 +366,7 @@
       <offer id="W1VVNLTZ8T4617378" available="true">
         <name>Mercedes-Benz V-Класс III (W447) Рестайлинг 2, 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=V-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>14790000</price>
+        <price>14690000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8629572/orig/86156358400f1451254bfa4fc0b47c8c.jpg</picture>
@@ -490,7 +490,7 @@
       <offer id="W1NWH5AB2TX083788" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>33990000</price>
+        <price>39990000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8611159/orig/92801459675617139d5c5a5e3858ca7a.jpg</picture>
@@ -645,7 +645,7 @@
       <offer id="W1NWH5AB3TX080172" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>34490000</price>
+        <price>33490000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8592398/orig/c87425f0c1de9ff5d1038cbdc24f01ca.jpg</picture>
@@ -738,7 +738,7 @@
       <offer id="LB1WG3E60S8249244" available="true">
         <name>Mercedes-Benz Vito III (W447) Рестайлинг 2, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=Vito</url>
-        <price>9990000</price>
+        <price>9390000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8577940/orig/e1560b75f207722cd5a4c5bfbf1ed3d1.jpg</picture>
@@ -955,7 +955,7 @@
       <offer id="W1V44781514607372" available="true">
         <name>Mercedes-Benz V-Класс III (W447) Рестайлинг 2, 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=V-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>14790000</price>
+        <price>14690000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8552671/orig/01de1e1c3a164b93b554d5aaa62db3e5.jpg</picture>
@@ -1017,7 +1017,7 @@
       <offer id="JTHCDAAD7T5009079" available="true">
         <name>Lexus LM II, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Lexus&amp;model=LM</url>
-        <price>15460000</price>
+        <price>15190000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8535635/orig/f678f546b389902589b4eef38f6fe6a1.jpg</picture>
