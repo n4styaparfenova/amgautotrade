@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-15 11:47">
+<yml_catalog date="2026-04-15 12:58">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -331,37 +331,6 @@
         <param name="Цвет">silver</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">200 2.0 AT (204 л.с.) 4WD</param>
-      </offer>
-      <offer id="JTHCDAAD6T5009137" available="true">
-        <name>Lexus LM II, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Lexus&amp;model=LM</url>
-        <price>15490000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>4</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8629579/orig/0d0f6c65841167155ab12067d732e52b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629579/orig/75462f68063a951e114ec169cff8baa4.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629579/orig/2aae83f6e58c76dde95b48c0baaee8d4.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629579/orig/47f802418b73993c9b986e7900972596.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629579/orig/5579e313f91ce96e3b2a3812295ad88e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629579/orig/60d83bd98f22deccbccba8cf507fe9af.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629579/orig/291ef0f2616e65274b728de3eba1b3a3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629579/orig/5f94f443968513f7ffa7dc3afd03ac75.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629579/orig/8ce665a397840a021cc76daff055ef67.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629579/orig/02b26461bad81b1d4b16122349a9df63.jpg</picture>
-        <description>2025 г., гибрид, 2.5 л, 250 л.с., вариаторная, полный привод, новый, black</description>
-        <vendor>Lexus</vendor>
-        <model>LM</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">13 км</param>
-        <param name="Двигатель">Гибрид</param>
-        <param name="Объём двигателя">2.5 л</param>
-        <param name="Мощность">250 л.с.</param>
-        <param name="Коробка передач">Вариаторная</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Минивэн</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">350h 2.5hyb CVT (250 л.с.) 4WD</param>
       </offer>
       <offer id="WP0AD2996MS257163" available="true">
         <name>Porsche 911 VIII (992), 2020</name>
@@ -831,7 +800,7 @@
       <offer id="WBA21EV0009187776" available="true">
         <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5</url>
-        <price>16490000</price>
+        <price>17300000</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8577883/orig/fe8c4bc5fef4083bb077c1456d72865f.jpg</picture>
@@ -1013,37 +982,6 @@
         <param name="Цвет">grey</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">300 d экстра длинный 2.0d AT (237 л.с.) 4WD</param>
-      </offer>
-      <offer id="WBA21EV0909270204" available="true">
-        <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5</url>
-        <price>16760000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8535650/orig/022aaca9a45a8809f82a0b6d093032ae.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8535650/orig/f467510f55b31dceeb6877098a3eb4ab.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8535650/orig/76b87093e7cf79277ec7d1feac934934.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8535650/orig/90be60205014dca647727a671d34ab65.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8535650/orig/c87c3c6810042d55e4ab6c8e36b7cd9a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8535650/orig/4d1f8c59f800a00c93d0465954edb284.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8535650/orig/1e818d24d1d1a801990d6df13991d489.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8535650/orig/e506adad4b1bbfec94d9f62b88e54349.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8535650/orig/928b1e345f609fdaa27f7e546856982e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8535650/orig/abf6bf2c6d6a2b004cdc4e35cc4b9b2d.jpg</picture>
-        <description>2025 г., дизель, 3.0 л, 352 л.с., автоматическая, полный привод, новый, grey</description>
-        <vendor>BMW</vendor>
-        <model>X5</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">39 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">352 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">grey</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">40d 3.0d AT (352 л.с.) 4WD</param>
       </offer>
       <offer id="W1KLF4HB3SA177153" available="true">
         <name>Mercedes-Benz E-Класс VI (W214, S214), 2025</name>
