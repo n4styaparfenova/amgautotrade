@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-15 17:02">
+<yml_catalog date="2026-04-15 18:59">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -22,6 +22,37 @@
       <category id="11" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="5YM23CS08P9S29229" available="true">
+        <name>BMW XM, 2023</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=XM</url>
+        <price>18490000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8698237/orig/50ec0fcb604a8fdbe9a5926df647accd.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8698237/orig/4a0efb6f70a17b177ea29a304293b4a4.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8698237/orig/5a463ba91ab30151113d78e4b27246fa.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8698237/orig/112821f2d8e85c1dbe63d81faff0db88.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8698237/orig/a92c03c7ceb0f2fbe48ae0334ebdffb9.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8698237/orig/0a1ae1e05bddb2c1aaffbecdbefc8458.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8698237/orig/dca9beed727fa7fc5ac4e688a6aa273f.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8698237/orig/4ed0866fc739bf8e55a087d8931f1c47.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8698237/orig/d2e7114df5d1adaf9cd70004e8b6a1e8.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8698237/orig/28abc2cf8a714d1bdf4bfa2abf9466fc.jpg</picture>
+        <description>2023 г., гибрид, 4.4 л, 653 л.с., автоматическая, полный привод, пробег 21 355 км, black</description>
+        <vendor>BMW</vendor>
+        <model>XM</model>
+        <param name="Год выпуска">2023</param>
+        <param name="Пробег">21355 км</param>
+        <param name="Двигатель">Гибрид</param>
+        <param name="Объём двигателя">4.4 л</param>
+        <param name="Мощность">653 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">4.4hyb AT (653 л.с.) 4WD</param>
+      </offer>
       <offer id="SAL1A2BW7TA621693" available="true">
         <name>Land Rover Range Rover Sport III, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Land%20Rover&amp;model=Range%20Rover%20Sport</url>
