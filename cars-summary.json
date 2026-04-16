@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-16T08:21:58.663Z",
-  "total_cars": 74,
+  "updated_at": "2026-04-16T10:06:31.750Z",
+  "total_cars": 72,
   "brands": [
     "BMW",
     "Land Rover",
@@ -10,7 +10,6 @@
     "Porsche",
     "Rolls-Royce",
     "Toyota",
-    "Volkswagen",
     "Zeekr"
   ],
   "price_range": {

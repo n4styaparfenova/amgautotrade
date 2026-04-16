@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-16 08:21">
+<yml_catalog date="2026-04-16 10:06">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -18,8 +18,7 @@
       <category id="7" parentId="1">Porsche</category>
       <category id="8" parentId="1">Rolls-Royce</category>
       <category id="9" parentId="1">Toyota</category>
-      <category id="10" parentId="1">Volkswagen</category>
-      <category id="11" parentId="1">Zeekr</category>
+      <category id="10" parentId="1">Zeekr</category>
     </categories>
     <offers>
       <offer id="5YM23CS08P9S29229" available="true">
@@ -647,7 +646,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Zeekr&amp;model=9X</url>
         <price>10590000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
+        <categoryId>10</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8596612/orig/adefef8502e265f7bdc049f9f050a053.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8596612/orig/014c6a28e47a653c2fce122e9897406f.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8596612/orig/cf98516ea3ca00bb404da61d50adca1c.jpg</picture>
@@ -951,37 +950,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">40d 3.0d AT (352 л.с.) 4WD</param>
-      </offer>
-      <offer id="WBA21EN0X09173299" available="true">
-        <name>BMW X7 I (G07) Рестайлинг, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X7</url>
-        <price>17500000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8556833/orig/6e4f1e7eeec9aa51dcf5e3e7b2bc3d0b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8556833/orig/a5e90a76ba0b02f7dc719d94183e7d7e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8556833/orig/2273592d6b87eed5cb6da4ba78a336f9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8556833/orig/95c3826bc4e057cb8f7fab2ecd2461c3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8556833/orig/fad9cb7b19925fb71c03d4c131b29275.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8556833/orig/5648d27e75c3622aa5981bd57b46a7e9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8556833/orig/359776fa63561671a696d2390e24c9f9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8556833/orig/0027bc49a663615ffd4bb52ea8c16d8c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8556833/orig/e4b9557ebde42ffabcccd5770f3e67a2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8556833/orig/55cc481c30314b5283fc48dd90218de0.jpg</picture>
-        <description>2025 г., дизель, 3.0 л, 340 л.с., автоматическая, полный привод, новый, grey</description>
-        <vendor>BMW</vendor>
-        <model>X7</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">35 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">340 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">grey</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">40d 3.0d AT (340 л.с.) 4WD</param>
       </offer>
       <offer id="W1V44781514607372" available="true">
         <name>Mercedes-Benz V-Класс III (W447) Рестайлинг 2, 2026</name>
@@ -1453,7 +1421,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Zeekr&amp;model=9X</url>
         <price>12450000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
+        <categoryId>10</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8327271/orig/ce931f76ccffdc2d440be2d3fc6544bb.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8327271/orig/888a1dc263df4efbfe23f00d2751668c.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8327271/orig/1dd3e4bd702b57c0bc4959d0d1d59cd2.jpg</picture>
@@ -1732,7 +1700,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Zeekr&amp;model=9X</url>
         <price>11200000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
+        <categoryId>10</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8160156/orig/4c22deb539f9b5843639daeac1fceff0.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8160156/orig/985927b94296ce829d37544e73df32f2.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8160156/orig/ad5588f59b8deb61d930e3247f190605.jpg</picture>
@@ -2067,37 +2035,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">600 Long 5.5 AT (517 л.с.)</param>
-      </offer>
-      <offer id="X892840MCG3ED6384" available="true">
-        <name>Volkswagen Transporter T6, 2016</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Volkswagen&amp;model=Transporter</url>
-        <price>4890000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>10</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/7899469/orig/b6c8c7ab406edc7286661bcc78a7c88f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7899469/orig/c55f5c72e123449df1ac363a15c15def.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7899469/orig/111e09e995492743b783b7108fe57988.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7899469/orig/fb423fdc99e8d40c1451a24fc14d834c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7899469/orig/a7c06a7ba85219daf5a91d71199e3cd6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7899469/orig/9f0ba2274fb2a47f5e931334d772f054.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7899469/orig/637dc424fcb56436c1e249ff97155d94.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7899469/orig/d62e3e88baced7860271ebdd0192dfa1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7899469/orig/6364b547152a33004223c09a8f83269b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7899469/orig/ea3d310eca739d901ba27a0cf43539e0.jpg</picture>
-        <description>2016 г., дизель, 2.0 л, 180 л.с., роботизированная, полный привод, пробег 120 978 км, blue</description>
-        <vendor>Volkswagen</vendor>
-        <model>Transporter</model>
-        <param name="Год выпуска">2016</param>
-        <param name="Пробег">120978 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">180 л.с.</param>
-        <param name="Коробка передач">Роботизированная</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Минивэн</param>
-        <param name="Цвет">blue</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">2.0d AMT (180 л.с.) 4WD</param>
       </offer>
       <offer id="SALGA2BJ8JA509173" available="true">
         <name>Land Rover Range Rover IV Рестайлинг, 2018</name>
