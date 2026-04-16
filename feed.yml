@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-16 20:43">
+<yml_catalog date="2026-04-16 21:34">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -21,6 +21,99 @@
       <category id="10" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="WDD2163741A032097" available="true">
+        <name>Mercedes-Benz CL-Класс AMG II (C216) Рестайлинг, 2013</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=CL-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
+        <price>4490000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8710181/orig/66980f8b4ffec4b5e9302f8047fad062.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8710181/orig/0bad0abc4d957d00df93d612bccfa8ca.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8710181/orig/8d0f54df1d169b031a11abbdf2b2ae85.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8710181/orig/c4501542c95aa2430db300fd3219e283.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8710181/orig/72f998750130cdf53126268a5021f754.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8710181/orig/08195ac081a35041da4895e953b50d38.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8710181/orig/416e21eaeaf7c0041d6b09a37dd57569.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8710181/orig/a9dce3d67bc7d8c63d2eeb8b3c6e6d21.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8710181/orig/88ec927ce0682004d634bcabdbe25500.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8710181/orig/f6f10df1c4586e0649bfda0b04f16532.jpg</picture>
+        <description>2013 г., бензин, 5.5 л, 544 л.с., автоматическая, задний привод, пробег 152 863 км, brown</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>CL-Класс AMG</model>
+        <param name="Год выпуска">2013</param>
+        <param name="Пробег">152863 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">5.5 л</param>
+        <param name="Мощность">544 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Задний</param>
+        <param name="Кузов">Купе</param>
+        <param name="Цвет">brown</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">63 AMG 5.5 AT (544 л.с.)</param>
+      </offer>
+      <offer id="W1NKJ4HB1TF492342" available="true">
+        <name>Mercedes-Benz GLC Coupe II (C254), 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLC%20Coupe</url>
+        <price>9390000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8710180/orig/d3c067d3f3ab086d7825a78ecb2aed98.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8710180/orig/d23d1493db15586e94ce1184bb218854.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8710180/orig/99c2f347603bc10556c2e77d69fab41f.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8710180/orig/faeb1e69d469cc4f520699afb021af8c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8710180/orig/522eaaa85c7b9c8c712ab5019dd64e5c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8710180/orig/2430d008962bb529428f1fcfb8e16ded.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8710180/orig/cc1af996e02304a353e81243c953b3e8.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8710180/orig/ae9852ba7d0d03cca6dae26e2fff2be3.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8710180/orig/78c165e7e8450952f0f264c9389d34a1.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8710180/orig/55f2fcfb62284f5f7ee6126c8c68682d.jpg</picture>
+        <description>2025 г., бензин, 2.0 л, 258 л.с., автоматическая, полный привод, новый, white</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>GLC Coupe</model>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег">15 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">2.0 л</param>
+        <param name="Мощность">258 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">white</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">300 2.0 AT (258 л.с.) 4WD</param>
+      </offer>
+      <offer id="JTNGK3DH008017906" available="true">
+        <name>Toyota Alphard III, 2016</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Alphard</url>
+        <price>4590000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8710178/orig/f39459b63531f207ec9298a3b577ed22.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8710178/orig/18a70806d955b0c03a5a9c3b2cc2e676.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8710178/orig/d06d9e3791dc5966e016685102368fa3.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8710178/orig/37ec1d11d987c9d0ecf5d6d6e553352c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8710178/orig/bfd69f929dd00b02af25ce9bd06a9a97.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8710178/orig/0f6675cb42d6d3f49339d8fe9de51fc6.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8710178/orig/4dd9165e4d53a9dff96e366c7b1d9a1c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8710178/orig/dab69028d5e635eed9fc0ed5c33eb6fd.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8710178/orig/d8ec72b3ffa6b1ca8f183e0e284b2fd7.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8710178/orig/b1b0e44a9c9dfdcd7afba35d9779d060.jpg</picture>
+        <description>2016 г., бензин, 3.5 л, 275 л.с., автоматическая, передний привод, пробег 157 780 км, black</description>
+        <vendor>Toyota</vendor>
+        <model>Alphard</model>
+        <param name="Год выпуска">2016</param>
+        <param name="Пробег">157780 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">3.5 л</param>
+        <param name="Мощность">275 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Передний</param>
+        <param name="Кузов">Минивэн</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">3.5 AT (275 л.с.)</param>
+      </offer>
       <offer id="SALGA2FF6EA164138" available="true">
         <name>Land Rover Range Rover IV, 2014</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Land%20Rover&amp;model=Range%20Rover</url>
