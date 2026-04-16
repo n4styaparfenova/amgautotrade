@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-16T15:17:15.631Z",
-  "total_cars": 72,
+  "updated_at": "2026-04-16T17:02:35.638Z",
+  "total_cars": 69,
   "brands": [
     "BMW",
     "Land Rover",
@@ -14,6 +14,6 @@
   ],
   "price_range": {
     "min": 2650000,
-    "max": 39990000
+    "max": 34250000
   }
 }
