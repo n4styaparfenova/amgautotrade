@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-16 17:02">
+<yml_catalog date="2026-04-16 18:58">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -21,6 +21,37 @@
       <category id="10" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="SALGA2FF6EA164138" available="true">
+        <name>Land Rover Range Rover IV, 2014</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Land%20Rover&amp;model=Range%20Rover</url>
+        <price>5290000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8701341/orig/2294322b0c575498a90e7ef7cb7bd44e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8701341/orig/cb23ee2a3d95d61b9ffca7e718c38945.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8701341/orig/38e757ae5afaf7a6209087d59217b11f.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8701341/orig/1717ce801f4aa28cc2f05bc9b8ae78f0.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8701341/orig/37e468860e125f6787172425eb04daf4.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8701341/orig/81874a36dc2f6fc35c8b464f576e7422.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8701341/orig/1b89d7fb004af239da343903ce56ff0e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8701341/orig/ccca53165ee426e8b3a2e209f8e99f5a.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8701341/orig/1bfab952a032e866301a4626f1ce77c7.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8701341/orig/919f57d87ba5b2b0c5b9155cfe76e8a4.jpg</picture>
+        <description>2014 г., дизель, 3.0 л, 248 л.с., автоматическая, полный привод, пробег 60 789 км, black</description>
+        <vendor>Land Rover</vendor>
+        <model>Range Rover</model>
+        <param name="Год выпуска">2014</param>
+        <param name="Пробег">60789 км</param>
+        <param name="Двигатель">Дизель</param>
+        <param name="Объём двигателя">3.0 л</param>
+        <param name="Мощность">248 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">3.0d AT (248 л.с.) 4WD</param>
+      </offer>
       <offer id="5YM23CS08P9S29229" available="true">
         <name>BMW XM, 2023</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=XM</url>
