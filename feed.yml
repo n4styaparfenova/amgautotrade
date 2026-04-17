@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-17 12:54">
+<yml_catalog date="2026-04-17 14:16">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -920,37 +920,6 @@
         <param name="Состояние">Новые</param>
         <param name="Модификация">30d 3.0d AT (286 л.с.) 4WD</param>
       </offer>
-      <offer id="WBA21EV0009187776" available="true">
-        <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5</url>
-        <price>17300000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8577883/orig/fe8c4bc5fef4083bb077c1456d72865f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8577883/orig/4c8b45f5837180d354d199f2dc111af2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8577883/orig/1f229b0c045760cfec32d064c7ac5e9a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8577883/orig/710333164223bb234c4b101eb111b82a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8577883/orig/fcdbc5bffa503d905bb552e2d44c489c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8577883/orig/1bbad6bad6150218b6deca6cff8f8309.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8577883/orig/b0317a2cb84aafac86cc411bb76e5d8b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8577883/orig/d7a44378db6203671a0e7ca1b1564946.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8577883/orig/b50e59f4ba192efed5df8023c038d132.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8577883/orig/db8c9c25eac443a9c40f455dc15fea2f.jpg</picture>
-        <description>2025 г., дизель, 3.0 л, 352 л.с., автоматическая, полный привод, новый, blue</description>
-        <vendor>BMW</vendor>
-        <model>X5</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">29 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">352 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">blue</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">40d 3.0d AT (352 л.с.) 4WD</param>
-      </offer>
       <offer id="SALGA2BJ9KA553667" available="true">
         <name>Land Rover Range Rover IV Рестайлинг, 2019</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Land%20Rover&amp;model=Range%20Rover</url>
@@ -1140,7 +1109,7 @@
       <offer id="WBA11EY0X09148426" available="true">
         <name>BMW X6 III (G06) Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X6</url>
-        <price>14990000</price>
+        <price>15800000</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8524981/orig/a102ef7cb96fa541f9aeac553a1f5c82.jpg</picture>
