@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-20 09:47">
+<yml_catalog date="2026-04-20 11:10">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1167,37 +1167,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
-      </offer>
-      <offer id="SCATV0102MU206083" available="true">
-        <name>Rolls-Royce Ghost II, 2021</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Rolls-Royce&amp;model=Ghost</url>
-        <price>24990000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>8</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8484566/orig/602c1e623e8ef12838ec5fdcd21f33a9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8484566/orig/f97435ef558b62106aaf9e8d0c590166.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8484566/orig/10d807b156c237e550b94aca2cbd7b37.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8484566/orig/67a6ae00dd2296fc560218baeae61c51.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8484566/orig/d181263da95f5263c07e2ae802aef547.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8484566/orig/72c139599e7b159d850db8a2ff23ae48.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8484566/orig/aa048fbb0e68fe6be7138a87cfac3251.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8484566/orig/1d422521d3bfdefc0128443f11edafca.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8484566/orig/4ef2c3d008e673ae08bc75b539cbca6b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8484566/orig/964e1cf6b8629cb3a0b79277f3ab4b91.jpg</picture>
-        <description>2021 г., бензин, 6.7 л, 571 л.с., автоматическая, полный привод, пробег 67 026 км, blue</description>
-        <vendor>Rolls-Royce</vendor>
-        <model>Ghost</model>
-        <param name="Год выпуска">2021</param>
-        <param name="Пробег">67026 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">6.7 л</param>
-        <param name="Мощность">571 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Седан</param>
-        <param name="Цвет">blue</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">Extended 6.8 AT (571 л.с.) 4WD</param>
       </offer>
       <offer id="WBA11EV0109293911" available="true">
         <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
