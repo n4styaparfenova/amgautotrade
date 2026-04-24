@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-24 11:51">
+<yml_catalog date="2026-04-24 12:58">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1818,37 +1818,6 @@
         <param name="Цвет">blue</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">M50d 3.0d AT (400 л.с.) 4WD</param>
-      </offer>
-      <offer id="L6T795ND4SN115253" available="true">
-        <name>Zeekr 9X, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Zeekr&amp;model=9X</url>
-        <price>11200000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>10</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8160156/orig/4c22deb539f9b5843639daeac1fceff0.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8160156/orig/985927b94296ce829d37544e73df32f2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8160156/orig/ad5588f59b8deb61d930e3247f190605.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8160156/orig/8b225f9c55ec6d4996cb96d78d6759fe.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8160156/orig/8f1b07f7ca64eb301173e0304e667afd.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8160156/orig/ab29cdeae8d3628c42a514761ca8c1e8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8160156/orig/b29449b501a13ff514b603e8d0d3c45b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8160156/orig/9a5e7ccd7835800c32c604558b56f11a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8160156/orig/7b38d9df5d0a19ab9a62f085c1c6b31b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8160156/orig/e5d46004862cd7e88c79ef7285dcbf7d.jpg</picture>
-        <description>2025 г., гибрид, 2.0 л, 898 л.с., автоматическая, полный привод, новый, white</description>
-        <vendor>Zeekr</vendor>
-        <model>9X</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">37 км</param>
-        <param name="Двигатель">Гибрид</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">898 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">white</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">70 kWh 2.0hyb AT (898 л.с.) 4WD</param>
       </offer>
       <offer id="WDD2221881A357837" available="true">
         <name>Mercedes-Benz S-Класс AMG III (W222, C217) Рестайлинг, 2017</name>
