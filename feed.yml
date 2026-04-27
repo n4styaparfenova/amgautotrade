@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-27 10:04">
+<yml_catalog date="2026-04-27 12:15">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -458,7 +458,7 @@
       <offer id="5YM23CS08P9S29229" available="true">
         <name>BMW XM, 2023</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=XM</url>
-        <price>18290000</price>
+        <price>17990000</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8698237/orig/50ec0fcb604a8fdbe9a5926df647accd.jpg</picture>
