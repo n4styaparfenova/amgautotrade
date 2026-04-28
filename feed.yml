@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-28 08:05">
+<yml_catalog date="2026-04-28 10:53">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -21,6 +21,37 @@
       <category id="10" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="W1KLF4HB5SA179907" available="true">
+        <name>Mercedes-Benz E-Класс VI (W214, S214), 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
+        <price>8300000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8772176/orig/55c043bbc77009b67c5306d29191ddcd.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8772176/orig/4a8dc59b3ddcc0018a2250c0919207d8.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8772176/orig/0efc823c91928459ea1f748bca07965b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8772176/orig/f58abbfb9e4d65896ea395b74cbdf788.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8772176/orig/35df2c1443faf73a19154dcee0e93da4.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8772176/orig/44b8e9ba68b7e739410d7098ca762a9c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8772176/orig/36149196c533f6293998a7e31f9b2b45.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8772176/orig/b25f55a1fbbadcbf8e3f93cdd0114a5c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8772176/orig/31758a851536ae66280aec828496f4cc.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8772176/orig/d61cda94545e76be5c530a941dfdb0d3.jpg</picture>
+        <description>2025 г., бензин, 2.0 л, 258 л.с., автоматическая, полный привод, новый, black</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>E-Класс</model>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег">20 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">2.0 л</param>
+        <param name="Мощность">258 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Седан</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">300 2.0 AT (258 л.с.) 4WD</param>
+      </offer>
       <offer id="W1NFD0KB7SB387420" available="true">
         <name>Mercedes-Benz GLE Coupe II (C167) Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLE%20Coupe</url>
