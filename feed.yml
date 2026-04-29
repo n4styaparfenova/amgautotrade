@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-29 15:01">
+<yml_catalog date="2026-04-29 17:16">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1574,7 +1574,7 @@
       <offer id="L6T795ND0SN120806" available="true">
         <name>Zeekr 9X, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Zeekr&amp;model=9X</url>
-        <price>12450000</price>
+        <price>9990000</price>
         <currencyId>RUR</currencyId>
         <categoryId>10</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8327271/orig/ce931f76ccffdc2d440be2d3fc6544bb.jpg</picture>
@@ -1587,11 +1587,11 @@
         <picture>https://img.maxposter.ru/photo/11973/8327271/orig/fd5ff1ed634eb6ac2bad1788c7ac150c.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8327271/orig/ca3037109a766539d7583950c03d4525.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8327271/orig/7d3b74650d187a4edafa1b6a91aff87e.jpg</picture>
-        <description>2025 г., гибрид, 2.0 л, 898 л.с., автоматическая, полный привод, пробег 404 км, black</description>
+        <description>2025 г., гибрид, 2.0 л, 898 л.с., автоматическая, полный привод, пробег 5 500 км, black</description>
         <vendor>Zeekr</vendor>
         <model>9X</model>
         <param name="Год выпуска">2025</param>
-        <param name="Пробег">404 км</param>
+        <param name="Пробег">5500 км</param>
         <param name="Двигатель">Гибрид</param>
         <param name="Объём двигателя">2.0 л</param>
         <param name="Мощность">898 л.с.</param>
