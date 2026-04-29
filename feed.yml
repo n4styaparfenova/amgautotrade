@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-29 10:04">
+<yml_catalog date="2026-04-29 12:10">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -458,7 +458,7 @@
       <offer id="WDD2163741A032097" available="true">
         <name>Mercedes-Benz CL-Класс AMG II (C216) Рестайлинг, 2013</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=CL-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>4490000</price>
+        <price>4290000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8710181/orig/66980f8b4ffec4b5e9302f8047fad062.jpg</picture>
@@ -1415,37 +1415,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">350h 2.5hyb CVT (250 л.с.) 4WD</param>
-      </offer>
-      <offer id="W1NWH5AB7TX079493" available="true">
-        <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2026</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>34250000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>5</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8514733/orig/9a5c56c5042dc7c0019dadada42cb6ef.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8514733/orig/fa66f9553a70ae20f38d26bbdfd631df.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8514733/orig/c01c6c70b20d6d1e1fe96c3ebb684a98.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8514733/orig/d3ed9fa15f5a5c4eeae1aedd792924be.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8514733/orig/87f69d95552f1d042bdc1ef409912350.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8514733/orig/2e43d9ef577579d29e39e6747c39f991.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8514733/orig/cb3a4ff38b16b891e85b8d87b0938901.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8514733/orig/4ad00fce758dcb7fca17a0698e364c17.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8514733/orig/93132316a28433771222b4018b127a1a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8514733/orig/49c50fbe9d2c77049941c1f7ae4af968.jpg</picture>
-        <description>2026 г., бензин, 4.0 л, 585 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>G-Класс AMG</model>
-        <param name="Год выпуска">2026</param>
-        <param name="Пробег">79 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">4.0 л</param>
-        <param name="Мощность">585 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
       </offer>
       <offer id="WBA21EV0109270195" available="true">
         <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
