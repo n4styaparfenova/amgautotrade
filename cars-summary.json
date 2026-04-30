@@ -1,8 +1,10 @@
 {
-  "updated_at": "2026-04-30T12:07:34.390Z",
-  "total_cars": 69,
+  "updated_at": "2026-04-30T14:58:08.111Z",
+  "total_cars": 71,
   "brands": [
+    "Audi",
     "BMW",
+    "Cadillac",
     "Land Rover",
     "Lexus",
     "Mercedes-Benz",
