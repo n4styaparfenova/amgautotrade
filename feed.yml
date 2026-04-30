@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-30 14:58">
+<yml_catalog date="2026-04-30 16:16">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -53,6 +53,37 @@
         <param name="Цвет">grey</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">45 TDI 3.0d AT (249 л.с.) 4WD</param>
+      </offer>
+      <offer id="W1NKJ8HB9TF477630" available="true">
+        <name>Mercedes-Benz GLC Coupe AMG II (C254), 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLC%20Coupe%20AMG</url>
+        <price>10490000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8823291/orig/0a7c38c133494395b5ee0a4f4de65f69.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8823291/orig/210b78b03a14ed37e36fc98a684e9507.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8823291/orig/7ca4eb391636e38b872eb316f0167067.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8823291/orig/9101f92f2dfc304f103e367c46269dab.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8823291/orig/5aa008926432f9276a87e6734bb8a966.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8823291/orig/a44313ebfc95276b936211ca93150bfd.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8823291/orig/d9bb1e10f6f4888016362d01dda1fb68.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8823291/orig/fbb40a04a27300f0e6c5c1463c9fd91e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8823291/orig/5da7015a3cfa43338540a5a8d23df532.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8823291/orig/7fac11aaaa9a400fae6f99b1a1f0a70f.jpg</picture>
+        <description>2025 г., бензин, 2.0 л, 421 л.с., автоматическая, полный привод, пробег 3 531 км, black</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>GLC Coupe AMG</model>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег">3531 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">2.0 л</param>
+        <param name="Мощность">421 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">43 AMG 2.0 AT (421 л.с.) 4WD</param>
       </offer>
       <offer id="1GYS97R90SR308450" available="true">
         <name>Cadillac Escalade-V I Рестайлинг, 2025</name>
