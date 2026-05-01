@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-01 17:49">
+<yml_catalog date="2026-05-01 18:56">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1170,37 +1170,6 @@
         <param name="Состояние">Новые</param>
         <param name="Модификация">450 d 3.0d AT (367 л.с.) 4WD</param>
       </offer>
-      <offer id="L6T795ND2SN112318" available="true">
-        <name>Zeekr 9X, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Zeekr&amp;model=9X</url>
-        <price>10490000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>12</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8596612/orig/adefef8502e265f7bdc049f9f050a053.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8596612/orig/014c6a28e47a653c2fce122e9897406f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8596612/orig/cf98516ea3ca00bb404da61d50adca1c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8596612/orig/55a5edcb7f747c457407df1d4ce3bffc.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8596612/orig/ed311018555d50603491bc79fbdb3a0d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8596612/orig/0fd5d41c78564fd8a5e950b50a225a6b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8596612/orig/bd132e6e675d4960cfd64655843c614e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8596612/orig/0dafcef7503906facb3734dedbebf049.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8596612/orig/49db26d15335a92f5a6a512b5890b712.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8596612/orig/34bf32409af7e4e1791fb73a2acde075.jpg</picture>
-        <description>2025 г., гибрид, 2.0 л, 898 л.с., автоматическая, полный привод, пробег 1 038 км, black</description>
-        <vendor>Zeekr</vendor>
-        <model>9X</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">1038 км</param>
-        <param name="Двигатель">Гибрид</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">898 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">70 kWh 2.0hyb AT (898 л.с.) 4WD</param>
-      </offer>
       <offer id="W1NWH5AB3TX080172" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
@@ -1855,7 +1824,7 @@
       <offer id="WDD2221881A357837" available="true">
         <name>Mercedes-Benz S-Класс AMG III (W222, C217) Рестайлинг, 2017</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>6090000</price>
+        <price>5890000</price>
         <currencyId>RUR</currencyId>
         <categoryId>7</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8159424/orig/77c4e59379a8288909790e121c77438d.jpg</picture>
