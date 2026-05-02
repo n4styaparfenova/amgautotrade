@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-02 16:35">
+<yml_catalog date="2026-05-02 17:35">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -417,6 +417,37 @@
         <model>G-Класс AMG</model>
         <param name="Год выпуска">2026</param>
         <param name="Пробег">13 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">4.0 л</param>
+        <param name="Мощность">585 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
+      </offer>
+      <offer id="W1NWH5AB4SX055277" available="true">
+        <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
+        <price>31990000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8748799/orig/e09d5e08ed9b0429564d6d060411da5d.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8748799/orig/b3b31a18d71d3983fe62f36fe90b224f.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8748799/orig/9f4979cb98e017724c8f44fdbae3a448.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8748799/orig/cdb836b1367acb8a519aac3116bf5baa.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8748799/orig/c3d2fd300d7451b4a6a878b225486145.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8748799/orig/41cce19bc990778f9ede0fa3b54aebd9.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8748799/orig/aab056516945806066e839cf3d7d3abb.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8748799/orig/0a01ca75d3ac9b200c705a1b042b9e38.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8748799/orig/3db9e822f3b22ca3c41f95f4a917c832.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8748799/orig/b8d5c212fd3e9e0766b867a15c1a9841.jpg</picture>
+        <description>2025 г., бензин, 4.0 л, 585 л.с., автоматическая, полный привод, новый, black</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>G-Класс AMG</model>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег">28 км</param>
         <param name="Двигатель">Бензин</param>
         <param name="Объём двигателя">4.0 л</param>
         <param name="Мощность">585 л.с.</param>
