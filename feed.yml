@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-03 21:32">
+<yml_catalog date="2026-05-03 22:30">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -24,6 +24,99 @@
       <category id="13" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="LVGEU76A3TG057191" available="true">
+        <name>Toyota Highlander IV (XU70), 2026</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Highlander</url>
+        <price>5699000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8836836/orig/a2ee94c204122b9fa86e9e696d0bc1bb.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8836836/orig/e752db373e7a15e877efb8a6b52d6939.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8836836/orig/ab9b9e9d0537290f83a7eb441dd08485.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8836836/orig/43b1ef5a22787c4776c2aeb2790c4212.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8836836/orig/12c661ca632d9d0e3a399dda5c0a69b6.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8836836/orig/7310ac249a5bc97623103a8f35c12df3.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8836836/orig/9dce30bfd292defd64142d1dce0051fa.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8836836/orig/a3047ea9c50c550503c2479f61aa104b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8836836/orig/0b545411eff0a7a488267b8178f533d8.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8836836/orig/bd772562a220118d6da491dd774095de.jpg</picture>
+        <description>2026 г., бензин, 2.0 л, 248 л.с., автоматическая, полный привод, новый, black</description>
+        <vendor>Toyota</vendor>
+        <model>Highlander</model>
+        <param name="Год выпуска">2026</param>
+        <param name="Пробег">8 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">2.0 л</param>
+        <param name="Мощность">248 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">2.0 AT (248 л.с.) 4WD</param>
+      </offer>
+      <offer id="LFMJBFBF2T3006384" available="true">
+        <name>Toyota RAV4 VI (XA60), 2026</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=RAV4</url>
+        <price>4499000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8836835/orig/6ba8c943ed88d3dffa050e7e02bd2682.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8836835/orig/5a5e4b1e51440e60121a506a8662b4ae.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8836835/orig/5f343fe97cba71c0aeeb3dbdb205a158.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8836835/orig/b94d43e6ed2b56a797de83758bdc1164.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8836835/orig/6cd57e509866b9580d860d5f43cdf83f.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8836835/orig/4ae96fb336e00985c296a75b1cb33608.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8836835/orig/475d4c6c39de3811bef8563fa457134d.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8836835/orig/83d8617b244959548c2943a7bf88029a.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8836835/orig/a1b93df3c9ce20b7d2f6c31fb5932f8e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8836835/orig/98119701fc5f9f4de12c3390f4bcf686.jpg</picture>
+        <description>2026 г., бензин, 2.0 л, 171 л.с., вариаторная, полный привод, новый, black</description>
+        <vendor>Toyota</vendor>
+        <model>RAV4</model>
+        <param name="Год выпуска">2026</param>
+        <param name="Пробег">9 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">2.0 л</param>
+        <param name="Мощность">171 л.с.</param>
+        <param name="Коробка передач">Вариаторная</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">2.0 CVT (171 л.с.) 4WD</param>
+      </offer>
+      <offer id="W1NFF3DEXTB603751" available="true">
+        <name>Mercedes-Benz GLS II (X167) Рестайлинг, 2026</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLS</url>
+        <price>18490000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8836832/orig/0421305f441c63e1b033aad8966a2ba9.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8836832/orig/4e843a6c4fe15e98a6551094c7efd8fd.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8836832/orig/d230e60ab7eb56245a8c8c2147a0058c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8836832/orig/4a110eb670dccf7629151bf652487205.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8836832/orig/50bab9ab8677fe5793b144d8d57aef35.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8836832/orig/177612dbcaae34edfde7b328c5018d17.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8836832/orig/12e2565742cd73e7972e1faf7b7d1fcc.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8836832/orig/319c8f813b8736893dfee12f8da459c0.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8836832/orig/0a8eabcefbda9c21f91d036720498267.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8836832/orig/d5a4e73870edd4c7f66dc5f133c2e761.jpg</picture>
+        <description>2026 г., дизель, 3.0 л, 367 л.с., автоматическая, полный привод, новый, black</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>GLS</model>
+        <param name="Год выпуска">2026</param>
+        <param name="Пробег">43 км</param>
+        <param name="Двигатель">Дизель</param>
+        <param name="Объём двигателя">3.0 л</param>
+        <param name="Мощность">367 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">450 d 3.0d AT (367 л.с.) 4WD</param>
+      </offer>
       <offer id="WBS81FK04SCT00151" available="true">
         <name>BMW M5 VII (G90), 2024</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=M5</url>
@@ -54,6 +147,68 @@
         <param name="Цвет">black</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">4.4hyb AT (727 л.с.) 4WD</param>
+      </offer>
+      <offer id="JTHADAAD6T5009114" available="true">
+        <name>Lexus LM II, 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Lexus&amp;model=LM</url>
+        <price>17990000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8834663/orig/0f0a0946afe329c10cf3c34269d95ba3.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8834663/orig/51dc091112bf5058ac0f88d90e4881ec.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8834663/orig/a5acb67bbf202446d8a7955c3adccd0c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8834663/orig/6452f741949fc99785c437ec85670758.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8834663/orig/23af21b2ae0cfa2b4483fd3f006392be.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8834663/orig/b6b01e12dcd534fb25e9e81e0dfb7c42.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8834663/orig/b6d68154f6ce971e8df1b41323319a65.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8834663/orig/3df7a3b653fd47a515d084cf256fe5dd.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8834663/orig/9ddec32862bf7783ea34c800051db435.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8834663/orig/025be7252024feda2480306f26217690.jpg</picture>
+        <description>2025 г., гибрид, 2.5 л, 250 л.с., вариаторная, полный привод, новый, black</description>
+        <vendor>Lexus</vendor>
+        <model>LM</model>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег">27 км</param>
+        <param name="Двигатель">Гибрид</param>
+        <param name="Объём двигателя">2.5 л</param>
+        <param name="Мощность">250 л.с.</param>
+        <param name="Коробка передач">Вариаторная</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Минивэн</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">350h 2.5hyb CVT (250 л.с.) 4WD</param>
+      </offer>
+      <offer id="W1NWH5AB3TX080639" available="true">
+        <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2026</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
+        <price>32990000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8834662/orig/e652c9336f00e65c387808465315f3d5.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8834662/orig/71e376aa9206549ba80e7cb0efa97698.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8834662/orig/585a45ef19d0b3c90342bd5ea080e044.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8834662/orig/1c5f2bacc3a9ef1d353a0a77f08172d3.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8834662/orig/9be15c470ae1e95e099faa87597ec33c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8834662/orig/a6c4207086f8f2397c49b0f5f22f29f8.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8834662/orig/ef2798afb56934764e0c9369efe3fda4.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8834662/orig/6b737e93aba03ac55e74da8513f5322c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8834662/orig/3757aa54f9ea81e68e9e6934262841cd.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8834662/orig/d8fe3abd008c4131639226d1dbef9472.jpg</picture>
+        <description>2026 г., бензин, 4.0 л, 585 л.с., автоматическая, полный привод, новый, black</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>G-Класс AMG</model>
+        <param name="Год выпуска">2026</param>
+        <param name="Пробег">63 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">4.0 л</param>
+        <param name="Мощность">585 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
       </offer>
       <offer id="W1NWH5AB4TX086935" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2026</name>
