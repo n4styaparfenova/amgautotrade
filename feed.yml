@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-03 09:12">
+<yml_catalog date="2026-05-03 10:43">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -24,6 +24,37 @@
       <category id="13" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="WBS81FK04SCT00151" available="true">
+        <name>BMW M5 VII (G90), 2024</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=M5</url>
+        <price>19950000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8835733/orig/b62afda38e0c66bc51706e7dfd04c241.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8835733/orig/ece9fea55dc2cedeeec47054fad67a4d.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8835733/orig/74339d49e42883be856b0e76d820a7e6.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8835733/orig/c05e99e905f2dd190c26c1c31aeff65a.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8835733/orig/bc76a4a47f1bba264134ba14a837f0d5.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8835733/orig/883c29dbda5bbf16e407e0acd65b17e0.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8835733/orig/4e3611f14c8c653c058168527375f39a.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8835733/orig/0721e0dc5c6a04035bdad54602dd3c51.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8835733/orig/17325b3101830dcf557f716e417ef897.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8835733/orig/3f6bb439e8f387ef3cda82ee7a37d877.jpg</picture>
+        <description>2024 г., гибрид, 4.4 л, 727 л.с., автоматическая, полный привод, пробег 7 495 км, black</description>
+        <vendor>BMW</vendor>
+        <model>M5</model>
+        <param name="Год выпуска">2024</param>
+        <param name="Пробег">7495 км</param>
+        <param name="Двигатель">Гибрид</param>
+        <param name="Объём двигателя">4.4 л</param>
+        <param name="Мощность">727 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Седан</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">4.4hyb AT (727 л.с.) 4WD</param>
+      </offer>
       <offer id="W1NWH5AB4TX086935" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
