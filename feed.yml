@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-03 07:46">
+<yml_catalog date="2026-05-03 09:12">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -309,16 +309,16 @@
         <price>13200000</price>
         <currencyId>RUR</currencyId>
         <categoryId>8</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8818751/orig/64cd9b5f5c60afcd21e21f50029bd1b5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8818751/orig/aabe55e0a702068c9d403509ff490f6c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8818751/orig/e3b80d32aa93df38907cf38c1ebd1b57.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8818751/orig/9fe70dd78ffc455f20d8cb95a817e10a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8818751/orig/3f4066ac239417e396765cd57763dfcf.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8818751/orig/4a2456a7c37446723fc481f465a1be43.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8818751/orig/7858c8884150279ae0e163de6b369bfa.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8818751/orig/176ab9e83b81cf3dc9c3eacdfcea34e1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8818751/orig/53fa53a34b2f9ee687916eb51a317728.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8818751/orig/50d5534437bc6ba2ddb63a1ec28e160f.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8818751/orig/881ed0ec5e4f47128e30d2b563030ffa.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8818751/orig/57f65d56e2a9113171331da10a30f055.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8818751/orig/0d2e797f11b9a6ca89ebd94048636dbf.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8818751/orig/902c3429a1714fea238729468c008d81.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8818751/orig/997f7fcf3f245bc0149630550b8fe8c9.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8818751/orig/be13d0f94e5543ebde8dcc28920f4c23.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8818751/orig/7913e25f99d0461d3d2454d8f3617d5f.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8818751/orig/143471de6ad3b50a955e3c1243b55712.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8818751/orig/07c693dd148cd21e06771a7714944735.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8818751/orig/76a41f8ecc5ca6148cfeff621a044ea5.jpg</picture>
         <description>2018 г., бензин, 4.0 л, 612 л.с., автоматическая, полный привод, пробег 53 349 км, grey</description>
         <vendor>Mercedes-Benz</vendor>
         <model>S-Класс AMG</model>
