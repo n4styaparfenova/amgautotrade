@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-04 05:24">
+<yml_catalog date="2026-05-04 08:15">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -366,7 +366,7 @@
         <param name="Модификация">D350 3.0d AT (350 л.с.) 4WD</param>
       </offer>
       <offer id="W1NFF3DE8TB601495" available="true">
-        <name>Mercedes-Benz GLS II (X167) Рестайлинг, 2025</name>
+        <name>Mercedes-Benz GLS II (X167) Рестайлинг, 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLS</url>
         <price>19490000</price>
         <currencyId>RUR</currencyId>
@@ -381,10 +381,10 @@
         <picture>https://img.maxposter.ru/photo/11973/8827115/orig/09bf04f55a6ec13254c32935292bb8aa.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8827115/orig/4ea912fb19b83234c69e65611bf106b2.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8827115/orig/a111b3d7a48506f8e2b98e31b57ad4eb.jpg</picture>
-        <description>2025 г., дизель, 3.0 л, 367 л.с., автоматическая, полный привод, новый, black</description>
+        <description>2026 г., дизель, 3.0 л, 367 л.с., автоматическая, полный привод, новый, black</description>
         <vendor>Mercedes-Benz</vendor>
         <model>GLS</model>
-        <param name="Год выпуска">2025</param>
+        <param name="Год выпуска">2026</param>
         <param name="Пробег">59 км</param>
         <param name="Двигатель">Дизель</param>
         <param name="Объём двигателя">3.0 л</param>
@@ -678,7 +678,7 @@
       <offer id="W1NFD0KB7SB387420" available="true">
         <name>Mercedes-Benz GLE Coupe II (C167) Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLE%20Coupe</url>
-        <price>12100000</price>
+        <price>11945000</price>
         <currencyId>RUR</currencyId>
         <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8748797/orig/6c90a95df693110edeebb2dabb6aa483.jpg</picture>
