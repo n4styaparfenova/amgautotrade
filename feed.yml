@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-06 08:05">
+<yml_catalog date="2026-05-06 10:55">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1171,37 +1171,6 @@
         <param name="Состояние">Новые</param>
         <param name="Модификация">300 d экстра длинный 2.0d AT (237 л.с.) 4WD</param>
       </offer>
-      <offer id="WBA21EN0809095931" available="true">
-        <name>BMW X7 I (G07) Рестайлинг, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X7</url>
-        <price>16990000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8671509/orig/bac9b014b983ee4c9b6701afb46617f0.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8671509/orig/98b550415ff1a27993ee6758a335e0d1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8671509/orig/ad54ba7e6b95dd9c2f6c7c4df6a93425.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8671509/orig/0e97731ece863f0cc9e971fc74556c55.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8671509/orig/3d8ed9a05ed2f14d501ef1753a117808.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8671509/orig/4fb015c1f12b1ea99466e4d08f62c562.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8671509/orig/88db7d12263120cf59efb81dbc643466.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8671509/orig/45518edfc026e5ff9674ec6f16e2cec7.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8671509/orig/84a721691b72b0e91facd7c316ef6783.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8671509/orig/62109a8e4392e10384a3a7b3cf35fbb8.jpg</picture>
-        <description>2025 г., дизель, 3.0 л, 340 л.с., автоматическая, полный привод, новый, silver</description>
-        <vendor>BMW</vendor>
-        <model>X7</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">69 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">340 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">silver</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">40d 3.0d AT (340 л.с.) 4WD</param>
-      </offer>
       <offer id="LVGBECEK1RG015288" available="true">
         <name>Toyota Camry IX (XV80) China Market, 2024</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Camry</url>
@@ -1356,37 +1325,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
-      </offer>
-      <offer id="W1N2546511F539498" available="true">
-        <name>Mercedes-Benz GLC II (X254), 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLC</url>
-        <price>9000000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>8</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8629582/orig/a886f41bcaed4536397c952de1ce0749.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629582/orig/5dff7677f8ddc087358dab7ea2a21b45.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629582/orig/a6f5e1ac17921ad1cbcd39b53b7d52b3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629582/orig/a2f586485886826393c3d075cdc3f96f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629582/orig/9ae1173607f1112e05c294ae2820995a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629582/orig/4e0de4947255e944d691e9701f42d02b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629582/orig/174314d8d6930ba3ae7208d439a7b950.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629582/orig/395c0d244bd58a9f0a6b2b24602c48d3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629582/orig/3691f6187a88ab9b309175fc999fc78a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629582/orig/0e87cf6a162ff00adebcdcbec1831090.jpg</picture>
-        <description>2025 г., бензин, 2.0 л, 204 л.с., автоматическая, полный привод, новый, silver</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>GLC</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">18 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">204 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">silver</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">200 2.0 AT (204 л.с.) 4WD</param>
       </offer>
       <offer id="WP0AD2996MS257163" available="true">
         <name>Porsche 911 VIII (992), 2020</name>
@@ -1605,37 +1543,6 @@
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">63 AMG S 4.0 AT (612 л.с.) 4WD</param>
       </offer>
-      <offer id="LB1WG3E60S8249244" available="true">
-        <name>Mercedes-Benz Vito III (W447) Рестайлинг 2, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=Vito</url>
-        <price>9390000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>8</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8577940/orig/e1560b75f207722cd5a4c5bfbf1ed3d1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8577940/orig/727a07cb84d6ec595f2fdde4a35dd7c8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8577940/orig/fe58de445685c4d60d59addd4b5f921b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8577940/orig/7c99bc4e9991b20d18dc9314778e9359.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8577940/orig/34609cb50305b992bd71656b186b899e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8577940/orig/de6ebc146b19fb0b21f2c69ae3714a19.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8577940/orig/a51a426088c35b3da953c2edd890ab7e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8577940/orig/8f02400dc172e5d1ca25ab4e15241b60.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8577940/orig/7ed3e7eb695affa1d9a8f66a81be041e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8577940/orig/fc7b8a2955a9d782a153e69694a68fac.jpg</picture>
-        <description>2025 г., бензин, 2.0 л, 231 л.с., автоматическая, задний привод, пробег 110 км, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>Vito</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">110 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">231 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Задний</param>
-        <param name="Кузов">Минивэн</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">2.0 AT (231 л.с.)</param>
-      </offer>
       <offer id="WBA11EY0609091139" available="true">
         <name>BMW X6 III (G06) Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X6</url>
@@ -1852,37 +1759,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">350h 2.5hyb CVT (250 л.с.) 4WD</param>
-      </offer>
-      <offer id="WBA21EV0109270195" available="true">
-        <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5</url>
-        <price>16760000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8420561/orig/f836f6058d341580d923c23a82826219.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8420561/orig/0b81cd1eb5bf6a56fb1a54f7e152c407.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8420561/orig/4ed388303ea5a9a2ed6dbdecf994b746.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8420561/orig/36c047cf8aca019b2128ddf12fc78ce5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8420561/orig/81d384b2be412cc9a31ad9620740ea3a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8420561/orig/699c4e5218aeb042f0b92174c0e62db2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8420561/orig/469e76aeaefd14872083e3fff96e2a72.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8420561/orig/a4cf67431216b19c1ad17f42980612d7.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8420561/orig/76c1ce37ff02e92e0966248ab6f8ea4f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8420561/orig/818fc43607a85bef488707926017e8e8.jpg</picture>
-        <description>2025 г., дизель, 3.0 л, 352 л.с., автоматическая, полный привод, новый, green</description>
-        <vendor>BMW</vendor>
-        <model>X5</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">44 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">352 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">green</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">40d 3.0d AT (352 л.с.) 4WD</param>
       </offer>
       <offer id="VF3YCBTFCRMA19523" available="true">
         <name>Peugeot Boxer II рестайлинг, 2025</name>
