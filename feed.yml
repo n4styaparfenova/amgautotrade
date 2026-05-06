@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-06 21:01">
+<yml_catalog date="2026-05-06 22:39">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -24,6 +24,37 @@
       <category id="13" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="LVGBECEK3TG119479" available="true">
+        <name>Toyota Camry IX (XV80) China Market, 2026</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Camry</url>
+        <price>4399000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8862574/orig/95b5fe53527323d2228a670462eaf464.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8862574/orig/2665b588745a1845a01880838dd6e967.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8862574/orig/af7e91b34adc7d6388ac145479c6b53d.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8862574/orig/0b4c75bb677aa9903a37585ccde235f7.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8862574/orig/7b55c9d44cdd432955e7ef3270814725.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8862574/orig/1943598b75717813018623583059aa37.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8862574/orig/bb280bb57c104b593e0ba8287ceb83b4.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8862574/orig/8073c5a63725adac54c090bdcb80fdcd.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8862574/orig/6ae1cf2a1450885669b3ef32f76df270.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8862574/orig/7bdd1d5ff94b436e1ab56aa1e93b692b.jpg</picture>
+        <description>2026 г., гибрид, 2.0 л, 197 л.с., вариаторная, передний привод, новый, black</description>
+        <vendor>Toyota</vendor>
+        <model>Camry</model>
+        <param name="Год выпуска">2026</param>
+        <param name="Пробег">15 км</param>
+        <param name="Двигатель">Гибрид</param>
+        <param name="Объём двигателя">2.0 л</param>
+        <param name="Мощность">197 л.с.</param>
+        <param name="Коробка передач">Вариаторная</param>
+        <param name="Привод">Передний</param>
+        <param name="Кузов">Седан</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">2.0hyb CVT (197 л.с.)</param>
+      </offer>
       <offer id="Z9M2130195L043305" available="true">
         <name>Mercedes-Benz E-Класс V (W213, S213, C238) Рестайлинг, 2021</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
