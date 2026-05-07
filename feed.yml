@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-07 05:22">
+<yml_catalog date="2026-05-07 08:13">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -89,7 +89,7 @@
       <offer id="W1KVK5AB2PF012130" available="true">
         <name>Mercedes-Benz SL-Класс AMG IV (R232), 2023</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=SL-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>14990000</price>
+        <price>13990000</price>
         <currencyId>RUR</currencyId>
         <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8856086/orig/bf9b0d547fb5662c8d8927838d59f6a6.jpg</picture>
@@ -399,7 +399,7 @@
       <offer id="WP0ZZZ97ZLL103674" available="true">
         <name>Porsche Panamera II, 2020</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Porsche&amp;model=Panamera</url>
-        <price>6800000</price>
+        <price>6490000</price>
         <currencyId>RUR</currencyId>
         <categoryId>10</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8831228/orig/641ae04dca1b1794846500c4069ff6d4.jpg</picture>
@@ -1759,37 +1759,6 @@
         <param name="Цвет">blue</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">40d 3.0d AT (352 л.с.) 4WD</param>
-      </offer>
-      <offer id="SALGA2BJ9KA553667" available="true">
-        <name>Land Rover Range Rover IV Рестайлинг, 2019</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Land%20Rover&amp;model=Range%20Rover</url>
-        <price>7945000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>6</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8561445/orig/971fe6da2aa6798e1d4f09dd2fcd7710.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8561445/orig/ca35b3708f9133d5b5057dfe847e5595.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8561445/orig/7c2c8510c5400947e61d57c68cda9fc8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8561445/orig/e81a40c8f06cad630a5b042823150254.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8561445/orig/f6959034434e9db063360dd72ecd3e0e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8561445/orig/819d51fbdd6c23abe389fe90970a93bd.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8561445/orig/6114c89ec5ee79f5e3e74a580f40b1ab.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8561445/orig/b2b35a6606f4697f958415cfda00e0d6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8561445/orig/adb46fdef8fe3254b34938d29fb7f72a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8561445/orig/cedea9415994324e9a212493f04eea1c.jpg</picture>
-        <description>2019 г., дизель, 4.4 л, 339 л.с., автоматическая, полный привод, пробег 83 176 км, grey</description>
-        <vendor>Land Rover</vendor>
-        <model>Range Rover</model>
-        <param name="Год выпуска">2019</param>
-        <param name="Пробег">83176 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">4.4 л</param>
-        <param name="Мощность">339 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">grey</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">4.4d AT (339 л.с.) 4WD</param>
       </offer>
       <offer id="WBA11EV0509143462" available="true">
         <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
