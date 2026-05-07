@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-07 12:57">
+<yml_catalog date="2026-05-07 15:26">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -24,6 +24,37 @@
       <category id="13" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="W1NWH5AB7SX044340" available="true">
+        <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
+        <price>29200000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8865378/orig/0b8348e2cee63293f0945ffca925c702.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8865378/orig/b5b09eaf791e7580d10e43e552980ecd.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8865378/orig/8efe94b2c596665eab749afe940f27f5.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8865378/orig/b22537a15ee6d077c3780efc060a44c3.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8865378/orig/eeed449f2de421314b996844d7acf7df.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8865378/orig/8d93d84fdf576b7f2cd76489eacaaaac.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8865378/orig/5f1b78d6f89e8498bbb2669ae0600390.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8865378/orig/3a5791c4ee9ea5aa4515227855daffb0.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8865378/orig/d5d76913d406e4849dbcc2355f9b61a0.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8865378/orig/c5b773ea744ca896f3dd204d112e38bb.jpg</picture>
+        <description>2025 г., бензин, 4.0 л, 585 л.с., автоматическая, полный привод, пробег 16 193 км, black</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>G-Класс AMG</model>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег">16193 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">4.0 л</param>
+        <param name="Мощность">585 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
+      </offer>
       <offer id="LVGBECEK3TG119479" available="true">
         <name>Toyota Camry IX (XV80) China Market, 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Camry</url>
@@ -54,6 +85,68 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">2.0hyb CVT (197 л.с.)</param>
+      </offer>
+      <offer id="WDC2923561A154063" available="true">
+        <name>Mercedes-Benz GLE Coupe I (C292), 2019</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLE%20Coupe</url>
+        <price>5199000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8862489/orig/dcd1aae1e8934cf5788e9efafd4f586c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8862489/orig/9c0d2c81d7c0c9a10eb1e75dff3646f3.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8862489/orig/ee8699588d09415dbe182ddaa45a4be1.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8862489/orig/b88c4a910e2ba51d11e8e16503261850.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8862489/orig/f853f0dc04522d98625604010404b185.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8862489/orig/14e5b267eb46d03e89245c190f7daf55.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8862489/orig/827964bbca939727ed413654828a211a.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8862489/orig/e2f02ac23ae6fa572a003caed29daca8.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8862489/orig/3550b437aa629e0de71d98728ac1894b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8862489/orig/083074283815ebe235b07553129c1074.jpg</picture>
+        <description>2019 г., бензин, 3.0 л, 333 л.с., автоматическая, полный привод, пробег 72 496 км, white</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>GLE Coupe</model>
+        <param name="Год выпуска">2019</param>
+        <param name="Пробег">72496 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">3.0 л</param>
+        <param name="Мощность">333 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">white</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">400 3.0 AT (333 л.с.) 4WD</param>
+      </offer>
+      <offer id="W1NFB0KB3SB293671" available="true">
+        <name>Mercedes-Benz GLE II (V167) Рестайлинг, 2024</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLE</url>
+        <price>10990000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8858318/orig/2ae416eb30492316bfbef13ed8819e9a.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8858318/orig/cb0c118bc9bfed21c8a1b24674a77745.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8858318/orig/bdef6fb3d62edf61211508177387ee9b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8858318/orig/a5a7e135ebad6846e521062cf4abcc43.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8858318/orig/bfdbcc63102c07786b8a42427c5ae75d.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8858318/orig/02408c2639a53149ecf7bec4bc6f8884.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8858318/orig/a18f220c17cc8e06607f950db9e1e4d3.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8858318/orig/f2cb7449598fd2fa9945467098a27e1b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8858318/orig/37498cc40248191c8d07db701341fdcd.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8858318/orig/5c87787965eff8e3b7e98a9fec8eaeb5.jpg</picture>
+        <description>2024 г., дизель, 2.0 л, 269 л.с., автоматическая, полный привод, пробег 22 077 км, green</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>GLE</model>
+        <param name="Год выпуска">2024</param>
+        <param name="Пробег">22077 км</param>
+        <param name="Двигатель">Дизель</param>
+        <param name="Объём двигателя">2.0 л</param>
+        <param name="Мощность">269 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">green</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">300 d 2.0d AT (269 л.с.) 4WD</param>
       </offer>
       <offer id="Z9M2130195L043305" available="true">
         <name>Mercedes-Benz E-Класс V (W213, S213, C238) Рестайлинг, 2021</name>
