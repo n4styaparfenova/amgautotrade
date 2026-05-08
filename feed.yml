@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-08 10:16">
+<yml_catalog date="2026-05-08 12:04">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -61,16 +61,16 @@
         <price>4399000</price>
         <currencyId>RUR</currencyId>
         <categoryId>12</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8862574/orig/95b5fe53527323d2228a670462eaf464.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8862574/orig/2665b588745a1845a01880838dd6e967.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8862574/orig/af7e91b34adc7d6388ac145479c6b53d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8862574/orig/0b4c75bb677aa9903a37585ccde235f7.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8862574/orig/7b55c9d44cdd432955e7ef3270814725.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8862574/orig/1943598b75717813018623583059aa37.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8862574/orig/bb280bb57c104b593e0ba8287ceb83b4.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8862574/orig/8073c5a63725adac54c090bdcb80fdcd.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8862574/orig/6ae1cf2a1450885669b3ef32f76df270.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8862574/orig/7bdd1d5ff94b436e1ab56aa1e93b692b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8862574/orig/d8032f570c89497070f2d32200d1bf7a.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8862574/orig/2346d485c21effce0b1e156109452434.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8862574/orig/1b06370d4bc8ec5a7a7eaba76f486ef5.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8862574/orig/7a612c094c066618fee9efa9e9a5765b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8862574/orig/151689c93d0e167cad496e65ff7707d7.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8862574/orig/f6286ff67fe470ca16026adc9d3fd218.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8862574/orig/57aaf49d04754c60192cba6dac77a675.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8862574/orig/7791edcaddc810ec383922c16a679579.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8862574/orig/a7c85c7312795d3570de0b848d9d1f2b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8862574/orig/e4c3d41e37d435da74eac930a7b4106b.jpg</picture>
         <description>2026 г., гибрид, 2.0 л, 197 л.с., вариаторная, передний привод, новый, black</description>
         <vendor>Toyota</vendor>
         <model>Camry</model>
