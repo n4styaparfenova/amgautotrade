@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-08 08:17">
+<yml_catalog date="2026-05-08 10:16">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -523,7 +523,7 @@
       <offer id="ZPBEA1ZL0NLA20432" available="true">
         <name>Lamborghini Urus I, 2022</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Lamborghini&amp;model=Urus</url>
-        <price>30000000</price>
+        <price>26990000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8831227/orig/c81c04d845d503cb1a94de7555a2e997.jpg</picture>
@@ -550,37 +550,6 @@
         <param name="Цвет">violet</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">4.0 AT (650 л.с.) 4WD</param>
-      </offer>
-      <offer id="SAL1A2BW7TA627476" available="true">
-        <name>Land Rover Range Rover Sport III, 2026</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Land%20Rover&amp;model=Range%20Rover%20Sport</url>
-        <price>18990000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>6</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8827117/orig/d7dd6fdff7aa0c75a55ba70cf1f2eaca.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8827117/orig/7ba89406067bf1bd5a8811450c47bf10.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8827117/orig/23f6e26c1d71e1654e608d57e393a2d9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8827117/orig/e647498a829744ed3f7ee373e3aa1253.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8827117/orig/e70d0d426f8b9f65c4c268676a336c35.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8827117/orig/2386bf8cbf5979053cf6f00eac960980.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8827117/orig/a69877c77fd7939c5cdc10e44708b5f6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8827117/orig/68a65d7d7497db5673d02654d9fc0ebd.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8827117/orig/ee1d737b56c1cf602e62142449c89e8a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8827117/orig/1a05fe160cb5956ee6addf810e82fcfa.jpg</picture>
-        <description>2026 г., дизель, 3.0 л, 350 л.с., автоматическая, полный привод, новый, silver</description>
-        <vendor>Land Rover</vendor>
-        <model>Range Rover Sport</model>
-        <param name="Год выпуска">2026</param>
-        <param name="Пробег">60 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">350 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">silver</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">D350 3.0d AT (350 л.с.) 4WD</param>
       </offer>
       <offer id="W1NFF3DE8TB601495" available="true">
         <name>Mercedes-Benz GLS II (X167) Рестайлинг, 2026</name>
@@ -1236,7 +1205,7 @@
       <offer id="WDD2163741A032097" available="true">
         <name>Mercedes-Benz CL-Класс AMG II (C216) Рестайлинг, 2013</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=CL-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>4290000</price>
+        <price>4190000</price>
         <currencyId>RUR</currencyId>
         <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8710181/orig/66980f8b4ffec4b5e9302f8047fad062.jpg</picture>
@@ -1356,37 +1325,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">4.4hyb AT (653 л.с.) 4WD</param>
-      </offer>
-      <offer id="SAL1A2BW7TA621693" available="true">
-        <name>Land Rover Range Rover Sport III, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Land%20Rover&amp;model=Range%20Rover%20Sport</url>
-        <price>18490000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>6</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8683883/orig/570f0d034ee7a7c6bac4b7bf8b49afdf.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8683883/orig/f146cd73f432b85acc88e13307de76a8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8683883/orig/6efe40f3f417d716a782acfc033476d6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8683883/orig/ad98cee009bfb3f2796c0f888fdd15ec.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8683883/orig/c32c95131497ed224613cb1fda8148c3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8683883/orig/401db06b1f755b1ed71f5cd27de082b0.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8683883/orig/0b98fe69e705b1d314ea58df1f072c03.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8683883/orig/8e4286c44d687357676094ebd86f4404.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8683883/orig/b1d164bdd367734da5c0c207e47b05fb.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8683883/orig/e60198ed7a0dde51ace96cc141df682e.jpg</picture>
-        <description>2025 г., дизель, 3.0 л, 350 л.с., автоматическая, полный привод, новый, grey</description>
-        <vendor>Land Rover</vendor>
-        <model>Range Rover Sport</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">52 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">350 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">grey</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">D350 3.0d AT (350 л.с.) 4WD</param>
       </offer>
       <offer id="W1V44781514607483" available="true">
         <name>Mercedes-Benz V-Класс III (W447) Рестайлинг 2, 2026</name>
