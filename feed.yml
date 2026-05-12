@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-12 05:38">
+<yml_catalog date="2026-05-12 08:24">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -151,7 +151,7 @@
       <offer id="LVGBECEK3TG119479" available="true">
         <name>Toyota Camry IX (XV80) China Market, 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Camry</url>
-        <price>4600000</price>
+        <price>4490000</price>
         <currencyId>RUR</currencyId>
         <categoryId>12</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8862574/orig/d8032f570c89497070f2d32200d1bf7a.jpg</picture>
@@ -1394,16 +1394,16 @@
         <price>14490000</price>
         <currencyId>RUR</currencyId>
         <categoryId>8</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8675764/orig/9f4b001a3a08d1d7976dd46595bdcc22.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8675764/orig/6a420f60b63d12b84a9e83034eb76752.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8675764/orig/f9f6baa720b4280914a7e926851eefcd.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8675764/orig/8a82877294b7991b3dde2197003a1181.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8675764/orig/32c5767e9023f76af183bdf22aa4a2b8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8675764/orig/d9dbd29ec069e152278d92842cf120d5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8675764/orig/5e76dec784573d5825bc6eb87f8d73ab.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8675764/orig/0327e5d4308a2254dfebcc31d42e2e80.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8675764/orig/871f46f5ceebbdd38006bbe88afe463b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8675764/orig/32d29e4984af57a178e4cc494cd59f2f.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8675764/orig/a537234c8f0e52f373e64bef7933b725.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8675764/orig/076f20ca7d2256f88ee5be336362684d.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8675764/orig/a1f04f6885673640a646199c8e548d1b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8675764/orig/1345cd1509dc8c495774a2d5808f61ed.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8675764/orig/e528253373003c7faf9b5aa2a4614527.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8675764/orig/08dba0a28bab45b5198730e4d2941fdf.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8675764/orig/7b04534afb93a12d93a5103b632b1ff4.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8675764/orig/57f632d35b789b3cc4b7d1b65b7d0c3e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8675764/orig/d6540d23ed280f866f20074d1e5621ba.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8675764/orig/bd281087378478bd74745bcfe0317d72.jpg</picture>
         <description>2026 г., дизель, 1.9 л, 237 л.с., автоматическая, полный привод, новый, black</description>
         <vendor>Mercedes-Benz</vendor>
         <model>V-Класс</model>
