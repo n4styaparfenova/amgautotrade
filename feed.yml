@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-12 08:24">
+<yml_catalog date="2026-05-12 11:11">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -616,7 +616,7 @@
       <offer id="ZPBEA1ZL0NLA20432" available="true">
         <name>Lamborghini Urus I, 2022</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Lamborghini&amp;model=Urus</url>
-        <price>26990000</price>
+        <price>24990000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8831227/orig/c81c04d845d503cb1a94de7555a2e997.jpg</picture>
