@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-13 09:34">
+<yml_catalog date="2026-05-13 11:54">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -182,7 +182,7 @@
       <offer id="WDC2923561A154063" available="true">
         <name>Mercedes-Benz GLE Coupe I (C292), 2019</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLE%20Coupe</url>
-        <price>5199000</price>
+        <price>4990000</price>
         <currencyId>RUR</currencyId>
         <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8862489/orig/dcd1aae1e8934cf5788e9efafd4f586c.jpg</picture>
@@ -244,7 +244,7 @@
       <offer id="Z9M2130195L043305" available="true">
         <name>Mercedes-Benz E-Класс V (W213, S213, C238) Рестайлинг, 2021</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>5190000</price>
+        <price>4990000</price>
         <currencyId>RUR</currencyId>
         <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8856087/orig/69cc6c8d6473596c803da6477ae93d7b.jpg</picture>
@@ -678,7 +678,7 @@
       <offer id="WAUZZZF24NN036694" available="true">
         <name>Audi A7 II (4K), 2022</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Audi&amp;model=A7</url>
-        <price>6890000</price>
+        <price>6690000</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8827096/orig/428f59c60c5e946021e51d4ec501340b.jpg</picture>
@@ -709,7 +709,7 @@
       <offer id="W1NKJ8HB9TF477630" available="true">
         <name>Mercedes-Benz GLC Coupe AMG II (C254), 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLC%20Coupe%20AMG</url>
-        <price>10440000</price>
+        <price>9990000</price>
         <currencyId>RUR</currencyId>
         <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8823291/orig/0a7c38c133494395b5ee0a4f4de65f69.jpg</picture>
@@ -740,7 +740,7 @@
       <offer id="1GYS97R90SR308450" available="true">
         <name>Cadillac Escalade-V I Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Cadillac&amp;model=Escalade-V</url>
-        <price>25800000</price>
+        <price>25500000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8818754/orig/4d687db194566e7d6d8ed07a08ce046a.jpg</picture>
@@ -771,7 +771,7 @@
       <offer id="WDD2173881A033449" available="true">
         <name>Mercedes-Benz S-Класс AMG III (W222, C217) Рестайлинг, 2018</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>13200000</price>
+        <price>12990000</price>
         <currencyId>RUR</currencyId>
         <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8818751/orig/881ed0ec5e4f47128e30d2b563030ffa.jpg</picture>
@@ -1329,7 +1329,7 @@
       <offer id="SALGA2FF6EA164138" available="true">
         <name>Land Rover Range Rover IV, 2014</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Land%20Rover&amp;model=Range%20Rover</url>
-        <price>5190000</price>
+        <price>4990000</price>
         <currencyId>RUR</currencyId>
         <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8701341/orig/2294322b0c575498a90e7ef7cb7bd44e.jpg</picture>
@@ -1360,7 +1360,7 @@
       <offer id="5YM23CS08P9S29229" available="true">
         <name>BMW XM, 2023</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=XM</url>
-        <price>17940000</price>
+        <price>17740000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8698237/orig/50ec0fcb604a8fdbe9a5926df647accd.jpg</picture>
@@ -1577,7 +1577,7 @@
       <offer id="WBA11DW090CD98520" available="true">
         <name>BMW 5 серии VII (G30/G31/G38), 2020</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=5%20%D1%81%D0%B5%D1%80%D0%B8%D0%B8</url>
-        <price>3340000</price>
+        <price>3240000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8619847/orig/b9734307e3b7add41ab02d14a2a5a1ff.jpg</picture>
@@ -2042,7 +2042,7 @@
       <offer id="L6T795ND0SN120806" available="true">
         <name>Zeekr 9X, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Zeekr&amp;model=9X</url>
-        <price>9940000</price>
+        <price>9490000</price>
         <currencyId>RUR</currencyId>
         <categoryId>13</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8327271/orig/ce931f76ccffdc2d440be2d3fc6544bb.jpg</picture>
@@ -2073,7 +2073,7 @@
       <offer id="WDD1771511J143239" available="true">
         <name>Mercedes-Benz A-Класс AMG II (W177), 2019</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=A-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>3280000</price>
+        <price>3180000</price>
         <currencyId>RUR</currencyId>
         <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8261972/orig/05497ad5eb3e56e33b528a355a07c7c0.jpg</picture>
@@ -2166,7 +2166,7 @@
       <offer id="WBACV010109B33035" available="true">
         <name>BMW X5 IV (G05/G18), 2020</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5</url>
-        <price>6499000</price>
+        <price>6299000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8171091/orig/4e1c9aa5f379367ca95d8386473bf3ae.jpg</picture>
@@ -2197,7 +2197,7 @@
       <offer id="WDD2221881A357837" available="true">
         <name>Mercedes-Benz S-Класс AMG III (W222, C217) Рестайлинг, 2017</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>5890000</price>
+        <price>5790000</price>
         <currencyId>RUR</currencyId>
         <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8159424/orig/77c4e59379a8288909790e121c77438d.jpg</picture>
@@ -2259,7 +2259,7 @@
       <offer id="W1KLF5BB9SA108191" available="true">
         <name>Mercedes-Benz E-Класс VI (W214, S214), 2024</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>7790000</price>
+        <price>7690000</price>
         <currencyId>RUR</currencyId>
         <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8146817/orig/32c30835948eeacfabe04418b3d7ed5e.jpg</picture>
@@ -2538,7 +2538,7 @@
       <offer id="WDD2211761A414664" available="true">
         <name>Mercedes-Benz S-Класс V (W221) Рестайлинг, 2011</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>6200000</price>
+        <price>5690000</price>
         <currencyId>RUR</currencyId>
         <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/7614122/orig/68f8089478de5f7ec2e4bda1941f37ce.jpg</picture>
