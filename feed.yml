@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-14 13:28">
+<yml_catalog date="2026-05-14 16:03">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -240,37 +240,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">300 d 2.0d AT (249 л.с.) 4WD</param>
-      </offer>
-      <offer id="W1KVK5AB2PF012130" available="true">
-        <name>Mercedes-Benz SL-Класс AMG IV (R232), 2023</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=SL-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>13990000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>8</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8856086/orig/bf9b0d547fb5662c8d8927838d59f6a6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8856086/orig/7f8c3b7de5b59b47188ec4e2811b6d08.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8856086/orig/32afa327db3117421ae4a44912460c0c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8856086/orig/37b6dfa530bd4cf01e523ae076ff63a8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8856086/orig/6f7d622ace6c7b7d7b12a13e3e85cbde.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8856086/orig/bf94d70b26d29cdda2a2e37f19d69d1e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8856086/orig/f69a00cb871c0c26090a227a4a009066.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8856086/orig/cdac46b9ac387be2338dd99673ba56ee.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8856086/orig/1455aab8d34027cae363aa405dc67a9a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8856086/orig/fade7e58c944a52b0dea1f579ce59550.jpg</picture>
-        <description>2023 г., бензин, 2.0 л, 381 л.с., автоматическая, задний привод, пробег 833 км, grey</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>SL-Класс AMG</model>
-        <param name="Год выпуска">2023</param>
-        <param name="Пробег">833 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">381 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Задний</param>
-        <param name="Кузов">roadster</param>
-        <param name="Цвет">grey</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">43 AMG 2.0 AT (381 л.с.)</param>
       </offer>
       <offer id="LVGEU76A3TG057191" available="true">
         <name>Toyota Highlander IV (XU70), 2026</name>
