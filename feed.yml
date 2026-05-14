@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-14 16:03">
+<yml_catalog date="2026-05-14 18:27">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -24,6 +24,254 @@
       <category id="13" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="SAL1A2B40SA463226" available="true">
+        <name>Land Rover Range Rover Sport III, 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Land%20Rover&amp;model=Range%20Rover%20Sport</url>
+        <price>17690000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8920580/orig/440fd39b762993a9f6a8da66f5aff172.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8920580/orig/58abce2a308818f96f30b5c66bbc6952.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8920580/orig/6b656fd5211ad4fa31f52cffc3f0b9dc.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8920580/orig/58d660bbcfbf6ada45d46d73d9fc477d.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8920580/orig/d8a8e2c3f2a2e95ea21c3a5e49bec829.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8920580/orig/7db49b7739bc030a9277f45e5757a3c7.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8920580/orig/83c0e3d7fa9a97b5e9a8c36257127fc9.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8920580/orig/3f4eb28b4418c533d650d71aea64ee52.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8920580/orig/88d3b0b965bfbebf6d96f0a3160dff58.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8920580/orig/27bb9da432da9da832d4b8d237f994d3.jpg</picture>
+        <description>2025 г., гибрид, 3.0 л, 550 л.с., автоматическая, полный привод, пробег 9 318 км, grey</description>
+        <vendor>Land Rover</vendor>
+        <model>Range Rover Sport</model>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег">9318 км</param>
+        <param name="Двигатель">Гибрид</param>
+        <param name="Объём двигателя">3.0 л</param>
+        <param name="Мощность">550 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">grey</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">P550e 3.0hyb AT (550 л.с.) 4WD</param>
+      </offer>
+      <offer id="W1N4633501X426939" available="true">
+        <name>Mercedes-Benz G-Класс III (W463), 2022</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
+        <price>15590000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8920578/orig/eb78c4f1b4f0c4d330eecd14e7844b3e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8920578/orig/92f5f87e5040afb60e764a9837a04a67.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8920578/orig/b0994b07b914a3c720523b5dddcf012c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8920578/orig/5cf1ec6af4f84273371f50a9b0742937.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8920578/orig/1ba8ddcb4b35c587316a0bfa5c94bc82.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8920578/orig/ff47d5da25297e43c7d47e93fb5ffd19.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8920578/orig/8f365551aba5937c9c4a20fbc1246d81.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8920578/orig/6a8729bee8b139e5be7c048c0f14b846.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8920578/orig/2b1adca0ab52fa9e7b65ca1212f79418.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8920578/orig/c9ab99bcf6deb525c0d25eb7f8d5c66f.jpg</picture>
+        <description>2022 г., дизель, 2.9 л, 330 л.с., автоматическая, полный привод, пробег 10 571 км, white</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>G-Класс</model>
+        <param name="Год выпуска">2022</param>
+        <param name="Пробег">10571 км</param>
+        <param name="Двигатель">Дизель</param>
+        <param name="Объём двигателя">2.9 л</param>
+        <param name="Мощность">330 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">white</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">400 d 2.9d AT (330 л.с.) 4WD</param>
+      </offer>
+      <offer id="WDD2130891A251877" available="true">
+        <name>Mercedes-Benz E-Класс AMG V (W213), 2017</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
+        <price>5999000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8920561/orig/b3cc9c24c4dd82710728759550288b68.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8920561/orig/a3e9e597bbb27c0341393b85bf50c2dc.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8920561/orig/45116ad40cb1effa0666d79b250a7945.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8920561/orig/47c3d488434f6d7f0850f1274771450e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8920561/orig/f61f1da5881c20a0d3f71747d57d71a6.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8920561/orig/fe39ee5ad501b68370d4eaf9031bacad.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8920561/orig/0b7bb37582393b7401d228bfe5b403c3.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8920561/orig/2f6a685a599a1d650a9a1ff35110a0e0.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8920561/orig/b5c267aea21ed7eb56047638a50e0e42.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8920561/orig/bf3d0d1256bc55932d6d2940fa7f0c75.jpg</picture>
+        <description>2017 г., бензин, 4.0 л, 612 л.с., автоматическая, полный привод, пробег 103 065 км, grey</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>E-Класс AMG</model>
+        <param name="Год выпуска">2017</param>
+        <param name="Пробег">103065 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">4.0 л</param>
+        <param name="Мощность">612 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Седан</param>
+        <param name="Цвет">grey</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">63 AMG S 4.0 AT (612 л.с.) 4WD</param>
+      </offer>
+      <offer id="WBSJU010509FB4992" available="true">
+        <name>BMW X5 M III (F95), 2021</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5%20M</url>
+        <price>10990000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8919148/orig/03123a60718cbfc02d0c491224a3612e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8919148/orig/c9b4971de9e340cd4475e09d58851244.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8919148/orig/d611fa810e73cba3f4468eb709ee17d2.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8919148/orig/c2f41fbe9825a218b8123b921c832f7c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8919148/orig/862896cf12769024cda91f150ae997e6.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8919148/orig/b380b58b86afe9df4fe33fe2b56ca58a.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8919148/orig/cfd23ceae5c297af1a2a6600f87762f4.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8919148/orig/fe0ddeff68364287ebd7c816a3eaf57d.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8919148/orig/c8d396dc846c00970ad3bfe2e62838eb.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8919148/orig/60c9089b094db578bfccc3a534f60b41.jpg</picture>
+        <description>2021 г., бензин, 4.4 л, 625 л.с., автоматическая, полный привод, пробег 75 637 км, black</description>
+        <vendor>BMW</vendor>
+        <model>X5 M</model>
+        <param name="Год выпуска">2021</param>
+        <param name="Пробег">75637 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">4.4 л</param>
+        <param name="Мощность">625 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">Competition 4.4 AT (625 л.с.) 4WD</param>
+      </offer>
+      <offer id="LBV21GT07T1C13830" available="true">
+        <name>BMW X3 IV (G45/G48), 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X3</url>
+        <price>7700000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8890484/orig/934ffc8427a259c6c55bdb6a3395fc61.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8890484/orig/33dbeab43e45d4b289eb8e15b5bbf5ec.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8890484/orig/926ac0cc3bfcc987f8810a4cb60e412d.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8890484/orig/d9386bcccfd5afb3ddf7ed8f972ea61b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8890484/orig/d7dc86c9135c26489e19efbe8a0c83df.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8890484/orig/182e439dd5b2e679b12fd7baf1b7d321.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8890484/orig/5e76a658623c1c138b0079d567666aa4.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8890484/orig/074ddbcb35b7f4ce47fd10abec917312.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8890484/orig/fa615c58e07f176618daa6aa08c02c1f.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8890484/orig/7e6a343f1d8f8c558436a8e0288a87f8.jpg</picture>
+        <description>2025 г., бензин, 2.0 л, 258 л.с., автоматическая, полный привод, новый, blue</description>
+        <vendor>BMW</vendor>
+        <model>X3</model>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег">32 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">2.0 л</param>
+        <param name="Мощность">258 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">blue</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">30L xDrive 2.0 AT (258 л.с.) 4WD</param>
+      </offer>
+      <offer id="L6T795ND5SN109963" available="true">
+        <name>Zeekr 9X, 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Zeekr&amp;model=9X</url>
+        <price>11350000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8890481/orig/dbb39e20a637a95d408b55ab3bdaccf0.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8890481/orig/005a8626337264481b1655925eaeede9.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8890481/orig/1e62cec4b64a08a7b8f25a71c0c6b6be.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8890481/orig/adeb2115bb53311e2b8e3fdb00d36ef6.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8890481/orig/00a4bc32583dd577ae4847677fcd17ff.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8890481/orig/3d5598779a2cde979e8463a6e3fe4237.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8890481/orig/e0b4a8f93a7cc359a9e7be56415536fe.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8890481/orig/e37ab8df49597846ccfd2685db1778ab.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8890481/orig/0e4209d33db08bc476f99a5c5c1884a8.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8890481/orig/126b8f9fdadb72526ad3ff870cf1aac4.jpg</picture>
+        <description>2025 г., гибрид, 2.0 л, 898 л.с., автоматическая, полный привод, новый, black</description>
+        <vendor>Zeekr</vendor>
+        <model>9X</model>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег">50 км</param>
+        <param name="Двигатель">Гибрид</param>
+        <param name="Объём двигателя">2.0 л</param>
+        <param name="Мощность">898 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">70 kWh 2.0hyb AT (898 л.с.) 4WD</param>
+      </offer>
+      <offer id="LVGBECEK7SG106295" available="true">
+        <name>Toyota Camry IX (XV80) China Market, 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Camry</url>
+        <price>4550000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8890480/orig/3892c7b5d2a5e831c83c60cc17e99e33.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8890480/orig/efe268ffcfc0d6179b6a0e170d165095.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8890480/orig/362c885a8c4a262b3ead32a693ca0e0e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8890480/orig/05f086866f1dae790745dea427dca36c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8890480/orig/4ab2d662b0d33a56a23b06659506e98b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8890480/orig/24231a0b4eb366db2f7f09c079fb8da1.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8890480/orig/fbb1119dbaba071f5bafa8bcecd60791.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8890480/orig/a5fb51ca71da025b6ba8a7f4db1f9bd7.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8890480/orig/797ecda14da105ee5c148ec1d3bf1c6b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8890480/orig/abd6d465ea5ee2fb1919404e2e04bb69.jpg</picture>
+        <description>2025 г., гибрид, 2.0 л, 197 л.с., вариаторная, передний привод, новый, white</description>
+        <vendor>Toyota</vendor>
+        <model>Camry</model>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег">12 км</param>
+        <param name="Двигатель">Гибрид</param>
+        <param name="Объём двигателя">2.0 л</param>
+        <param name="Мощность">197 л.с.</param>
+        <param name="Коробка передач">Вариаторная</param>
+        <param name="Привод">Передний</param>
+        <param name="Кузов">Седан</param>
+        <param name="Цвет">white</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">2.0hyb CVT (197 л.с.)</param>
+      </offer>
+      <offer id="LFV3B2GM0T3304498" available="true">
+        <name>Audi Q5 III (GU), 2026</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Audi&amp;model=Q5</url>
+        <price>7450000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8885615/orig/e1ab3e315afdc9751f0ea906b31f1855.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8885615/orig/dfa000a0ad74bd687574358040633532.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8885615/orig/dafa89c6685ff43d5cc9f46773563241.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8885615/orig/1010500eb1950b5c59bb34f4e9d3bfca.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8885615/orig/84f619624698ec0166938adf2db7cf32.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8885615/orig/37844a5c5b9947e3bec36476b25768cd.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8885615/orig/34e4b5bf656d3776a54965b2dafd621f.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8885615/orig/466e678ecb91a9f47a6144e300f27c25.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8885615/orig/fdd2f12206659e11b874c2326cafee14.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8885615/orig/073c025afcfa6d22eb430a59bc65502e.jpg</picture>
+        <description>2026 г., бензин, 2.0 л, 272 л.с., роботизированная, полный привод, новый, white</description>
+        <vendor>Audi</vendor>
+        <model>Q5</model>
+        <param name="Год выпуска">2026</param>
+        <param name="Пробег">34 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">2.0 л</param>
+        <param name="Мощность">272 л.с.</param>
+        <param name="Коробка передач">Роботизированная</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">white</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">L 2.0 AMT (272 л.с.) 4WD</param>
+      </offer>
       <offer id="W1KZF6BB3MA881810" available="true">
         <name>Mercedes-Benz E-Класс AMG V (W213) Рестайлинг, 2020</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
