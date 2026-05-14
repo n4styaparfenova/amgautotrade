@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-14 06:14">
+<yml_catalog date="2026-05-14 09:25">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1205,7 +1205,7 @@
       <offer id="JTNGK3DH008017906" available="true">
         <name>Toyota Alphard III, 2016</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Alphard</url>
-        <price>4490000</price>
+        <price>4390000</price>
         <currencyId>RUR</currencyId>
         <categoryId>12</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8710178/orig/f39459b63531f207ec9298a3b577ed22.jpg</picture>
