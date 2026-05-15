@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-15 06:22">
+<yml_catalog date="2026-05-15 09:37">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -644,37 +644,6 @@
         <param name="Состояние">Новые</param>
         <param name="Модификация">350h 2.5hyb CVT (250 л.с.) 4WD</param>
       </offer>
-      <offer id="W1NWH5AB3TX080639" available="true">
-        <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2026</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>32990000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>8</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8834662/orig/e652c9336f00e65c387808465315f3d5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8834662/orig/71e376aa9206549ba80e7cb0efa97698.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8834662/orig/585a45ef19d0b3c90342bd5ea080e044.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8834662/orig/1c5f2bacc3a9ef1d353a0a77f08172d3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8834662/orig/9be15c470ae1e95e099faa87597ec33c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8834662/orig/a6c4207086f8f2397c49b0f5f22f29f8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8834662/orig/ef2798afb56934764e0c9369efe3fda4.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8834662/orig/6b737e93aba03ac55e74da8513f5322c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8834662/orig/3757aa54f9ea81e68e9e6934262841cd.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8834662/orig/d8fe3abd008c4131639226d1dbef9472.jpg</picture>
-        <description>2026 г., бензин, 4.0 л, 585 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>G-Класс AMG</model>
-        <param name="Год выпуска">2026</param>
-        <param name="Пробег">63 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">4.0 л</param>
-        <param name="Мощность">585 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
-      </offer>
       <offer id="W1NWH5AB4TX086935" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
@@ -802,7 +771,7 @@
       <offer id="ZPBEA1ZL0NLA20432" available="true">
         <name>Lamborghini Urus I, 2022</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Lamborghini&amp;model=Urus</url>
-        <price>24990000</price>
+        <price>23990000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8831227/orig/c81c04d845d503cb1a94de7555a2e997.jpg</picture>
@@ -1050,7 +1019,7 @@
       <offer id="WDD2221641A472210" available="true">
         <name>Mercedes-Benz S-Класс VI (W222, C217) Рестайлинг, 2019</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>5240000</price>
+        <price>4990000</price>
         <currencyId>RUR</currencyId>
         <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8772177/orig/c338e3a12060f7891e206025c6b900e0.jpg</picture>
