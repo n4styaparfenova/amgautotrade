@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-18 21:01">
+<yml_catalog date="2026-05-18 22:47">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -21,9 +21,41 @@
       <category id="10" parentId="1">Porsche</category>
       <category id="11" parentId="1">Rolls-Royce</category>
       <category id="12" parentId="1">Toyota</category>
-      <category id="13" parentId="1">Zeekr</category>
+      <category id="13" parentId="1">Volvo</category>
+      <category id="14" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="LVYL5TPS3RP133114" available="true">
+        <name>Volvo S90 II Рестайлинг, 2024</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Volvo&amp;model=S90</url>
+        <price>5800000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8948820/orig/a7370ab1292f854698e29818ade3661a.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8948820/orig/a5df9f4ab4115174efd9a33ad3d7b9f1.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8948820/orig/5f6741a7cad1d86a1a29a8d9699ffbf3.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8948820/orig/e31fb2d38bca428c4d3471e69b760c80.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8948820/orig/dc574cf5fc3a16655aded542cabc0b35.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8948820/orig/1205d2e7f55b619b190ee639173ba579.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8948820/orig/0b5b0b4939247d379c837f7868ec3a23.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8948820/orig/ad5b4a5c40fc5486d95801b8ab2ce073.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8948820/orig/4fc0185c1dca33f4e67a2717470433b2.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8948820/orig/abd6d9f2601fc17dbd1b5acf850b31c5.jpg</picture>
+        <description>2024 г., бензин, 2.0 л, 250 л.с., автоматическая, передний привод, пробег 660 км, grey</description>
+        <vendor>Volvo</vendor>
+        <model>S90</model>
+        <param name="Год выпуска">2024</param>
+        <param name="Пробег">660 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">2.0 л</param>
+        <param name="Мощность">250 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Передний</param>
+        <param name="Кузов">Седан</param>
+        <param name="Цвет">grey</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">2.0 AT (250 л.с.)</param>
+      </offer>
       <offer id="LE4KB5BB6TL377346" available="true">
         <name>Mercedes-Benz GLC II (X254), 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLC</url>
@@ -277,7 +309,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Zeekr&amp;model=9X</url>
         <price>11350000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>13</categoryId>
+        <categoryId>14</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8890481/orig/dbb39e20a637a95d408b55ab3bdaccf0.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8890481/orig/005a8626337264481b1655925eaeede9.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8890481/orig/1e62cec4b64a08a7b8f25a71c0c6b6be.jpg</picture>
@@ -2044,7 +2076,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Zeekr&amp;model=9X</url>
         <price>9490000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>13</categoryId>
+        <categoryId>14</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8327271/orig/ce931f76ccffdc2d440be2d3fc6544bb.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8327271/orig/888a1dc263df4efbfe23f00d2751668c.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8327271/orig/1dd3e4bd702b57c0bc4959d0d1d59cd2.jpg</picture>
