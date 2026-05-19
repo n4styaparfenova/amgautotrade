@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-19 18:52">
+<yml_catalog date="2026-05-19 20:23">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -241,6 +241,37 @@
         <param name="Цвет">green</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">Competition 4.4 AT (625 л.с.) 4WD</param>
+      </offer>
+      <offer id="W1N1671591A248472" available="true">
+        <name>Mercedes-Benz GLE II (V167), 2020</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLE</url>
+        <price>5990000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8919154/orig/21181468d25b827a51d6fb9db816880d.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8919154/orig/41b5bc860492a7a274a6786d967bc134.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8919154/orig/17be25d4de326a3868f452e5a8bed2d4.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8919154/orig/e862ab76ebf60a32f25c287ca4593b09.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8919154/orig/5fb03f9f2671218c9d2f6cc46d4f0b68.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8919154/orig/246d3b16867d627e495d3d79c66cb3ee.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8919154/orig/975372c565a377dbc1ef729a45b2d9bf.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8919154/orig/baa01ac7848b22a1e3e6458620b216e4.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8919154/orig/4d40329c2a6760fcdd2545ea5d96a389.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8919154/orig/6199d8d7899007dde0ee0b2dcb3918b4.jpg</picture>
+        <description>2020 г., бензин, 3.0 л, 367 л.с., автоматическая, полный привод, пробег 97 334 км, blue</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>GLE</model>
+        <param name="Год выпуска">2020</param>
+        <param name="Пробег">97334 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">3.0 л</param>
+        <param name="Мощность">367 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">blue</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">450 3.0 AT (367 л.с.) 4WD</param>
       </offer>
       <offer id="WBSJU010509FB4992" available="true">
         <name>BMW X5 M III (F95), 2021</name>
