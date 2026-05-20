@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-20 19:12">
+<yml_catalog date="2026-05-20 21:30">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -24,6 +24,130 @@
       <category id="13" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="LFMJBFBF8T3005689" available="true">
+        <name>Toyota RAV4 VI (XA60), 2026</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=RAV4</url>
+        <price>4250000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8973611/orig/52ea5cb5dfb4b29d6095976fd32b4084.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8973611/orig/7314a8e2f8d79ea0125c650b69a6533b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8973611/orig/47bf969e4f5d0e69c4e4e7fa941f8a6c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8973611/orig/913b31341cad9e6e967f92c8d43c23f7.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8973611/orig/e7facc3211b145bd94c2ff7978d63135.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8973611/orig/af0da92dae08b4d3a06c5b3205f7f23e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8973611/orig/9a0e47a914c498f3aa36611b06b2220a.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8973611/orig/d716c5cbbd23c5431b06fd83326f230e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8973611/orig/57326acef3018e9cc21347c7c67ac2c5.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8973611/orig/6a041bc4d35e1db0573f9d4010851432.jpg</picture>
+        <description>2026 г., бензин, 2.0 л, 171 л.с., вариаторная, полный привод, новый, white</description>
+        <vendor>Toyota</vendor>
+        <model>RAV4</model>
+        <param name="Год выпуска">2026</param>
+        <param name="Пробег">32 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">2.0 л</param>
+        <param name="Мощность">171 л.с.</param>
+        <param name="Коробка передач">Вариаторная</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">white</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">2.0 CVT (171 л.с.) 4WD</param>
+      </offer>
+      <offer id="LFMJBFBF5T3005925" available="true">
+        <name>Toyota RAV4 VI (XA60), 2026</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=RAV4</url>
+        <price>4250000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8973608/orig/eb26f273f88135e15a8391b304f9a671.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8973608/orig/d24d0969ef31da1fa80f961f963a0f2e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8973608/orig/6af8e27be075c3b9ca292cc33d68dd11.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8973608/orig/dd6ddd4d97a45f33e1097820a5e2dc13.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8973608/orig/180634d7418200f4a5129ee0db033b02.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8973608/orig/74fc27fe578b04508283739e26cfc842.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8973608/orig/de294640ce1c343e9001a3d93cfeefaa.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8973608/orig/08208705d8e252ee0346e99585243c29.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8973608/orig/fb9d200c14f7e9746f9807f7a82ca143.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8973608/orig/40f6b0486b9707f5ea6f2cb4d191d7b8.jpg</picture>
+        <description>2026 г., бензин, 2.0 л, 171 л.с., вариаторная, полный привод, новый, black</description>
+        <vendor>Toyota</vendor>
+        <model>RAV4</model>
+        <param name="Год выпуска">2026</param>
+        <param name="Пробег">39 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">2.0 л</param>
+        <param name="Мощность">171 л.с.</param>
+        <param name="Коробка передач">Вариаторная</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">2.0 CVT (171 л.с.) 4WD</param>
+      </offer>
+      <offer id="LVGBECEK3TG132233" available="true">
+        <name>Toyota Camry IX (XV80) China Market, 2026</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Camry</url>
+        <price>4400000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8958579/orig/90bce4ef5a92e8ae6524fd3e011f2568.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8958579/orig/18ada367de9ad921821cf81372c62c70.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8958579/orig/abc98b56f7e45dde41717df02dd1230d.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8958579/orig/7d5dff325acc430101a5af3a8df0d072.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8958579/orig/67f7f20616d2781a58749c0fa48da4b5.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8958579/orig/3d4850bdbec810ad80aa9e7b1a9fbfd8.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8958579/orig/a8e2f3d26cba38841728bc1442a7e790.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8958579/orig/c3d8df3954c1a02586aadf9ca316539c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8958579/orig/6c86f8135a4f1476598681a92805c5e4.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8958579/orig/e054f9e2d1b778d91a86e75e1173012c.jpg</picture>
+        <description>2026 г., гибрид, 2.0 л, 197 л.с., вариаторная, передний привод, новый, black</description>
+        <vendor>Toyota</vendor>
+        <model>Camry</model>
+        <param name="Год выпуска">2026</param>
+        <param name="Пробег">17 км</param>
+        <param name="Двигатель">Гибрид</param>
+        <param name="Объём двигателя">2.0 л</param>
+        <param name="Мощность">197 л.с.</param>
+        <param name="Коробка передач">Вариаторная</param>
+        <param name="Привод">Передний</param>
+        <param name="Кузов">Седан</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">2.0hyb CVT (197 л.с.)</param>
+      </offer>
+      <offer id="LVGEU76A9TG057809" available="true">
+        <name>Toyota Highlander IV (XU70), 2026</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Highlander</url>
+        <price>5350000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8958576/orig/4d462ae24bd8615b1256d1ffc08bb47c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8958576/orig/1f84c17535ebe4098b07b720b2f5c1f1.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8958576/orig/9556db6a874f052c33eef92357bfa0d6.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8958576/orig/eba4e415054fc045b31795486f0fd58e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8958576/orig/05734e83ef5f9ad65476baf9a31c2dcc.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8958576/orig/ec64c09aea89fed431827d1b39259ec4.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8958576/orig/bd72d78a256d1672139163681d6603de.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8958576/orig/7be5322247e8e90d2b896a7f3cbe3ed3.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8958576/orig/80b4002441482122e6c2bda06485d8df.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8958576/orig/a6596fa4acb235def01bee3bf1be4b42.jpg</picture>
+        <description>2026 г., бензин, 2.0 л, 248 л.с., автоматическая, полный привод, новый, black</description>
+        <vendor>Toyota</vendor>
+        <model>Highlander</model>
+        <param name="Год выпуска">2026</param>
+        <param name="Пробег">12 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">2.0 л</param>
+        <param name="Мощность">248 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">2.0 AT (248 л.с.) 4WD</param>
+      </offer>
       <offer id="LVYL5TPS3RP133114" available="true">
         <name>Volvo S90 II Рестайлинг, 2024</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Volvo&amp;model=S90</url>
