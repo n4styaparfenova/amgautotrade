@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-21 06:41">
+<yml_catalog date="2026-05-21 10:29">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -333,37 +333,6 @@
         <param name="Цвет">grey</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">63 AMG S 4.0 AT (612 л.с.) 4WD</param>
-      </offer>
-      <offer id="WBSJU010209J79041" available="true">
-        <name>BMW X5 M III (F95), 2021</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5%20M</url>
-        <price>9999000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8919156/orig/35f47a7cf3c67606d555ecad3f834fb0.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8919156/orig/e54059537cafe5ca7216e5ccb0ab0e16.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8919156/orig/9effaef61a340521625f55af3268e2a5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8919156/orig/831fc946b28c1d06819b169328a48cd5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8919156/orig/c01f4e3ae6c484f5fe4aa45ee6222035.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8919156/orig/eaeade5fbfc416eb184dc80b54a0620d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8919156/orig/d6383ae53df928b7e4f3903b74643aae.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8919156/orig/e778c1c8fab4dc1f92ca57dce620d57f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8919156/orig/84c775170e91959ab741094ceec05024.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8919156/orig/e0c929ed2f14ce8a20ad7fc3f9c0e892.jpg</picture>
-        <description>2021 г., бензин, 4.4 л, 625 л.с., автоматическая, полный привод, пробег 80 895 км, green</description>
-        <vendor>BMW</vendor>
-        <model>X5 M</model>
-        <param name="Год выпуска">2021</param>
-        <param name="Пробег">80895 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">4.4 л</param>
-        <param name="Мощность">625 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">green</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">Competition 4.4 AT (625 л.с.) 4WD</param>
       </offer>
       <offer id="W1N1671591A248472" available="true">
         <name>Mercedes-Benz GLE II (V167), 2020</name>
@@ -1081,7 +1050,7 @@
       <offer id="WAUZZZF24NN036694" available="true">
         <name>Audi A7 II (4K), 2022</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Audi&amp;model=A7</url>
-        <price>6390000</price>
+        <price>6690000</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8827096/orig/428f59c60c5e946021e51d4ec501340b.jpg</picture>
