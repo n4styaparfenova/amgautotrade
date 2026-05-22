@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-22 13:22">
+<yml_catalog date="2026-05-22 16:13">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -461,7 +461,7 @@
       <offer id="LVGBECEK7SG106295" available="true">
         <name>Toyota Camry IX (XV80) China Market, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Camry</url>
-        <price>4550000</price>
+        <price>4450000</price>
         <currencyId>RUR</currencyId>
         <categoryId>11</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8890480/orig/3892c7b5d2a5e831c83c60cc17e99e33.jpg</picture>
@@ -492,7 +492,7 @@
       <offer id="LFV3B2GM0T3304498" available="true">
         <name>Audi Q5 III (GU), 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Audi&amp;model=Q5</url>
-        <price>7450000</price>
+        <price>7250000</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8885615/orig/e1ab3e315afdc9751f0ea906b31f1855.jpg</picture>
