@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-22 18:27">
+<yml_catalog date="2026-05-22 20:27">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -85,6 +85,37 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">2.0 CVT (171 л.с.) 4WD</param>
+      </offer>
+      <offer id="WDD2229861A478796" available="true">
+        <name>Mercedes-Benz Maybach S-Класс I (X222) Рестайлинг, 2019</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=Maybach%20S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
+        <price>7690000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8958586/orig/f687c1edfebd082ad5559776dbadd029.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8958586/orig/05d8dca761f53bb3232d0df6b16a68cb.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8958586/orig/b88633e150e70d91a002d059098c1d94.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8958586/orig/4ad852495ad81781493156372be14fe8.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8958586/orig/e8c1c186f1fee40fbadf7980a76b8774.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8958586/orig/7977d829fb73705406286c2dd5611010.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8958586/orig/bbfbf9eb009bec58b2b7381c813461b6.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8958586/orig/629b912fe9355ed177d2515fa40a0197.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8958586/orig/47989a9c2184e291c4e2ed4cb003bda1.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8958586/orig/0b9d3c7ac6f0eb2d7e2780342d91b6c3.jpg</picture>
+        <description>2019 г., бензин, 4.0 л, 469 л.с., автоматическая, полный привод, пробег 87 369 км, black</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Maybach S-Класс</model>
+        <param name="Год выпуска">2019</param>
+        <param name="Пробег">87369 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">4.0 л</param>
+        <param name="Мощность">469 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Седан</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">560 4.0 AT (469 л.с.) 4WD</param>
       </offer>
       <offer id="LFV3B2GM4T3307663" available="true">
         <name>Audi Q5 II (FY) Рестайлинг, 2026</name>
