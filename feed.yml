@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-24 21:44">
+<yml_catalog date="2026-05-24 22:45">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -20,10 +20,104 @@
       <category id="9" parentId="1">Porsche</category>
       <category id="10" parentId="1">Rolls-Royce</category>
       <category id="11" parentId="1">Toyota</category>
-      <category id="12" parentId="1">Volvo</category>
-      <category id="13" parentId="1">Zeekr</category>
+      <category id="12" parentId="1">Volkswagen</category>
+      <category id="13" parentId="1">Volvo</category>
+      <category id="14" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="JTMABABJ504038925" available="true">
+        <name>Toyota Land Cruiser 300 Series, 2022</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Land%20Cruiser</url>
+        <price>8499000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8997943/orig/ac7f5ff7f63e1e852d6c2db6abebe66b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997943/orig/87b38dcf16ed19b7238c5652d7244018.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997943/orig/bcfb25a39d197086fe5d282226e15914.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997943/orig/e070edb40c5c0e731cf0a69478c36dbb.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997943/orig/50ebb75abfd100185c65c30d41616b32.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997943/orig/c4ebacec8a99e7d5f1a622a9d813504f.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997943/orig/a3fd114719d5e50cfaa76ab0e95179d6.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997943/orig/535f7b192c353110b981f3a035a35346.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997943/orig/553151e560ca5ace337256e13a73aa6e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997943/orig/4f691ebcb4971e042a036a8a00d6ef1a.jpg</picture>
+        <description>2022 г., бензин, 3.4 л, 415 л.с., автоматическая, полный привод, пробег 116 301 км, black</description>
+        <vendor>Toyota</vendor>
+        <model>Land Cruiser</model>
+        <param name="Год выпуска">2022</param>
+        <param name="Пробег">116301 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">3.4 л</param>
+        <param name="Мощность">415 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">3.4 AT (415 л.с.) 4WD</param>
+      </offer>
+      <offer id="JTMABABJ9R4168042" available="true">
+        <name>Toyota Land Cruiser 300 Series, 2024</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Land%20Cruiser</url>
+        <price>19990000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8997926/orig/cdbbee4d16718063187b036d9b692356.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997926/orig/5007c18349a37a8654ccf4e6f8327a9f.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997926/orig/75dcd6d3fac97917ed6426777819acbb.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997926/orig/e0c347a2965e2a3e2fa2c65b20cf3585.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997926/orig/d97d85b327a83728f9aeb1d00e8ed798.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997926/orig/12dbb55f19ee50ea34700e0be6023327.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997926/orig/587c15e1ea376ee6d4aaa1d8352087df.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997926/orig/b55a062b4206eb957ffd90365341c9a3.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997926/orig/11372ef1e698786a109c4fc174c33928.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997926/orig/cd79d186e37a170483ad350875934594.jpg</picture>
+        <description>2024 г., бензин, 3.4 л, 415 л.с., автоматическая, полный привод, пробег 25 581 км, black</description>
+        <vendor>Toyota</vendor>
+        <model>Land Cruiser</model>
+        <param name="Год выпуска">2024</param>
+        <param name="Пробег">25581 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">3.4 л</param>
+        <param name="Мощность">415 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">3.4 AT (415 л.с.) 4WD</param>
+      </offer>
+      <offer id="LSV2BDDG0TN011814" available="true">
+        <name>Volkswagen Teramont II (China Market), 2026</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Volkswagen&amp;model=Teramont</url>
+        <price>6099000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/8997923/orig/c2fa6895d2ee5edf34fe33f5bf0d1b97.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997923/orig/3432b2112f6401bc4feb107a5ecaa754.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997923/orig/f65dee9ad946e4f751bd028b7e9bba2e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997923/orig/c73c151d3b72ef287bb0c63142bf0001.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997923/orig/40e34bbdee79cfaec8aa6d2413337b6e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997923/orig/121d4ac0574696ba0e4ece60eab64c6b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997923/orig/97084fc930d4f3c4a3b98723add53068.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997923/orig/cfbd97670d628b5069f8045bfa314308.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997923/orig/31a270c9e773edb95d04ad1e7d3b85b7.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997923/orig/f7eb7ab8e71b183bb06131c4a4e3fa05.jpg</picture>
+        <description>2026 г., бензин, 2.0 л, 272 л.с., роботизированная, полный привод, новый, black</description>
+        <vendor>Volkswagen</vendor>
+        <model>Teramont</model>
+        <param name="Год выпуска">2026</param>
+        <param name="Пробег">52 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">2.0 л</param>
+        <param name="Мощность">272 л.с.</param>
+        <param name="Коробка передач">Роботизированная</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">Pro 2.0 AMT (272 л.с.) 4WD</param>
+      </offer>
       <offer id="LFMJBFBF8T3005689" available="true">
         <name>Toyota RAV4 VI (XA60), 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=RAV4</url>
@@ -215,7 +309,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Volvo&amp;model=S90</url>
         <price>5800000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>12</categoryId>
+        <categoryId>13</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8948820/orig/a7370ab1292f854698e29818ade3661a.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8948820/orig/a5df9f4ab4115174efd9a33ad3d7b9f1.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8948820/orig/5f6741a7cad1d86a1a29a8d9699ffbf3.jpg</picture>
@@ -494,7 +588,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Zeekr&amp;model=9X</url>
         <price>10990000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>13</categoryId>
+        <categoryId>14</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8890481/orig/dbb39e20a637a95d408b55ab3bdaccf0.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8890481/orig/005a8626337264481b1655925eaeede9.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8890481/orig/1e62cec4b64a08a7b8f25a71c0c6b6be.jpg</picture>

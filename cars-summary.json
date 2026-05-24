@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-24T21:44:22.385Z",
-  "total_cars": 84,
+  "updated_at": "2026-05-24T22:45:34.960Z",
+  "total_cars": 87,
   "brands": [
     "Audi",
     "BMW",
@@ -12,6 +12,7 @@
     "Porsche",
     "Rolls-Royce",
     "Toyota",
+    "Volkswagen",
     "Volvo",
     "Zeekr"
   ],
