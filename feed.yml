@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-25 14:32">
+<yml_catalog date="2026-05-25 16:58">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -93,16 +93,16 @@
         <price>4199000</price>
         <currencyId>RUR</currencyId>
         <categoryId>11</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8997932/orig/1122f3be8f29549b6609f55989e07fb2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8997932/orig/23a787e63a55c3e315a544c122c9d38e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8997932/orig/52450dd157c1ba57ff879052095edfad.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8997932/orig/45f8f00f6fa6d37a72c033233b817417.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8997932/orig/b55d41529b1d94222c51b4e115afb801.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8997932/orig/3eaed3311d0985bb8b2f817d06b1190c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8997932/orig/b18ff2f444b2e6e00427477962bdd21a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8997932/orig/6c5b2fdbe06b694905a02c81740d7684.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8997932/orig/2fa906b701ac92166f9e1f5b1d56074a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8997932/orig/d8b634b1284268d6dc49e4a022e44161.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997932/orig/41e99461219d05e4e1299dfc562dd401.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997932/orig/1e805394031d007095b76e1d4f77fa83.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997932/orig/815ff3891ce6597a47b5167290f97baa.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997932/orig/950b88c4f2116ba7f51dfb0a2935f418.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997932/orig/87264eb219c651848b786098bd10995b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997932/orig/5eaf61fba23f1d984e37b417e64ee415.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997932/orig/7aeec9f4c16be042b44f01077d04aba9.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997932/orig/df7276f52aaaea1f6592c93a90dca883.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997932/orig/1c052a087b7fbac60a3890ea8790b242.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8997932/orig/51ebb05fdaad689051a316d11550f8ea.jpg</picture>
         <description>2026 г., гибрид, 2.0 л, 197 л.с., вариаторная, передний привод, новый, black</description>
         <vendor>Toyota</vendor>
         <model>Camry</model>
@@ -524,7 +524,7 @@
       <offer id="WDD2130891A251877" available="true">
         <name>Mercedes-Benz E-Класс AMG V (W213), 2017</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>5999000</price>
+        <price>5499000</price>
         <currencyId>RUR</currencyId>
         <categoryId>7</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8920561/orig/b3cc9c24c4dd82710728759550288b68.jpg</picture>
@@ -1919,7 +1919,7 @@
       <offer id="WP0AD2996MS257163" available="true">
         <name>Porsche 911 VIII (992), 2020</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Porsche&amp;model=911</url>
-        <price>20199000</price>
+        <price>19800000</price>
         <currencyId>RUR</currencyId>
         <categoryId>9</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8629578/orig/4e4aebec3a4b04a5f2728497ec6c362b.jpg</picture>
