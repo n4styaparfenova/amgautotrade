@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-26 13:45">
+<yml_catalog date="2026-05-26 17:19">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -18,11 +18,10 @@
       <category id="7" parentId="1">Mercedes-Benz</category>
       <category id="8" parentId="1">Peugeot</category>
       <category id="9" parentId="1">Porsche</category>
-      <category id="10" parentId="1">Rolls-Royce</category>
-      <category id="11" parentId="1">Toyota</category>
-      <category id="12" parentId="1">Volkswagen</category>
-      <category id="13" parentId="1">Volvo</category>
-      <category id="14" parentId="1">Zeekr</category>
+      <category id="10" parentId="1">Toyota</category>
+      <category id="11" parentId="1">Volkswagen</category>
+      <category id="12" parentId="1">Volvo</category>
+      <category id="13" parentId="1">Zeekr</category>
     </categories>
     <offers>
       <offer id="JTMABABJ504038925" available="true">
@@ -30,7 +29,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Land%20Cruiser</url>
         <price>8799000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
+        <categoryId>10</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8997943/orig/ac7f5ff7f63e1e852d6c2db6abebe66b.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8997943/orig/87b38dcf16ed19b7238c5652d7244018.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8997943/orig/bcfb25a39d197086fe5d282226e15914.jpg</picture>
@@ -61,7 +60,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Camry</url>
         <price>4199000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
+        <categoryId>10</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8997942/orig/55ce1f5724ab48519095b83417aa959d.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8997942/orig/214f4f0ad9f0f7d379bda19972551831.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8997942/orig/f320ad5ee3e0534096aa85de89c60961.jpg</picture>
@@ -92,7 +91,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Camry</url>
         <price>4199000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
+        <categoryId>10</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8997932/orig/41e99461219d05e4e1299dfc562dd401.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8997932/orig/1e805394031d007095b76e1d4f77fa83.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8997932/orig/815ff3891ce6597a47b5167290f97baa.jpg</picture>
@@ -123,7 +122,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Land%20Cruiser</url>
         <price>21400000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
+        <categoryId>10</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8997926/orig/cdbbee4d16718063187b036d9b692356.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8997926/orig/5007c18349a37a8654ccf4e6f8327a9f.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8997926/orig/75dcd6d3fac97917ed6426777819acbb.jpg</picture>
@@ -154,7 +153,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Volkswagen&amp;model=Teramont</url>
         <price>6099000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>12</categoryId>
+        <categoryId>11</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8997923/orig/c2fa6895d2ee5edf34fe33f5bf0d1b97.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8997923/orig/3432b2112f6401bc4feb107a5ecaa754.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8997923/orig/f65dee9ad946e4f751bd028b7e9bba2e.jpg</picture>
@@ -185,7 +184,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=RAV4</url>
         <price>4250000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
+        <categoryId>10</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8973611/orig/52ea5cb5dfb4b29d6095976fd32b4084.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8973611/orig/7314a8e2f8d79ea0125c650b69a6533b.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8973611/orig/47bf969e4f5d0e69c4e4e7fa941f8a6c.jpg</picture>
@@ -216,7 +215,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=RAV4</url>
         <price>4250000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
+        <categoryId>10</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8973608/orig/eb26f273f88135e15a8391b304f9a671.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8973608/orig/d24d0969ef31da1fa80f961f963a0f2e.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8973608/orig/6af8e27be075c3b9ca292cc33d68dd11.jpg</picture>
@@ -309,7 +308,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Camry</url>
         <price>4400000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
+        <categoryId>10</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8958579/orig/90bce4ef5a92e8ae6524fd3e011f2568.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8958579/orig/18ada367de9ad921821cf81372c62c70.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8958579/orig/abc98b56f7e45dde41717df02dd1230d.jpg</picture>
@@ -340,7 +339,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Highlander</url>
         <price>5350000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
+        <categoryId>10</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8958576/orig/4d462ae24bd8615b1256d1ffc08bb47c.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8958576/orig/1f84c17535ebe4098b07b720b2f5c1f1.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8958576/orig/9556db6a874f052c33eef92357bfa0d6.jpg</picture>
@@ -371,7 +370,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Volvo&amp;model=S90</url>
         <price>5800000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>13</categoryId>
+        <categoryId>12</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8948820/orig/a7370ab1292f854698e29818ade3661a.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8948820/orig/a5df9f4ab4115174efd9a33ad3d7b9f1.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8948820/orig/5f6741a7cad1d86a1a29a8d9699ffbf3.jpg</picture>
@@ -650,7 +649,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Zeekr&amp;model=9X</url>
         <price>10990000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>14</categoryId>
+        <categoryId>13</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8890481/orig/dbb39e20a637a95d408b55ab3bdaccf0.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8890481/orig/005a8626337264481b1655925eaeede9.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8890481/orig/1e62cec4b64a08a7b8f25a71c0c6b6be.jpg</picture>
@@ -681,7 +680,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Camry</url>
         <price>4450000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
+        <categoryId>10</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8890480/orig/3892c7b5d2a5e831c83c60cc17e99e33.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8890480/orig/efe268ffcfc0d6179b6a0e170d165095.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8890480/orig/362c885a8c4a262b3ead32a693ca0e0e.jpg</picture>
@@ -836,7 +835,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Camry</url>
         <price>4199000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
+        <categoryId>10</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8862574/orig/d8032f570c89497070f2d32200d1bf7a.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8862574/orig/2346d485c21effce0b1e156109452434.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8862574/orig/1b06370d4bc8ec5a7a7eaba76f486ef5.jpg</picture>
@@ -960,7 +959,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Highlander</url>
         <price>5299000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
+        <categoryId>10</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8836836/orig/a2ee94c204122b9fa86e9e696d0bc1bb.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8836836/orig/e752db373e7a15e877efb8a6b52d6939.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8836836/orig/ab9b9e9d0537290f83a7eb441dd08485.jpg</picture>
@@ -991,7 +990,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=RAV4</url>
         <price>4299000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
+        <categoryId>10</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8836835/orig/6ba8c943ed88d3dffa050e7e02bd2682.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8836835/orig/5a5e4b1e51440e60121a506a8662b4ae.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8836835/orig/5f343fe97cba71c0aeeb3dbdb205a158.jpg</picture>
@@ -1394,7 +1393,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=RAV4</url>
         <price>4490000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
+        <categoryId>10</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8785160/orig/2f87e50919123e15b4da4b577786595d.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8785160/orig/0d8411366d58f7823fbf869dfa216772.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8785160/orig/d1c484ebb42ab58579a13b105811dd27.jpg</picture>
@@ -1543,37 +1542,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">300 2.0 AT (258 л.с.) 4WD</param>
-      </offer>
-      <offer id="JTMAAABJ6T4134487" available="true">
-        <name>Toyota Land Cruiser 300 Series, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Land%20Cruiser</url>
-        <price>13990000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8739835/orig/d74ff825f7b765471104effddcb1f807.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8739835/orig/88acdc2ef866f614d613fd20166c48ac.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8739835/orig/ba89d365ce472a23130e8b12ed6327d8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8739835/orig/2c8291ed9a9f96edc414146204c94f61.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8739835/orig/c1b9c6634783ecca551b6222f14b3db3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8739835/orig/f879f29bdf01864748b25bc545aa0525.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8739835/orig/eef4470c22370f12eaf80e1f2785dc82.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8739835/orig/4815f28f6c3c95ca1802cfad50b830a8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8739835/orig/86864d4e02ed544d864d72802ace4eb4.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8739835/orig/716886d7635118755e6ea1409e048c89.jpg</picture>
-        <description>2025 г., дизель, 3.3 л, 299 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>Toyota</vendor>
-        <model>Land Cruiser</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">26 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">3.3 л</param>
-        <param name="Мощность">299 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">3.4d AT (299 л.с.) 4WD</param>
       </offer>
       <offer id="W1V44781514618943" available="true">
         <name>Mercedes-Benz V-Класс III (W447) Рестайлинг 2, 2026</name>
@@ -1735,7 +1703,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Alphard</url>
         <price>4390000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
+        <categoryId>10</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8710178/orig/f39459b63531f207ec9298a3b577ed22.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8710178/orig/18a70806d955b0c03a5a9c3b2cc2e676.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8710178/orig/d06d9e3791dc5966e016685102368fa3.jpg</picture>
@@ -2411,37 +2379,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">200 9G-Tronic 2.0 AT (204 л.с.) 4WD</param>
-      </offer>
-      <offer id="SCA665C03HUX80640" available="true">
-        <name>Rolls-Royce Wraith, 2017</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Rolls-Royce&amp;model=Wraith</url>
-        <price>22390000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>10</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8065489/orig/bf11f47f99e57f5a7bfce572dcdbe904.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8065489/orig/3f6bcf2665287f05712d2f6ae79e961e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8065489/orig/ac98e67cc15ce3edd9bc196fbee5ed0a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8065489/orig/717ac62504d55f50582bf84558535cab.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8065489/orig/020e30a10f830c34e9b06e9be02e40d9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8065489/orig/7a783b8ef6ff0b27f66555faab430cab.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8065489/orig/fa8c089ec2342794b2332cced5ec7e46.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8065489/orig/7aad72f5378e1ee73088bca30a42d72b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8065489/orig/64b565287701e2258f61e0ca5e6272be.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8065489/orig/c09742a3fb945b12f3a0a7335df9d153.jpg</picture>
-        <description>2017 г., бензин, 6.6 л, 632 л.с., автоматическая, задний привод, пробег 37 661 км, black</description>
-        <vendor>Rolls-Royce</vendor>
-        <model>Wraith</model>
-        <param name="Год выпуска">2017</param>
-        <param name="Пробег">37661 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">6.6 л</param>
-        <param name="Мощность">632 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Задний</param>
-        <param name="Кузов">Купе</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">Black Badge 6.6 AT (632 л.с.)</param>
       </offer>
       <offer id="LBV21GT05T1C06651" available="true">
         <name>BMW X3 IV (G45/G48), 2025</name>
