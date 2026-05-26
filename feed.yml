@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-26 17:19">
+<yml_catalog date="2026-05-26 19:53">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -24,6 +24,37 @@
       <category id="13" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="WBS31BA01PCM11137" available="true">
+        <name>BMW M4 G82/G83, 2022</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=M4</url>
+        <price>11899000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/9021997/orig/25f2a14bf0b6c6406a7738aa926b9a39.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9021997/orig/2c107bf6d318ff314421c97d25f91c15.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9021997/orig/191ac9a8cf50dadea1f5b4739b3eb374.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9021997/orig/7884dc66174a5fd39fef7853446aa9b0.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9021997/orig/4b496c39a4f52b85694371bc49ae2d5e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9021997/orig/5969f841449d0684c5b0385a4f3b6e40.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9021997/orig/fd4353e56c0e71aba9dc0a6cea05f963.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9021997/orig/6b73b3218ef08582920be3541c11118e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9021997/orig/c332e361083454bf4287c60a23965500.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9021997/orig/1a58eb39bb2e4880f690c829c3a7eb0e.jpg</picture>
+        <description>2022 г., бензин, 3.0 л, 510 л.с., автоматическая, полный привод, пробег 11 289 км, green</description>
+        <vendor>BMW</vendor>
+        <model>M4</model>
+        <param name="Год выпуска">2022</param>
+        <param name="Пробег">11289 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">3.0 л</param>
+        <param name="Мощность">510 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Кабриолет</param>
+        <param name="Цвет">green</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">Competition Package 3.0 AT (510 л.с.) 4WD</param>
+      </offer>
       <offer id="JTMABABJ504038925" available="true">
         <name>Toyota Land Cruiser 300 Series, 2022</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Land%20Cruiser</url>
