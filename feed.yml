@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-29 09:33">
+<yml_catalog date="2026-05-29 12:39">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1449,37 +1449,6 @@
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">300 d 2.0d AT (269 л.с.) 4WD</param>
       </offer>
-      <offer id="W1NKM4HB0TF511759" available="true">
-        <name>Mercedes-Benz GLC II (X254), 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLC</url>
-        <price>8390000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>6</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8739839/orig/5a46f12eea76253e24c5f8a3982c2b24.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8739839/orig/ec6df522f99f4643d417adae0efd2e23.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8739839/orig/987940572e0896ece8ef7576db983f3e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8739839/orig/2da1f8c3aa80b5ff7b95f3a590b0704b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8739839/orig/95cfa7f380014505eafbf018d17a9e2a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8739839/orig/a92e5524a0e202aa9c429e72c6cc419a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8739839/orig/64d5865e441298e26491699b8de1e56a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8739839/orig/f9ce92cbd20b1b6b182932e419de1a49.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8739839/orig/ea8378e28e44b1bdf81b40273cfae6ee.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8739839/orig/eb774db101bca6b338c9fe3d3ac74a35.jpg</picture>
-        <description>2025 г., бензин, 2.0 л, 258 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>GLC</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">23 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">258 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">300 2.0 AT (258 л.с.) 4WD</param>
-      </offer>
       <offer id="W1V44781514618943" available="true">
         <name>Mercedes-Benz V-Класс III (W447) Рестайлинг 2, 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=V-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
@@ -1889,16 +1858,16 @@
         <price>8990000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/93ce5690e8b5b2e8cc649e180e762381.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/c36857fdc4f319f82ba4af0fa185bec9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/f9537d56281413526fd868805dca6d90.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/caeb47eb128d5500ea2fb69f376d6be6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/947c2016f07902f38b37036a0352c37b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/8e636b41f236fadd3594ad980e0a298f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/9793dd720519dd0c3e8f10a77bcc41f3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/4d8cc7ca6278701f5367eeb95d54e19b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/4738ba3682c99ad7903efa64a4224bfd.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/2636194453025b36ef9b17f44b220123.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/6404098f5a020b06c489651dc4b842a3.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/b1862b31d9157eee3dd34c18a3f10a41.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/03f18721eb92b8cf1c117d83369c2f4c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/4c027923c8f99a29026358a73840d6c4.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/16e9d97f18d6d7d68ba1ee336bf6e760.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/4d51918b4b28dcf5609fd4f0ac4f9e73.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/463d13c212245525773d1a07cc3d1421.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/030939aa0db7ea542a3a2982ae4434c1.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/97673a025cecd567d1fa7f296c6c45a3.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/a19f1458697f50bf108727f7f5ecd340.jpg</picture>
         <description>2020 г., бензин, 4.4 л, 625 л.с., автоматическая, полный привод, пробег 96 891 км, grey</description>
         <vendor>BMW</vendor>
         <model>M5</model>
