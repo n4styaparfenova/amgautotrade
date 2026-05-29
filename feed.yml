@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-29 12:39">
+<yml_catalog date="2026-05-29 16:34">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -23,6 +23,68 @@
       <category id="12" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="W1NFF3DE4TB608265" available="true">
+        <name>Mercedes-Benz GLS II (X167) Рестайлинг, 2026</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLS</url>
+        <price>19490000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/9066161/orig/b96617cc6c28439423d9a8bb658280d4.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9066161/orig/ee36868bb15d9714a987379365f5b13c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9066161/orig/95c6077f4f8c2b5101275659cf03a576.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9066161/orig/1e66a50d22236f2a405e99aa271c6cc5.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9066161/orig/f9f4408695b9c16ec3851974715ffd34.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9066161/orig/04b0e705f2387a3eb7a938023e94fb71.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9066161/orig/2eeafdf332cc6d6cea58017f3edbc05e.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9066161/orig/d3f91f32aacd181227e807c4b1f42a3c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9066161/orig/74c033fc609c018791e4d2c2ffc04777.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9066161/orig/d9997c68f6d5f0cc56e04893062c028e.jpg</picture>
+        <description>2026 г., дизель, 3.0 л, 367 л.с., автоматическая, полный привод, новый, black</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>GLS</model>
+        <param name="Год выпуска">2026</param>
+        <param name="Пробег">32 км</param>
+        <param name="Двигатель">Дизель</param>
+        <param name="Объём двигателя">3.0 л</param>
+        <param name="Мощность">367 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">450 d 3.0d AT (367 л.с.) 4WD</param>
+      </offer>
+      <offer id="W1NWH5AB3TX087137" available="true">
+        <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2026</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
+        <price>32990000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/9066159/orig/162e29d95581d1b42f0350107d1af90f.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9066159/orig/7f89cbceb35a0ab908467c871c3acb66.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9066159/orig/7ac5ce089bdc89d25e88afcdfac060bf.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9066159/orig/2243adafdf8f376c0502d34f7b2ae17a.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9066159/orig/2b1064e62634b2e533e25a90981e59d1.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9066159/orig/e9f2c6b50b163fb943787f85d1672a4b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9066159/orig/fb9b3b3f9738745c1b427a6cbd2ed771.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9066159/orig/cadb3637c39dfcd400d907dc2c88cba5.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9066159/orig/d4721b00af682421ec5fee296a42fec3.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9066159/orig/8b1defd5b895dc8fb45bfb4ed3dd04ad.jpg</picture>
+        <description>2026 г., бензин, 4.0 л, 585 л.с., автоматическая, полный привод, новый, black</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>G-Класс AMG</model>
+        <param name="Год выпуска">2026</param>
+        <param name="Пробег">43 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">4.0 л</param>
+        <param name="Мощность">585 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
+      </offer>
       <offer id="WBS31BA01PCM11137" available="true">
         <name>BMW M4 G82/G83, 2022</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=M4</url>
@@ -1262,37 +1324,6 @@
         <param name="Цвет">grey</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">45 TDI 3.0d AT (249 л.с.) 4WD</param>
-      </offer>
-      <offer id="W1NKJ8HB9TF477630" available="true">
-        <name>Mercedes-Benz GLC Coupe AMG II (C254), 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLC%20Coupe%20AMG</url>
-        <price>9990000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>6</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8823291/orig/0a7c38c133494395b5ee0a4f4de65f69.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8823291/orig/210b78b03a14ed37e36fc98a684e9507.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8823291/orig/7ca4eb391636e38b872eb316f0167067.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8823291/orig/9101f92f2dfc304f103e367c46269dab.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8823291/orig/5aa008926432f9276a87e6734bb8a966.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8823291/orig/a44313ebfc95276b936211ca93150bfd.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8823291/orig/d9bb1e10f6f4888016362d01dda1fb68.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8823291/orig/fbb40a04a27300f0e6c5c1463c9fd91e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8823291/orig/5da7015a3cfa43338540a5a8d23df532.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8823291/orig/7fac11aaaa9a400fae6f99b1a1f0a70f.jpg</picture>
-        <description>2025 г., бензин, 2.0 л, 421 л.с., автоматическая, полный привод, пробег 3 531 км, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>GLC Coupe AMG</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">3531 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">421 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">43 AMG 2.0 AT (421 л.с.) 4WD</param>
       </offer>
       <offer id="WDD2173881A033449" available="true">
         <name>Mercedes-Benz S-Класс AMG III (W222, C217) Рестайлинг, 2018</name>
