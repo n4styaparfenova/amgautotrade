@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-31 09:41">
+<yml_catalog date="2026-05-31 11:25">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -611,37 +611,6 @@
         <param name="Цвет">white</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">400 d 2.9d AT (330 л.с.) 4WD</param>
-      </offer>
-      <offer id="WDD2130891A251877" available="true">
-        <name>Mercedes-Benz E-Класс AMG V (W213), 2017</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>5499000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>6</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8920561/orig/b3cc9c24c4dd82710728759550288b68.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8920561/orig/a3e9e597bbb27c0341393b85bf50c2dc.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8920561/orig/45116ad40cb1effa0666d79b250a7945.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8920561/orig/47c3d488434f6d7f0850f1274771450e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8920561/orig/f61f1da5881c20a0d3f71747d57d71a6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8920561/orig/fe39ee5ad501b68370d4eaf9031bacad.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8920561/orig/0b7bb37582393b7401d228bfe5b403c3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8920561/orig/2f6a685a599a1d650a9a1ff35110a0e0.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8920561/orig/b5c267aea21ed7eb56047638a50e0e42.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8920561/orig/bf3d0d1256bc55932d6d2940fa7f0c75.jpg</picture>
-        <description>2017 г., бензин, 4.0 л, 612 л.с., автоматическая, полный привод, пробег 103 065 км, grey</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>E-Класс AMG</model>
-        <param name="Год выпуска">2017</param>
-        <param name="Пробег">103065 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">4.0 л</param>
-        <param name="Мощность">612 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Седан</param>
-        <param name="Цвет">grey</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">63 AMG S 4.0 AT (612 л.с.) 4WD</param>
       </offer>
       <offer id="W1N1671591A248472" available="true">
         <name>Mercedes-Benz GLE II (V167), 2020</name>
