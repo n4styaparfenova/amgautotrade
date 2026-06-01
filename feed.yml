@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-01 08:23">
+<yml_catalog date="2026-06-01 14:48">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1604,37 +1604,6 @@
         <param name="Состояние">Новые</param>
         <param name="Модификация">450 d 3.0d AT (367 л.с.) 4WD</param>
       </offer>
-      <offer id="WDD2163741A032097" available="true">
-        <name>Mercedes-Benz CL-Класс AMG II (C216) Рестайлинг, 2013</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=CL-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>4190000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>6</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8710181/orig/66980f8b4ffec4b5e9302f8047fad062.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8710181/orig/0bad0abc4d957d00df93d612bccfa8ca.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8710181/orig/8d0f54df1d169b031a11abbdf2b2ae85.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8710181/orig/c4501542c95aa2430db300fd3219e283.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8710181/orig/72f998750130cdf53126268a5021f754.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8710181/orig/08195ac081a35041da4895e953b50d38.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8710181/orig/416e21eaeaf7c0041d6b09a37dd57569.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8710181/orig/a9dce3d67bc7d8c63d2eeb8b3c6e6d21.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8710181/orig/88ec927ce0682004d634bcabdbe25500.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8710181/orig/f6f10df1c4586e0649bfda0b04f16532.jpg</picture>
-        <description>2013 г., бензин, 5.5 л, 544 л.с., автоматическая, задний привод, пробег 152 863 км, brown</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>CL-Класс AMG</model>
-        <param name="Год выпуска">2013</param>
-        <param name="Пробег">152863 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">5.5 л</param>
-        <param name="Мощность">544 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Задний</param>
-        <param name="Кузов">Купе</param>
-        <param name="Цвет">brown</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">63 AMG 5.5 AT (544 л.с.)</param>
-      </offer>
       <offer id="JTNGK3DH008017906" available="true">
         <name>Toyota Alphard III, 2016</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Alphard</url>
@@ -1824,7 +1793,7 @@
       <offer id="WP0AD2996MS257163" available="true">
         <name>Porsche 911 VIII (992), 2020</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Porsche&amp;model=911</url>
-        <price>19800000</price>
+        <price>19499000</price>
         <currencyId>RUR</currencyId>
         <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8629578/orig/4e4aebec3a4b04a5f2728497ec6c362b.jpg</picture>
