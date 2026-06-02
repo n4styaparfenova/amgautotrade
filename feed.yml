@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-02 10:01">
+<yml_catalog date="2026-06-02 14:41">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -274,7 +274,7 @@
       <offer id="LFMJBFBF8T3005689" available="true">
         <name>Toyota RAV4 VI (XA60), 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=RAV4</url>
-        <price>3990000</price>
+        <price>4195000</price>
         <currencyId>RUR</currencyId>
         <categoryId>9</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8973611/orig/52ea5cb5dfb4b29d6095976fd32b4084.jpg</picture>
@@ -305,7 +305,7 @@
       <offer id="LFMJBFBF5T3005925" available="true">
         <name>Toyota RAV4 VI (XA60), 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=RAV4</url>
-        <price>3990000</price>
+        <price>4195000</price>
         <currencyId>RUR</currencyId>
         <categoryId>9</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8973608/orig/eb26f273f88135e15a8391b304f9a671.jpg</picture>
@@ -522,7 +522,7 @@
       <offer id="WBABC21030CE71178" available="true">
         <name>BMW 8 серии II (G14/G15/G16), 2020</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=8%20%D1%81%D0%B5%D1%80%D0%B8%D0%B8</url>
-        <price>8200000</price>
+        <price>7899000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8941541/orig/3b02cf32670c2302aaf5eeccc6986adb.jpg</picture>
@@ -766,37 +766,6 @@
         <param name="Цвет">white</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">2.0hyb CVT (197 л.с.)</param>
-      </offer>
-      <offer id="LFV3B2GM0T3304498" available="true">
-        <name>Audi Q5 III (GU), 2026</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Audi&amp;model=Q5</url>
-        <price>7050000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8885615/orig/e1ab3e315afdc9751f0ea906b31f1855.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8885615/orig/dfa000a0ad74bd687574358040633532.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8885615/orig/dafa89c6685ff43d5cc9f46773563241.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8885615/orig/1010500eb1950b5c59bb34f4e9d3bfca.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8885615/orig/84f619624698ec0166938adf2db7cf32.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8885615/orig/37844a5c5b9947e3bec36476b25768cd.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8885615/orig/34e4b5bf656d3776a54965b2dafd621f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8885615/orig/466e678ecb91a9f47a6144e300f27c25.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8885615/orig/fdd2f12206659e11b874c2326cafee14.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8885615/orig/073c025afcfa6d22eb430a59bc65502e.jpg</picture>
-        <description>2026 г., бензин, 2.0 л, 272 л.с., роботизированная, полный привод, новый, white</description>
-        <vendor>Audi</vendor>
-        <model>Q5</model>
-        <param name="Год выпуска">2026</param>
-        <param name="Пробег">34 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">272 л.с.</param>
-        <param name="Коробка передач">Роботизированная</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">white</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">L 2.0 AMT (272 л.с.) 4WD</param>
       </offer>
       <offer id="W1KZF6BB3MA881810" available="true">
         <name>Mercedes-Benz E-Класс AMG V (W213) Рестайлинг, 2020</name>
@@ -1297,7 +1266,7 @@
       <offer id="W1NKJ8HB9TF477630" available="true">
         <name>Mercedes-Benz GLC Coupe AMG II (C254), 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLC%20Coupe%20AMG</url>
-        <price>9990000</price>
+        <price>9490000</price>
         <currencyId>RUR</currencyId>
         <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8823291/orig/0a7c38c133494395b5ee0a4f4de65f69.jpg</picture>
@@ -1355,37 +1324,6 @@
         <param name="Цвет">grey</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">63 AMG 4.0 AT (612 л.с.) 4WD</param>
-      </offer>
-      <offer id="LFMJBFBF2T3007373" available="true">
-        <name>Toyota RAV4 VI (XA60), 2026</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=RAV4</url>
-        <price>3990000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8785160/orig/2f87e50919123e15b4da4b577786595d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8785160/orig/0d8411366d58f7823fbf869dfa216772.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8785160/orig/d1c484ebb42ab58579a13b105811dd27.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8785160/orig/e72b0987556e3b26bcd431d537f33440.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8785160/orig/df7ec845351be3ceadde4d8a2f9303eb.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8785160/orig/bf800ce7cbe46c6e28f2f8026bf20d65.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8785160/orig/b70d41c41e7211991f97496f430adece.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8785160/orig/26d7a8b4ba5aada7c30962e03fe4e228.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8785160/orig/273af4b6df70597763e04591860afafe.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8785160/orig/fe8d341b6ad1f1b0c32c76afa7eb1b16.jpg</picture>
-        <description>2026 г., бензин, 2.0 л, 171 л.с., вариаторная, полный привод, новый, white</description>
-        <vendor>Toyota</vendor>
-        <model>RAV4</model>
-        <param name="Год выпуска">2026</param>
-        <param name="Пробег">12 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">171 л.с.</param>
-        <param name="Коробка передач">Вариаторная</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">white</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">2.0 CVT (171 л.с.) 4WD</param>
       </offer>
       <offer id="WDD2221641A472210" available="true">
         <name>Mercedes-Benz S-Класс VI (W222, C217) Рестайлинг, 2019</name>
