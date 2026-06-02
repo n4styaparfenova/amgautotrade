@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-02 14:41">
+<yml_catalog date="2026-06-02 18:30">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -212,7 +212,7 @@
       <offer id="JTMABABJ9R4168042" available="true">
         <name>Toyota Land Cruiser 300 Series, 2024</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Land%20Cruiser</url>
-        <price>21400000</price>
+        <price>20990000</price>
         <currencyId>RUR</currencyId>
         <categoryId>9</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8997926/orig/cdbbee4d16718063187b036d9b692356.jpg</picture>
@@ -832,7 +832,7 @@
       <offer id="W1NWH5AB7SX044340" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>29200000</price>
+        <price>28200000</price>
         <currencyId>RUR</currencyId>
         <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8865378/orig/0b8348e2cee63293f0945ffca925c702.jpg</picture>
@@ -1046,37 +1046,6 @@
         <param name="Состояние">Новые</param>
         <param name="Модификация">2.0 CVT (171 л.с.) 4WD</param>
       </offer>
-      <offer id="WBS81FK04SCT00151" available="true">
-        <name>BMW M5 VII (G90), 2024</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=M5</url>
-        <price>19750000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8835733/orig/bd1eb973520084c5ec17904045930dae.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8835733/orig/966e376789e901751d1ac2905400381f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8835733/orig/b6a732961af27a8713b240107705acee.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8835733/orig/d67d17498238dd50ffc9f24863e3333e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8835733/orig/07caec0d3b0e9c1d3c4dd1510be15dae.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8835733/orig/c00d6ea1bfb36079ef7c97d925083e62.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8835733/orig/83da81fc0ed97e883918c7259310e20d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8835733/orig/81720719209efff09b66de4468beac53.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8835733/orig/a243226f1f2a173a62ea2b5f8a911e06.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8835733/orig/9293e4ffaa63d7e916bdb4e8f5b03610.jpg</picture>
-        <description>2024 г., гибрид, 4.4 л, 727 л.с., автоматическая, полный привод, пробег 7 495 км, black</description>
-        <vendor>BMW</vendor>
-        <model>M5</model>
-        <param name="Год выпуска">2024</param>
-        <param name="Пробег">7495 км</param>
-        <param name="Двигатель">Гибрид</param>
-        <param name="Объём двигателя">4.4 л</param>
-        <param name="Мощность">727 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Седан</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">4.4hyb AT (727 л.с.) 4WD</param>
-      </offer>
       <offer id="JTHADAAD6T5009114" available="true">
         <name>Lexus LM II, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Lexus&amp;model=LM</url>
@@ -1231,37 +1200,6 @@
         <param name="Цвет">grey</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">4 Executive 3.0 AMT (330 л.с.) 4WD</param>
-      </offer>
-      <offer id="WAUZZZF24NN036694" available="true">
-        <name>Audi A7 II (4K), 2022</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Audi&amp;model=A7</url>
-        <price>6690000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8827096/orig/428f59c60c5e946021e51d4ec501340b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8827096/orig/f1b7abf044a702e93ed9c7c557c81bf5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8827096/orig/5559d0a5df2e385ea64f9b00adcbd60a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8827096/orig/59f9d14cd5acbf2dcf666a983da6859a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8827096/orig/aacb46c670f1e6ac2b73ea2211a0b0ce.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8827096/orig/14385e3b14cbaabcbd0bedb50e62bb5e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8827096/orig/4fb41d264fb2ecee9116336cfa98b0bf.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8827096/orig/81a422329d706e2d79a6472ecb5b35bf.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8827096/orig/c68ccfdbe1b2e01ccdedcfebb369c32b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8827096/orig/9b45b7cb21e3aeb8be5cde180513a4ac.jpg</picture>
-        <description>2022 г., дизель, 3.0 л, 249 л.с., автоматическая, полный привод, пробег 49 475 км, grey</description>
-        <vendor>Audi</vendor>
-        <model>A7</model>
-        <param name="Год выпуска">2022</param>
-        <param name="Пробег">49475 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">249 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Лифтбек</param>
-        <param name="Цвет">grey</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">45 TDI 3.0d AT (249 л.с.) 4WD</param>
       </offer>
       <offer id="W1NKJ8HB9TF477630" available="true">
         <name>Mercedes-Benz GLC Coupe AMG II (C254), 2025</name>
