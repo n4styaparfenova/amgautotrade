@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-03 02:43">
+<yml_catalog date="2026-06-03 08:04">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -23,6 +23,37 @@
       <category id="12" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="W1NWH5AB1TX082762" available="true">
+        <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2026</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
+        <price>32990000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/9088639/orig/17824ab4df6dcd8b4583a80495aa42ae.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9088639/orig/1c5ba65346ab8fc92537bec3149a5663.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9088639/orig/13170b5f2d73aad4a11db548a1fb669b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9088639/orig/78442b126c84d61ad0806870ec7b4578.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9088639/orig/72d3a620691d2d8d30a4f65657e36988.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9088639/orig/5eb6007d96f6b5015a24125403ba9c81.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9088639/orig/08132aadee25cd336e4da736fe16f9df.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9088639/orig/a901da2eab1b8c40108e7692e53f80f7.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9088639/orig/925678ef9e2a3b26de4dcd91ceed6af3.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9088639/orig/9c99183f5333f12fdb34e9738b53854a.jpg</picture>
+        <description>2026 г., бензин, 4.0 л, 585 л.с., автоматическая, полный привод, новый, grey</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>G-Класс AMG</model>
+        <param name="Год выпуска">2026</param>
+        <param name="Пробег">14 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">4.0 л</param>
+        <param name="Мощность">585 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">grey</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
+      </offer>
       <offer id="W1NFF3DE4TB608265" available="true">
         <name>Mercedes-Benz GLS II (X167) Рестайлинг, 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLS</url>
@@ -2041,7 +2072,7 @@
       <offer id="WBS61AY090FS66155" available="true">
         <name>BMW M3 VI (G80), 2024</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=M3</url>
-        <price>17930000</price>
+        <price>15300000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8230207/orig/77c1c5a196929b8ad54d3e8b40e2f6b7.jpg</picture>
