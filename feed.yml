@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-06 18:02">
+<yml_catalog date="2026-06-06 20:03">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -398,7 +398,7 @@
       <offer id="LSV2BDDG0TN011814" available="true">
         <name>Volkswagen Teramont II (China Market), 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Volkswagen&amp;model=Teramont</url>
-        <price>6099000</price>
+        <price>5900000</price>
         <currencyId>RUR</currencyId>
         <categoryId>10</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8997923/orig/c2fa6895d2ee5edf34fe33f5bf0d1b97.jpg</picture>
@@ -429,7 +429,7 @@
       <offer id="LFMJBFBF8T3005689" available="true">
         <name>Toyota RAV4 VI (XA60), 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=RAV4</url>
-        <price>4195000</price>
+        <price>4100000</price>
         <currencyId>RUR</currencyId>
         <categoryId>9</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8973611/orig/52ea5cb5dfb4b29d6095976fd32b4084.jpg</picture>
@@ -460,7 +460,7 @@
       <offer id="LFMJBFBF5T3005925" available="true">
         <name>Toyota RAV4 VI (XA60), 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=RAV4</url>
-        <price>4195000</price>
+        <price>4100000</price>
         <currencyId>RUR</currencyId>
         <categoryId>9</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8973608/orig/eb26f273f88135e15a8391b304f9a671.jpg</picture>
@@ -522,7 +522,7 @@
       <offer id="LFV3B2GM4T3307663" available="true">
         <name>Audi Q5 II (FY) Рестайлинг, 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Audi&amp;model=Q5</url>
-        <price>6390000</price>
+        <price>6350000</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8958584/orig/fa201982e5217fa3716ca8117d64cb0e.jpg</picture>
@@ -553,7 +553,7 @@
       <offer id="LVGBECEK3TG132233" available="true">
         <name>Toyota Camry IX (XV80) China Market, 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Camry</url>
-        <price>4400000</price>
+        <price>4150000</price>
         <currencyId>RUR</currencyId>
         <categoryId>9</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8958579/orig/90bce4ef5a92e8ae6524fd3e011f2568.jpg</picture>
@@ -584,7 +584,7 @@
       <offer id="LVGEU76A9TG057809" available="true">
         <name>Toyota Highlander IV (XU70), 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Highlander</url>
-        <price>5350000</price>
+        <price>5100000</price>
         <currencyId>RUR</currencyId>
         <categoryId>9</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8958576/orig/4d462ae24bd8615b1256d1ffc08bb47c.jpg</picture>
@@ -2196,7 +2196,7 @@
       <offer id="WDD2221881A357837" available="true">
         <name>Mercedes-Benz S-Класс AMG III (W222, C217) Рестайлинг, 2017</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>5490000</price>
+        <price>5290000</price>
         <currencyId>RUR</currencyId>
         <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8159424/orig/77c4e59379a8288909790e121c77438d.jpg</picture>
