@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-06 11:15">
+<yml_catalog date="2026-06-06 13:06">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -23,6 +23,99 @@
       <category id="12" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="WDD2173641A025892" available="true">
+        <name>Mercedes-Benz S-Класс VI (W222, C217), 2016</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
+        <price>6299000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/9116834/orig/bd65c3c84e2b0e46946b7aa2e0d40d8c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9116834/orig/86c3a08d38aa851a40015f9f202cdbe4.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9116834/orig/ac4656320cddcf7930ac665f74adaf45.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9116834/orig/b2604df2775206ced020000b365aa867.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9116834/orig/d38ae781f7345eb2b15fe6e361f197c2.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9116834/orig/db69fb12f050b9fee512fac3e8845d52.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9116834/orig/45829dc86d6857706dbb2ff41aec4a0b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9116834/orig/ad414d4c66e8da6c0ca7aa1293535a49.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9116834/orig/2aaf3880bd3ffff8596a893a5a3674d1.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9116834/orig/6975fd3ca4b831001e615823a1948f1f.jpg</picture>
+        <description>2016 г., бензин, 3.0 л, 367 л.с., автоматическая, полный привод, пробег 93 569 км, white</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>S-Класс</model>
+        <param name="Год выпуска">2016</param>
+        <param name="Пробег">93569 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">3.0 л</param>
+        <param name="Мощность">367 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Купе</param>
+        <param name="Цвет">white</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">400 3.0 AT (367 л.с.) 4WD</param>
+      </offer>
+      <offer id="SALGA2BE9KA519862" available="true">
+        <name>Land Rover Range Rover IV Рестайлинг, 2018</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Land%20Rover&amp;model=Range%20Rover</url>
+        <price>7500000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/9109474/orig/33a1eb3f10d5f475f4d86ff3e8aec523.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9109474/orig/59e8878286d3e807d85423b7fb8d4b0c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9109474/orig/f76716b127515598e93bbbb88ba58292.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9109474/orig/ecee77fda652c438b44b1e36b996082b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9109474/orig/6b810dc99f752784fe15828d2612cce2.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9109474/orig/fae06a96e86c9526b007a60a806bf6c2.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9109474/orig/393340345ea6d6a750c5b95cc5822bfc.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9109474/orig/2c62b78c6d7d2e673dd0f29e6cc9429d.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9109474/orig/b9688478dd72a8f08e9b96b25aa78bee.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9109474/orig/79bfb0a3c96ee51a508dd866a1eb891b.jpg</picture>
+        <description>2018 г., бензин, 5.0 л, 525 л.с., автоматическая, полный привод, пробег 81 694 км, black</description>
+        <vendor>Land Rover</vendor>
+        <model>Range Rover</model>
+        <param name="Год выпуска">2018</param>
+        <param name="Пробег">81694 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">5.0 л</param>
+        <param name="Мощность">525 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">С пробегом</param>
+        <param name="Модификация">5.0 AT (525 л.с.) 4WD</param>
+      </offer>
+      <offer id="JTHADAAD9T5009348" available="true">
+        <name>Lexus LM II, 2026</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Lexus&amp;model=LM</url>
+        <price>17990000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/9109473/orig/eb71bcc80e779ab540e06900671ddece.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9109473/orig/f7d2f83e7413624f17dc5cc2079e81ca.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9109473/orig/72075e938700d3f9fc5b7839fecc9255.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9109473/orig/46fc568ac4abd4e34e2d921159c25a5b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9109473/orig/dc9ce434ff7167f2354ea503c677d510.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9109473/orig/8de2f35013c72b9b7879b0ac64ff1d76.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9109473/orig/a224f10aaa579ad276e7e595ee67b214.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9109473/orig/65ca0d792d2e261f05ae44e2c0d94a14.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9109473/orig/e038139c185caf9c59d34d59803255a5.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9109473/orig/d491a4d9abdf4eaa97cfc3515ae11e75.jpg</picture>
+        <description>2026 г., гибрид, 2.5 л, 250 л.с., вариаторная, полный привод, новый, black</description>
+        <vendor>Lexus</vendor>
+        <model>LM</model>
+        <param name="Год выпуска">2026</param>
+        <param name="Пробег">47 км</param>
+        <param name="Двигатель">Гибрид</param>
+        <param name="Объём двигателя">2.5 л</param>
+        <param name="Мощность">250 л.с.</param>
+        <param name="Коробка передач">Вариаторная</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Минивэн</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">350h 2.5hyb CVT (250 л.с.) 4WD</param>
+      </offer>
       <offer id="W1NWH5AB1TX082762" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
