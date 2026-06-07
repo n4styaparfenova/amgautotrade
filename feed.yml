@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-07 06:57">
+<yml_catalog date="2026-06-07 09:57">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1448,37 +1448,6 @@
         <param name="Цвет">grey</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">63 AMG 4.0 AT (612 л.с.) 4WD</param>
-      </offer>
-      <offer id="WDD2221641A472210" available="true">
-        <name>Mercedes-Benz S-Класс VI (W222, C217) Рестайлинг, 2019</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>4690000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>6</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8772177/orig/c338e3a12060f7891e206025c6b900e0.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8772177/orig/9ac3593b3fe0a1cd237df641e5f609c3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8772177/orig/80578919f20e11a43200958b08c8511c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8772177/orig/cfc0e1f0b11c3977d264fd68df663547.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8772177/orig/ab8dc005726806b36d71ba1aea200fbf.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8772177/orig/ba1613648672f24e251885dc7eaf3df6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8772177/orig/aa625c582c8d55debe82d6669d40493c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8772177/orig/8b3a8db98a7caab8a02d4e5ec6b45170.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8772177/orig/68588f81b1ca8ae1cb9622bbb560c3f7.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8772177/orig/98a9c0c6f87d07dbe18634c13208d635.jpg</picture>
-        <description>2019 г., бензин, 3.0 л, 367 л.с., автоматическая, полный привод, пробег 144 760 км, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>S-Класс</model>
-        <param name="Год выпуска">2019</param>
-        <param name="Пробег">144760 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">367 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Седан</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">450 Long 3.0 AT (367 л.с.) 4WD</param>
       </offer>
       <offer id="W1NWH5AB7TX081776" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2026</name>
