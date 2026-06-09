@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-09 10:26">
+<yml_catalog date="2026-06-09 13:36">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -641,37 +641,6 @@
         <param name="Цвет">grey</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">2.0 AT (250 л.с.)</param>
-      </offer>
-      <offer id="LE4KB5BB6TL377346" available="true">
-        <name>Mercedes-Benz GLC II (X254), 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLC</url>
-        <price>7590000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>6</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8941543/orig/557a7f83843ea67a82d784eeba58abfd.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8941543/orig/ae0ca521f919b218374d6e7a8f9c9d65.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8941543/orig/83401a57dfbc42acffe14f8ec43bcc9e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8941543/orig/36009cf7f05cfe9003a860977a316227.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8941543/orig/b5c24dc8c99038f53e091d6968dcedd3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8941543/orig/572b68c9951a85e2d1a18903a96bcace.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8941543/orig/90f0d7bbf3cd3e556fbc0fe38f161e2d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8941543/orig/b6cfc2bf8bfd3624392876f09f636b95.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8941543/orig/fe5ced250450dae56f708b09e377040b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8941543/orig/ed91c9a35a589eab8e227597942871d1.jpg</picture>
-        <description>2025 г., бензин, 2.0 л, 204 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>GLC</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">10 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">204 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">260 L 2.0 AT (204 л.с.) 4WD</param>
       </offer>
       <offer id="WBABC21030CE71178" available="true">
         <name>BMW 8 серии II (G14/G15/G16), 2020</name>
