@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-09 13:36">
+<yml_catalog date="2026-06-09 16:24">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1172,7 +1172,7 @@
       <offer id="JTHADAAD6T5009114" available="true">
         <name>Lexus LM II, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Lexus&amp;model=LM</url>
-        <price>17790000</price>
+        <price>17590000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8834663/orig/0f0a0946afe329c10cf3c34269d95ba3.jpg</picture>
