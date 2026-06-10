@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-10 10:52">
+<yml_catalog date="2026-06-10 20:28">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -22,6 +22,37 @@
       <category id="11" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="W1V44781514629872" available="true">
+        <name>Mercedes-Benz V-Класс III (W447) Рестайлинг 2, 2026</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=V-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
+        <price>13300000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/9131352/orig/96a4c451fb59e8603fb617a6d01699ec.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9131352/orig/aa8915340ea57800c2860b48febc8ab7.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9131352/orig/b8f193a3ac6783b3c55bf222096dc067.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9131352/orig/38e22bbc8644789389415f2ec95e8d75.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9131352/orig/360ebf206bbd457a35407e8d33aba84f.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9131352/orig/492509ae3da040dddeaaa9776d251ae6.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9131352/orig/4db8563591ede775466c1ae363f261bf.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9131352/orig/8966dbad1b2363e1371dc7c0b9ac2b14.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9131352/orig/7b2a9db7f428b674c16345fa63359231.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9131352/orig/791097e289fd0dcef0faf7dcdcec9083.jpg</picture>
+        <description>2026 г., дизель, 1.9 л, 237 л.с., автоматическая, полный привод, новый, black</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>V-Класс</model>
+        <param name="Год выпуска">2026</param>
+        <param name="Пробег">30 км</param>
+        <param name="Двигатель">Дизель</param>
+        <param name="Объём двигателя">1.9 л</param>
+        <param name="Мощность">237 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Минивэн</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">300 d экстра длинный 2.0d AT (237 л.с.) 4WD</param>
+      </offer>
       <offer id="WDD2173641A025892" available="true">
         <name>Mercedes-Benz S-Класс VI (W222, C217), 2016</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
@@ -52,6 +83,37 @@
         <param name="Цвет">white</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">400 3.0 AT (367 л.с.) 4WD</param>
+      </offer>
+      <offer id="LFV3B2GM2S3652883" available="true">
+        <name>Audi Q5 III (GU), 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Audi&amp;model=Q5</url>
+        <price>6499000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/9109480/orig/af631934fe1a258e02dd33b32200872b.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9109480/orig/063e823e0482c02f0936b14a3688a376.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9109480/orig/77ec6dea0af259d35e88ab214a19b10c.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9109480/orig/8f6dab189bb424a67bc7e9f80d7ee906.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9109480/orig/0a1f4db76c19138d76fb69406bccc6fe.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9109480/orig/a65bc0494db15fe5c8b796c988b243b9.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9109480/orig/2c79a0073ae51353cf0bc1a949c56cac.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9109480/orig/482b2902a95923d5a108e318c67e82ec.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9109480/orig/23279eaf04e15fda78fc3fdd22b5ede3.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9109480/orig/959b0955adf4ebc2892d842d3f5c7bc5.jpg</picture>
+        <description>2025 г., бензин, 2.0 л, 272 л.с., роботизированная, полный привод, новый, grey</description>
+        <vendor>Audi</vendor>
+        <model>Q5</model>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег">51 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">2.0 л</param>
+        <param name="Мощность">272 л.с.</param>
+        <param name="Коробка передач">Роботизированная</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">grey</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">L 2.0 AMT (272 л.с.) 4WD</param>
       </offer>
       <offer id="SALGA2BE9KA519862" available="true">
         <name>Land Rover Range Rover IV Рестайлинг, 2018</name>
@@ -397,7 +459,7 @@
       <offer id="JTMABABJ9R4168042" available="true">
         <name>Toyota Land Cruiser 300 Series, 2024</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Land%20Cruiser</url>
-        <price>19990000</price>
+        <price>19399000</price>
         <currencyId>RUR</currencyId>
         <categoryId>9</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8997926/orig/cdbbee4d16718063187b036d9b692356.jpg</picture>
@@ -1044,68 +1106,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">300 d 2.0d AT (249 л.с.) 4WD</param>
-      </offer>
-      <offer id="LVGEU76A3TG057191" available="true">
-        <name>Toyota Highlander IV (XU70), 2026</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Highlander</url>
-        <price>5299000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8836836/orig/a2ee94c204122b9fa86e9e696d0bc1bb.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8836836/orig/e752db373e7a15e877efb8a6b52d6939.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8836836/orig/ab9b9e9d0537290f83a7eb441dd08485.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8836836/orig/43b1ef5a22787c4776c2aeb2790c4212.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8836836/orig/12c661ca632d9d0e3a399dda5c0a69b6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8836836/orig/7310ac249a5bc97623103a8f35c12df3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8836836/orig/9dce30bfd292defd64142d1dce0051fa.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8836836/orig/a3047ea9c50c550503c2479f61aa104b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8836836/orig/0b545411eff0a7a488267b8178f533d8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8836836/orig/bd772562a220118d6da491dd774095de.jpg</picture>
-        <description>2026 г., бензин, 2.0 л, 248 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>Toyota</vendor>
-        <model>Highlander</model>
-        <param name="Год выпуска">2026</param>
-        <param name="Пробег">8 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">248 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">2.0 AT (248 л.с.) 4WD</param>
-      </offer>
-      <offer id="LFMJBFBF2T3006384" available="true">
-        <name>Toyota RAV4 VI (XA60), 2026</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=RAV4</url>
-        <price>3990000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8836835/orig/6ba8c943ed88d3dffa050e7e02bd2682.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8836835/orig/5a5e4b1e51440e60121a506a8662b4ae.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8836835/orig/5f343fe97cba71c0aeeb3dbdb205a158.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8836835/orig/b94d43e6ed2b56a797de83758bdc1164.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8836835/orig/6cd57e509866b9580d860d5f43cdf83f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8836835/orig/4ae96fb336e00985c296a75b1cb33608.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8836835/orig/475d4c6c39de3811bef8563fa457134d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8836835/orig/83d8617b244959548c2943a7bf88029a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8836835/orig/a1b93df3c9ce20b7d2f6c31fb5932f8e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8836835/orig/98119701fc5f9f4de12c3390f4bcf686.jpg</picture>
-        <description>2026 г., бензин, 2.0 л, 171 л.с., вариаторная, полный привод, новый, black</description>
-        <vendor>Toyota</vendor>
-        <model>RAV4</model>
-        <param name="Год выпуска">2026</param>
-        <param name="Пробег">9 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">171 л.с.</param>
-        <param name="Коробка передач">Вариаторная</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">2.0 CVT (171 л.с.) 4WD</param>
       </offer>
       <offer id="JTHADAAD6T5009114" available="true">
         <name>Lexus LM II, 2025</name>
@@ -1850,37 +1850,6 @@
         <param name="Цвет">grey</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">63 AMG S 4.0 AT (612 л.с.) 4WD</param>
-      </offer>
-      <offer id="WBA21EV0009187776" available="true">
-        <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X5</url>
-        <price>15950000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8577883/orig/fe8c4bc5fef4083bb077c1456d72865f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8577883/orig/4c8b45f5837180d354d199f2dc111af2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8577883/orig/1f229b0c045760cfec32d064c7ac5e9a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8577883/orig/710333164223bb234c4b101eb111b82a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8577883/orig/fcdbc5bffa503d905bb552e2d44c489c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8577883/orig/1bbad6bad6150218b6deca6cff8f8309.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8577883/orig/b0317a2cb84aafac86cc411bb76e5d8b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8577883/orig/d7a44378db6203671a0e7ca1b1564946.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8577883/orig/b50e59f4ba192efed5df8023c038d132.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8577883/orig/db8c9c25eac443a9c40f455dc15fea2f.jpg</picture>
-        <description>2025 г., дизель, 3.0 л, 352 л.с., автоматическая, полный привод, новый, blue</description>
-        <vendor>BMW</vendor>
-        <model>X5</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">29 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">352 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">blue</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">40d 3.0d AT (352 л.с.) 4WD</param>
       </offer>
       <offer id="WBA21EV0309129628" available="true">
         <name>BMW X5 IV (G05/G18) Рестайлинг, 2025</name>
