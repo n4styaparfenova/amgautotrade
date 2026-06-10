@@ -2,8 +2,8 @@ name: Sync AutoHub Cars
 
 on:
   schedule:
-    # Запуск каждый час
-    - cron: '0 * * * *'
+    # Запуск 2 раза в сутки: 9:00 и 21:00 МСК (06:00 и 18:00 UTC)
+    - cron: '0 6,18 * * *'
   workflow_dispatch: # Позволяет запустить вручную
 
 jobs:
