@@ -37,3 +37,7 @@ find-differences.js
 compare-with-avito.js
 test-maxposter-api.js
 cars-analysis.txt
+
+# Локальные файлы (не для сайта)
+generate_report.py
+cars.json.backup-*
