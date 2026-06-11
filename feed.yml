@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-11 10:21">
+<yml_catalog date="2026-06-11 20:20">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -15,11 +15,10 @@
       <category id="4" parentId="1">Land Rover</category>
       <category id="5" parentId="1">Lexus</category>
       <category id="6" parentId="1">Mercedes-Benz</category>
-      <category id="7" parentId="1">Peugeot</category>
-      <category id="8" parentId="1">Porsche</category>
-      <category id="9" parentId="1">Toyota</category>
-      <category id="10" parentId="1">Volvo</category>
-      <category id="11" parentId="1">Zeekr</category>
+      <category id="7" parentId="1">Porsche</category>
+      <category id="8" parentId="1">Toyota</category>
+      <category id="9" parentId="1">Volvo</category>
+      <category id="10" parentId="1">Zeekr</category>
     </categories>
     <offers>
       <offer id="W1V44781514629872" available="true">
@@ -368,7 +367,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Land%20Cruiser</url>
         <price>8799000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
+        <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8997943/orig/ac7f5ff7f63e1e852d6c2db6abebe66b.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8997943/orig/87b38dcf16ed19b7238c5652d7244018.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8997943/orig/bcfb25a39d197086fe5d282226e15914.jpg</picture>
@@ -394,74 +393,12 @@
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">3.4 AT (415 л.с.) 4WD</param>
       </offer>
-      <offer id="LVGBECEK3TG133902" available="true">
-        <name>Toyota Camry IX (XV80) China Market, 2026</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Camry</url>
-        <price>4199000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8997942/orig/55ce1f5724ab48519095b83417aa959d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8997942/orig/214f4f0ad9f0f7d379bda19972551831.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8997942/orig/f320ad5ee3e0534096aa85de89c60961.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8997942/orig/a2b77478a6d6888fe3cb226d5895969f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8997942/orig/6c48e03bbc49ccf3777a06e949bda5e3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8997942/orig/a55a4562efc37b74c265e0d85493be81.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8997942/orig/1c88b25dd15a90dd1c6b42f26647cf7c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8997942/orig/fc6996dfd8358304cafea80ccfcac374.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8997942/orig/ad7b8a0101e5632cc81f24b68b3a847e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8997942/orig/e67fcde40fbf6d3f9810664f2b0202bb.jpg</picture>
-        <description>2026 г., гибрид, 2.0 л, 197 л.с., вариаторная, передний привод, новый, black</description>
-        <vendor>Toyota</vendor>
-        <model>Camry</model>
-        <param name="Год выпуска">2026</param>
-        <param name="Пробег">62 км</param>
-        <param name="Двигатель">Гибрид</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">197 л.с.</param>
-        <param name="Коробка передач">Вариаторная</param>
-        <param name="Привод">Передний</param>
-        <param name="Кузов">Седан</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">2.0hyb CVT (197 л.с.)</param>
-      </offer>
-      <offer id="LVGBECEK7TG133899" available="true">
-        <name>Toyota Camry IX (XV80) China Market, 2026</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Camry</url>
-        <price>4199000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8997932/orig/41e99461219d05e4e1299dfc562dd401.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8997932/orig/1e805394031d007095b76e1d4f77fa83.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8997932/orig/815ff3891ce6597a47b5167290f97baa.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8997932/orig/950b88c4f2116ba7f51dfb0a2935f418.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8997932/orig/87264eb219c651848b786098bd10995b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8997932/orig/5eaf61fba23f1d984e37b417e64ee415.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8997932/orig/7aeec9f4c16be042b44f01077d04aba9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8997932/orig/df7276f52aaaea1f6592c93a90dca883.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8997932/orig/1c052a087b7fbac60a3890ea8790b242.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8997932/orig/51ebb05fdaad689051a316d11550f8ea.jpg</picture>
-        <description>2026 г., гибрид, 2.0 л, 197 л.с., вариаторная, передний привод, новый, black</description>
-        <vendor>Toyota</vendor>
-        <model>Camry</model>
-        <param name="Год выпуска">2026</param>
-        <param name="Пробег">21 км</param>
-        <param name="Двигатель">Гибрид</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">197 л.с.</param>
-        <param name="Коробка передач">Вариаторная</param>
-        <param name="Привод">Передний</param>
-        <param name="Кузов">Седан</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">2.0hyb CVT (197 л.с.)</param>
-      </offer>
       <offer id="JTMABABJ9R4168042" available="true">
         <name>Toyota Land Cruiser 300 Series, 2024</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Land%20Cruiser</url>
         <price>19399000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
+        <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8997926/orig/cdbbee4d16718063187b036d9b692356.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8997926/orig/5007c18349a37a8654ccf4e6f8327a9f.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8997926/orig/75dcd6d3fac97917ed6426777819acbb.jpg</picture>
@@ -492,7 +429,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=RAV4</url>
         <price>4100000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
+        <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8973611/orig/52ea5cb5dfb4b29d6095976fd32b4084.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8973611/orig/7314a8e2f8d79ea0125c650b69a6533b.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8973611/orig/47bf969e4f5d0e69c4e4e7fa941f8a6c.jpg</picture>
@@ -523,7 +460,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=RAV4</url>
         <price>4100000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
+        <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8973608/orig/eb26f273f88135e15a8391b304f9a671.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8973608/orig/d24d0969ef31da1fa80f961f963a0f2e.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8973608/orig/6af8e27be075c3b9ca292cc33d68dd11.jpg</picture>
@@ -552,7 +489,7 @@
       <offer id="WDD2229861A478796" available="true">
         <name>Mercedes-Benz Maybach S-Класс I (X222) Рестайлинг, 2019</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=Maybach%20S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>7390000</price>
+        <price>6990000</price>
         <currencyId>RUR</currencyId>
         <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8958586/orig/f687c1edfebd082ad5559776dbadd029.jpg</picture>
@@ -616,7 +553,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Camry</url>
         <price>4150000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
+        <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8958579/orig/90bce4ef5a92e8ae6524fd3e011f2568.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8958579/orig/18ada367de9ad921821cf81372c62c70.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8958579/orig/abc98b56f7e45dde41717df02dd1230d.jpg</picture>
@@ -647,7 +584,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Volvo&amp;model=S90</url>
         <price>5800000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>10</categoryId>
+        <categoryId>9</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8948820/orig/a7370ab1292f854698e29818ade3661a.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8948820/orig/a5df9f4ab4115174efd9a33ad3d7b9f1.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8948820/orig/5f6741a7cad1d86a1a29a8d9699ffbf3.jpg</picture>
@@ -802,7 +739,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Zeekr&amp;model=9X</url>
         <price>10990000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
+        <categoryId>10</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8890481/orig/dbb39e20a637a95d408b55ab3bdaccf0.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8890481/orig/005a8626337264481b1655925eaeede9.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8890481/orig/1e62cec4b64a08a7b8f25a71c0c6b6be.jpg</picture>
@@ -833,7 +770,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Camry</url>
         <price>4350000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
+        <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8890480/orig/3892c7b5d2a5e831c83c60cc17e99e33.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8890480/orig/efe268ffcfc0d6179b6a0e170d165095.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8890480/orig/362c885a8c4a262b3ead32a693ca0e0e.jpg</picture>
@@ -957,7 +894,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Camry</url>
         <price>4199000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
+        <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8862574/orig/d8032f570c89497070f2d32200d1bf7a.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8862574/orig/2346d485c21effce0b1e156109452434.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8862574/orig/1b06370d4bc8ec5a7a7eaba76f486ef5.jpg</picture>
@@ -1205,7 +1142,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Porsche&amp;model=Panamera</url>
         <price>6390000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>8</categoryId>
+        <categoryId>7</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8831228/orig/641ae04dca1b1794846500c4069ff6d4.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8831228/orig/8a3c4c94d8e40059cd49fc3a5f33adbf.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8831228/orig/bbefd2726abc85569e2c964690189a8b.jpg</picture>
@@ -1360,7 +1297,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Land%20Cruiser</url>
         <price>13790000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
+        <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8739835/orig/d74ff825f7b765471104effddcb1f807.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8739835/orig/88acdc2ef866f614d613fd20166c48ac.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8739835/orig/ba89d365ce472a23130e8b12ed6327d8.jpg</picture>
@@ -1484,7 +1421,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Alphard</url>
         <price>4150000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
+        <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8710178/orig/f39459b63531f207ec9298a3b577ed22.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8710178/orig/18a70806d955b0c03a5a9c3b2cc2e676.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8710178/orig/d06d9e3791dc5966e016685102368fa3.jpg</picture>
@@ -1670,7 +1607,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Porsche&amp;model=911</url>
         <price>19499000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>8</categoryId>
+        <categoryId>7</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8629578/orig/4e4aebec3a4b04a5f2728497ec6c362b.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8629578/orig/a60b457c344e103af698865a891091e1.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8629578/orig/f4470566b01ff9ccb071f02f5cf306f6.jpg</picture>
@@ -1881,37 +1818,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">350h 2.5hyb CVT (250 л.с.) 4WD</param>
-      </offer>
-      <offer id="VF3YCBTFCRMA19523" available="true">
-        <name>Peugeot Boxer II рестайлинг, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Peugeot&amp;model=Boxer</url>
-        <price>5999000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8391462/orig/0aec9ce0df399dc00f07cbe933978049.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391462/orig/d5902e4e0effea364093fe9cb22f31b0.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391462/orig/e98a467efb123e64f01efc91d8007675.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391462/orig/787d14e0950c57ac93e4c7395bf2b01c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391462/orig/4e0b29f969f50b5a2f17ad98e29e0431.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391462/orig/130e7d9942cf0bf4faab8ce325fbf9e1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391462/orig/a7ddfd738717dad53a49008eb32fb468.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391462/orig/c4b93f74a18aa0b35a494869fa371442.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391462/orig/37c8daa1ef3125b1d7037181495f8fb8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8391462/orig/931b2d0d6dda87fde05ab4d1bdbca8a2.jpg</picture>
-        <description>2025 г., дизель, 2.2 л, 150 л.с., manual, передний привод, новый, white</description>
-        <vendor>Peugeot</vendor>
-        <model>Boxer</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">61 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">2.2 л</param>
-        <param name="Мощность">150 л.с.</param>
-        <param name="Коробка передач">manual</param>
-        <param name="Привод">Передний</param>
-        <param name="Кузов">Фургон</param>
-        <param name="Цвет">white</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">2.2 HDi MT (150 л.с.)</param>
       </offer>
       <offer id="W1VVNLTZ6T4575549" available="true">
         <name>Mercedes-Benz V-Класс III (W447) Рестайлинг 2, 2025</name>
@@ -2321,7 +2227,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Porsche&amp;model=911</url>
         <price>17990000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>8</categoryId>
+        <categoryId>7</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/7614072/orig/c646bfbe8d67cac72e95c48b2e3387ab.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/7614072/orig/4270a4903a23f157dd4914c58af3dbf4.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/7614072/orig/4f649113b6d4199cef7872bbd9b9f775.jpg</picture>
