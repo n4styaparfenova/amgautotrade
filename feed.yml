@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-10 20:28">
+<yml_catalog date="2026-06-11 10:21">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -641,37 +641,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">2.0hyb CVT (197 л.с.)</param>
-      </offer>
-      <offer id="LVGEU76A9TG057809" available="true">
-        <name>Toyota Highlander IV (XU70), 2026</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Highlander</url>
-        <price>5100000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8958576/orig/4d462ae24bd8615b1256d1ffc08bb47c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8958576/orig/1f84c17535ebe4098b07b720b2f5c1f1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8958576/orig/9556db6a874f052c33eef92357bfa0d6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8958576/orig/eba4e415054fc045b31795486f0fd58e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8958576/orig/05734e83ef5f9ad65476baf9a31c2dcc.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8958576/orig/ec64c09aea89fed431827d1b39259ec4.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8958576/orig/bd72d78a256d1672139163681d6603de.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8958576/orig/7be5322247e8e90d2b896a7f3cbe3ed3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8958576/orig/80b4002441482122e6c2bda06485d8df.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8958576/orig/a6596fa4acb235def01bee3bf1be4b42.jpg</picture>
-        <description>2026 г., бензин, 2.0 л, 248 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>Toyota</vendor>
-        <model>Highlander</model>
-        <param name="Год выпуска">2026</param>
-        <param name="Пробег">12 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">248 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">2.0 AT (248 л.с.) 4WD</param>
       </offer>
       <offer id="LVYL5TPS3RP133114" available="true">
         <name>Volvo S90 II Рестайлинг, 2024</name>
