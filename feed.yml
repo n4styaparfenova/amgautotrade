@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-13 08:56">
+<yml_catalog date="2026-06-13 19:23">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -82,37 +82,6 @@
         <param name="Цвет">white</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">400 3.0 AT (367 л.с.) 4WD</param>
-      </offer>
-      <offer id="LFV3B2GM2S3652883" available="true">
-        <name>Audi Q5 III (GU), 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Audi&amp;model=Q5</url>
-        <price>6499000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/9109480/orig/af631934fe1a258e02dd33b32200872b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9109480/orig/063e823e0482c02f0936b14a3688a376.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9109480/orig/77ec6dea0af259d35e88ab214a19b10c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9109480/orig/8f6dab189bb424a67bc7e9f80d7ee906.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9109480/orig/0a1f4db76c19138d76fb69406bccc6fe.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9109480/orig/a65bc0494db15fe5c8b796c988b243b9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9109480/orig/2c79a0073ae51353cf0bc1a949c56cac.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9109480/orig/482b2902a95923d5a108e318c67e82ec.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9109480/orig/23279eaf04e15fda78fc3fdd22b5ede3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9109480/orig/959b0955adf4ebc2892d842d3f5c7bc5.jpg</picture>
-        <description>2025 г., бензин, 2.0 л, 272 л.с., роботизированная, полный привод, новый, grey</description>
-        <vendor>Audi</vendor>
-        <model>Q5</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">51 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">272 л.с.</param>
-        <param name="Коробка передач">Роботизированная</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">grey</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">L 2.0 AMT (272 л.с.) 4WD</param>
       </offer>
       <offer id="SALGA2BE9KA519862" available="true">
         <name>Land Rover Range Rover IV Рестайлинг, 2018</name>
@@ -706,7 +675,7 @@
       <offer id="LBV21GT07T1C13830" available="true">
         <name>BMW X3 IV (G45/G48), 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X3</url>
-        <price>7399000</price>
+        <price>7250000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8890484/orig/934ffc8427a259c6c55bdb6a3395fc61.jpg</picture>
@@ -737,7 +706,7 @@
       <offer id="L6T795ND5SN109963" available="true">
         <name>Zeekr 9X, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Zeekr&amp;model=9X</url>
-        <price>10990000</price>
+        <price>10650000</price>
         <currencyId>RUR</currencyId>
         <categoryId>10</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8890481/orig/dbb39e20a637a95d408b55ab3bdaccf0.jpg</picture>
@@ -768,7 +737,7 @@
       <offer id="LVGBECEK7SG106295" available="true">
         <name>Toyota Camry IX (XV80) China Market, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Camry</url>
-        <price>4350000</price>
+        <price>4050000</price>
         <currencyId>RUR</currencyId>
         <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8890480/orig/3892c7b5d2a5e831c83c60cc17e99e33.jpg</picture>
