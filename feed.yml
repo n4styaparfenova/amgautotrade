@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-14 09:31">
+<yml_catalog date="2026-06-14 19:25">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -303,7 +303,7 @@
       <offer id="SALWA2BW1NA797972" available="true">
         <name>Land Rover Range Rover Sport II Рестайлинг, 2021</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Land%20Rover&amp;model=Range%20Rover%20Sport</url>
-        <price>6990000</price>
+        <price>6450000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/9021996/orig/b7dbbbc2093bd266e2e03bfa430bbb47.jpg</picture>
