@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-14 19:25">
+<yml_catalog date="2026-06-15 12:10">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -17,8 +17,7 @@
       <category id="6" parentId="1">Mercedes-Benz</category>
       <category id="7" parentId="1">Porsche</category>
       <category id="8" parentId="1">Toyota</category>
-      <category id="9" parentId="1">Volvo</category>
-      <category id="10" parentId="1">Zeekr</category>
+      <category id="9" parentId="1">Zeekr</category>
     </categories>
     <offers>
       <offer id="W1V44781514629872" available="true">
@@ -548,68 +547,6 @@
         <param name="Состояние">Новые</param>
         <param name="Модификация">2.0hyb CVT (197 л.с.)</param>
       </offer>
-      <offer id="LVYL5TPS3RP133114" available="true">
-        <name>Volvo S90 II Рестайлинг, 2024</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Volvo&amp;model=S90</url>
-        <price>5800000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8948820/orig/a7370ab1292f854698e29818ade3661a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8948820/orig/a5df9f4ab4115174efd9a33ad3d7b9f1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8948820/orig/5f6741a7cad1d86a1a29a8d9699ffbf3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8948820/orig/e31fb2d38bca428c4d3471e69b760c80.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8948820/orig/dc574cf5fc3a16655aded542cabc0b35.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8948820/orig/1205d2e7f55b619b190ee639173ba579.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8948820/orig/0b5b0b4939247d379c837f7868ec3a23.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8948820/orig/ad5b4a5c40fc5486d95801b8ab2ce073.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8948820/orig/4fc0185c1dca33f4e67a2717470433b2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8948820/orig/abd6d9f2601fc17dbd1b5acf850b31c5.jpg</picture>
-        <description>2024 г., бензин, 2.0 л, 250 л.с., автоматическая, передний привод, пробег 660 км, grey</description>
-        <vendor>Volvo</vendor>
-        <model>S90</model>
-        <param name="Год выпуска">2024</param>
-        <param name="Пробег">660 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">250 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Передний</param>
-        <param name="Кузов">Седан</param>
-        <param name="Цвет">grey</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">2.0 AT (250 л.с.)</param>
-      </offer>
-      <offer id="WBABC21030CE71178" available="true">
-        <name>BMW 8 серии II (G14/G15/G16), 2020</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=8%20%D1%81%D0%B5%D1%80%D0%B8%D0%B8</url>
-        <price>7899000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8941541/orig/3b02cf32670c2302aaf5eeccc6986adb.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8941541/orig/8d76fe6e86d0a2ee1f7291f939206670.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8941541/orig/c33aecaa79c28dab61b0b3249dd6f910.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8941541/orig/9a799ff7d2c352883aef880cfee9255f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8941541/orig/da32bdf1c420f6b289c8b8024e0c9d08.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8941541/orig/61e95db5c3cb73c34d13f09b7ef497f8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8941541/orig/d118ff248edc7c96673e81fcba23a861.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8941541/orig/5d906494e741fd83044762122aaf8d97.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8941541/orig/0faf84add39b7868d9fc513892cf1f59.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8941541/orig/a422ac5ff9f624ce9ae67a27b1d1ee12.jpg</picture>
-        <description>2020 г., дизель, 3.0 л, 320 л.с., автоматическая, полный привод, пробег 50 268 км, white</description>
-        <vendor>BMW</vendor>
-        <model>8 серии</model>
-        <param name="Год выпуска">2020</param>
-        <param name="Пробег">50268 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">320 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Купе</param>
-        <param name="Цвет">white</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">840d xDrive 3.0d AT (320 л.с.) 4WD</param>
-      </offer>
       <offer id="SAL1A2B40SA463226" available="true">
         <name>Land Rover Range Rover Sport III, 2025</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Land%20Rover&amp;model=Range%20Rover%20Sport</url>
@@ -708,7 +645,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Zeekr&amp;model=9X</url>
         <price>10650000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>10</categoryId>
+        <categoryId>9</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8890481/orig/dbb39e20a637a95d408b55ab3bdaccf0.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8890481/orig/005a8626337264481b1655925eaeede9.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8890481/orig/1e62cec4b64a08a7b8f25a71c0c6b6be.jpg</picture>
@@ -1943,37 +1880,6 @@
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">200 9G-Tronic 2.0 AT (204 л.с.) 4WD</param>
       </offer>
-      <offer id="LBV21GT05T1C06651" available="true">
-        <name>BMW X3 IV (G45/G48), 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=X3</url>
-        <price>7360000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/7999074/orig/5b3edeefe6481b8b2b46f8587988f5f3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7999074/orig/f0face9ab9ad55a7c4a6356acab392ff.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7999074/orig/0797339e4f72090431e2481088012e6f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7999074/orig/b79f9aa57a56c0564a3e30f671f903e4.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7999074/orig/acadb7fb03778db6c33d2fe9054c9826.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7999074/orig/42cfe230ae2aa879fb3c6bfc04214be6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7999074/orig/c56e32c0501862a4869bf9a7bfcc9e2d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7999074/orig/f85baa56745ab22e3c58d744e874df9e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7999074/orig/f1d7f7015fd74822b3594c4ed8b09b21.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7999074/orig/48e7ae261ba0c7f6bd36a1324d8b659a.jpg</picture>
-        <description>2025 г., бензин, 2.0 л, 258 л.с., автоматическая, полный привод, новый, blue</description>
-        <vendor>BMW</vendor>
-        <model>X3</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">1 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">258 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">blue</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">30L xDrive 2.0 AT (258 л.с.) 4WD</param>
-      </offer>
       <offer id="W1K2906891A042297" available="true">
         <name>Mercedes-Benz AMG GT I Рестайлинг, 2021</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=AMG%20GT</url>
@@ -2004,37 +1910,6 @@
         <param name="Цвет">grey</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">63 S 4.0 AT (639 л.с.) 4WD</param>
-      </offer>
-      <offer id="SALGA2BJ8JA509173" available="true">
-        <name>Land Rover Range Rover IV Рестайлинг, 2018</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Land%20Rover&amp;model=Range%20Rover</url>
-        <price>5590000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>4</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/7806239/orig/65295c10c7021344be40a6eedcf6caf7.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7806239/orig/0cddc498a787e869c5d2af10f014b9a2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7806239/orig/865c499fd585f25827622f8eaed08288.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7806239/orig/fac7f2fa4358a81b3c842674d8cf3559.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7806239/orig/5082ec1af2e5c8af81dead391821b0cb.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7806239/orig/cc6e25150dd05ab9c052a137eefe7659.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7806239/orig/1b73ad43b45346040f048d50ce0d12ef.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7806239/orig/78f31b94e70c9521abe80ffdd6a026e2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7806239/orig/dcb45b3ac3b3f38dbdfba6d87ca4d041.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7806239/orig/051b5620efec69b853fcec9012f7f156.jpg</picture>
-        <description>2018 г., дизель, 4.4 л, 339 л.с., автоматическая, полный привод, пробег 155 997 км, grey</description>
-        <vendor>Land Rover</vendor>
-        <model>Range Rover</model>
-        <param name="Год выпуска">2018</param>
-        <param name="Пробег">155997 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">4.4 л</param>
-        <param name="Мощность">339 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">grey</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">4.4d AT (339 л.с.) 4WD</param>
       </offer>
       <offer id="WBS41AY0XRFR27504" available="true">
         <name>BMW M3 VI (G80), 2023</name>

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-14T19:25:07.112Z",
-  "total_cars": 68,
+  "updated_at": "2026-06-15T12:10:10.664Z",
+  "total_cars": 64,
   "brands": [
     "Audi",
     "BMW",
@@ -9,7 +9,6 @@
     "Mercedes-Benz",
     "Porsche",
     "Toyota",
-    "Volvo",
     "Zeekr"
   ],
   "price_range": {
