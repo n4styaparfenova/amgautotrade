@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-17 20:10">
+<yml_catalog date="2026-06-18 10:18">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -20,6 +20,37 @@
       <category id="9" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="W1NWH5AB7TX086461" available="true">
+        <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2026</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
+        <price>32490000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/9184187/orig/ab9d8e12ef2b1da853401c6d92143bdc.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9184187/orig/d0b7cd87545a1891642788c93c5c0c9f.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9184187/orig/ee4bde0ab3f1e3abc26ad53786c47c28.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9184187/orig/54c348f60a481f5b62d2fda0a1952dbc.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9184187/orig/5bb152f99a6c30930c7935ab56900667.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9184187/orig/d37f40df803525acde115cb8e484ae32.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9184187/orig/c77a2fa5e9b9bad6c07e9fd3079341c9.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9184187/orig/ae746c3af5dd26ee74aa0a2ddc1b51c1.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9184187/orig/57f07b4c8152fb0df7f5436c3353b348.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9184187/orig/c0e97c0c6ab71cf0b0d526b4d911e615.jpg</picture>
+        <description>2026 г., бензин, 4.0 л, 585 л.с., автоматическая, полный привод, новый, black</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>G-Класс AMG</model>
+        <param name="Год выпуска">2026</param>
+        <param name="Пробег">53 км</param>
+        <param name="Двигатель">Бензин</param>
+        <param name="Объём двигателя">4.0 л</param>
+        <param name="Мощность">585 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
+      </offer>
       <offer id="WDD2173641A025892" available="true">
         <name>Mercedes-Benz S-Класс VI (W222, C217), 2016</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
