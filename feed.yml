@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-22 11:50">
+<yml_catalog date="2026-06-22 20:45">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1165,37 +1165,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">300 d экстра длинный 2.0d AT (237 л.с.) 4WD</param>
-      </offer>
-      <offer id="W1NFF3DE0TB603757" available="true">
-        <name>Mercedes-Benz GLS II (X167) Рестайлинг, 2026</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLS</url>
-        <price>18290000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>5</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8719465/orig/ebce6658c2de6df077838e29afb1e1d2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8719465/orig/0ce9b5b1a83faea29d5e5c174645df13.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8719465/orig/c065c80127c7808d08a4098977801857.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8719465/orig/34aa68b2ad2e0a92a67505e3db17d798.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8719465/orig/48cf6956250a644df22a055266030edb.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8719465/orig/993d739ec1bef91dd90544267876034f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8719465/orig/4897c490d4d3b436e508dfba3099ef9f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8719465/orig/34a2fa8b3906b0ce17f82981a881c16f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8719465/orig/caab8442f73c335098bc7a01111e98da.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8719465/orig/84c34bcf3abaea8bf5407add72cee9ff.jpg</picture>
-        <description>2026 г., дизель, 3.0 л, 367 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>GLS</model>
-        <param name="Год выпуска">2026</param>
-        <param name="Пробег">72 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">367 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">450 d 3.0d AT (367 л.с.) 4WD</param>
       </offer>
       <offer id="JTNGK3DH008017906" available="true">
         <name>Toyota Alphard III, 2016</name>
