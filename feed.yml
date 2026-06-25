@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-25 08:58">
+<yml_catalog date="2026-06-25 19:58">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -21,6 +21,37 @@
       <category id="10" parentId="1">Zeekr</category>
     </categories>
     <offers>
+      <offer id="W1N1673331B560571" available="true">
+        <name>Mercedes-Benz GLE Coupe II (C167) Рестайлинг, 2025</name>
+        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLE%20Coupe</url>
+        <price>15199000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://img.maxposter.ru/photo/11973/9229911/orig/7eeda0f354952f0835bf61d9ba9ec748.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9229911/orig/5e244238b24a559234a39641af992401.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9229911/orig/a9609794c7b4c1b0fe837c9d678096a0.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9229911/orig/5119d131358fbb02496710fa02f035ed.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9229911/orig/936d479da5f14c9ccaedad25af1a8446.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9229911/orig/affe8192a441c26db22fbd9f4c8eccc0.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9229911/orig/5a51f709842cd8bb239f5de8646f6150.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9229911/orig/eb5aa621470240f1fc19ac19aafa0986.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9229911/orig/95ab467d8d284d8d621bfb1f9a7ed615.jpg</picture>
+        <picture>https://img.maxposter.ru/photo/11973/9229911/orig/7ed08769ec956875f87355f011d85cb5.jpg</picture>
+        <description>2025 г., дизель, 3.0 л, 367 л.с., автоматическая, полный привод, новый, black</description>
+        <vendor>Mercedes-Benz</vendor>
+        <model>GLE Coupe</model>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег">32 км</param>
+        <param name="Двигатель">Дизель</param>
+        <param name="Объём двигателя">3.0 л</param>
+        <param name="Мощность">367 л.с.</param>
+        <param name="Коробка передач">Автоматическая</param>
+        <param name="Привод">Полный</param>
+        <param name="Кузов">Внедорожник</param>
+        <param name="Цвет">black</param>
+        <param name="Состояние">Новые</param>
+        <param name="Модификация">450 d 3.0d AT (367 л.с.) 4WD</param>
+      </offer>
       <offer id="WDC2923751A036987" available="true">
         <name>Mercedes-Benz GLE Coupe AMG I (C292), 2016</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLE%20Coupe%20AMG</url>
