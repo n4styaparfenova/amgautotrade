@@ -1,10 +1,9 @@
 {
-  "updated_at": "2026-06-27T08:34:05.215Z",
-  "total_cars": 62,
+  "updated_at": "2026-06-27T19:17:59.663Z",
+  "total_cars": 50,
   "brands": [
     "Audi",
     "BMW",
-    "Lamborghini",
     "Land Rover",
     "Lexus",
     "Mercedes-Benz",
@@ -14,6 +13,6 @@
   ],
   "price_range": {
     "min": 2600000,
-    "max": 35990000
+    "max": 32990000
   }
 }

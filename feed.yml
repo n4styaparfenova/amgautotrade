@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-27 08:34">
+<yml_catalog date="2026-06-27 19:17">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -12,52 +12,20 @@
       <category id="1">Автомобили</category>
       <category id="2" parentId="1">Audi</category>
       <category id="3" parentId="1">BMW</category>
-      <category id="4" parentId="1">Lamborghini</category>
-      <category id="5" parentId="1">Land Rover</category>
-      <category id="6" parentId="1">Lexus</category>
-      <category id="7" parentId="1">Mercedes-Benz</category>
-      <category id="8" parentId="1">Porsche</category>
-      <category id="9" parentId="1">Toyota</category>
-      <category id="10" parentId="1">Zeekr</category>
+      <category id="4" parentId="1">Land Rover</category>
+      <category id="5" parentId="1">Lexus</category>
+      <category id="6" parentId="1">Mercedes-Benz</category>
+      <category id="7" parentId="1">Porsche</category>
+      <category id="8" parentId="1">Toyota</category>
+      <category id="9" parentId="1">Zeekr</category>
     </categories>
     <offers>
-      <offer id="W1N1673331B560571" available="true">
-        <name>Mercedes-Benz GLE Coupe II (C167) Рестайлинг, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLE%20Coupe</url>
-        <price>15199000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/9229911/orig/7eeda0f354952f0835bf61d9ba9ec748.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9229911/orig/5e244238b24a559234a39641af992401.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9229911/orig/a9609794c7b4c1b0fe837c9d678096a0.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9229911/orig/5119d131358fbb02496710fa02f035ed.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9229911/orig/936d479da5f14c9ccaedad25af1a8446.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9229911/orig/affe8192a441c26db22fbd9f4c8eccc0.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9229911/orig/5a51f709842cd8bb239f5de8646f6150.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9229911/orig/eb5aa621470240f1fc19ac19aafa0986.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9229911/orig/95ab467d8d284d8d621bfb1f9a7ed615.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9229911/orig/7ed08769ec956875f87355f011d85cb5.jpg</picture>
-        <description>2025 г., дизель, 3.0 л, 367 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>GLE Coupe</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">32 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">367 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">450 d 3.0d AT (367 л.с.) 4WD</param>
-      </offer>
       <offer id="WDC2923751A036987" available="true">
         <name>Mercedes-Benz GLE Coupe AMG I (C292), 2016</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLE%20Coupe%20AMG</url>
         <price>5199000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/9213314/orig/e83ac91dc49fae634284be64e17a462d.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/9213314/orig/72040f9686e8dd116ae0ee2ec15b0405.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/9213314/orig/9119ae8717bf57d881072309adb9a094.jpg</picture>
@@ -88,7 +56,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
         <price>13990000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/9206440/orig/e318903751a3e6ae17dbe26ec3150753.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/9206440/orig/0451d4fb9d2ac7c02b72fd3aaf133bc2.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/9206440/orig/cecd90159c404d85177de628a34a41a1.jpg</picture>
@@ -114,74 +82,12 @@
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">400 d 2.9d AT (330 л.с.) 4WD</param>
       </offer>
-      <offer id="W1N4632761X457151" available="true">
-        <name>Mercedes-Benz G-Класс AMG II (W463), 2022</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>35990000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/9206417/orig/a285d8a96b3a6e8253d47e70a264ecca.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206417/orig/0ca1c3950ec5592d0cd48127765243d1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206417/orig/4827ef8a92890858a0ac0f2d5c9a182b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206417/orig/769a2d040b371694c4408cf9586fa4fe.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206417/orig/09669a7f4c5d911f871023205fa7b681.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206417/orig/fee4ca3d90d7f6fa183a05293b3077d9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206417/orig/a22433c9875253512023eb8ca3d72778.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206417/orig/ef60ce5b8a7bfab8c87b11196457c2f8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206417/orig/ca7eb9794f6e17240862b5ed6d34ce09.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206417/orig/e710f16c144c5ee7b584f756b61a0085.jpg</picture>
-        <description>2022 г., бензин, 4.0 л, 800 л.с., автоматическая, полный привод, пробег 7 083 км, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>G-Класс AMG</model>
-        <param name="Год выпуска">2022</param>
-        <param name="Пробег">7083 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">4.0 л</param>
-        <param name="Мощность">800 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">Brabus 800 4.0 AT (800 л.с.) 4WD</param>
-      </offer>
-      <offer id="ZPBEC3ZL8PLA24320" available="true">
-        <name>Lamborghini Urus I, 2023</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Lamborghini&amp;model=Urus</url>
-        <price>31499000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>4</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/9206376/orig/222caa8b1f6266c708b197216bf692e2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206376/orig/c48d13827a215ff94be666ff9b20ce8b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206376/orig/26dd748539a9eaf82dd5904056c8485f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206376/orig/20a5a38cf3270c60e8133b556d306618.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206376/orig/7ee49e89daddf3a7b6d981b7294e8630.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206376/orig/428e71bb746e9638fcae266f4d2a4d89.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206376/orig/69e287d27838b0c21bd31b1dc2a4d4ea.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206376/orig/cc13fb343150a24763d9f6fad64da95a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206376/orig/7da8fee452441b5e1453fb0bcd3e91dd.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206376/orig/f56d34f74d522d5e11108c5691acf751.jpg</picture>
-        <description>2023 г., бензин, 4.0 л, 650 л.с., автоматическая, полный привод, пробег 13 611 км, black</description>
-        <vendor>Lamborghini</vendor>
-        <model>Urus</model>
-        <param name="Год выпуска">2023</param>
-        <param name="Пробег">13611 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">4.0 л</param>
-        <param name="Мощность">650 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">4.0 AT (650 л.с.) 4WD</param>
-      </offer>
       <offer id="WP1ZZZ9Y7PDA46341" available="true">
         <name>Porsche Cayenne III, 2022</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Porsche&amp;model=Cayenne</url>
         <price>19900000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>8</categoryId>
+        <categoryId>7</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/9206345/orig/747a6c341db6891ed15422870b9c8352.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/9206345/orig/30b32df11bc24bdf1df0829c807dd469.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/9206345/orig/d85e25b4cd8a564f0d034b047ba5ccb6.jpg</picture>
@@ -212,7 +118,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLE%20AMG</url>
         <price>13599000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/9198864/orig/b79a8525539b8bd22f9a497402bd638d.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/9198864/orig/c50710ef422232ccbd44654aeea79f53.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/9198864/orig/b93ba764ffa84515d7a5f26341679772.jpg</picture>
@@ -243,7 +149,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
         <price>28299000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/9184190/orig/41193f0d250a0cdc76dcd8e229a075bb.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/9184190/orig/13df4143c7ea88e11e127596ef93c420.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/9184190/orig/3b06a017bd04b0993a68be08542a2056.jpg</picture>
@@ -269,43 +175,12 @@
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
       </offer>
-      <offer id="W1NWH5AB7TX086461" available="true">
-        <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2026</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>31990000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/9184187/orig/ab9d8e12ef2b1da853401c6d92143bdc.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9184187/orig/d0b7cd87545a1891642788c93c5c0c9f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9184187/orig/ee4bde0ab3f1e3abc26ad53786c47c28.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9184187/orig/54c348f60a481f5b62d2fda0a1952dbc.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9184187/orig/5bb152f99a6c30930c7935ab56900667.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9184187/orig/d37f40df803525acde115cb8e484ae32.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9184187/orig/c77a2fa5e9b9bad6c07e9fd3079341c9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9184187/orig/ae746c3af5dd26ee74aa0a2ddc1b51c1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9184187/orig/57f07b4c8152fb0df7f5436c3353b348.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9184187/orig/c0e97c0c6ab71cf0b0d526b4d911e615.jpg</picture>
-        <description>2026 г., бензин, 4.0 л, 585 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>G-Класс AMG</model>
-        <param name="Год выпуска">2026</param>
-        <param name="Пробег">53 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">4.0 л</param>
-        <param name="Мощность">585 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
-      </offer>
       <offer id="WDD2173641A025892" available="true">
         <name>Mercedes-Benz S-Класс VI (W222, C217), 2016</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
         <price>6095000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/9116834/orig/bd65c3c84e2b0e46946b7aa2e0d40d8c.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/9116834/orig/86c3a08d38aa851a40015f9f202cdbe4.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/9116834/orig/ac4656320cddcf7930ac665f74adaf45.jpg</picture>
@@ -336,7 +211,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Land%20Rover&amp;model=Range%20Rover</url>
         <price>7195000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>5</categoryId>
+        <categoryId>4</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/9109474/orig/33a1eb3f10d5f475f4d86ff3e8aec523.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/9109474/orig/59e8878286d3e807d85423b7fb8d4b0c.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/9109474/orig/f76716b127515598e93bbbb88ba58292.jpg</picture>
@@ -362,43 +237,12 @@
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">5.0 AT (525 л.с.) 4WD</param>
       </offer>
-      <offer id="JTHADAAD9T5009348" available="true">
-        <name>Lexus LM II, 2026</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Lexus&amp;model=LM</url>
-        <price>17790000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>6</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/9109473/orig/eb71bcc80e779ab540e06900671ddece.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9109473/orig/f7d2f83e7413624f17dc5cc2079e81ca.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9109473/orig/72075e938700d3f9fc5b7839fecc9255.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9109473/orig/46fc568ac4abd4e34e2d921159c25a5b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9109473/orig/dc9ce434ff7167f2354ea503c677d510.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9109473/orig/8de2f35013c72b9b7879b0ac64ff1d76.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9109473/orig/a224f10aaa579ad276e7e595ee67b214.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9109473/orig/65ca0d792d2e261f05ae44e2c0d94a14.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9109473/orig/e038139c185caf9c59d34d59803255a5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9109473/orig/d491a4d9abdf4eaa97cfc3515ae11e75.jpg</picture>
-        <description>2026 г., гибрид, 2.5 л, 250 л.с., вариаторная, полный привод, новый, black</description>
-        <vendor>Lexus</vendor>
-        <model>LM</model>
-        <param name="Год выпуска">2026</param>
-        <param name="Пробег">47 км</param>
-        <param name="Двигатель">Гибрид</param>
-        <param name="Объём двигателя">2.5 л</param>
-        <param name="Мощность">250 л.с.</param>
-        <param name="Коробка передач">Вариаторная</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Минивэн</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">350h 2.5hyb CVT (250 л.с.) 4WD</param>
-      </offer>
       <offer id="WDC2539461F108888" available="true">
         <name>Mercedes-Benz GLC I (X253), 2016</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLC</url>
         <price>3499000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/9109470/orig/f4a63e1b6c56baa6a655236198581714.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/9109470/orig/a1f7fb70467a5976078405e012a5658a.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/9109470/orig/0e11acae63acf6f81e743667a6e1d112.jpg</picture>
@@ -423,99 +267,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">250 2.0 AT (211 л.с.) 4WD</param>
-      </offer>
-      <offer id="W1NWH5AB1TX082762" available="true">
-        <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2026</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>32990000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/9088639/orig/17824ab4df6dcd8b4583a80495aa42ae.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9088639/orig/1c5ba65346ab8fc92537bec3149a5663.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9088639/orig/13170b5f2d73aad4a11db548a1fb669b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9088639/orig/78442b126c84d61ad0806870ec7b4578.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9088639/orig/72d3a620691d2d8d30a4f65657e36988.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9088639/orig/5eb6007d96f6b5015a24125403ba9c81.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9088639/orig/08132aadee25cd336e4da736fe16f9df.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9088639/orig/a901da2eab1b8c40108e7692e53f80f7.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9088639/orig/925678ef9e2a3b26de4dcd91ceed6af3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9088639/orig/9c99183f5333f12fdb34e9738b53854a.jpg</picture>
-        <description>2026 г., бензин, 4.0 л, 585 л.с., автоматическая, полный привод, новый, grey</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>G-Класс AMG</model>
-        <param name="Год выпуска">2026</param>
-        <param name="Пробег">14 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">4.0 л</param>
-        <param name="Мощность">585 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">grey</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
-      </offer>
-      <offer id="W1NFF3DE4TB608265" available="true">
-        <name>Mercedes-Benz GLS II (X167) Рестайлинг, 2026</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLS</url>
-        <price>18990000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/9066161/orig/b96617cc6c28439423d9a8bb658280d4.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9066161/orig/ee36868bb15d9714a987379365f5b13c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9066161/orig/95c6077f4f8c2b5101275659cf03a576.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9066161/orig/1e66a50d22236f2a405e99aa271c6cc5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9066161/orig/f9f4408695b9c16ec3851974715ffd34.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9066161/orig/04b0e705f2387a3eb7a938023e94fb71.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9066161/orig/2eeafdf332cc6d6cea58017f3edbc05e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9066161/orig/d3f91f32aacd181227e807c4b1f42a3c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9066161/orig/74c033fc609c018791e4d2c2ffc04777.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9066161/orig/d9997c68f6d5f0cc56e04893062c028e.jpg</picture>
-        <description>2026 г., дизель, 3.0 л, 367 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>GLS</model>
-        <param name="Год выпуска">2026</param>
-        <param name="Пробег">32 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">367 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">450 d 3.0d AT (367 л.с.) 4WD</param>
-      </offer>
-      <offer id="W1NWH5AB3TX087137" available="true">
-        <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2026</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>31990000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/9066159/orig/162e29d95581d1b42f0350107d1af90f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9066159/orig/7f89cbceb35a0ab908467c871c3acb66.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9066159/orig/7ac5ce089bdc89d25e88afcdfac060bf.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9066159/orig/2243adafdf8f376c0502d34f7b2ae17a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9066159/orig/2b1064e62634b2e533e25a90981e59d1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9066159/orig/e9f2c6b50b163fb943787f85d1672a4b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9066159/orig/fb9b3b3f9738745c1b427a6cbd2ed771.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9066159/orig/cadb3637c39dfcd400d907dc2c88cba5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9066159/orig/d4721b00af682421ec5fee296a42fec3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9066159/orig/8b1defd5b895dc8fb45bfb4ed3dd04ad.jpg</picture>
-        <description>2026 г., бензин, 4.0 л, 585 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>G-Класс AMG</model>
-        <param name="Год выпуска">2026</param>
-        <param name="Пробег">43 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">4.0 л</param>
-        <param name="Мощность">585 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
       </offer>
       <offer id="WBS31BA01PCM11137" available="true">
         <name>BMW M4 G82/G83, 2022</name>
@@ -553,7 +304,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Land%20Cruiser</url>
         <price>8799000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
+        <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8997943/orig/ac7f5ff7f63e1e852d6c2db6abebe66b.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8997943/orig/87b38dcf16ed19b7238c5652d7244018.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8997943/orig/bcfb25a39d197086fe5d282226e15914.jpg</picture>
@@ -584,7 +335,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=RAV4</url>
         <price>4100000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
+        <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8973611/orig/52ea5cb5dfb4b29d6095976fd32b4084.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8973611/orig/7314a8e2f8d79ea0125c650b69a6533b.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8973611/orig/47bf969e4f5d0e69c4e4e7fa941f8a6c.jpg</picture>
@@ -615,7 +366,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=RAV4</url>
         <price>4100000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
+        <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8973608/orig/eb26f273f88135e15a8391b304f9a671.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8973608/orig/d24d0969ef31da1fa80f961f963a0f2e.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8973608/orig/6af8e27be075c3b9ca292cc33d68dd11.jpg</picture>
@@ -646,7 +397,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=Maybach%20S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
         <price>6250000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8958586/orig/f687c1edfebd082ad5559776dbadd029.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8958586/orig/05d8dca761f53bb3232d0df6b16a68cb.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8958586/orig/b88633e150e70d91a002d059098c1d94.jpg</picture>
@@ -708,7 +459,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Camry</url>
         <price>4150000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
+        <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8958579/orig/90bce4ef5a92e8ae6524fd3e011f2568.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8958579/orig/18ada367de9ad921821cf81372c62c70.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8958579/orig/abc98b56f7e45dde41717df02dd1230d.jpg</picture>
@@ -739,7 +490,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Land%20Rover&amp;model=Range%20Rover%20Sport</url>
         <price>16900000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>5</categoryId>
+        <categoryId>4</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8920580/orig/440fd39b762993a9f6a8da66f5aff172.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8920580/orig/58abce2a308818f96f30b5c66bbc6952.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8920580/orig/6b656fd5211ad4fa31f52cffc3f0b9dc.jpg</picture>
@@ -832,7 +583,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Zeekr&amp;model=9X</url>
         <price>10650000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>10</categoryId>
+        <categoryId>9</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8890481/orig/dbb39e20a637a95d408b55ab3bdaccf0.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8890481/orig/005a8626337264481b1655925eaeede9.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8890481/orig/1e62cec4b64a08a7b8f25a71c0c6b6be.jpg</picture>
@@ -863,7 +614,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Camry</url>
         <price>4050000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
+        <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8890480/orig/3892c7b5d2a5e831c83c60cc17e99e33.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8890480/orig/efe268ffcfc0d6179b6a0e170d165095.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8890480/orig/362c885a8c4a262b3ead32a693ca0e0e.jpg</picture>
@@ -894,7 +645,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
         <price>6499000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8884226/orig/772e5371c0e748d2d7166cd7a63fcb5c.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8884226/orig/313bdfda549168e703d6ae4f7dddcc40.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8884226/orig/d6009261331a4f1a7d6260e8a01d0ae1.jpg</picture>
@@ -920,43 +671,12 @@
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">53 AMG 3.0 AT (435 л.с.) 4WD</param>
       </offer>
-      <offer id="W1NWH5AB2TX084925" available="true">
-        <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2026</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>32990000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8879681/orig/c8107e7f16773fdb6795f7a55d59bbde.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8879681/orig/ba3d78333a6651947c28a7adcfb5ff45.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8879681/orig/62506cfc892c80c50c8392a9378fcccb.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8879681/orig/2b88ff1e4d7685076c0d86f1ba499c0f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8879681/orig/3ec00973906194a4cd4eea139d472a3c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8879681/orig/610c38587ffdde71df054a7aacca2c59.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8879681/orig/c63d65e43377ccb1908fbd412b2d7752.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8879681/orig/e22b80e428c174bbf41fd8838dfb00d3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8879681/orig/d99e1b480109301fd62c8754a7537934.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8879681/orig/7d8f81e53457f9fa34ceaacf70c7897c.jpg</picture>
-        <description>2026 г., бензин, 4.0 л, 585 л.с., автоматическая, полный привод, новый, green</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>G-Класс AMG</model>
-        <param name="Год выпуска">2026</param>
-        <param name="Пробег">35 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">4.0 л</param>
-        <param name="Мощность">585 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">green</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
-      </offer>
       <offer id="LVGBECEK3TG119479" available="true">
         <name>Toyota Camry IX (XV80) China Market, 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Camry</url>
         <price>4199000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
+        <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8862574/orig/d8032f570c89497070f2d32200d1bf7a.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8862574/orig/2346d485c21effce0b1e156109452434.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8862574/orig/1b06370d4bc8ec5a7a7eaba76f486ef5.jpg</picture>
@@ -987,7 +707,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLE%20Coupe</url>
         <price>4890000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8862489/orig/dcd1aae1e8934cf5788e9efafd4f586c.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8862489/orig/9c0d2c81d7c0c9a10eb1e75dff3646f3.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8862489/orig/ee8699588d09415dbe182ddaa45a4be1.jpg</picture>
@@ -1013,43 +733,12 @@
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">400 3.0 AT (333 л.с.) 4WD</param>
       </offer>
-      <offer id="W1NFB0KB3SB293671" available="true">
-        <name>Mercedes-Benz GLE II (V167) Рестайлинг, 2024</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLE</url>
-        <price>10090000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8858318/orig/2ae416eb30492316bfbef13ed8819e9a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8858318/orig/cb0c118bc9bfed21c8a1b24674a77745.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8858318/orig/bdef6fb3d62edf61211508177387ee9b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8858318/orig/a5a7e135ebad6846e521062cf4abcc43.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8858318/orig/bfdbcc63102c07786b8a42427c5ae75d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8858318/orig/02408c2639a53149ecf7bec4bc6f8884.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8858318/orig/a18f220c17cc8e06607f950db9e1e4d3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8858318/orig/f2cb7449598fd2fa9945467098a27e1b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8858318/orig/37498cc40248191c8d07db701341fdcd.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8858318/orig/5c87787965eff8e3b7e98a9fec8eaeb5.jpg</picture>
-        <description>2024 г., дизель, 2.0 л, 269 л.с., автоматическая, полный привод, пробег 22 077 км, green</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>GLE</model>
-        <param name="Год выпуска">2024</param>
-        <param name="Пробег">22077 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">269 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">green</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">300 d 2.0d AT (269 л.с.) 4WD</param>
-      </offer>
       <offer id="Z9M2130195L043305" available="true">
         <name>Mercedes-Benz E-Класс V (W213, S213, C238) Рестайлинг, 2021</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
         <price>4790000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8856087/orig/69cc6c8d6473596c803da6477ae93d7b.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8856087/orig/2d9fe7ddc3207c2481f5d5725be620c8.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8856087/orig/0b6a10a0a76214d2d0cb31c70271a9bf.jpg</picture>
@@ -1075,43 +764,12 @@
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">300 d 2.0d AT (249 л.с.) 4WD</param>
       </offer>
-      <offer id="JTHADAAD6T5009114" available="true">
-        <name>Lexus LM II, 2025</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Lexus&amp;model=LM</url>
-        <price>17290000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>6</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8834663/orig/0f0a0946afe329c10cf3c34269d95ba3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8834663/orig/51dc091112bf5058ac0f88d90e4881ec.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8834663/orig/a5acb67bbf202446d8a7955c3adccd0c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8834663/orig/6452f741949fc99785c437ec85670758.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8834663/orig/23af21b2ae0cfa2b4483fd3f006392be.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8834663/orig/b6b01e12dcd534fb25e9e81e0dfb7c42.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8834663/orig/b6d68154f6ce971e8df1b41323319a65.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8834663/orig/3df7a3b653fd47a515d084cf256fe5dd.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8834663/orig/9ddec32862bf7783ea34c800051db435.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8834663/orig/025be7252024feda2480306f26217690.jpg</picture>
-        <description>2025 г., гибрид, 2.5 л, 250 л.с., вариаторная, полный привод, новый, black</description>
-        <vendor>Lexus</vendor>
-        <model>LM</model>
-        <param name="Год выпуска">2025</param>
-        <param name="Пробег">27 км</param>
-        <param name="Двигатель">Гибрид</param>
-        <param name="Объём двигателя">2.5 л</param>
-        <param name="Мощность">250 л.с.</param>
-        <param name="Коробка передач">Вариаторная</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Минивэн</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">350h 2.5hyb CVT (250 л.с.) 4WD</param>
-      </offer>
       <offer id="W1NWH5AB4TX086935" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
         <price>32990000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8833578/orig/ad572182168b775968b97c20650e1237.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8833578/orig/671365d57175c7a9f4c551c589a9b4a5.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8833578/orig/f65115d8eceebae2f37c35db8c6955c2.jpg</picture>
@@ -1142,7 +800,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=V-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
         <price>13990000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8833577/orig/2b3bdbe343b174b7830306a64d33d0cc.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8833577/orig/87617a3be8f8145cfe341c38e5c1f18b.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8833577/orig/8be2bdae3aabc1ba794cd45d6557fbc1.jpg</picture>
@@ -1168,43 +826,12 @@
         <param name="Состояние">Новые</param>
         <param name="Модификация">300 d экстра длинный 2.0d AT (237 л.с.) 4WD</param>
       </offer>
-      <offer id="W1NWH5ABXTX081321" available="true">
-        <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2026</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>32490000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8831229/orig/965160ad005f0b0aa9a3a329726817b6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8831229/orig/28fc8c2d9efddfe4d66fa98bf29152b5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8831229/orig/6dfda542ee1b87ae0ddf272e3be2faf5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8831229/orig/0b2cd3dccb0d6bcb7e4f9a7e56951a45.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8831229/orig/13f3b85b1fdd41d63033ed04aa379899.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8831229/orig/1cd8e6c3f7aab91538ee59a1a586d576.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8831229/orig/7f12ab2e38af9c292c7baa45f732ad7f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8831229/orig/e39b41e300e9c14f6d5b092a59747232.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8831229/orig/aa31c69d1a64914ad08185181f0a5ee8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8831229/orig/f2f81e994c54ca54efa915b03c5b2d31.jpg</picture>
-        <description>2026 г., бензин, 4.0 л, 585 л.с., автоматическая, полный привод, новый, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>G-Класс AMG</model>
-        <param name="Год выпуска">2026</param>
-        <param name="Пробег">48 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">4.0 л</param>
-        <param name="Мощность">585 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">63 AMG 4.0 AT (585 л.с.) 4WD</param>
-      </offer>
       <offer id="WP0ZZZ97ZLL103674" available="true">
         <name>Porsche Panamera II, 2020</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Porsche&amp;model=Panamera</url>
         <price>6390000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>8</categoryId>
+        <categoryId>7</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8831228/orig/641ae04dca1b1794846500c4069ff6d4.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8831228/orig/8a3c4c94d8e40059cd49fc3a5f33adbf.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8831228/orig/bbefd2726abc85569e2c964690189a8b.jpg</picture>
@@ -1235,7 +862,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
         <price>12690000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8818751/orig/881ed0ec5e4f47128e30d2b563030ffa.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8818751/orig/57f65d56e2a9113171331da10a30f055.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8818751/orig/0d2e797f11b9a6ca89ebd94048636dbf.jpg</picture>
@@ -1266,7 +893,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
         <price>31990000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8772174/orig/27f5f733c04d9d2e68928868f105817e.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8772174/orig/47d0033197214be1d430f8e19bddcad2.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8772174/orig/b5316c70af5a8cf8b1373b32a0e16d80.jpg</picture>
@@ -1297,7 +924,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=V-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
         <price>13990000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8732346/orig/d7a6473db90577e73853ff0f40da01c9.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8732346/orig/a26abe1e246b38cd1fe57d8335523674.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8732346/orig/6dc2f11e883961a22bc4706e2e93bfbb.jpg</picture>
@@ -1328,7 +955,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=Alphard</url>
         <price>3990000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>9</categoryId>
+        <categoryId>8</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8710178/orig/f39459b63531f207ec9298a3b577ed22.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8710178/orig/18a70806d955b0c03a5a9c3b2cc2e676.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8710178/orig/d06d9e3791dc5966e016685102368fa3.jpg</picture>
@@ -1359,7 +986,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Land%20Rover&amp;model=Range%20Rover</url>
         <price>4690000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>5</categoryId>
+        <categoryId>4</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8701341/orig/2294322b0c575498a90e7ef7cb7bd44e.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8701341/orig/cb23ee2a3d95d61b9ffca7e718c38945.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8701341/orig/38e757ae5afaf7a6209087d59217b11f.jpg</picture>
@@ -1421,7 +1048,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
         <price>32490000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8659665/orig/1186976fbbc0bebdbee711f94e73861c.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8659665/orig/0c255409ffd1f2ed0f41f60fdbb34728.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8659665/orig/94e328536ae8db0d7be34d6f362d7d7d.jpg</picture>
@@ -1452,7 +1079,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=V-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
         <price>14000000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8659662/orig/4fed71b637a8c312df0060b810a0760d.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8659662/orig/69496e09a2f91320c965bae5a7ff1238.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8659662/orig/618806c0963ee8f6794bf070c9ae5141.jpg</picture>
@@ -1483,7 +1110,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Land%20Rover&amp;model=Range%20Rover%20Sport</url>
         <price>7499000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>5</categoryId>
+        <categoryId>4</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8631734/orig/abe7335e9f35cf91fcb7077ba1a77ad3.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8631734/orig/6f8e03b8cb6e90466173eb4bd6096edf.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8631734/orig/1280c42a4652c4dc3c032064a14ab4ad.jpg</picture>
@@ -1514,7 +1141,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Porsche&amp;model=911</url>
         <price>19150000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>8</categoryId>
+        <categoryId>7</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8629578/orig/4e4aebec3a4b04a5f2728497ec6c362b.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8629578/orig/a60b457c344e103af698865a891091e1.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8629578/orig/f4470566b01ff9ccb071f02f5cf306f6.jpg</picture>
@@ -1576,7 +1203,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
         <price>31990000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8592398/orig/c87425f0c1de9ff5d1038cbdc24f01ca.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8592398/orig/c7661de856401391160e70e54ca2a6ae.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8592398/orig/0ce63132c814fd67d6645d8422901d66.jpg</picture>
@@ -1607,7 +1234,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Lexus&amp;model=LM</url>
         <price>14890000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>6</categoryId>
+        <categoryId>5</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8535635/orig/f678f546b389902589b4eef38f6fe6a1.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8535635/orig/0450045110f79e4e2ca2e78a86bf243c.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8535635/orig/133b834c4841e49f040011102ac1f7b1.jpg</picture>
@@ -1638,7 +1265,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=V-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
         <price>12990000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8374377/orig/e217d4af503b0f3046975fd838b179d7.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8374377/orig/d5bd28eb2b96a7ace0c8b29e4da7a046.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8374377/orig/e2a704f9a15a425a934b585d75fc0c03.jpg</picture>
@@ -1669,7 +1296,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=A-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
         <price>2900000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8261972/orig/05497ad5eb3e56e33b528a355a07c7c0.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8261972/orig/a3592095af45ab080b49f7d7d24b0de0.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8261972/orig/07e5c94e4eccfc3b951947caeedcc0d9.jpg</picture>
@@ -1731,7 +1358,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
         <price>5290000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8159424/orig/77c4e59379a8288909790e121c77438d.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8159424/orig/454472a8e0ad9d711e156584784439e1.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8159424/orig/e69f815bdc546c949fb4fbb41354d4bd.jpg</picture>
@@ -1762,7 +1389,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLE</url>
         <price>2600000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8159423/orig/7840cbe718169ad6ea47b2affbb779d3.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8159423/orig/4cb7f25f4733381e4dbb3d86a969496c.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8159423/orig/b4333d2b78b663c3a2aa22270d70a488.jpg</picture>
@@ -1793,7 +1420,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
         <price>7390000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/8146817/orig/32c30835948eeacfabe04418b3d7ed5e.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8146817/orig/1ac09dbde8282524d3be1708ff6b849d.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/8146817/orig/a07c2326fd71571862cddb47d39b4eda.jpg</picture>
@@ -1824,7 +1451,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=AMG%20GT</url>
         <price>10965000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
+        <categoryId>6</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/7982630/orig/a76435434925fc19327d13974e5f14e4.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/7982630/orig/2f596e4b13e768f5f4572ff90e0df305.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/7982630/orig/1819c5cb16f8dada5f83ca2999c7de08.jpg</picture>
@@ -1917,7 +1544,7 @@
         <url>https://amgautotrade.ru/catalog.html?brand=Porsche&amp;model=911</url>
         <price>17990000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>8</categoryId>
+        <categoryId>7</categoryId>
         <picture>https://img.maxposter.ru/photo/11973/7614072/orig/c646bfbe8d67cac72e95c48b2e3387ab.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/7614072/orig/4270a4903a23f157dd4914c58af3dbf4.jpg</picture>
         <picture>https://img.maxposter.ru/photo/11973/7614072/orig/4f649113b6d4199cef7872bbd9b9f775.jpg</picture>
