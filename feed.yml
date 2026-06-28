@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-28 08:49">
+<yml_catalog date="2026-06-28 19:17">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -330,37 +330,6 @@
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">3.4 AT (415 л.с.) 4WD</param>
       </offer>
-      <offer id="LFMJBFBF8T3005689" available="true">
-        <name>Toyota RAV4 VI (XA60), 2026</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=RAV4</url>
-        <price>4100000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>8</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8973611/orig/52ea5cb5dfb4b29d6095976fd32b4084.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8973611/orig/7314a8e2f8d79ea0125c650b69a6533b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8973611/orig/47bf969e4f5d0e69c4e4e7fa941f8a6c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8973611/orig/913b31341cad9e6e967f92c8d43c23f7.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8973611/orig/e7facc3211b145bd94c2ff7978d63135.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8973611/orig/af0da92dae08b4d3a06c5b3205f7f23e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8973611/orig/9a0e47a914c498f3aa36611b06b2220a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8973611/orig/d716c5cbbd23c5431b06fd83326f230e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8973611/orig/57326acef3018e9cc21347c7c67ac2c5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8973611/orig/6a041bc4d35e1db0573f9d4010851432.jpg</picture>
-        <description>2026 г., бензин, 2.0 л, 171 л.с., вариаторная, полный привод, новый, white</description>
-        <vendor>Toyota</vendor>
-        <model>RAV4</model>
-        <param name="Год выпуска">2026</param>
-        <param name="Пробег">32 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">171 л.с.</param>
-        <param name="Коробка передач">Вариаторная</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">white</param>
-        <param name="Состояние">Новые</param>
-        <param name="Модификация">2.0 CVT (171 л.с.) 4WD</param>
-      </offer>
       <offer id="LFMJBFBF5T3005925" available="true">
         <name>Toyota RAV4 VI (XA60), 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Toyota&amp;model=RAV4</url>
@@ -639,37 +608,6 @@
         <param name="Цвет">white</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">2.0hyb CVT (197 л.с.)</param>
-      </offer>
-      <offer id="W1KZF6BB3MA881810" available="true">
-        <name>Mercedes-Benz E-Класс AMG V (W213) Рестайлинг, 2020</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=E-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>6499000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>6</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8884226/orig/772e5371c0e748d2d7166cd7a63fcb5c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8884226/orig/313bdfda549168e703d6ae4f7dddcc40.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8884226/orig/d6009261331a4f1a7d6260e8a01d0ae1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8884226/orig/6278bb19aa605b7db0737a934fc7e3a4.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8884226/orig/e3fd2c055d2574125e85a50662516b3f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8884226/orig/3e30ee8a293ebcdc2db38dc7262d110e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8884226/orig/2d2ceb992f9f9a673c5d88734af34721.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8884226/orig/ce80d8558f01446c83fac1dcac481545.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8884226/orig/b9e917ee8a994fff9a32f367e4586168.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8884226/orig/c605fa5b39ab523df9c41e482aaae67d.jpg</picture>
-        <description>2020 г., бензин, 3.0 л, 435 л.с., автоматическая, полный привод, пробег 91 443 км, white</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>E-Класс AMG</model>
-        <param name="Год выпуска">2020</param>
-        <param name="Пробег">91443 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">435 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Седан</param>
-        <param name="Цвет">white</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">53 AMG 3.0 AT (435 л.с.) 4WD</param>
       </offer>
       <offer id="LVGBECEK3TG119479" available="true">
         <name>Toyota Camry IX (XV80) China Market, 2026</name>
@@ -1166,37 +1104,6 @@
         <param name="Цвет">white</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">35 AMG 2.0 AMT (306 л.с.) 4WD</param>
-      </offer>
-      <offer id="WBS61AY090FS66155" available="true">
-        <name>BMW M3 VI (G80), 2024</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=M3</url>
-        <price>15300000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8230207/orig/77c1c5a196929b8ad54d3e8b40e2f6b7.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8230207/orig/70930cdeaff44fff0afa69c4659d1dbe.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8230207/orig/8a9720d6f8b57edc0958e71687f2e8ec.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8230207/orig/054051c1b04157bae2f62631fe833d16.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8230207/orig/976fdff34682ae25d02f32edb66e86b9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8230207/orig/28acd94ced26f2d151c236efd2133045.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8230207/orig/0348c165b7be34a2d76161280e546858.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8230207/orig/039bc496289b5f1e262d37e53bb9b1d5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8230207/orig/7e8d61cad04a87b86ccb4844d05cfcca.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8230207/orig/f4f2c0f94637986804c838ae82c827ac.jpg</picture>
-        <description>2024 г., бензин, 3.0 л, 550 л.с., автоматическая, полный привод, пробег 10 977 км, green</description>
-        <vendor>BMW</vendor>
-        <model>M3</model>
-        <param name="Год выпуска">2024</param>
-        <param name="Пробег">10977 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">550 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Седан</param>
-        <param name="Цвет">green</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">CS 3.0 AT (550 л.с.) 4WD</param>
       </offer>
       <offer id="WDD2221881A357837" available="true">
         <name>Mercedes-Benz S-Класс AMG III (W222, C217) Рестайлинг, 2017</name>
