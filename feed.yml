@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-28 19:17">
+<yml_catalog date="2026-06-29 10:54">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -1073,37 +1073,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">350h 2.5hyb CVT (250 л.с.) 4WD</param>
-      </offer>
-      <offer id="WDD1771511J143239" available="true">
-        <name>Mercedes-Benz A-Класс AMG II (W177), 2019</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=A-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>2900000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>6</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8261972/orig/05497ad5eb3e56e33b528a355a07c7c0.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8261972/orig/a3592095af45ab080b49f7d7d24b0de0.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8261972/orig/07e5c94e4eccfc3b951947caeedcc0d9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8261972/orig/3a27d508f46236598d2d54e1cfc67251.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8261972/orig/c35d1635776c2760ccccbb78f80604c1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8261972/orig/f71deeb97e0e102f3397a70d163b5c64.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8261972/orig/333a140f378554292e093ad5098a9c3e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8261972/orig/8a4582b242bae3b98d7fe5353a3da4c5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8261972/orig/38f3fd88c6ed6e32909bacf9c5c8249a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8261972/orig/a84f050960a325fdeb175431701fb8cf.jpg</picture>
-        <description>2019 г., бензин, 2.0 л, 306 л.с., роботизированная, полный привод, пробег 104 689 км, white</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>A-Класс AMG</model>
-        <param name="Год выпуска">2019</param>
-        <param name="Пробег">104689 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">2.0 л</param>
-        <param name="Мощность">306 л.с.</param>
-        <param name="Коробка передач">Роботизированная</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Седан</param>
-        <param name="Цвет">white</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">35 AMG 2.0 AMT (306 л.с.) 4WD</param>
       </offer>
       <offer id="WDD2221881A357837" available="true">
         <name>Mercedes-Benz S-Класс AMG III (W222, C217) Рестайлинг, 2017</name>
