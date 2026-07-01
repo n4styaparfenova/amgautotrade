@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-01 09:42">
+<yml_catalog date="2026-07-01 19:52">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -20,68 +20,6 @@
       <category id="9" parentId="1">Zeekr</category>
     </categories>
     <offers>
-      <offer id="WDC2923751A036987" available="true">
-        <name>Mercedes-Benz GLE Coupe AMG I (C292), 2016</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLE%20Coupe%20AMG</url>
-        <price>5199000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>6</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/9213314/orig/e83ac91dc49fae634284be64e17a462d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9213314/orig/72040f9686e8dd116ae0ee2ec15b0405.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9213314/orig/9119ae8717bf57d881072309adb9a094.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9213314/orig/f5a64cfcf06db1809897c62d69767bc9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9213314/orig/4e6651fa87051267d235ce8dcc3db1a6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9213314/orig/6fbe3826826065b6c6021938b6215832.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9213314/orig/2678d5baaf74a8b27ef3815c7b67df2b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9213314/orig/efb5e512e05fc14f42aee5abacd4724c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9213314/orig/d9cf7d3546daae923dfe50cabc1b85c2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9213314/orig/d315770e7ae127f6304a9e54dbdae283.jpg</picture>
-        <description>2016 г., бензин, 5.5 л, 585 л.с., автоматическая, полный привод, пробег 96 374 км, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>GLE Coupe AMG</model>
-        <param name="Год выпуска">2016</param>
-        <param name="Пробег">96374 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">5.5 л</param>
-        <param name="Мощность">585 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">63 AMG S 5.5 AT (585 л.с.) 4WD</param>
-      </offer>
-      <offer id="W1N4633501X350474" available="true">
-        <name>Mercedes-Benz G-Класс III (W463), 2020</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>13990000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>6</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/9206440/orig/e318903751a3e6ae17dbe26ec3150753.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206440/orig/0451d4fb9d2ac7c02b72fd3aaf133bc2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206440/orig/cecd90159c404d85177de628a34a41a1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206440/orig/14163ecc342b8690361029d623e16232.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206440/orig/8509fe0d4a6fee7e30298e6820220a25.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206440/orig/d58d8116ddcf17a8a5c4cd1dd1ce9cd8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206440/orig/3199065e5920c5b65b80f65d7b45b10d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206440/orig/1247fae0ced5812c58eebb7efe6745e2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206440/orig/c0558877414dc3deda08f47e2296ee06.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206440/orig/40405b2cc70c1eea53f7ebda84f76ac2.jpg</picture>
-        <description>2020 г., дизель, 2.9 л, 330 л.с., автоматическая, полный привод, пробег 125 110 км, green</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>G-Класс</model>
-        <param name="Год выпуска">2020</param>
-        <param name="Пробег">125110 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">2.9 л</param>
-        <param name="Мощность">330 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">green</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">400 d 2.9d AT (330 л.с.) 4WD</param>
-      </offer>
       <offer id="W1NFB6BB3RB192000" available="true">
         <name>Mercedes-Benz GLE AMG II (V167) Рестайлинг, 2024</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLE%20AMG</url>
@@ -329,37 +267,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">2.0 CVT (171 л.с.) 4WD</param>
-      </offer>
-      <offer id="WDD2229861A478796" available="true">
-        <name>Mercedes-Benz Maybach S-Класс I (X222) Рестайлинг, 2019</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=Maybach%20S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
-        <price>6250000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>6</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8958586/orig/f687c1edfebd082ad5559776dbadd029.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8958586/orig/05d8dca761f53bb3232d0df6b16a68cb.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8958586/orig/b88633e150e70d91a002d059098c1d94.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8958586/orig/4ad852495ad81781493156372be14fe8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8958586/orig/e8c1c186f1fee40fbadf7980a76b8774.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8958586/orig/7977d829fb73705406286c2dd5611010.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8958586/orig/bbfbf9eb009bec58b2b7381c813461b6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8958586/orig/629b912fe9355ed177d2515fa40a0197.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8958586/orig/47989a9c2184e291c4e2ed4cb003bda1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8958586/orig/0b9d3c7ac6f0eb2d7e2780342d91b6c3.jpg</picture>
-        <description>2019 г., бензин, 4.0 л, 469 л.с., автоматическая, полный привод, пробег 87 369 км, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>Maybach S-Класс</model>
-        <param name="Год выпуска">2019</param>
-        <param name="Пробег">87369 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">4.0 л</param>
-        <param name="Мощность">469 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Седан</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">560 4.0 AT (469 л.с.) 4WD</param>
       </offer>
       <offer id="LFV3B2GM4T3307663" available="true">
         <name>Audi Q5 II (FY) Рестайлинг, 2026</name>
