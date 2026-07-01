@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-30 19:53">
+<yml_catalog date="2026-07-01 09:42">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -81,37 +81,6 @@
         <param name="Цвет">green</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">400 d 2.9d AT (330 л.с.) 4WD</param>
-      </offer>
-      <offer id="WP1ZZZ9Y7PDA46341" available="true">
-        <name>Porsche Cayenne III, 2022</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Porsche&amp;model=Cayenne</url>
-        <price>19900000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/9206345/orig/747a6c341db6891ed15422870b9c8352.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206345/orig/30b32df11bc24bdf1df0829c807dd469.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206345/orig/d85e25b4cd8a564f0d034b047ba5ccb6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206345/orig/6935baa7fcc52a3d3828c0bd37a0a7f9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206345/orig/92941b84fabaa8c30c94de44f7eb2f5a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206345/orig/fee0b897873c28dd8485e33909049163.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206345/orig/2223995ad1fc0d06fe842af737f06312.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206345/orig/e447e514c2412d688b3f7629f6f5df37.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206345/orig/a8b4a7d9b78f796722f89043e3740c97.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/9206345/orig/ddf240377cdd717fca8f2e49ce045cd3.jpg</picture>
-        <description>2022 г., бензин, 4.0 л, 640 л.с., автоматическая, полный привод, пробег 12 755 км, black</description>
-        <vendor>Porsche</vendor>
-        <model>Cayenne</model>
-        <param name="Год выпуска">2022</param>
-        <param name="Пробег">12755 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">4.0 л</param>
-        <param name="Мощность">640 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">Turbo GT Coupé 4.0 AT (640 л.с.) 4WD</param>
       </offer>
       <offer id="W1NFB6BB3RB192000" available="true">
         <name>Mercedes-Benz GLE AMG II (V167) Рестайлинг, 2024</name>
@@ -764,37 +733,6 @@
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">4 Executive 3.0 AMT (330 л.с.) 4WD</param>
       </offer>
-      <offer id="WDD2173881A033449" available="true">
-        <name>Mercedes-Benz S-Класс AMG III (W222, C217) Рестайлинг, 2018</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=S-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
-        <price>12690000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>6</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8818751/orig/881ed0ec5e4f47128e30d2b563030ffa.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8818751/orig/57f65d56e2a9113171331da10a30f055.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8818751/orig/0d2e797f11b9a6ca89ebd94048636dbf.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8818751/orig/902c3429a1714fea238729468c008d81.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8818751/orig/997f7fcf3f245bc0149630550b8fe8c9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8818751/orig/be13d0f94e5543ebde8dcc28920f4c23.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8818751/orig/7913e25f99d0461d3d2454d8f3617d5f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8818751/orig/143471de6ad3b50a955e3c1243b55712.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8818751/orig/07c693dd148cd21e06771a7714944735.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8818751/orig/76a41f8ecc5ca6148cfeff621a044ea5.jpg</picture>
-        <description>2018 г., бензин, 4.0 л, 612 л.с., автоматическая, полный привод, пробег 53 349 км, grey</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>S-Класс AMG</model>
-        <param name="Год выпуска">2018</param>
-        <param name="Пробег">53349 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">4.0 л</param>
-        <param name="Мощность">612 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Купе</param>
-        <param name="Цвет">grey</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">63 AMG 4.0 AT (612 л.с.) 4WD</param>
-      </offer>
       <offer id="W1NWH5AB7TX081776" available="true">
         <name>Mercedes-Benz G-Класс AMG II (W465) Рестайлинг, 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=G-%D0%9A%D0%BB%D0%B0%D1%81%D1%81%20AMG</url>
@@ -857,68 +795,6 @@
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">3.5 AT (275 л.с.)</param>
       </offer>
-      <offer id="SALGA2FF6EA164138" available="true">
-        <name>Land Rover Range Rover IV, 2014</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Land%20Rover&amp;model=Range%20Rover</url>
-        <price>4690000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>4</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8701341/orig/2294322b0c575498a90e7ef7cb7bd44e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8701341/orig/cb23ee2a3d95d61b9ffca7e718c38945.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8701341/orig/38e757ae5afaf7a6209087d59217b11f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8701341/orig/1717ce801f4aa28cc2f05bc9b8ae78f0.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8701341/orig/37e468860e125f6787172425eb04daf4.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8701341/orig/81874a36dc2f6fc35c8b464f576e7422.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8701341/orig/1b89d7fb004af239da343903ce56ff0e.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8701341/orig/ccca53165ee426e8b3a2e209f8e99f5a.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8701341/orig/1bfab952a032e866301a4626f1ce77c7.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8701341/orig/919f57d87ba5b2b0c5b9155cfe76e8a4.jpg</picture>
-        <description>2014 г., дизель, 3.0 л, 248 л.с., автоматическая, полный привод, пробег 60 789 км, black</description>
-        <vendor>Land Rover</vendor>
-        <model>Range Rover</model>
-        <param name="Год выпуска">2014</param>
-        <param name="Пробег">60789 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">248 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">3.0d AT (248 л.с.) 4WD</param>
-      </offer>
-      <offer id="5YM23CS08P9S29229" available="true">
-        <name>BMW XM, 2023</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=XM</url>
-        <price>16490000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8698237/orig/50ec0fcb604a8fdbe9a5926df647accd.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8698237/orig/4a0efb6f70a17b177ea29a304293b4a4.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8698237/orig/5a463ba91ab30151113d78e4b27246fa.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8698237/orig/112821f2d8e85c1dbe63d81faff0db88.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8698237/orig/a92c03c7ceb0f2fbe48ae0334ebdffb9.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8698237/orig/0a1ae1e05bddb2c1aaffbecdbefc8458.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8698237/orig/dca9beed727fa7fc5ac4e688a6aa273f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8698237/orig/4ed0866fc739bf8e55a087d8931f1c47.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8698237/orig/d2e7114df5d1adaf9cd70004e8b6a1e8.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8698237/orig/28abc2cf8a714d1bdf4bfa2abf9466fc.jpg</picture>
-        <description>2023 г., гибрид, 4.4 л, 653 л.с., автоматическая, полный привод, пробег 21 355 км, black</description>
-        <vendor>BMW</vendor>
-        <model>XM</model>
-        <param name="Год выпуска">2023</param>
-        <param name="Пробег">21355 км</param>
-        <param name="Двигатель">Гибрид</param>
-        <param name="Объём двигателя">4.4 л</param>
-        <param name="Мощность">653 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">4.4hyb AT (653 л.с.) 4WD</param>
-      </offer>
       <offer id="W1V44781514607340" available="true">
         <name>Mercedes-Benz V-Класс III (W447) Рестайлинг 2, 2026</name>
         <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=V-%D0%9A%D0%BB%D0%B0%D1%81%D1%81</url>
@@ -949,99 +825,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">Новые</param>
         <param name="Модификация">300 d экстра длинный 2.0d AT (237 л.с.) 4WD</param>
-      </offer>
-      <offer id="SALWA2BK4KA868543" available="true">
-        <name>Land Rover Range Rover Sport II Рестайлинг, 2019</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Land%20Rover&amp;model=Range%20Rover%20Sport</url>
-        <price>7499000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>4</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8631734/orig/abe7335e9f35cf91fcb7077ba1a77ad3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8631734/orig/6f8e03b8cb6e90466173eb4bd6096edf.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8631734/orig/1280c42a4652c4dc3c032064a14ab4ad.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8631734/orig/cfa5f87123f49f08e2f90565b27c9aa2.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8631734/orig/0b2b5cc74a386911fe23302351e86aaf.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8631734/orig/babf9888cfb1faf6233c6f29e4a42778.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8631734/orig/c0a77c2fea6a7652d587f893b262000f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8631734/orig/091304ff32d8fd4fa7126edc23332f8b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8631734/orig/cafaf72fb122394ae09df23f6536e0fa.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8631734/orig/bd85bb09bdda427d793f4f90aedfdd71.jpg</picture>
-        <description>2019 г., дизель, 3.0 л, 249 л.с., автоматическая, полный привод, пробег 41 307 км, black</description>
-        <vendor>Land Rover</vendor>
-        <model>Range Rover Sport</model>
-        <param name="Год выпуска">2019</param>
-        <param name="Пробег">41307 км</param>
-        <param name="Двигатель">Дизель</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">249 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">3.0d AT (249 л.с.) 4WD</param>
-      </offer>
-      <offer id="WP0AD2996MS257163" available="true">
-        <name>Porsche 911 VIII (992), 2020</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Porsche&amp;model=911</url>
-        <price>19150000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>7</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8629578/orig/4e4aebec3a4b04a5f2728497ec6c362b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629578/orig/a60b457c344e103af698865a891091e1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629578/orig/f4470566b01ff9ccb071f02f5cf306f6.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629578/orig/df96bf6bb5cfb76c9bdb32615a021d07.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629578/orig/1ae699190c911d1bc6cade1263898842.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629578/orig/d397fd0603163e406d853ae60a714b3d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629578/orig/257958d30b39d137e3998f81b071fe4d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629578/orig/15d505761c06918df488210a37201e5c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629578/orig/d580b16555a65e42566034d6052a622b.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8629578/orig/7d5e2c6d745a101946d47a48b8e5a017.jpg</picture>
-        <description>2020 г., бензин, 3.7 л, 650 л.с., роботизированная, полный привод, пробег 28 647 км, blue</description>
-        <vendor>Porsche</vendor>
-        <model>911</model>
-        <param name="Год выпуска">2020</param>
-        <param name="Пробег">28647 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">3.7 л</param>
-        <param name="Мощность">650 л.с.</param>
-        <param name="Коробка передач">Роботизированная</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Купе</param>
-        <param name="Цвет">blue</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">Turbo S 3.8 AMT (650 л.с.) 4WD</param>
-      </offer>
-      <offer id="WBS81CH0X0CF38110" available="true">
-        <name>BMW M5 VI (F90) Рестайлинг, 2020</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=M5</url>
-        <price>8990000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/6404098f5a020b06c489651dc4b842a3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/b1862b31d9157eee3dd34c18a3f10a41.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/03f18721eb92b8cf1c117d83369c2f4c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/4c027923c8f99a29026358a73840d6c4.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/16e9d97f18d6d7d68ba1ee336bf6e760.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/4d51918b4b28dcf5609fd4f0ac4f9e73.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/463d13c212245525773d1a07cc3d1421.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/030939aa0db7ea542a3a2982ae4434c1.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/97673a025cecd567d1fa7f296c6c45a3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8602114/orig/a19f1458697f50bf108727f7f5ecd340.jpg</picture>
-        <description>2020 г., бензин, 4.4 л, 625 л.с., автоматическая, полный привод, пробег 96 891 км, grey</description>
-        <vendor>BMW</vendor>
-        <model>M5</model>
-        <param name="Год выпуска">2020</param>
-        <param name="Пробег">96891 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">4.4 л</param>
-        <param name="Мощность">625 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Седан</param>
-        <param name="Цвет">grey</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">Competition 4.4 AT (625 л.с.) 4WD</param>
       </offer>
       <offer id="JTHCDAAD7T5009079" available="true">
         <name>Lexus LM II, 2025</name>
@@ -1104,37 +887,6 @@
         <param name="Цвет">black</param>
         <param name="Состояние">С пробегом</param>
         <param name="Модификация">63 AMG Long 4.0 AT (612 л.с.) 4WD</param>
-      </offer>
-      <offer id="WDC1660561A790488" available="true">
-        <name>Mercedes-Benz GLE I (W166), 2016</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Mercedes-Benz&amp;model=GLE</url>
-        <price>2600000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>6</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/8159423/orig/7840cbe718169ad6ea47b2affbb779d3.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8159423/orig/4cb7f25f4733381e4dbb3d86a969496c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8159423/orig/b4333d2b78b663c3a2aa22270d70a488.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8159423/orig/5a81222005af9b1248f3c168eb0c9744.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8159423/orig/c2ca7ec68878450ce1cd617b394648f7.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8159423/orig/fd5cb784288aa96a7bdabc7e1b8ee660.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8159423/orig/602953cefd9a3cbcb4f6f491868115a5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8159423/orig/8402a449e0e57fc9c92535d2723ddd2c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8159423/orig/2999fa3bb1bfb7f1fc52ef794b9e0804.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/8159423/orig/c7ea2666821be70e1eeae1292f17630d.jpg</picture>
-        <description>2016 г., бензин, 3.0 л, 333 л.с., автоматическая, полный привод, пробег 287 995 км, black</description>
-        <vendor>Mercedes-Benz</vendor>
-        <model>GLE</model>
-        <param name="Год выпуска">2016</param>
-        <param name="Пробег">287995 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">333 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Внедорожник</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">400 3.0 AT (333 л.с.) 4WD</param>
       </offer>
       <offer id="W1K2906891A042297" available="true">
         <name>Mercedes-Benz AMG GT I Рестайлинг, 2021</name>
