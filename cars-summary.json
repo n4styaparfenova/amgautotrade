@@ -1,18 +1,12 @@
 {
-  "updated_at": "2026-07-01T19:52:10.077Z",
-  "total_cars": 29,
+  "updated_at": "2026-07-02T08:53:46.963Z",
+  "total_cars": 2,
   "brands": [
-    "Audi",
     "BMW",
-    "Land Rover",
-    "Lexus",
-    "Mercedes-Benz",
-    "Porsche",
-    "Toyota",
-    "Zeekr"
+    "Porsche"
   ],
   "price_range": {
-    "min": 3499000,
-    "max": 32990000
+    "min": 12419000,
+    "max": 17990000
   }
 }
