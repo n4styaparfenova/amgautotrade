@@ -1,12 +1,9 @@
 {
-  "updated_at": "2026-07-09T09:35:50.618Z",
-  "total_cars": 2,
-  "brands": [
-    "BMW",
-    "Porsche"
-  ],
+  "updated_at": "2026-07-09T19:43:09.876Z",
+  "total_cars": 0,
+  "brands": [],
   "price_range": {
-    "min": 12419000,
-    "max": 17990000
+    "min": null,
+    "max": null
   }
 }

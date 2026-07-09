@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-09 09:35">
+<yml_catalog date="2026-07-09 19:43">
   <shop>
     <name>AMG Auto Trade</name>
     <company>ООО «АМГ АВТО-ТРЕЙД»</company>
@@ -10,72 +10,8 @@
     </currencies>
     <categories>
       <category id="1">Автомобили</category>
-      <category id="2" parentId="1">BMW</category>
-      <category id="3" parentId="1">Porsche</category>
     </categories>
     <offers>
-      <offer id="WBS41AY0XRFR27504" available="true">
-        <name>BMW M3 VI (G80), 2023</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=BMW&amp;model=M3</url>
-        <price>12419000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/7614129/orig/c22f2603134cd9eeee3235fe0444dcf0.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7614129/orig/c17df5d930b1a39b9441477167ff588f.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7614129/orig/9c3b6870dad88523af06fa240c0753c5.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7614129/orig/6efeef07235cb8992b017ebc737bb193.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7614129/orig/b158c53d86961d0b0f6db67a628b8541.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7614129/orig/831bbbb79d4eba18b75133f843124e40.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7614129/orig/19174195e183d9a15d544501c2fa324d.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7614129/orig/d70650caa0aef80559dc6eeb4cc99136.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7614129/orig/8f08fbc719c0c202731d54fae9ceb324.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7614129/orig/a6c4267cbd6fb24406d7b689c2370df4.jpg</picture>
-        <description>2023 г., бензин, 3.0 л, 510 л.с., автоматическая, полный привод, пробег 13 293 км, black</description>
-        <vendor>BMW</vendor>
-        <model>M3</model>
-        <param name="Год выпуска">2023</param>
-        <param name="Пробег">13293 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">510 л.с.</param>
-        <param name="Коробка передач">Автоматическая</param>
-        <param name="Привод">Полный</param>
-        <param name="Кузов">Седан</param>
-        <param name="Цвет">black</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">Competition Package 3.0 AT (510 л.с.) 4WD</param>
-      </offer>
-      <offer id="WP0ZZZ99ZRS212447" available="true">
-        <name>Porsche 911 VIII (992), 2023</name>
-        <url>https://amgautotrade.ru/catalog.html?brand=Porsche&amp;model=911</url>
-        <price>17990000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://img.maxposter.ru/photo/11973/7614072/orig/c646bfbe8d67cac72e95c48b2e3387ab.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7614072/orig/4270a4903a23f157dd4914c58af3dbf4.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7614072/orig/4f649113b6d4199cef7872bbd9b9f775.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7614072/orig/6f16b45378c36a036e5bb1cce46a4075.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7614072/orig/f1788ad04b9ea66bb2aed45cbc2e2b33.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7614072/orig/5991564c22d9868298176ffd85d38497.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7614072/orig/552596a5264f04e4b7fb16a2c324fa44.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7614072/orig/78f95af64fd088fa456089b2ea661a4c.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7614072/orig/205be96e95f8bb02c924c07600216f28.jpg</picture>
-        <picture>https://img.maxposter.ru/photo/11973/7614072/orig/be9bafb579f6b478129548a1884ab6a0.jpg</picture>
-        <description>2023 г., бензин, 3.0 л, 450 л.с., роботизированная, задний привод, пробег 403 км, yellow</description>
-        <vendor>Porsche</vendor>
-        <model>911</model>
-        <param name="Год выпуска">2023</param>
-        <param name="Пробег">403 км</param>
-        <param name="Двигатель">Бензин</param>
-        <param name="Объём двигателя">3.0 л</param>
-        <param name="Мощность">450 л.с.</param>
-        <param name="Коробка передач">Роботизированная</param>
-        <param name="Привод">Задний</param>
-        <param name="Кузов">Купе</param>
-        <param name="Цвет">yellow</param>
-        <param name="Состояние">С пробегом</param>
-        <param name="Модификация">Carrera S 3.0 AMT (450 л.с.)</param>
-      </offer>
     </offers>
   </shop>
 </yml_catalog>
